@@ -1,9 +1,0 @@
-
-
-*そこの鈴奈庵には本が沢山置いてあるけど湖の館にはもっと沢山の本があるらしい。\b
-Although Suzunaan had already stored a lot
-of books, the Mansion of Lake surely had a 
-larger collection.\b
-*そんなに本を集めて読みきれるんだろうか？
-\cI doubt if they ever finished reading 
-all these books they gathered.

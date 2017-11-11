@@ -1,9 +1,0 @@
-*ミスティア
-Mystia
-61_01
-*何よ！じっと見て！\b
-St-Stop looking at me like that!\b
-\x02
-*焼いて食べようなんて考えてないわよね？
-You weren't thinking about cooking me, were
-you?

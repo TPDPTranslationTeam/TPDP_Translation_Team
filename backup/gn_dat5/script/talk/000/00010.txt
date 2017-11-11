@@ -1,6 +1,0 @@
-
-
-*\t人形が 仲間になった！\b
-*\c\tにニックネームを付けますか？
-Puppet \t has become your friend!
-\cWould you give \t a nickname?

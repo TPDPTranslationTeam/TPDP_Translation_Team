@@ -1,9 +1,0 @@
-
-
-*「幻想人形演舞」のクリアデータが存在しません。\b
-Cannot locate previous full clear data.\b
-*クリアデータを引き継がずにゲームを開始します。\b
-Start the game without inheritance.\b
-*\c引き継ぎを行いたい場合は一旦ゲームを終了し マニュアルをお読みください。
-\cIf you wish to inherit your previous data,
-turn off the game and read the manual.\b

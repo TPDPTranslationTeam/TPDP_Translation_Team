@@ -1,9 +1,0 @@
-*エリス
-Elis
-5
-*あれ？こんなところに珍しいね。\b
-Huh. It's kinda new to see you here.\b
-*もしかして迷子さんかな？\b
-Are you getting lost?\b
-*あらら お人形さんはお疲れみたいだね。
-Aww. You Puppet looks so weary.\b

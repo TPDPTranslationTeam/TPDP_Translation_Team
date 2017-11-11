@@ -1,6 +1,0 @@
-Examine the Puppets in your party.
-Examine the items in your bag.
-Check \p's information.
-Look at the Puppet book.
-Record your progress and save the game.
-Change the game's settings.

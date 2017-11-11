@@ -1,3 +1,0 @@
-What is your name?
-What is \t's nickname?
-What is the box's name?

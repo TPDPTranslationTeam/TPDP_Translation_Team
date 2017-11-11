@@ -1,8 +1,0 @@
-
-
-*『現在留守にしております ごゆっくりおくつろぎください』\b
-It says, "I'm currently absent.\b
-*と書かれている。\b
-Please make yourself at home."\b
-*\c休んでいきますか？
-\cWould like to take a rest?

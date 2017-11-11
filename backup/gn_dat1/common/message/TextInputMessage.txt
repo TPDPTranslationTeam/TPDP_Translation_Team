@@ -1,4 +1,0 @@
-Please press [Enter] to input a player name of 10 characters or less.\n\\ and % are not allowed.
-Please press [Enter] to input a Puppet\nnickname of 10 characters or less.\n\\ and % are not allowed.
-Please press [Enter] to input a box name of 10 characters or less.\n\\ and % are not allowed.
-There was an error.\nEither the name was too long, it was too\nshort, or it had an unusable character.

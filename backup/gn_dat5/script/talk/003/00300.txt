@@ -1,8 +1,0 @@
-
-
-*お。ここに興味があるのか？\b
-*ということは 東方Projectって知ってるよな！\b
-*\c一番のお気に入りキャラを教えてくれよ！
-Hey. Are you interested in these stuff?\b
-Yes? Then you must be a Touhou fan!\b
-\cWho is your favourate touhou character?

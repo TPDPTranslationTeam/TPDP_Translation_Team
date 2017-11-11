@@ -1,9 +1,0 @@
-*ルーミア
-37_04
-*そうだ！\bひとまず報告だ！\b
-Oh!\b "Report first!"\b
-\x01
-*今日のところは これくらいにしておいてやる！\b
-Consider yourself lucky on this one!\b
-*覚えてろー！
-I'm leaving!

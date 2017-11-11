@@ -1,6 +1,0 @@
-
-
-*あれ？違ったか。\b
-*じゃあ 誰がお気に入りなんだ？
-Uh... No?\b
-Who is your favorite then?
