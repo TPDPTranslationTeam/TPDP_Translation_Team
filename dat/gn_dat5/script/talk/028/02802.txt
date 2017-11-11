@@ -1,0 +1,12 @@
+*リグル
+Wriggle
+60_04
+*わっ もう来たのか！\b
+Argh, they are already here!\b
+*\oルーミア
+\oRumia
+\s37_01
+*こうなったら仕方がない！
+If that's the case...
+*ここはチルノに任せて わたし達は逃げるよ！
+Let's just ditch Cirno here and run!

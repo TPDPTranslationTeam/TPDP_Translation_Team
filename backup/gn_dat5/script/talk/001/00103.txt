@@ -1,0 +1,15 @@
+Yukari
+955_03
+*\pさん。ふふ いい名前ね。\b
+\p. Such a pretty name.
+\x01
+*・・・そんなことを訊いて どうするのかって？\b
+Why would I ask those basic stuff, you say?\b
+\x00
+*備えあれば憂いなし とよく言うでしょう？\b
+Well, it doesn't hurt to ask, does it?\b
+\x03
+*これは あなたを示す大事なモノですもの。\b
+*しっかりと管理しなくては ね？
+This is what defines you.\b
+Keep it safe, alright?

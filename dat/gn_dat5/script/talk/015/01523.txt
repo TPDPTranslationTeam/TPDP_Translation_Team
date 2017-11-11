@@ -1,0 +1,8 @@
+*鈴仙
+Reisen
+64
+*必要になったらまた声かけてください。\b
+Feel free to ask if you need anything.\b
+*あ 人形の体力を回復なら ベットを使っていいですよ。
+By the way, you can heal your Puppets by
+using Bed.

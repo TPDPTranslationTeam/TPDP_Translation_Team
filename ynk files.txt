@@ -1,0 +1,143 @@
+dat/gn_dat1
+	/Battle
+		/mainGr:
+			* chiso1.png
+			* chiso2.png
+			* chiso3.png
+			* chiso4.png
+			* chiso5.png
+			* command.png
+			* escCommand.png
+			* kisyo1.png
+			* kisyo2.png
+			* kisyo3.png
+			* kisyo4.png
+			* kisyo5.png
+			* skillBase.png
+	/common
+		/graphic:
+			* disease.png
+			* elements.png
+		/message:
+			* ConfigMessage.txt
+			* DollSealMapMessage.txt
+			* PauseMessage.txt
+			* SexSelectMessage.txt
+			* TextInputCaption.txt
+			* TextInputCheckMessage.txt
+			* TextInputMessage.txt
+	/config:
+		* keyBack.png
+		* mainBack.png
+	/load:
+		* nowLoadingMessage.png
+		* nowLoadingStr.png
+	/network:
+		* matchCodeBase.png (Untranslated)
+		* menuBase.png (Untranslated)
+		* menuCommand.png
+		* okCommand.png
+		* return.png
+		* settingBack.png
+	/pause:
+		* close.png
+		* end.png
+		* menu.png
+	/profile:
+		* back.png
+		* base.png
+	/title:
+		* menu.png
+		* menu2.png
+		* yumenokakera.png
+
+dat/gn_dat2
+	* opening.ogv (untranslated)
+
+dat/gn_dat5
+	/graph:
+		* 0004.png
+		* 0005.png
+		* 0006.png
+		* 0007.png
+		* 0008.png
+		* 0009.png
+	/map
+		/data:
+			* All the folders contain 3 files. the ***.mad files contain stuff relevant for translation of map names. (Untranslated)
+		/town:
+			* change.png
+			* MapToTownMap.csv (Untranslated)
+			* townMapData0.csv (Untranslated)
+			* townMapData1.csv (Untranslated)
+			* townMapData2.csv (Untranslated)
+			* townMapData3.csv (Untranslated)
+	/name:
+		* DollName.csv (Temporarily requires Reimu's name to be untranslated due to Anti-Piracy)
+		* DollNameO.csv
+		* MapName.csv
+		* StandName.csv (Only part of the file needs translation, and it's translated)
+	/script
+		/dollOperator:
+			* Contains the Trainer files. (Untranslated)
+		/talk:
+			* Contains the entire game's dialogue. (Untranslated)
+			
+dat/gn_dat6
+	/doll:
+		* AbilityData.csv
+		* DollCaption.csv
+		* SkillData.csv
+		* SkillData.sbs
+	/dollImage
+		/book:
+			* base1.png
+		/box:
+			* back1.png
+			* back2.png
+			* commandMenu.png
+			* commandMenu2.png
+		/menu:
+			* command.png
+		/reincarnation:
+			* header.png
+			* menu.png
+			* menu2.png
+			* return.png
+			* seal.png
+			* setCsr.png
+			* status.png
+			* tenseiMenu.png
+			* tenseiMenu2.png
+			* yNCsr.png
+		/reinforce:
+			* ablBase.png
+			* header.png
+			* menuBase.png
+			* menuCommand.png
+			* return.png
+			* skill1Base.png
+			* skill1BaseMask.png
+			* skill1Info.png
+			* skill2Info.png
+			* skill2InfoHead.png
+			* statusBase.png
+			* statusMenu.png
+			* styleStatusBase.png
+			* yNCsr.png
+		/status:
+			* seal.png
+			* shift.png (Untranslated)
+			* skillBase.png
+			* statusBack.png
+			* statusBase1.png
+			* statusBase2.png
+		/visual:
+			* back2.png
+	/item:
+		* buyBase.png
+		* command.png
+		* genreMenu.png
+		* itemBase.png
+		* itemData.csv
+		* sellBase.png

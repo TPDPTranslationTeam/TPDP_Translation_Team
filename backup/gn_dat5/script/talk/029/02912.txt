@@ -1,0 +1,8 @@
+*ルーミア
+Rumia
+37_05
+*まだ追いかけてくる元気があるのか！\b
+You are still not tired chasing us, eh?\b
+\x01
+*ミスティア！任せたよ！
+Mystia, you're up!

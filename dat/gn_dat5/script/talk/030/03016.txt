@@ -1,0 +1,11 @@
+
+
+*この先は 危険な妖怪が出るんだ。\b
+There are dangerous youkais up ahead.\b
+危ないから 通るのは・・・\b
+I suggest you...\b
+\cなに？\b 稗田の当主の許可を得た？\b
+What? You got permission from the head of
+Hieda?\b
+・・・ならば 通ってよし！
+...Go ahead then!

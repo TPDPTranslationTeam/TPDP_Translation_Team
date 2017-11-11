@@ -1,0 +1,17 @@
+*早苗
+85_03
+*これは 人形を仲間にしたとき 持ちきれなくなった人形を入れておくための箱です。\b
+Newly joined Puppets that exceed your
+party limit would be put in this box.\b
+\x06
+*落ち着ける場所なら 箱を開いて手持ちと入れ替えることもできるんですよ。\b
+You may open it and switch Puppets between
+box and your active party in some safe 
+area\b
+\x00
+*箱を開ける場所は 目印にあきゅう人形があるはずですから ぜひ活用してください！\b
+The area where you can open the box is
+marked by Akyuu Puppet. Use it wisely!
+\x03
+*それでは がんばってくださいね！
+That's all I got. Good luck on your trip!

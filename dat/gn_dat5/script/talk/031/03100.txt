@@ -1,0 +1,18 @@
+*阿求
+Akyuu
+76_02
+*はぁはぁ・・・\b
+haa... haa...\b
+*ここにいらっしゃったのですね。\b
+Finally find you here.
+*\c解放戦線が里に出没したと聞いてやってきたのですが・・・\b
+I just got confirmation that Liberation
+Front were hiding in the Village...
+\x04
+*まさか\pさんが倒されたのですか？\b
+Oh, my. Had you already kicked them out?\b
+\x03
+*すごいじゃないですか！！\b
+Impressive!\b
+*思った通り あなたは人形遣いの才をお持ちなのですね。
+You are indeed a talented Puppeteer.

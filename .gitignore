@@ -1,0 +1,8 @@
+utilities/TPDP Patch/*.exe
+utilities/TPDP Patch/dat
+utilities/ExeStringTranslation/*.exe
+utilities/ExeStringTranslation/Log.txt
+utilities/ExeStringTranslation/save
+utilities/ExeStringTranslation/tpdp_log.txt
+utilities/ExeStringTranslation/tpdp_log_*.txt
+utf8exports

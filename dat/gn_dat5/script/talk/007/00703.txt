@@ -1,0 +1,13 @@
+*魔理沙
+Marisa
+02_06
+*うーん。よくわからんな。\b
+Hmm. No idea what's this about.
+\x02
+*まぁ わからないことをグダグダと考えていてもしょうがない。\b
+Welp, time to move on I guess. No help
+standing here thinking anyway.
+\x00
+*とりあえず博麗神社で色々と教えてやるから私についてきな！
+Let's head our way to Hakurei Shrine and
+see if they know anything about you!

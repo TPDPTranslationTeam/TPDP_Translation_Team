@@ -1,0 +1,10 @@
+*リグル
+Wriggle
+60
+*おぉっと！わたしの出番だね。\b
+Looks like it's my turn.\b
+\x01
+*おまえの人形も解放してやる！\b
+I'll liberation your Puppets as well!\b
+*嫌なら抵抗してみなさい！
+Fight if you are not releasing them!

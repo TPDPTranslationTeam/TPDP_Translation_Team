@@ -1,0 +1,12 @@
+*魔理沙
+Marisa
+02_04
+*おっと！今はそんなこと話してる場合じゃないみたいだな。\b
+Welp. We can do the lecturing later.
+\x07
+*習うより慣れろだ！\b
+Let's have some field practice first!\b
+\x08
+*私の人形を貸してやるから実際にやってみな！
+Here, take my Puppet and see what you can
+do!

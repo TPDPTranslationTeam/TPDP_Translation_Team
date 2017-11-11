@@ -1,0 +1,15 @@
+*早苗
+Sanae
+85_03
+*聞きましたよ \pさん！
+Hi, \p-san! Some good news for you.
+*異変の解決を始めたそうですね。\b
+We're seriously dealing with the incident
+now.\b
+\x00
+*そのまま続けていれば きっと帰れるようになりますよ。\b
+We should be able to send you home very
+soon if everything goes right.
+\x06
+*ファイトですっ！
+Embrace it!

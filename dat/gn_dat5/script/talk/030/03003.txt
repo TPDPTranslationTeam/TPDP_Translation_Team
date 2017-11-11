@@ -1,0 +1,9 @@
+*ルーミア
+Rumia
+37
+*そうだ！\b
+Oh, by the way!\b
+*\c体験版は これくらいにしておいてやる！\b
+\cThat's all the contents for demo version.\b
+*楽しみにしてろー！
+Have fun!

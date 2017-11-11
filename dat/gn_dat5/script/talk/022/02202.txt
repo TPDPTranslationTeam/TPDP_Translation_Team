@@ -1,0 +1,24 @@
+*魔理沙
+Marisa
+02_05
+*・・・いや。\b
+Welp. You do have some potential.\b
+\x03
+*それなら私がおまえを試してやるぜ。\b
+Let's test this out.\b
+\x07
+*さっきついて来た人形がいるだろ？\b
+Is your little friend still following ya?\b
+*そいつを私の人形と戦わせるんだ。\b
+There she is. It's time for a Puppet duel.\b
+\x00
+*・・・とはいってもおまえは初心者だからな。\b
+Since you're such an amature...\b
+*準備ぐらいはさせてやるよ。\b
+I'll lend you a few minutes just to get
+yourself together.
+\x03
+*準備が整ったら教えてくれ。\b
+Talk to me when you are ready.
+*逃げるのはナシだぜ？
+There is no escape. You hear that?

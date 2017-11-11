@@ -1,0 +1,23 @@
+*早苗
+Sanae
+85_05
+*春頃からでしょうか。\b
+It started from this Spring as I remember.\b
+*各所でいきなり現れ始めたんですが 未だにその原因はわかってません。\b
+They suddenly appeared from nowhere, and
+nobody understands why they were there.\b
+*\cあまりの人形の数に 私たちも対応しきれていない現状です。\b
+\cTheir population grows too fast that I
+alone cannot suppress them anymore.\b
+\x01
+*とりあえず結界を強めて 外の世界には影響が出ないようにしているはずなんですが・・・。\b
+I've been enhancing the Barrier to prevent
+this incident leaking to the outer world.
+\x05
+*\pさんが迷い込んでしまった以上 完全ではなかったようですね。\b
+The fact \p-san got lost here means that 
+the Barrier is far from perfected.
+\x01
+*しかも厄介なことに結界が強いままだと \pさんは元の場所に戻れないはずなんです。
+And \p-san can't possibly return if the 
+Barrier stays at this power level.

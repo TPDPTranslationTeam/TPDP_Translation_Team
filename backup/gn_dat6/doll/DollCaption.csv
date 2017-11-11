@@ -1,0 +1,512 @@
+0,NULL,Puppet Description
+1,Reimu,Puppet with the power of Reimu Hakurei. Has the ability to fly and use spirit power. Strong against youkai Puppets. Will punch youkai Puppets when it sees them.
+2,Marisa,Puppet with the power of Marisa Kirisame. Has the ability to use magic. Will carry off people's stuff and take it to its home. Shoots magic at opponents it hates.
+3,Shingyoku,Puppet with the power of Shingyoku. If it finds agate, it will protect it at all costs. It first exhibited power when the man, woman, and yin-yang orb came together.
+4,Magan,Puppet with the power of Yuugenmagan. Fires various danmaku from its large eyes. They're often found wandering around the gate to Makai.
+5,Elis,Puppet with the power of Elis. Fires demonic magic from its stick. If controlling bat puppets, it can transform into a bat puppet itself.
+6,Sariel,Puppet with the power of Sariel. Often exercises its power as an angel of death within Makai. The Puppet itself doesn't really know what its goal is or why it takes these actions.
+7,Mima,Puppet with the power of Mima. Aims for the yin- yang orb that Reimu Puppets carry. It has no legs and floats around like a ghost, but it apparently can create legs if it wants to.
+8,Kikuri,Puppet with the power of Kikuri. It pops out of the upper half of its disc-shaped body. Seen often in Hell, but can be found in Gensokyo. It is entrusted with the power of Hell's god.
+9,Konngara,Puppet with the power of Konngara. Has the power of a knight of Hell and fights using a sword. While a Buddhist Puppet, it is easily mistaken as an oni Puppet due to the horn on its forehead.
+10,Rika,Puppet with the power of Rika. Fights with a toy tank. The Puppet itself can make more tanks to fight with too. If you find a small Evil Eye É– Puppet, it will always be found near this Puppet.
+11,Midboss,Story of Eastern Wonderland's Stage 2 Midboss
+12,Meira,Puppet with the power of Meira. Seeks the power of the Hakureis and will challenge Reimu Puppets to battle. It's cordial to other Puppets though. Often found buried around the Hakurei Shrine.
+13,Midboss,Story of Eastern Wonderland's Stage 4 Midboss
+14,Ellen,Puppet with the power of Ellen. Its airheadedness is its charm point. Plays in a magic shop near the Hakurei Shrine. The cat puppet near her is named Sokrates.
+15,Kotohime,Puppet with the power of Kotohime. Gathers strange things it finds. Goes around apprehending people with toy handcuffs and interrogating them.
+16,Kana,Puppet with the power of Kana Anaberal. Has the power of a poltergeist. Has a counterfeit road sign toy from the outside world. Often seen in a large mansion near the Hakurei Shrine grounds.
+17,Rikako,Puppet with the power of Rikako Asakura. This Puppet hides a great magical power. Trying to destroy something it made with the kappa. It blinks blearily when its glasses break.
+18,Chiyuri,Puppet with the power of Chiyuri Kitashirakawa. It should be smart, but its plans never come together. It's surprisingly thorough and adept at running errands though. Yumemi Puppets hit it.
+19,Yumemi,Puppet with the power of Yumemi Okazaki. Very clever and displays much more knowledge than you'd expect from a Puppet. Has a strong interest in magic things, as well as Puppets that can fly.
+20,Ruukoto,Puppet with the power of Mimi and Ruukoto. Built with and equipped with internal nuclear power. Mimi searches for Marisa Puppets and Ruukoto searches for Reimu Puppets.
+21,Orange,Puppet with the power of Orange. A very ordinary youkai. Not fickle or battle hungry, its danger level is low.
+22,Kurumi,Puppet with the power of Kurumi. It was originally a lake guarding youkai. Perhaps for that reason, if it has something to protect, it burns with a sense of purpose.
+23,Elly,Puppet with the power of Elly. Has a trademark on large scythes. Since it doesn't fight often, it's possible it has yet to show its true power.
+24,Midboss,Lotus Land Story's Stage 4 Midboss
+25,Yuuka,Puppet with the power of Yuuka Kazami. Has the ability to manipulate flowers. Since it's very dangerous when angry, it's best to steer clear. Becomes battle hungry when seeing strong Puppets.
+26,Mugetsu,Puppet with the power of Mugetsu. Won't forgive those that enter its territory. Rumored to show more strength with a Gengetsu Puppet than it would alone.
+27,Gengetsu,Puppet with the power of Gengetsu. It's rumored to show more strength when with a Mugetsu Puppet than it would alone, but those that have fought it claim it's already extremely strong.
+28,Midboss,Mystic Square's Stage 1 Midboss
+29,Sara,Puppet with the power of Sara. Guards the door that connects to Makai. Looks weak for some reason, but loves to fight.
+30,Louise,Puppet with the power of Louise. Has a calm personality, but shows a hostile side when it has no interest in its opponent. Fascinated by things from the human world.
+31,Alice,Puppet with the power of Alice Margatroid. Has the ability to use magic. Chose to use puppet- controlling magic. Apparently likes to collect magic items.
+32,Yuki,Puppet with the power of Yuki. Seems to get along well with Mai Puppets. Will go all out when a Mai Puppet goes down.
+33,Mai,Puppet with the power of Mai. Seems to get along well with Yuki Puppets. Will go all out when a Yuki Puppet goes down.
+34,Midboss,Mystic Square's Stage 5 Midboss
+35,Yumeko,Puppet with the power of Yumeko. Just as it looks, it's a maid that abides by its master's will. Said to be in Makai's strongest class.
+36,Shinki,Puppet with the power of Shinki. Able to bring forth the power of Makai's god. It's unknown if it can successfully command Puppets of Makai residents.
+37,Rumia,Puppet with the power of Rumia. Has the ability to manipulate darkness. Something will happen if you remove the ribbon on its head. It will bite humans it finds, but it doesn't hurt.
+38,Daiyousei,Puppet with the power of Daiyousei. Has more power than other fairy Puppets. Often seen moving with Cirno Puppets. It will teleport away if you get close to it.
+39,Cirno,Puppet with the power of Cirno. Has the ability to manipulate cold. Often playing with clumps of ice it makes. It's a little dumb and easily falls into traps.
+40,Meiling,Puppet with the power of Hong Meiling. Has the ability to use ki. Usually gentle, it displays great power when protecting allied Puppets. Found on roadsides, generally asleep.
+41,Koakuma,Puppet with the power of Koakuma. A little weaker than a normal demon Puppet. Will tidy up rooms its master makes messy. Often seen moving with Patchouli Puppets.
+42,Patchouli,Puppet with the power of Patchouli Knowledge. Has the ability to control fire, water, wood, metal, earth, the sun, and the moon. Not good at exercise, but can use various magics.
+43,Sakuya,Puppet with the power of Sakuya Izayoi. Has the ability to manipulate time. Equipped with silver knives to fight with. Follows along with Remilia Puppets.
+44,Remilia,Puppet with the power of Remilia Scarlet. Has the ability to manipulate fate. Inherited the properties of vampires, but loses them in sunlight. Its favorite food is human blood.
+45,Flandre,Puppet with the power of Flandre Scarlet. Has the ability to destroy anything. Has some hostility toward Remilia Puppets.
+46,Letty,Puppet with the power of Letty Whiterock. Has the ability to manipulate cold. Only appears in cold areas or winter. Gets along well with Cirno Puppets.
+47,Chen,Puppet with the power of Chen. Has the ability to use sorcery. Bad with water at the moment. Moves to various areas seeking Ran Puppets.
+48,Lily,Puppet with the power of Lily White. Has the ability to tell when spring arrives. Travels various places announcing the arrival of spring. Has clothes other than the white costume.
+49,Lyrica,Puppet with the power of Lyrica Prismriver. Has the ability to play illusory sounds. Cheerfully performs with its keyboard. Always with Lunasa and Merlin Puppets.
+50,Merlin,Puppet with the power of Merlin Prismriver. Has the ability to play manic sounds. Fires strong magic from its trumpet. Always with Lunasa and Lyrica Puppets.
+51,Lunasa,Puppet with the power of Lunasa Prismriver. Has the ability to play depressing sounds. Its beloved violin is the source of its power. Always with Merlin and Lyrica Puppets.
+52,Youmu,Puppet with the power of Youmu Konpaku. Has the ability to use a sword. The ghost half of its body floats around this Puppet closely. It acts to protect Yuyuko Puppets.
+53,Yuyuko,Puppet with the power of Yuyuko Saigyouji. Has the ability to manipulate death. It goes wild with this ability when it becomes irritated. It wanders around seeking cherry trees.
+54,Ran,Puppet with the power of Ran Yakumo. Has the ability to use shikigami. Acts to protect Yukari Puppets. Fights alongside various shikigami.
+55,Yukari,Puppet with the power of Yukari Yakumo. Has the ability to manipulate any boundary. Due to this ability, it's not uncommon to meet it in unexpected places. Spends half the day sleeping.
+56,Renko,Puppet with the power of Renko Usami. Has the ability to tell time by looking at the stars and where it's located by looking at the moon. Gets along with Merry Puppets.
+57,Merry,Puppet with the power of Maribel Hearn. Has the ability to see barriers. Merry is its nickname. Gets along with Renko Puppets. It may be related to Yukari somehow.
+58,Rinnosuke,Puppet with the power of Rinnosuke Morichika. Has the ability to know the name and purpose of unknown items. It gathers various items and sells them to the Puppets.
+59,Tokiko,A Puppet that reads books near Kourindou. There's no way it understands the contents, but it still reads anyway. Gets along poorly with Reimu Puppets.
+60,Wriggle,Puppet with the power of Wriggle Nightbug. Has the ability to manipulate insects. Promotes understanding between Gensokyo's insects and plays with them in the forest.
+61,Mystia,Puppet with the power of Mystia Lorelei. Has the ability to captivate people with song. Living things hearing its song will have dimmed vision. Its song is only popular with children though.
+62,Keine,Puppet with the power of Keine Kamishirasawa. Has the ability to both eat (hide) history, as well as create it. Becomes a stronger hakutaku on full moon nights. Moves with Mokou Puppets.
+63,Tewi,Puppet with the power of Tewi. Has the ability to lead humans to happiness. Humans nearby can increase their fortune. No effect on youkai. Wanders the Bamboo Forest of the Lost.
+64,Udonge,Puppet with the power of Reisen Udongein Inaba. Has the ability to manipulate madness. Living things will lose their minds looking into its red eyes. Its ears are also removable.
+65,Eirin,Puppet with the power of Eirin Yagokoro. Has the ability to make any medicine. It gives medicinal herbs to those it finds injured. It's hiding something deep in the Bamboo Forest.
+66,Kaguya,Puppet with the power of Kaguya Houraisan. Has the power to manipulate a moment and eternity. Uses impossible task danmaku to fight. Protected by Eirin Puppets.
+67,Mokou,Puppet with the power of Fujiwara no Mokou. Has the ability to never age or die. Doesn't go easy on youkai that prey on humans. Gets along horribly with Kaguya Puppets.
+68,Suika,Puppet with the power of Suika Ibuki. Has the power to manipulate density and sparseness. Usually drunk around the Hakurei Shrine. Searches for Reimu Puppets.
+69,Sunny,Puppet with the power of Sunny Milk. Has the ability to bend light. Often uses its power to play pranks, but runs gallantly away when caught. Likes being with friends more than being alone.
+70,Luna,Puppet with the power of Luna Child. Has the ability to erase sound. More active during the night than day. Often uses this power when its surroundings are noisy.
+71,Star,Puppet with the power of Star Sapphire. Has the ability to sense the presence of moving things. Is more dignified than other fairies. Unbelievably strong playing "it" during tag.
+72,Medicine,Puppet with the power of Medicine Melancholy. Has the ability to manipulate poison. Always playing in the Suzuran Field. It uses poison on passers-by.
+73,Aya,Puppet with the power of Aya Shameimaru. Has the ability to manipulate wind. Faster than any other Puppet. Searches for scoops and writes them down on the backs of pamphlets.
+74,Komachi,Puppet with the power of Komachi Onozuka. Has the power to manipulate distance. Always works at its own pace no matter what. Uses its ability in the areas around the Sanzu River.
+75,Eiki,Puppet with the power of Eiki Shiki Yamaxanadu. Has the power to absolutely differentiate between black and white. If it finds Puppets doing wrong, it'll preach at them. Hard on Komachi Puppets.
+76,Akyuu,Puppet with the power of Hieda no Akyuu. Has the ability to never forget what it sees once. Records everything it sees in front of it. It can't read what it writes though.
+77,Yorihime,Puppet with the power of Watatsuki no Yorihime. Has the ability to summon the power of the gods. A serious personality with high fighting ability. Has a strict attitude with Gyokuto Puppets.
+78,Toyohime,Puppet with the power of Watatsuki no Toyohime. Has the ability to link the seas and mountains. Has a gentle personality, but high abilities. Likes peaches and chatting.
+79,Gyokuto,Puppet with the power of Gyokuto. Its individual power isn't much, but it's dangerous in numbers. Can communicate with other Gyokuto Puppets over long distances.
+80,Shizuha,Puppet with the power of Shizuha Aki. Has the ability to govern fall colors. Delights in finding fall leaves. Becomes less active as it gets colder.
+81,Minoriko,Puppet with the power of Minoriko Aki. Has the ability to govern good harvests. Its body smells of sweet fruit. Said to affect the speed at which crops grow.
+82,Hina,Puppet with the power of Hina Kagiyama. Has the ability to amass curses. If you've had a bad experience lately, it'll give you advice. It's said good things happen if you see it in a river.
+83,Nitori,Puppet with the power of Nitori Kawashiro. Has the ability to manipulate water. It likes taking apart things that interest it. Because it has all known tools, it makes your journey easier.
+84,Momiji,Puppet with the power of Momiji Inubashiri. Has the ability to see great distances. It listens well and is easy to command. It can also sense danger.
+85,Sanae,Puppet with the power of Sanae Kochiya. Has the ability to cause miracles. Has a diligent personality, but is also rather inflexible. Likes snakes and frogs.
+86,Kanako,Puppet with the power of Kanako Yasaka. Has the ability to create sky. In other words, even as a Puppet, it can affect topography in the area for many meters. Surprisingly friendly.
+87,Suwako,Puppet with the power of Suwako Moriya. Has the ability to create earth. Likes frogs and enjoys playing with them. Normally calm, but gets out of hand when angry. Be careful if it's glowing red.
+88,Iku,Puppet with the power of Iku Nagae. Has the ability to read the weather. Has gentle eyes and a personality to match. Said to be able to understand dragon speech.
+89,Tenshi,Puppet with the power of Tenshi Hinanawi. Has the ability to manipulate earth. It can cause earthquakes and manipulate the ground in a limited area. Bratty and doesn't listen often.
+90,Kisume,Puppet with the power of Kisume. Has the ability to drop will-o'-wisps. It likes confined spaces and is bad at appearing in front of people. If you lose sight of it, watch your head.
+91,Yamame,Puppet with the power of Yamame Kurodani. Has the ability to manipulate disease. There are many mysteries surrounding this manipulated disease. It is bright and bloodthirsty.
+92,Parsee,Puppet with the power of Parsee Mizuhashi. Has the ability to manipulate jealousy. Deeply jealous and easily offended. Be cautious of it while walking about.
+93,Yuugi,Puppet with the power of Yuugi Hoshiguma. Has the ability to wield unexplainable phenomena. Always has sake in its hand, but whether the Puppet drinks is unknown. Likes comparing strength.
+94,Satori,Puppet with the power of Satori Komeiji. Has the ability to read minds. The Puppet can only read wills relayed to it though. Loves animals, so beware wild animals when you're out walking.
+95,Rin,Puppet with the power of Rin Kaenbyou. Has the ability to carry corpses. It collects the bodies of small animals. Said to be able to understand the will of dead bodies and spirits.
+96,Utsuho,Puppet with the power of Utsuho Reiuji. Has the ability to manipulate nuclear fusion. It can't create much energy as a Puppet. It's not good at thinking and often doesn't know what to do.
+97,Koishi,Puppet with the power of Koishi Komeiji. Has the ability to manipulate the subconscious. There are many reports of it appearing and disappearing at random. Often forgotten when it disappears.
+98,Nazrin,Puppet with the power of Nazrin. Has the ability to find lost things. Because it can find lost things, it's useful for forgetful people. It's better at running away than fighting.
+99,Kogasa,Puppet with the power of Kogasa Tatara. Has the ability to surprise humans. Because it likes to surprise people, it appears suddenly. Reports indicate it calms down under open umbrellas.
+100,Ichirin,Puppet with the power of Ichirin Kumoi. Has the ability to use nyuudou. Has an earnest personality and listens to its master well. Seems you can't use Ichirin and Unzan separately.
+101,Murasa,Puppet with the power of Minamitsu Murasa. Has the ability to cause shipwrecks. Loves boats and enjoys just seeing them. However, it's rumored if you ride in one with it, it will capsize.
+102,Shou,Puppet with the power of Shou Toramaru. Has the ability to gather treasure. Usually a level- headed and excellent Puppet. However, it loses things easily. Be careful giving it things.
+103,Hijiri,Puppet with the power of Byakuren Hijiri. Has the ability to use magic. Shows unexpected strength for a Puppet. While the Puppet was once human, it gets along well with youkai.
+104,Nue,Puppet with the power of Nue Houjuu. Has the ability to make its identity unknown. There's no way to tell if the Puppet's form is the original. It's important to accept it despite this.
+105,Hatate,Puppet with the power of Hatate Himekaidou. Has the ability to do spirit photography. Competes with Aya Puppets. It does spirit photography with a mini cell camera, so it doesn't go outside.
+106,Kasen,Puppet with the power of Kasen Ibaraki. Has the ability to guide animals. It likes preaching and goes to places like the village and shrines to do so. Always eating something.
+107,Kyouko,Puppet with the power of Kyouko Kasodani. Has the ability to reflect sound. Will repeat words endlessly. Sings with Mystia Puppets.
+108,Yoshika,Puppet with the power of Yoshika Miyako. Has the ability to eat anything. Its joints won't bend, so it hops around to move. Does callisthenics with Seiga Puppets.
+109,Seiga,Puppet with the power of Seiga Kaku. Has the ability to pass through walls. You could say it's weak to flattery, but it is often deceptive. Good at cheating death.
+110,Tojiko,Puppet with the power of Soga no Tojiko. Has the ability to cause thunder. Floats about like thunder. Often moves with Futo Puppets. Have at it.
+111,Futo,Puppet with the power of Mononobe no Futo. Has the ability to manipulate feng shui. Looks high and low for Miko Puppets. You can see a crack in its dish. Often moves with Tojiko Puppets.
+112,Miko,Puppet with the power of Toyosatomimi no Miko. Has the ability to listen to ten people speak at once. A clever Puppet that can pick out what it wants to hear. Taoism makes it incomparable.
+113,Mamizou,Puppet with the power of Mamizou Futatsuiwa. Has the ability to disguise things. Often disguises things for laughs. It wouldn't say fighting is one of its strong points.
+114,Kosuzu,Puppet with the power of Kosuzu Motoori. Normally has the ability to read unreadable books. Has an unparalleled collection of demon books. Loses sight of everything else when they're concerned.
+115,Kokoro,Puppet with the power of Hata no Kokoro. Has the ability to manipulate emotions. It changes masks to switch emotions. Normally rather emotionless, when the masks are out of balance, it goes wild.
+116,Wakasagi,Puppet with the power of Wakasagihime. Has the ability to power up in water. Likes collecting pretty stones. It will give them to people to show appreciation, as well as sing.
+117,Sekibanki,Puppet with the power of Sekibanki. Has the ability to make its head fly. It's good at surprising people with its flying head, but if it flies too much, it'll crash. Looks like it hurts.
+118,Kagerou,Puppet with the power of Kagerou Imaizumi. Has the ability to transform into a wolf on full moons. Is proud of its beautiful hair and takes good care of it. It gets shaggy on full moons.
+119,Benben,Puppet with the power of Benben Tsukumo. Has the ability to make sound on its own. A biwa tsukumogami, it likes fast, straightforward music. Competes with Yatsuhashi Puppets.
+120,Yatsuhashi,Puppet with the power of Yatsuhashi Tsukumo. Has the ability to make sound on its own. A koto tsukumogami, it enjoys easy listening. Competes with Benben Puppets.
+121,Seija,Puppet with the power of Seija Kijin. Has the power to overturn anything. A troublesome Puppet that lies and says it hates those it likes. Best to act opposite when dealing with this amanojaku.
+122,Sukuna,Puppet with the power of Shinmyoumaru Sukuna. Has the ability to use the Miracle Mallet. The Miracle Mallet can grant wishes, but since it's so small, don't expect much.
+123,Raiko,Puppet with the power of Raiko Horikawa. Has the ability to carry any rhythm. As its spirits rise, thunder will appear as the beat ramps up. Originally a taiko drum, it enjoys being hit.
+124,Sumireko,Puppet with the power of Sumireko Usami. Has the ability to use telekinesis. Has a panda car and a gun. Is not known for gathering with other Puppets due to differences.
+125,Seiran,Puppet with the power of Seiran. Has the ability to fire bullets from other dimensions. Talented in undercover ops. Bad at RPS, thus forced to do chores. Shares mochi with comrades during break.
+126,Ringo,Puppet with the power of Ringo. Has the ability to grow stronger when eating dango. Curious about earthly things. Always eating dango. Often moves with Seiran puppets.
+127,Doremy,Puppet with the power of Doremy Sweet. Has the ability to create and eat dreams. Normally lives in the dream world, seems to be of good nature. Might be by your bedside eating your nightmares.
+128,Sagume,Puppet with the power of Sagume Kishin. Has the ability to reverse a situation with its words. Quite smart. Quiet because of its ability, but chatty when the situation is likely reversible.
+129,Clownpiece,Puppet with the power of Clownpiece. Ability to drive people to madness. Appears in Hell and on the moon. Often moves with Junko and Hecatia puppets. Low intelligence, but high tension.
+130,Junko,Puppet with the power of Junko. Ability to purify anything. Hates puppets related to the moon, but likes Udonge puppets. Since its grudge has been purified, those who are part of it are in danger.
+131,Hecatia,Puppet with the power of Hecatia Lapislazuli. Has the ability to have three bodies. Likes war and has an unusual sense of T-shirts. Often moves with Clownpiece and Junko puppets.
+132,Doll132,
+133,Doll133,
+134,Doll134,
+135,Doll135,
+136,Doll136,
+137,Doll137,
+138,Doll138,
+139,Doll139,
+140,Doll140,
+141,Doll141,
+142,Doll142,
+143,Doll143,
+144,Doll144,
+145,Doll145,
+146,Doll146,
+147,Doll147,
+148,Doll148,
+149,Doll149,
+150,Doll150,
+151,Doll151,
+152,Doll152,
+153,Doll153,
+154,Doll154,
+155,Doll155,
+156,Doll156,
+157,Doll157,
+158,Doll158,
+159,Doll159,
+160,Doll160,
+161,Doll161,
+162,Doll162,
+163,Doll163,
+164,Doll164,
+165,Doll165,
+166,Doll166,
+167,Doll167,
+168,Doll168,
+169,Doll169,
+170,Doll170,
+171,Doll171,
+172,Doll172,
+173,Doll173,
+174,Doll174,
+175,Doll175,
+176,Doll176,
+177,Doll177,
+178,Doll178,
+179,Doll179,
+180,Doll180,
+181,Doll181,
+182,Doll182,
+183,Doll183,
+184,Doll184,
+185,Doll185,
+186,Doll186,
+187,Doll187,
+188,Doll188,
+189,Doll189,
+190,Doll190,
+191,Doll191,
+192,Doll192,
+193,Doll193,
+194,Doll194,
+195,Doll195,
+196,Doll196,
+197,Doll197,
+198,Doll198,
+199,Doll199,
+200,Doll200,
+201,Doll201,
+202,Doll202,
+203,Doll203,
+204,Doll204,
+205,Doll205,
+206,Doll206,
+207,Doll207,
+208,Doll208,
+209,Doll209,
+210,Doll210,
+211,Doll211,
+212,Doll212,
+213,Doll213,
+214,Doll214,
+215,Doll215,
+216,Doll216,
+217,Doll217,
+218,Doll218,
+219,Doll219,
+220,Doll220,
+221,Doll221,
+222,Doll222,
+223,Doll223,
+224,Doll224,
+225,Doll225,
+226,Doll226,
+227,Doll227,
+228,Doll228,
+229,Doll229,
+230,Doll230,
+231,Doll231,
+232,Doll232,
+233,Doll233,
+234,Doll234,
+235,Doll235,
+236,Doll236,
+237,Doll237,
+238,Doll238,
+239,Doll239,
+240,Doll240,
+241,Doll241,
+242,Doll242,
+243,Doll243,
+244,Doll244,
+245,Doll245,
+246,Doll246,
+247,Doll247,
+248,Doll248,
+249,Doll249,
+250,Doll250,
+251,Doll251,
+252,Doll252,
+253,Doll253,
+254,Doll254,
+255,Doll255,
+256,Doll256,
+257,Doll257,
+258,Doll258,
+259,Doll259,
+260,Doll260,
+261,Doll261,
+262,Doll262,
+263,Doll263,
+264,Doll264,
+265,Doll265,
+266,Doll266,
+267,Doll267,
+268,Doll268,
+269,Doll269,
+270,Doll270,
+271,Doll271,
+272,Doll272,
+273,Doll273,
+274,Doll274,
+275,Doll275,
+276,Doll276,
+277,Doll277,
+278,Doll278,
+279,Doll279,
+280,Doll280,
+281,Doll281,
+282,Doll282,
+283,Doll283,
+284,Doll284,
+285,Doll285,
+286,Doll286,
+287,Doll287,
+288,Doll288,
+289,Doll289,
+290,Doll290,
+291,Doll291,
+292,Doll292,
+293,Doll293,
+294,Doll294,
+295,Doll295,
+296,Doll296,
+297,Doll297,
+298,Doll298,
+299,Doll299,
+300,Doll300,
+301,Doll301,
+302,Doll302,
+303,Doll303,
+304,Doll304,
+305,Doll305,
+306,Doll306,
+307,Doll307,
+308,Doll308,
+309,Doll309,
+310,Doll310,
+311,Doll311,
+312,Doll312,
+313,Doll313,
+314,Doll314,
+315,Doll315,
+316,Doll316,
+317,Doll317,
+318,Doll318,
+319,Doll319,
+320,Doll320,
+321,Doll321,
+322,Doll322,
+323,Doll323,
+324,Doll324,
+325,Doll325,
+326,Doll326,
+327,Doll327,
+328,Doll328,
+329,Doll329,
+330,Doll330,
+331,Doll331,
+332,Doll332,
+333,Doll333,
+334,Doll334,
+335,Doll335,
+336,Doll336,
+337,Doll337,
+338,Doll338,
+339,Doll339,
+340,Doll340,
+341,Doll341,
+342,Doll342,
+343,Doll343,
+344,Doll344,
+345,Doll345,
+346,Doll346,
+347,Doll347,
+348,Doll348,
+349,Doll349,
+350,Doll350,
+351,Doll351,
+352,Doll352,
+353,Doll353,
+354,Doll354,
+355,Doll355,
+356,Doll356,
+357,Doll357,
+358,Doll358,
+359,Doll359,
+360,Doll360,
+361,Doll361,
+362,Doll362,
+363,Doll363,
+364,Doll364,
+365,Doll365,
+366,Doll366,
+367,Doll367,
+368,Doll368,
+369,Doll369,
+370,Doll370,
+371,Doll371,
+372,Doll372,
+373,Doll373,
+374,Doll374,
+375,Doll375,
+376,Doll376,
+377,Doll377,
+378,Doll378,
+379,Doll379,
+380,Doll380,
+381,Doll381,
+382,Doll382,
+383,Doll383,
+384,Doll384,
+385,Doll385,
+386,Doll386,
+387,Doll387,
+388,Doll388,
+389,Doll389,
+390,Doll390,
+391,Doll391,
+392,Doll392,
+393,Doll393,
+394,Doll394,
+395,Doll395,
+396,Doll396,
+397,Doll397,
+398,Doll398,
+399,Doll399,
+400,Doll400,
+401,Doll401,
+402,Doll402,
+403,Doll403,
+404,Doll404,
+405,Doll405,
+406,Doll406,
+407,Doll407,
+408,Doll408,
+409,Doll409,
+410,Doll410,
+411,Doll411,
+412,Doll412,
+413,Doll413,
+414,Doll414,
+415,Doll415,
+416,Doll416,
+417,Doll417,
+418,Doll418,
+419,Doll419,
+420,Doll420,
+421,Doll421,
+422,Doll422,
+423,Doll423,
+424,Doll424,
+425,Doll425,
+426,Doll426,
+427,Doll427,
+428,Doll428,
+429,Doll429,
+430,Doll430,
+431,Doll431,
+432,Doll432,
+433,Doll433,
+434,Doll434,
+435,Doll435,
+436,Doll436,
+437,Doll437,
+438,Doll438,
+439,Doll439,
+440,Doll440,
+441,Doll441,
+442,Doll442,
+443,Doll443,
+444,Doll444,
+445,Doll445,
+446,Doll446,
+447,Doll447,
+448,Doll448,
+449,Doll449,
+450,Doll450,
+451,Doll451,
+452,Doll452,
+453,Doll453,
+454,Doll454,
+455,Doll455,
+456,Doll456,
+457,Doll457,
+458,Doll458,
+459,Doll459,
+460,Doll460,
+461,Doll461,
+462,Doll462,
+463,Doll463,
+464,Doll464,
+465,Doll465,
+466,Doll466,
+467,Doll467,
+468,Doll468,
+469,Doll469,
+470,Doll470,
+471,Doll471,
+472,Doll472,
+473,Doll473,
+474,Doll474,
+475,Doll475,
+476,Doll476,
+477,Doll477,
+478,Doll478,
+479,Doll479,
+480,Doll480,
+481,Doll481,
+482,Doll482,
+483,Doll483,
+484,Doll484,
+485,Doll485,
+486,Doll486,
+487,Doll487,
+488,Doll488,
+489,Doll489,
+490,Doll490,
+491,Doll491,
+492,Doll492,
+493,Doll493,
+494,Doll494,
+495,Doll495,
+496,Doll496,
+497,Doll497,
+498,Doll498,
+499,Doll499,
+500,Doll500,
+501,Doll501,
+502,Doll502,
+503,Doll503,
+504,Doll504,
+505,Doll505,
+506,Doll506,
+507,Doll507,
+508,Doll508,
+509,Doll509,
+510,Doll510,
+511,Doll511,

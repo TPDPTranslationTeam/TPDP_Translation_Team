@@ -1,0 +1,4 @@
+* dark clothing description is still wrong
+* X form abilities apparently still have the 1.3x boost, so people aren't sure why it was dropped from the ability descriptions
+* irreversible trick description thing
+* armor purge"

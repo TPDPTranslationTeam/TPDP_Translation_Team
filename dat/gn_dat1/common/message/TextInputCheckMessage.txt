@@ -1,0 +1,1 @@
+Is \t acceptable? \n To confirm input, press [Enter]. \n To start over, press [Backspace].

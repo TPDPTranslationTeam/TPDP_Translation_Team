@@ -1,0 +1,12 @@
+Hina
+82_01
+*\dの封印を解除するのね。\b
+You'd like to break \d's seal,
+right?\b
+\x02
+*封印を解除すると きっと二度と会えなくなるわ。\b
+*やっぱり やめにしない？
+You will never see this Puppet again
+once you break the seal.\b
+I suggest you giving up on this.
+~here I wonder what the UI is saying. In this case, "yes" would be cancel while "no" would be negation.

@@ -1,0 +1,19 @@
+*魔理沙
+Marisa
+2_07
+*お ちょうどいいタイミングで戻ってきたな！\b
+You are right on time!\b
+*この \pってやつ 外の世界から来たみたいだぜ！\b
+This \p guy just came across the Barrier
+from the outer world!
+*\o霊夢
+\oReimu
+\j1_02
+*ふーん・・・なんか多いわね最近。\b
+Hmm..It's getting more frequent these days.\b
+*\o早苗
+Sanae
+\j85
+*しかも人形が懐いているんですよ！
+Not to mention \p's talent of taming
+Puppets!

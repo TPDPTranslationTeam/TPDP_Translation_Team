@@ -1,0 +1,27 @@
+*早苗
+Sanae
+85_04
+*そうだ！\b
+Oh, by the way!\b
+\x00
+*人里に人形について調べている人がいたはずなので そこへ行けば何か分かるかもしれません。\b
+Some people in Human Village are investig-
+ating Puppets. Maybe you could start find-
+ding clues there.\b
+\x05
+*私は霊夢さんが出かけたら また留守番を頼まれてしまうでしょうから 一緒には行けません。\b
+Unfortunately, I had to stay here for bac-
+kups when Reimu-san is out. You are on yo-
+ur own for now.\b
+\x03
+*けど人形がいれば大丈夫です。\b
+You should be fine with your Puppet.\b
+*きっと\pさんの力になってくれますよ！\b
+I'm sure she'd be your best ally!\b
+\x00
+*あそこでは色々な情報が聞けると思いますし まずは人里へ行ってみてはどうですか？\b
+You may also learn more about our world in
+Human Village. How about paying it a visit
+first?
+*きっとためになりますよ！
+I guarantee you won't be disappointed!

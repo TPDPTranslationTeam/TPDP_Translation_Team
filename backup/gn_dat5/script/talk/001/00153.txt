@@ -1,0 +1,16 @@
+
+
+*「幻想人形演舞 -ユメノカケラ-」の
+*クリアデータを引き継ぎ【二周目】を開始します。\b
+You are about to start the 2nd playerthrough
+with your previous clear data inherited.\b
+*\c二周目では 引き継ぎ前の 運命の人形以外の手持ちの人形が 人形箱の1ページ目に転生した状態で入っています。\b
+*\cまた 引き継ぎ前の 人形箱ボックス21以降の人形を クリア後に使用することが出来ます。\b
+*\c詳しくは マニュアルをお読みください。
+\cIn 2nd playthrough, all of non-inherited
+puppets you were carrying, except Fatefully
+Reuinted Puppets will be reincarnated in\b
+\cfirst page of Puppet Box.\b
+\cAlso, Puppets after Puppet Box 21 can be 
+used after inheritance.\b
+\cPlease read the manual for more details.\b

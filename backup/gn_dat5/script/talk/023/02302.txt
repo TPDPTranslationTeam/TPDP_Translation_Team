@@ -1,0 +1,33 @@
+*早苗
+85_03
+*飛び出してきた人形に これを使って「封印状態」にしてから倒すと 人形を仲間にできるんです。\b
+You can use this to "seal" a wild Puppet.
+She'll join you after you defeat her if
+she is "sealed"!\b
+\x00
+*ちょっと 説明がきを読みますね。\b
+Let me read the manual for you.\b
+\o
+\s
+*『封印の糸は戦闘中の道具メニューから使用できます。\b
+"During a Wild Puppet Battle, you may use
+Seal Thread from battle menu.\b
+*使用すると野良人形を封印状態にすることができ\b
+Seal Thread will inflict Sealed condition
+on Wild Puppet.\b
+*封印状態の人形を倒すと仲間にすることができます。\b
+Wild Puppet under Sealed condition will
+join you after her defeat.\b
+*""\b
+""\b
+*人の持っている人形には効果がないので注意！』\b
+Be alert that you cannot use Seal Thread
+on Puppets that are owned by others.
+*\o早苗
+\oSanae
+\s85_06
+*これで使い方は バッチリですよね！\b
+Now you must be an expert of Sealing!\b
+\x00
+*後もう一つ。これをどうぞ！
+And please take this too!

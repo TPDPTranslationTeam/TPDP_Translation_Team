@@ -1,0 +1,512 @@
+0,‚È‚µ,‚È‚µ
+1,”R‚¦Ÿö‚éé(Trial),NULL
+2,‹tŠª‚­‘“(Trial),NULL
+3,–G‰è‚·‚é‰(Trial),NULL
+4,ƒGƒAƒNƒbƒVƒ‡ƒ“(Trial),NULL
+5,–³‰ä‚Ì‹«’n(Trial),NULL
+6,‚µ‚È‚â‚©‚Èç[(Trial),NULL
+7,Šy“V‰Æ(Trial),NULL
+8,‹¤–Â(Trial),NULL
+9,¾•—(Trial),NULL
+10,ŒŒ‹C·‚ñ(Trial),NULL
+11,ƒƒ“ƒeƒiƒ“ƒX(Trial),NULL
+12,SŠá(Trial),NULL
+13,‰Œ–‹“WŠJ(Trial),NULL
+14,K‰^(Trial),NULL
+15,ƒ|ƒWƒeƒBƒu(Trial),NULL
+16,ˆêÄËŒ‚(Trial),NULL
+17,ƒAƒbƒvƒeƒ“ƒ|(Trial),NULL
+18,‰‹}ˆ’u(Trial),NULL
+19,ƒI[ƒgƒq[ƒŠƒ“ƒO(Trial),NULL
+20,‚`‚a‚k‚O‚Q‚O,NULL
+21,‚`‚a‚k‚O‚Q‚P,NULL
+22,‚`‚a‚k‚O‚Q‚Q,NULL
+23,‚`‚a‚k‚O‚Q‚R,NULL
+24,‚`‚a‚k‚O‚Q‚S,NULL
+25,‚`‚a‚k‚O‚Q‚T,NULL
+26,‚`‚a‚k‚O‚Q‚U,NULL
+27,‚`‚a‚k‚O‚Q‚V,NULL
+28,‚`‚a‚k‚O‚Q‚W,NULL
+29,‚`‚a‚k‚O‚Q‚X,NULL
+30,‚`‚a‚k‚O‚R‚O,NULL
+31,‚`‚a‚k‚O‚R‚P,NULL
+32,‚`‚a‚k‚O‚R‚Q,NULL
+33,‚`‚a‚k‚O‚R‚R,NULL
+34,‚`‚a‚k‚O‚R‚S,NULL
+35,‚`‚a‚k‚O‚R‚T,NULL
+36,‚`‚a‚k‚O‚R‚U,NULL
+37,‚`‚a‚k‚O‚R‚V,NULL
+38,‚`‚a‚k‚O‚R‚W,NULL
+39,‚`‚a‚k‚O‚R‚X,NULL
+40,‚`‚a‚k‚O‚S‚O,NULL
+41,‚`‚a‚k‚O‚S‚P,NULL
+42,‚`‚a‚k‚O‚S‚Q,NULL
+43,‚`‚a‚k‚O‚S‚R,NULL
+44,‚`‚a‚k‚O‚S‚S,NULL
+45,‚`‚a‚k‚O‚S‚T,NULL
+46,‚`‚a‚k‚O‚S‚U,NULL
+47,‚`‚a‚k‚O‚S‚V,NULL
+48,‚`‚a‚k‚O‚S‚W,NULL
+49,‚`‚a‚k‚O‚S‚X,NULL
+50,‚`‚a‚k‚O‚T‚O,NULL
+51,‚`‚a‚k‚O‚T‚P,NULL
+52,‚`‚a‚k‚O‚T‚Q,NULL
+53,‚`‚a‚k‚O‚T‚R,NULL
+54,‚`‚a‚k‚O‚T‚S,NULL
+55,‚`‚a‚k‚O‚T‚T,NULL
+56,‚`‚a‚k‚O‚T‚U,NULL
+57,‚`‚a‚k‚O‚T‚V,NULL
+58,‚`‚a‚k‚O‚T‚W,NULL
+59,‚`‚a‚k‚O‚T‚X,NULL
+60,‚`‚a‚k‚O‚U‚O,NULL
+61,‚`‚a‚k‚O‚U‚P,NULL
+62,‚`‚a‚k‚O‚U‚Q,NULL
+63,‚`‚a‚k‚O‚U‚R,NULL
+64,‚`‚a‚k‚O‚U‚S,NULL
+65,‚`‚a‚k‚O‚U‚T,NULL
+66,‚`‚a‚k‚O‚U‚U,NULL
+67,‚`‚a‚k‚O‚U‚V,NULL
+68,‚`‚a‚k‚O‚U‚W,NULL
+69,‚`‚a‚k‚O‚U‚X,NULL
+70,‚`‚a‚k‚O‚V‚O,NULL
+71,‚`‚a‚k‚O‚V‚P,NULL
+72,‚`‚a‚k‚O‚V‚Q,NULL
+73,‚`‚a‚k‚O‚V‚R,NULL
+74,‚`‚a‚k‚O‚V‚S,NULL
+75,‚`‚a‚k‚O‚V‚T,NULL
+76,‚`‚a‚k‚O‚V‚U,NULL
+77,‚`‚a‚k‚O‚V‚V,NULL
+78,‚`‚a‚k‚O‚V‚W,NULL
+79,‚`‚a‚k‚O‚V‚X,NULL
+80,‚`‚a‚k‚O‚W‚O,NULL
+81,‚`‚a‚k‚O‚W‚P,NULL
+82,‚`‚a‚k‚O‚W‚Q,NULL
+83,‚`‚a‚k‚O‚W‚R,NULL
+84,‚`‚a‚k‚O‚W‚S,NULL
+85,‚`‚a‚k‚O‚W‚T,NULL
+86,‚`‚a‚k‚O‚W‚U,NULL
+87,‚`‚a‚k‚O‚W‚V,NULL
+88,‚`‚a‚k‚O‚W‚W,NULL
+89,‚`‚a‚k‚O‚W‚X,NULL
+90,‚`‚a‚k‚O‚X‚O,NULL
+91,‚`‚a‚k‚O‚X‚P,NULL
+92,‚`‚a‚k‚O‚X‚Q,NULL
+93,‚`‚a‚k‚O‚X‚R,NULL
+94,‚`‚a‚k‚O‚X‚S,NULL
+95,‚`‚a‚k‚O‚X‚T,NULL
+96,‚`‚a‚k‚O‚X‚U,NULL
+97,‚`‚a‚k‚O‚X‚V,NULL
+98,‚`‚a‚k‚O‚X‚W,NULL
+99,‚`‚a‚k‚O‚X‚X,NULL
+100,Phlegmatic,The weather becomes Calm.
+101,Sanguine,The weather becomes Aurora.
+102,Melancholic,The weather becomes Heavy Fog.
+103,Choleric,The weather becomes Dust Storm.
+104,Sand Mask,During dust storm, Evasion is increased. No sand damage is received.
+105,Sand Force,During dust storm, Fo.Atk is boosted by 30%. No sand damage is received.
+106,Sand Devil,During dust storm, Speed is doubled. No sand damage is received.
+107,Flash,During aurora, Speed is doubled.
+108,Aurora Grace,During aurora, Sp.Def is increased by 50% and some HP is restored at the end of every turn.
+109,Light Curtain,During aurora, you're immune to confusion and status ailments are healed at the end of every turn.
+110,Fog Traveler,During heavy fog, Speed is doubled.
+111,Surprise Tactics,During heavy fog, SpAtk is boosted by 50%. Damage is received at the end of the turn.
+112,Vanishing Act,During heavy fog, evasion is increased.
+113,Recalibration,During calm, SpAtk and SpDef are boosted by 50%.
+114,Zen,During calm, the user is immune to status ailments and recovers some HP at the end of every turn.
+115,Breather,During calm, Fo.Def is increased by 50% and some HP is restored at the end of every turn.
+116,NULL,‚È‚µB
+117,Weather Resist,This Puppet is immune to the effects of weather.
+118,“V‹C—\•ñ,‚È‚µB
+119,–³ˆ×©‘R,‚È‚µB
+120,Dark Clothing,Resists against Light-type skills and restores HP when hit by a Dark-type skill.
+121,Economist,Charms may be restored after use. During calm, you will always restore them.
+122,NULL,‚È‚µB
+123,Burning Spirit,Boosts Fire-type skills when HP is less than 1/3.
+124,Surging Spirit,Boosts Water-type skills when HP is less than 1/3.
+125,Sprouting Spirit,Boosts Nature-type skills when HP is less than 1/3.
+126,Desolate Spirit,Boosts Earth-type skills when HP is less than 1/3.
+127,Robust Spirit,Boosts Steel-type skills when HP is less than 1/3.
+128,Raging Spirit,Boosts Wind-type skills when HP is less than 1/3.
+129,Sparking Spirit,Boosts Electric-type skills when HP is less than 1/3.
+130,Rainbow Spirit,Boosts Light-type skills when HP is less than 1/3.
+131,Abyssal Spirit,Boosts Dark-type skills when HP is less than 1/3.
+132,Sinister Spirit,Boosts Nether-type skills when HP is less than 1/3.
+133,Venomous Spirit,Boosts Poison-type skills when HP is less than 1/3.
+134,Vigorous Spirit,Boosts Fighting-type skills when HP is less than 1/3.
+135,Vague Spirit,Boosts Illusion-type skills when HP is less than 1/3.
+136,Musical Spirit,Boosts Sound-type skills when HP is less than 1/3.
+137,Corrupt Spirit,Boosts Warped-type skills when HP is less than 1/3.
+138,Benefit of Fire,When hit by a Fire-type skill, HP is restored.
+139,Grace of Water,When hit by a Water-type skill, HP is restored.
+140,Force of Nature,When hit by a Nature-type skill, damage is nullified and SpAtk is raised.
+141,Air Cushion,When hit by an Earth-type skill, damage is nullified. Ignores Adverse Wind ability. Ignores mine/poison trap. 
+142,Metallurgy,When hit by a Steel-type skill, damage is nullified and FoAtk is raised.
+143,Smooth Sailing,When hit by a Wind-type skill, damage is nullified and Speed is raised.
+144,Electromagnetic,When hit by an Electric-type skill, damage is nullified and SpAtk is raised.
+145,Absorbent,When hit by a Light-type skill, damage is nullified and SpAtk is raised.
+146,Negative Aura,When hit by a Dark-type skill, damage is nullified and FoAtk is raised.
+147,Appeased Spirit,When hit by a Nether-type skill, HP is restored.
+148,Strict Dosage,When hit by a Poison-type skill, HP is restored. Ignores poison trap. Ignores Poison Labyrinth ability.
+149,Master's Defense,When hit by a Fighting-type skill, damage is nullified and FoAtk is raised.
+150,Unwavering Heart,When hit by an Illusion-type skill, damage is nullified and any status ailment is cured.
+151,Sound Absorb,When hit by a Sound-type skill, damage is nullified, FoAtk is raised, and SpAtk is raised.
+152,In Sync,When hit by an Warped-type skill, damage is nullified and any status ailment is cured.
+153,Spirit of Yang,When hit by an Electric, Light, or Illusion-type skill, Speed is raised.
+154,Spirit of Yin,When hit by a Dark, Nether, or Poison-type skill, Speed is raised.
+155,Inverse Reaction,When hit by a Light or Dark-type skill only half the damage is taken.
+156,Sound Booster,When hit by a Sound-type skill SpAtk is raised.
+157,Self Exorcism,When hit by a Nether-type skill FoAtk is raised.
+158,Common Senseless,Ignores type immunities when attacking.
+159,‚`‚a‚k‚P‚T‚X,‚È‚µB
+160,Shadow Stitch,The opponent cannot flee or swap Puppets.
+161,Battle Mania,Opponents that are Fighting-type cannot flee or swap out.
+162,Adverse Wind,Only Wind-type opponents can flee.
+163,‚`‚a‚k‚P‚U‚R,‚È‚µB
+164,–³Œ`”VŒ^,‚È‚µB
+165,Hellfire Form,Void-type skills are treated as Fire-type skills.
+166,Stream Form,Void-type skills are treated as Water-type skills.
+167,Natural Form,Void-type skills are treated as Nature-type skills.
+168,Desolation Form,Void-type skills are treated as Earth-type skills.
+169,Unyielding Form,Void-type skills are treated as Steel-type skills.
+170,Gale Form,Void-type skills are treated as Wind-type skills.
+171,Thunder Form,Void-type skills are treated as Electric-type skills.
+172,Bright Form,Void-type skills are treated as Light-type skills.
+173,Midnight Form,Void-type skills are treated as Dark-type skills.
+174,Ghost Form,Void-type skills are treated as Nether-type skills.
+175,Miasma Form,Void-type skills are treated as Poison-type skills.
+176,General's Form,Void-type skills are treated as Fighting-type skills.
+177,Imaginary Form,Void-type skills are treated as Illusion-type skills.
+178,Recital Form,Void-type skills are treated as Sound-type skills.
+179,Twisted Form,Void-type skills become treated as Warped-type.
+180,Antibody,Immune to Poison and Heavy Poison statuses.
+181,Cleared Mind,Immune to Burn and Heavy Burn statuses.
+182,Active,Immune to Stop status.
+183,Immovable,Immune to flinching.
+184,Flexible,Immune to Paralysis and Shock statuses.
+185,Optimist,Immune to confusion.
+186,Composed,Immune to Upbeat.
+187,Free Will,Immune to skill usage restrictions.
+188,‚`‚a‚k‚P‚W‚W,‚È‚µB
+189,Resonance,Status ailments are reflected onto opponents when inflicted.
+190,Gale,When inflicted with an ailment, Speed is boosted 50%. Speed drop from paralysis is ignored.
+191,Last Defense,When inflicted with an ailment, FoDef is boosted by 50%.
+192,Desperation,When poisoned, FoAtk is boosted by 50%.
+193,Inverse Toxin,When poisoned, HP is restored instead of lost. Ignores Poison Labyrinth ability.
+194,Vigorous,Takes half the turns to return from stop status.
+195,‚`‚a‚k‚P‚X‚T,‚È‚µB
+196,m‹C‰ ·,‚È‚µB
+197,Maintenance,30% chance to heal from ailments every turn.
+198,Mind's Eye,When inflicted with a status FoAtk is boosted by 50%. FoAtk drop from blindness is ignored.
+199,Warning Shot,Lowers the opponent's SpAtk upon switch in.
+200,Deploy Smoke,Lowers the opponent's FoAtk upon switch in.
+201,Projection,Copies your opponent's ability during battle.
+202,Aggressive,Adjusts offensive stats based on the foe's defensive stats.
+203,Sixth Sense,Notifies you of barrier-penetrating skills your foe knows.
+204,“ÇS,‚È‚µB
+205,Quick Eye,Allows you to see the held item and ability of the opponent.
+206,ŒXŠïÒ,‚È‚µB
+207,‚`‚a‚k‚Q‚O‚V,‚È‚µB
+208,Some Guts,Damage the opponent after receiving an attack of 90 or more BP.
+209,Karmic Retribution,Damage the opponent after receiving an attack of 90 or more BP.
+210,Hate Incarnate,Damage the opponent if fainting is caused by an attack of 70 or more BP.
+211,Poison Thorns,Opponent has 30% chance to become poisoned from any attack.
+212,‚`‚a‚k‚Q‚P‚Q,‚È‚µB
+213,Flaming Garment,Opponent has a 30% chance to become burned from any attack.
+214,Electrification,Opponent has 30% chance to become paralyzed from any attack.
+215,Chaos Induction,Opponent has a 30% chance to become confused from any attack.
+216,Sermon,Opponent has a 30% chance to become weakened from any attack.
+217,Dark Force,Opponent has 10% chance to become blinded from their focus attacks.
+218,Strong Smile,Opponent has a 10% chance to become afraid from their spread attacks.
+219,‚`‚a‚k‚Q‚P‚X,‚È‚µB
+220,Jamming,Reduces the opponent's Speed after receiving an attack of 80 or more BP.
+221,Discourager,Reduces the opponent's FoAtk when hit by a skill that your barrier resists.
+222,Disturber,Reduces the foe's FoAtk or SpAtk when hit by a skill that your barrier resists.
+223,—£ŠÔ,‚È‚µB
+224,˜U—,‚È‚µB
+225,‚`‚a‚k‚Q‚Q‚T,‚È‚µB
+226,Infectious,Spreads Infection through attacks that are below 95 BP.
+227,‚`‚a‚k‚Q‚Q‚V,‚È‚µB
+228,Armor Purge,When hit by a FoAtk, FoDef decreases and Speed increases.
+229,‚`‚a‚k‚Q‚Q‚X,‚È‚µB
+230,‚`‚a‚k‚Q‚R‚O,‚È‚µB
+231,Insight,Easier to score critical hits.
+232,Sniper,Boosts the strength of critical hits.
+233,‚`‚a‚k‚Q‚R‚R,‚È‚µB
+234,Hot Head,FoAtk is increased after taking a critical hit.
+235,‚`‚a‚k‚Q‚R‚T,‚È‚µB
+236,Recoil Offset,Does not receive recoil damage.
+237,Reckless,Damage dealt and recoil received by a recoil move is boosted by 20%.
+238,‚`‚a‚k‚Q‚R‚W,‚È‚µB
+239,‚`‚a‚k‚Q‚R‚X,‚È‚µB
+240,‚`‚a‚k‚Q‚S‚O,‚È‚µB
+241,‚`‚a‚k‚Q‚S‚P,‚È‚µB
+242,‚`‚a‚k‚Q‚S‚Q,‚È‚µB
+243,‚`‚a‚k‚Q‚S‚R,‚È‚µB
+244,‚`‚a‚k‚Q‚S‚S,‚È‚µB
+245,Wasteful,Effects of held items are ignored.
+246,Nimble,When a held charm is lost or consumed speed is doubled.
+247,—Õ‹@‰•Ï,‚È‚µB
+248,Ší—p‚Èèæ,‚È‚µB
+249,Kleptomaniac,If no item is held there is a chance to steal an foe's item after attacking.
+250,Collectomaniac,If no item is held and you receive damage, you may take the foe's held item. Held items cannot be stolen.
+251,‚`‚a‚k‚Q‚T‚P,‚È‚µB
+252,Overwhelm,Enemy Puppets cannot use charms.
+253,Worrywart,When HP is less than half the held charm is used.
+254,‚`‚a‚k‚Q‚T‚S,‚È‚µB
+255,Assault,Attacks have a 10% chance of causing flinching.
+256,Poison Body,After an attack, the opponent has a 30% chance to become poisoned.
+257,Lucky,Secondary effects of skills have double the chance of occurring.
+258,Charge!,Attack damage is boosted by 30%, but their secondary effects never occur.
+259,‚`‚a‚k‚Q‚T‚X,‚È‚µB
+260,ˆêS•s—,‚È‚µB
+261,Divine Protection,Stats cannot be lowered by the enemy.
+262,Sore Loser,When a stat is decreased FoAtk is raised sharply.
+263,Positive,When a stat is decreased SpAtk is raised sharply.
+264,Usurpation,Inverts the stat changes.
+265,Wisdom Eye,Attacks ignore the opponent's stat gains other than speed.
+266,‚`‚a‚k‚Q‚U‚U,‚È‚µB
+267,Drunkard,Cannot attack consecutively, however it ignores the foe's ability.
+268,Placid,For 5 turns SpAtk and Speed are cut in half. Ability changes to ""Serious"", afterwards.
+269,True Admin,When HP is less than half FoAtk and SpAtk are halved.
+270,‚`‚a‚k‚Q‚V‚O,‚È‚µB
+271,Slow Tempo,Always attacks second but receive 10% less damage.
+272,Curiosity,Support skills receive +1 to their priority.
+273,Brutality,SpAtk is boosted by 50% but accuracy is cut by 20%.
+274,Daredevil,FoAtk is boosted by 50% but accuracy is cut by 20%.
+275,Forward Dash,The power of spread skills are doubled.
+276,‚`‚a‚k‚Q‚V‚U,Receive only half damage from Focus Attacks.
+277,‚`‚a‚k‚Q‚V‚V,‚È‚µB
+278,Telescopic,Accuracy is boosted by 30%.
+279,Duel,Neither you nor your opponent will be able to miss.
+280,Precise Aim,Accuracy cannot be lowered. Ignores the foe's Evasion modifiers. Never-miss attacks are 50% stronger.
+281,‚`‚a‚k‚Q‚W‚P,‚È‚µB
+282,Infinite Changes,Changes type to match skill immediately before use.
+283,‹[‘Ô,‚È‚µB
+284,Hobgoblin,Changes appearance to match that of the last Puppet in the party. Reverts after taking a hit.
+285,‚`‚a‚k‚Q‚W‚T,‚È‚µB
+286,After Move,Attack power is boosted by 30% when moving second.
+287,Infiltration,Attacks ignore defensive fields.
+288,Salvo,Multi-Hit attacks always hit the maximum amount of times.
+289,Niche,The power boost from same-type attacks is even higher.
+290,Morale Boost,When an opponent is KO'd, FoAtk is raised.
+291,Strategist,Attacks with a base power of 60 or below are boosted by 50%.
+292,Skilled Hand,Ignores the resistances of enemy barriers.
+293,Unbound,Attacks ignore the foe's ability.
+294,Up Tempo,Speed increases every turn.
+295,Indomitable,Cannot be OHKO'd. Will not receive critical hits either.
+296,Stubborn,Cannot be OHKO'd. Neither of you can use certain skills either.
+297,Imposing Stance,Damage is only received from skills.
+298,Glamorous,Reduces damage of attacks that penetrate your barrier.
+299,Emergency Cure,Recovers from status ailments when switching out.
+300,Healing Power,Recovers 1/3 of maximum HP when switching out.
+301,Iron Resolve,Cannot be forced to switch out.
+302,Peaceful,Can always escape from battle. Trumps other locking abilities.
+303,Bad Medicine,Enemies will be hurt when they try to use HP leaching skills on you. Ignores Poison Labyrinth ability.
+304,Curse Return,Reflects the effects of status skills back on the attacker.
+305,Poker Face,Ignores the secondary skill effects from attackers.
+306,Yata no Kagami,Takes half damage when at full HP.
+307,Moody,Every turn one random stat rises sharply and one random stat falls.
+308,Suppression,When hit by an enemy skill there is a 30% chance to seal it.
+309,Unjustness,The enemy's SP consumption is increased by +1.
+310,Good Management,Stat changes from skills and hold items are doubled.
+311,Were-Hakutaku,When HP is less than half your form is changed.
+312,”góUŒ‚,‚È‚µB
+313,Frail Health,Take no damage from attacks that do not penetrate the barrier.
+314,Flawless,Evasion against status and stat changing skills is increased.
+315,Unique Shield,Only receive half damage from Focus Attacks.
+316,Auto Heal,HP recovers every turn while not inflicted with a status ailment.
+317,Miracle Mallet,FoAtk and FoDef are doubled.
+318,Stargazer,Weather skills last forever.
+319,Timegazer,Terrain skills last 8 turns.
+320,Boundary Blurrer,During weather effects, FoAtk, FoDef, SpAtk, and SpDef are doubled.
+321,Boundary Savior,During terrain effects, FoDef and SpDef are doubled. Will also recover from ailments at the end of each turn.
+322,‚`‚a‚k‚R‚Q‚Q,NULL
+323,Northern Expanse,During Genbu, speed is halved.
+324,Southern Expanse,During Suzaku, your HP will recover a little bit each turn, ignoring Suzaku's effect.
+325,Western Expanse,During Byakko, 100 acc skills power increases by 20%, no-miss skills power increases by 50%.
+326,Eastern Expanse,During Seiryu, same-type skills are 33% stronger.
+327,Central Expanse,During Kohryu, your skills ignore the foe's ability. The user may also use held items and Quick Eye.
+328,Gentei's Water,Water skills are 50% more powerful during Genbu. Earth-skill damage is halved.
+329,Sutei's Fire,Fire skills are 50% more powerful during Suzaku. Water-skill damage is halved.
+330,Byakutei's Metal,Steel skills are 50% more powerful during Byakko. Fire-skill damage is halved.
+331,Seitei's Wood,Nature skills are 50% more powerful during Seiryu. Steel-skill damage is halved.
+332,Koutei's Earth,Earth skills are 50% more powerful during Kohryu. Nature-skill damage is halved.
+333,Instant Win,Your speed is increased by 50% on the first turn after entering the field.
+334,First Hit,Attack power is boosted by 20% when moving first.
+335,Ascertainment,Opponent's Ability does not boost their attacks.
+336,Convergence,If you miss a skill, your accuracy increases.
+337,On the Edge,At 1 HP, Speed is tripled and attacks do 30% more damage.
+338,Invalidate,Removes the opponent's Ability on entry.
+339,Pride,SpAtk increases by 50% when statused, ignores SpAtk drop from Fear.
+340,Intuition,Blocks increased priority skills.
+341,Flat Speed,Lowers increased priority skills to 0 for both sides.
+342,Known Limits,Gives and receives less damage from skills that don't match the user's type.
+343,Fast Talker,Two-turn skills can be used in one turn.
+344,Full Power,Skills are 20% more powerful, but takes damage every turn.
+345,Two of a Kind,The power of skills go down by 40%, but you will do an additional attack.
+346,Affinity Twist,Both parties super effective and resisted elements are reversed.
+347,Normal Bonus,Boosts the power of Void skills by 40%.
+348,Flame Bonus,Boosts the power of Fire skills by 40%.
+349,Aqua Bonus,Boosts the power of Water skills by 40%.
+350,Leaf Bonus,Boosts the power of Nature skills by 40%.
+351,Ground Bonus,Boosts the power of Earth skills by 40%.
+352,Metal Bonus,Boosts the power of Steel skills by 40%.
+353,Gust Bonus,Boosts the power of Wind skills by 40%.
+354,Spark Bonus,Boosts the power of Electric skills by 40%.
+355,Bright Bonus,Boosts the power of Light skills by 40%.
+356,Shade Bonus,Boosts the power of Dark skills by 40%.
+357,Soul Bonus,Boosts the power of Nether skills by 40%.
+358,Venom Bonus,Boosts the power of Poison skills by 40%.
+359,Aura Bonus,Boosts the power of Fighting skills by 40%.
+360,Vision Bonus,Boosts the power of Illusion skills by 40%.
+361,Music Bonus,Boosts the power of Sound skills by 40%.
+362,Twisted Bonus,Boosts the power of Warped skills by 40%.
+363,Invigorative,Skills you're immune to will increase your Fo.Atk by one stage.
+364,Deflective,Skills you're immune to will increase your Fo.Def and Sp.Def by one stage.
+365,Stimulative,Skills you're immune to will increase your Sp.Atk by one stage.
+366,Evasive,Skills you're immune to will increase your Sp.Def by one stage.
+367,Impulsive,Skills you're immune to will increase your Speed by one stage.
+368,Counter Stance,Damages the attacker when hit with a BU skill.
+369,Reflect Guard,Damages the attacker when hit with a EN skill.
+370,Strange Rainbow,Boosts FoAtk by 30% during Sunshower.
+371,Fox's Wedding,Doubles Speed during Sunshower.
+372,Divine Festival,Status ailments are cured at the end of every turn during Sunshower.
+373,None,None.
+374,Disjointed Blow,The power of super effective attacks is increased by 40%.
+375,Resurrection (Trial),NULL
+376,Restraint,If the foe uses a switch-out skill, they are unable to switch for 2 turns.
+377,Bibliophilia,When holding a youma scroll, a certain stat is doubled, and typing and ability is changed.
+378,Wariness,Disables skills with 50 or less BP.
+379,Mode Shift,Changes form when using attack skills. Reverts using Supernatural Border.
+380,Reverse Function,Opponent's stat changes are reversed.
+381,Dream World,Stopped opponents take damage every turn.
+382,Three Bodies,Form changes based on the class of skills used.
+383,Poison Labyrinth,Only Poison-type opponents can flee.
+384,Overcompensate,Draining skills absorb 30% more HP.
+385,Harassment,When your stats drop, so does the foe. When the foe's stats increase, your stats increase as well.
+386,Supine,Changes weather to Sunshower upon switch in.
+387,Mindless Dance,2-3 turn skills have no special effects, but are 10% less powerful.
+388,‚`‚a‚k‚R‚W‚W,NULL
+389,Final Form,Boosts same-type skills when HP is less than 1/3.
+390,Brute Force,User is able to ignore the foe's ability, but unable to use items.
+391,‚`‚a‚k‚R‚X‚P,NULL
+392,‚`‚a‚k‚R‚X‚Q,NULL
+393,‚`‚a‚k‚R‚X‚R,NULL
+394,‚`‚a‚k‚R‚X‚S,NULL
+395,‚`‚a‚k‚R‚X‚T,NULL
+396,‚`‚a‚k‚R‚X‚U,NULL
+397,‚`‚a‚k‚R‚X‚V,NULL
+398,‚`‚a‚k‚R‚X‚W,NULL
+399,‚`‚a‚k‚R‚X‚X,NULL
+400,Serious,SpAtk and Speed increase one stage every turn.
+401,‚`‚a‚k‚S‚O‚P,NULL
+402,‚`‚a‚k‚S‚O‚Q,NULL
+403,‚`‚a‚k‚S‚O‚R,NULL
+404,‚`‚a‚k‚S‚O‚S,NULL
+405,‚`‚a‚k‚S‚O‚T,NULL
+406,‚`‚a‚k‚S‚O‚U,NULL
+407,‚`‚a‚k‚S‚O‚V,NULL
+408,‚`‚a‚k‚S‚O‚W,NULL
+409,‚`‚a‚k‚S‚O‚X,NULL
+410,‚`‚a‚k‚S‚P‚O,NULL
+411,‚`‚a‚k‚S‚P‚P,NULL
+412,‚`‚a‚k‚S‚P‚Q,NULL
+413,‚`‚a‚k‚S‚P‚R,NULL
+414,‚`‚a‚k‚S‚P‚S,NULL
+415,‚`‚a‚k‚S‚P‚T,NULL
+416,‚`‚a‚k‚S‚P‚U,NULL
+417,‚`‚a‚k‚S‚P‚V,NULL
+418,‚`‚a‚k‚S‚P‚W,NULL
+419,‚`‚a‚k‚S‚P‚X,NULL
+420,‚`‚a‚k‚S‚Q‚O,NULL
+421,‚`‚a‚k‚S‚Q‚P,NULL
+422,‚`‚a‚k‚S‚Q‚Q,NULL
+423,‚`‚a‚k‚S‚Q‚R,NULL
+424,‚`‚a‚k‚S‚Q‚S,NULL
+425,‚`‚a‚k‚S‚Q‚T,NULL
+426,‚`‚a‚k‚S‚Q‚U,NULL
+427,‚`‚a‚k‚S‚Q‚V,NULL
+428,‚`‚a‚k‚S‚Q‚W,NULL
+429,‚`‚a‚k‚S‚Q‚X,NULL
+430,‚`‚a‚k‚S‚R‚O,NULL
+431,‚`‚a‚k‚S‚R‚P,NULL
+432,‚`‚a‚k‚S‚R‚Q,NULL
+433,‚`‚a‚k‚S‚R‚R,NULL
+434,‚`‚a‚k‚S‚R‚S,NULL
+435,‚`‚a‚k‚S‚R‚T,NULL
+436,‚`‚a‚k‚S‚R‚U,NULL
+437,‚`‚a‚k‚S‚R‚V,NULL
+438,‚`‚a‚k‚S‚R‚W,NULL
+439,‚`‚a‚k‚S‚R‚X,NULL
+440,‚`‚a‚k‚S‚S‚O,NULL
+441,‚`‚a‚k‚S‚S‚P,NULL
+442,‚`‚a‚k‚S‚S‚Q,NULL
+443,‚`‚a‚k‚S‚S‚R,NULL
+444,‚`‚a‚k‚S‚S‚S,NULL
+445,‚`‚a‚k‚S‚S‚T,NULL
+446,‚`‚a‚k‚S‚S‚U,NULL
+447,‚`‚a‚k‚S‚S‚V,NULL
+448,‚`‚a‚k‚S‚S‚W,NULL
+449,‚`‚a‚k‚S‚S‚X,NULL
+450,‚`‚a‚k‚S‚T‚O,NULL
+451,‚`‚a‚k‚S‚T‚P,NULL
+452,‚`‚a‚k‚S‚T‚Q,NULL
+453,‚`‚a‚k‚S‚T‚R,NULL
+454,‚`‚a‚k‚S‚T‚S,NULL
+455,‚`‚a‚k‚S‚T‚T,NULL
+456,‚`‚a‚k‚S‚T‚U,NULL
+457,‚`‚a‚k‚S‚T‚V,NULL
+458,‚`‚a‚k‚S‚T‚W,NULL
+459,‚`‚a‚k‚S‚T‚X,NULL
+460,‚`‚a‚k‚S‚U‚O,NULL
+461,‚`‚a‚k‚S‚U‚P,NULL
+462,‚`‚a‚k‚S‚U‚Q,NULL
+463,‚`‚a‚k‚S‚U‚R,NULL
+464,‚`‚a‚k‚S‚U‚S,NULL
+465,‚`‚a‚k‚S‚U‚T,NULL
+466,‚`‚a‚k‚S‚U‚U,NULL
+467,‚`‚a‚k‚S‚U‚V,NULL
+468,‚`‚a‚k‚S‚U‚W,NULL
+469,‚`‚a‚k‚S‚U‚X,NULL
+470,‚`‚a‚k‚S‚V‚O,NULL
+471,‚`‚a‚k‚S‚V‚P,NULL
+472,‚`‚a‚k‚S‚V‚Q,NULL
+473,‚`‚a‚k‚S‚V‚R,NULL
+474,‚`‚a‚k‚S‚V‚S,NULL
+475,‚`‚a‚k‚S‚V‚T,NULL
+476,‚`‚a‚k‚S‚V‚U,NULL
+477,‚`‚a‚k‚S‚V‚V,NULL
+478,‚`‚a‚k‚S‚V‚W,NULL
+479,‚`‚a‚k‚S‚V‚X,NULL
+480,‚`‚a‚k‚S‚W‚O,NULL
+481,‚`‚a‚k‚S‚W‚P,NULL
+482,‚`‚a‚k‚S‚W‚Q,NULL
+483,‚`‚a‚k‚S‚W‚R,NULL
+484,‚`‚a‚k‚S‚W‚S,NULL
+485,‚`‚a‚k‚S‚W‚T,NULL
+486,‚`‚a‚k‚S‚W‚U,NULL
+487,‚`‚a‚k‚S‚W‚V,NULL
+488,‚`‚a‚k‚S‚W‚W,NULL
+489,‚`‚a‚k‚S‚W‚X,NULL
+490,‚`‚a‚k‚S‚X‚O,NULL
+491,‚`‚a‚k‚S‚X‚P,NULL
+492,‚`‚a‚k‚S‚X‚Q,NULL
+493,‚`‚a‚k‚S‚X‚R,NULL
+494,‚`‚a‚k‚S‚X‚S,NULL
+495,‚`‚a‚k‚S‚X‚T,NULL
+496,‚`‚a‚k‚S‚X‚U,NULL
+497,‚`‚a‚k‚S‚X‚V,NULL
+498,‚`‚a‚k‚S‚X‚W,NULL
+499,‚`‚a‚k‚S‚X‚X,NULL
+500,‚`‚a‚k‚T‚O‚O,NULL
+501,‚`‚a‚k‚T‚O‚P,NULL
+502,‚`‚a‚k‚T‚O‚Q,NULL
+503,‚`‚a‚k‚T‚O‚R,NULL
+504,‚`‚a‚k‚T‚O‚S,NULL
+505,‚`‚a‚k‚T‚O‚T,NULL
+506,‚`‚a‚k‚T‚O‚U,NULL
+507,‚`‚a‚k‚T‚O‚V,NULL
+508,‚`‚a‚k‚T‚O‚W,NULL
+509,‚`‚a‚k‚T‚O‚X,NULL
+510,‚`‚a‚k‚T‚P‚O,NULL
+511,‚`‚a‚k‚T‚P‚P,NULL

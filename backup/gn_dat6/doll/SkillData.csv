@@ -1,0 +1,1024 @@
+0,NEW TL,0,none
+1,‚r‚j‚h‚k‚k‚O‚O‚O‚P,0,--
+2,‚r‚j‚h‚k‚k‚O‚O‚O‚Q,0,--
+3,‚r‚j‚h‚k‚k‚O‚O‚O‚R,0,--
+4,‚r‚j‚h‚k‚k‚O‚O‚O‚S,0,--
+5,‚r‚j‚h‚k‚k‚O‚O‚O‚T,0,--
+6,‚r‚j‚h‚k‚k‚O‚O‚O‚U,0,--
+7,‚r‚j‚h‚k‚k‚O‚O‚O‚V,0,--
+8,‚r‚j‚h‚k‚k‚O‚O‚O‚W,0,--
+9,‚r‚j‚h‚k‚k‚O‚O‚O‚X,0,--
+10,‚r‚j‚h‚k‚k‚O‚O‚P‚O,0,--
+11,Death Match,1,Power is higher the lower the user's current HP is.
+12,Perfect Aim,1,Defeats the foe if it hits, regardless of their HP.
+13,Phantasmagoria,0,(unimplemented)
+14,Prank,1,Halves the foe's current HP.
+15,Recompensate,1,Lowers the foe's HP to be the same as the user's HP.
+16,Whole Being,1,Bypasses half of the foe's FoDef, but the user faints.
+17,Final Tribulation,1,Bypasses half of the foe's FoDef, but the user faints. Is more powerful for Void-types.
+18,Last Resort,1,Can only be used when all other skills have been used once.
+19,Firm Spirit,2,A two-turn skill. On the first turn, the user's FoDef is raised.
+20,Overskill,2,The user takes 1/3 of the damage in recoil.
+21,Spirit Rush,2,The user takes 1/4 of the damage in recoil.
+22,Frenzied Joururi,1,A normal attack.
+23,Swallow Cut,1,A normal attack with increased priority.
+24,Blow from Calamity,2,Power doubles if the user has a status ailment. Ignores the penalty from Dark status.
+25,Retaliation,1,Power doubles if an ally was defeated last turn.
+26,Piercing Stab,1,Ignores the opponent's stat modifiers.
+27,Struggle,1,(struggle's description should not be visible)
+28,Cruciform,1,Hits twice.
+29,Raid,1,Will always make the foe flinch, but can only be used on entering combat.
+30,Tiger Rush,1,A normal attack with increased priority.
+31,Shadow Rush,1,Bypasses Supernatural Border and Thorned Ivy, and has increased priority.
+32,Danmaku Dance,2,The user attacks for 2-3 turns, then becomes confused.
+33,Crossbow Assault,2,30% chance to paralyze the foe.
+34,Tri-Effect,2,20% chance to paralyze, blind, or scare the foe.
+35,Destruction,2,30% chance to make the foe flinch.
+36,Volley,2,Always hits.
+37,Heavenly Blessing,2,During weather, power doubles and the type changes.
+38,Earthly Blessing,2,During terrain, power doubles and the type changes.
+39,Random Shots,2,Hits two to five times.
+40,False Courage,0,Attempts to survive the next attack with 1 HP. May fail if used consecutively.
+41,Supernatural Border,0,Blocks all damage from the foe's attack. May fail if used consecutively.
+42,Magic Barrier,0,Puts up a barrier using a fourth of the user's max HP.
+43,Invoke Deity,0,Sharply raises one of the user's stats randomly.
+44,First Aid,0,Restores half of the user's HP.
+45,Resourcefulness,0,Recovers a used held item.
+46,Power Spot,0,At the end of the next turn, the current puppet regains half of the user's max HP.
+47,Unconscious Mind,0,Can only be used while stopped. Randomly uses another skill.
+48,Inner Power,0,Sacrifices half of the user's HP to maximize FoAtk.
+49,Camouflage,0,Sharply raises the user's Evasion.
+50,Imposing Air,0,Raises the user's FoAtk and Speed.
+51,Offensive Trance,0,Sharply raises the user's FoAtk, SpAtk, and Speed at the cost of FDef and SDef.
+52,Battle Preparation,0,Raises the user's FoAtk, FoDef, and Accuracy.
+53,Foresee,0,Attempts to use the attacking skill the foe will use, with 50% more power.
+54,Confine,0,Paralyzes the foe.
+55,Backup Plan,0,Switches to another puppet. That puppet inherits the user's stat modifiers.
+56,Yin Energy,2,A normal attack.
+57,Guided Missile,2,10% chance to make the foe flinch.
+58,Yang Energy,2,A normal attack.
+59,Scatter Beam,2,A normal attack that lands critical hits often.
+60,Good Luck,0,Raises one of the user's stats randomly.
+61,Shield Up,0,Raises the user's FoDef.
+62,Barrier Up,0,Raises the user's SpDef.
+63,Speedy Barrage,2,A normal attack.
+64,Dense Barrage,2,A normal attack.
+65,Overrun,2,A normal attack.
+66,Focused Movement,0,Raises the user's FoAtk and FoDef at the cost of Speed.
+67,Eternal Record,0,Replicates Field Barrier, Field Protect, and Lucky Rainbow, but the user faints.
+68,Recollection,0,Copies all of the foe's attributes.
+69,Heavenly Influence,2,During weather, power doubles and the type changes.
+70,Earthly Influence,1,During terrain, power doubles and the type changes.
+71,‚r‚j‚h‚k‚k‚O‚O‚V‚P,0,--
+72,‚r‚j‚h‚k‚k‚O‚O‚V‚Q,0,--
+73,‚r‚j‚h‚k‚k‚O‚O‚V‚R,0,--
+74,‚r‚j‚h‚k‚k‚O‚O‚V‚S,0,--
+75,‚r‚j‚h‚k‚k‚O‚O‚V‚T,0,--
+76,‚r‚j‚h‚k‚k‚O‚O‚V‚U,0,--
+77,‚r‚j‚h‚k‚k‚O‚O‚V‚V,0,--
+78,‚r‚j‚h‚k‚k‚O‚O‚V‚W,0,--
+79,‚r‚j‚h‚k‚k‚O‚O‚V‚X,0,--
+80,‚r‚j‚h‚k‚k‚O‚O‚W‚O,0,--
+81,‚r‚j‚h‚k‚k‚O‚O‚W‚P,0,--
+82,‚r‚j‚h‚k‚k‚O‚O‚W‚Q,0,--
+83,‚r‚j‚h‚k‚k‚O‚O‚W‚R,0,--
+84,‚r‚j‚h‚k‚k‚O‚O‚W‚S,0,--
+85,‚r‚j‚h‚k‚k‚O‚O‚W‚T,0,--
+86,‚r‚j‚h‚k‚k‚O‚O‚W‚U,0,--
+87,‚r‚j‚h‚k‚k‚O‚O‚W‚V,0,--
+88,‚r‚j‚h‚k‚k‚O‚O‚W‚W,0,--
+89,‚r‚j‚h‚k‚k‚O‚O‚W‚X,0,--
+90,‚r‚j‚h‚k‚k‚O‚O‚X‚O,0,--
+91,‚r‚j‚h‚k‚k‚O‚O‚X‚P,0,--
+92,‚r‚j‚h‚k‚k‚O‚O‚X‚Q,0,--
+93,‚r‚j‚h‚k‚k‚O‚O‚X‚R,0,--
+94,‚r‚j‚h‚k‚k‚O‚O‚X‚S,0,--
+95,‚r‚j‚h‚k‚k‚O‚O‚X‚T,0,--
+96,‚r‚j‚h‚k‚k‚O‚O‚X‚U,0,--
+97,‚r‚j‚h‚k‚k‚O‚O‚X‚V,0,--
+98,‚r‚j‚h‚k‚k‚O‚O‚X‚W,0,--
+99,‚r‚j‚h‚k‚k‚O‚O‚X‚X,0,--
+100,‚r‚j‚h‚k‚k‚O‚P‚O‚O,0,--
+101,Conflagration,2,Power is higher if the user's Cost is higher than the foe's.
+102,Purgatory Flicker,1,The user takes 1/3 of the damage in recoil. 10% chance to burn the foe.
+103,Holy Flare,2,50% chance to burn the foe.
+104,Burn Strike,1,10% chance to burn the foe. Lands critical hits more often.
+105,Exploding Blaze,2,30% chance to burn the foe.
+106,Fire Javelin,1,10% chance to burn the foe.
+107,Rising Sun,1,Raises the user's Speed.
+108,Phoenix Waltz,1,Power decreases if the user is not at full HP.
+109,Deflagration,2,The user cannot move next turn.
+110,Volcano,2,Harshly lowers the user's SpAtk.
+111,Inferno,2,10% chance to burn the foe.
+112,Blaze Spear,1,10% chance to burn the foe.
+113,Blaze of Tenmei,1,Burns the foe.
+114,Fire-Dragon Spiral,2,Traps the foe for 4-5 turns.
+115,Backdraft,2,10% chance to burn the foe.
+116,Flashover,2,30% chance to burn the foe.
+117,Flame Wave,2,50% chance to raise the user's SpAtk.
+118,Fire Wall,2,If the foe holds an item, the attack is 50% stronger and destroys the item.
+119,Fire-Snake Spiral,2,Traps the foe for 4-5 turns.
+120,Will-o'-Wisp,0,Burns and blinds the foe.
+121,Thermit,0,Heavily burns the foe.
+122,Terrain [Suzaku],0,Changes the terrain to Suzaku for 5 turns. During Suzaku, healing effects cause harm.
+123,Fireball,1,10% chance to burn the foe.
+124,Flame Pillar,2,20% chance to burn the foe.
+125,Fiery Game,2,10% chance to burn the foe.
+126,Flare,2,10% chance to burn the foe.
+127,Fire Sign,2,A normal attack. A puppet can only know one sign skill at a time.
+128,Rub Burn,0,Burns the foe.
+129,‚r‚j‚h‚k‚k‚O‚P‚Q‚X,0,--
+130,‚r‚j‚h‚k‚k‚O‚P‚R‚O,0,--
+131,‚r‚j‚h‚k‚k‚O‚P‚R‚P,0,--
+132,‚r‚j‚h‚k‚k‚O‚P‚R‚Q,0,--
+133,‚r‚j‚h‚k‚k‚O‚P‚R‚R,0,--
+134,‚r‚j‚h‚k‚k‚O‚P‚R‚S,0,--
+135,‚r‚j‚h‚k‚k‚O‚P‚R‚T,0,--
+136,‚r‚j‚h‚k‚k‚O‚P‚R‚U,0,--
+137,‚r‚j‚h‚k‚k‚O‚P‚R‚V,0,--
+138,‚r‚j‚h‚k‚k‚O‚P‚R‚W,0,--
+139,‚r‚j‚h‚k‚k‚O‚P‚R‚X,0,--
+140,‚r‚j‚h‚k‚k‚O‚P‚S‚O,0,--
+141,‚r‚j‚h‚k‚k‚O‚P‚S‚P,0,--
+142,‚r‚j‚h‚k‚k‚O‚P‚S‚Q,0,--
+143,‚r‚j‚h‚k‚k‚O‚P‚S‚R,0,--
+144,‚r‚j‚h‚k‚k‚O‚P‚S‚S,0,--
+145,‚r‚j‚h‚k‚k‚O‚P‚S‚T,0,--
+146,‚r‚j‚h‚k‚k‚O‚P‚S‚U,0,--
+147,‚r‚j‚h‚k‚k‚O‚P‚S‚V,0,--
+148,‚r‚j‚h‚k‚k‚O‚P‚S‚W,0,--
+149,‚r‚j‚h‚k‚k‚O‚P‚S‚X,0,--
+150,‚r‚j‚h‚k‚k‚O‚P‚T‚O,0,--
+151,High Tide,1,A normal attack.
+152,Waterfall Drop,1,A normal attack.
+153,Flash Flood,1,A normal attack that lands critical hits often.
+154,Ice Coffin,2,20% chance to make the foe flinch.
+155,Aqua Javelin,1,20% chance to lower the foe's Speed.
+156,Reverse Splash,2,Power doubles if the foe attacks the user on the same turn.
+157,Aquasonic,1,A normal attack with increased priority.
+158,Aqua Cutter,1,A normal attack with increased priority.
+159,Ice Gatling,1,Hits two to five times.
+160,Aqua Cannon,2,Power decreases if the user is not at full HP.
+161,Aqua Rake,2,The user cannot move next turn.
+162,Cold Rain,2,10% chance to stop the foe.
+163,Ice Age,2,10% chance to lower the foe's Speed.
+164,Frozen Prison,1,A normal attack.
+165,Lazy Mist,2,30% chance to weaken the foe.
+166,Geyser,1,A normal attack that always lands critical hits.
+167,Slime Shot,1,Lowers the foe's Speed.
+168,Veil of Water,2,For 5 turns, the user's side cannot have their stats lowered by the foe's side.
+169,Heavy Rain,2,Traps the foe for 4-5 turns.
+170,Cloudburst,0,Raises the user's FoAtk and FoDef at the cost of Speed.
+171,Ebb Tide,0,Harshly lowers the foe's Speed.
+172,Aquatic Waltz,0,Changes the foe's type to Water.
+173,Drought,0,Weakens the foe.
+174,Terrain [Genbu],0,Changes the terrain to Genbu for 5 turns. During Genbu, slower puppets move first.
+175,Water Ball,1,A normal attack.
+176,Frost Edge,1,10% chance to stop the foe.
+177,Foam Bubbles,1,A normal attack.
+178,Snowball Fight,1,10% chance to lower the foe's Speed.
+179,Water Sign,2,A normal attack. A puppet can only know one sign skill at a time.
+180,Quagmire,0,Lowers the foe's Speed.
+181,‚r‚j‚h‚k‚k‚O‚P‚W‚P,0,--
+182,‚r‚j‚h‚k‚k‚O‚P‚W‚Q,0,--
+183,‚r‚j‚h‚k‚k‚O‚P‚W‚R,0,--
+184,‚r‚j‚h‚k‚k‚O‚P‚W‚S,0,--
+185,‚r‚j‚h‚k‚k‚O‚P‚W‚T,0,--
+186,‚r‚j‚h‚k‚k‚O‚P‚W‚U,0,--
+187,‚r‚j‚h‚k‚k‚O‚P‚W‚V,0,--
+188,‚r‚j‚h‚k‚k‚O‚P‚W‚W,0,--
+189,‚r‚j‚h‚k‚k‚O‚P‚W‚X,0,--
+190,‚r‚j‚h‚k‚k‚O‚P‚X‚O,0,--
+191,‚r‚j‚h‚k‚k‚O‚P‚X‚P,0,--
+192,‚r‚j‚h‚k‚k‚O‚P‚X‚Q,0,--
+193,‚r‚j‚h‚k‚k‚O‚P‚X‚R,0,--
+194,‚r‚j‚h‚k‚k‚O‚P‚X‚S,0,--
+195,‚r‚j‚h‚k‚k‚O‚P‚X‚T,0,--
+196,‚r‚j‚h‚k‚k‚O‚P‚X‚U,0,--
+197,‚r‚j‚h‚k‚k‚O‚P‚X‚V,0,--
+198,‚r‚j‚h‚k‚k‚O‚P‚X‚W,0,--
+199,‚r‚j‚h‚k‚k‚O‚P‚X‚X,0,--
+200,‚r‚j‚h‚k‚k‚O‚Q‚O‚O,0,--
+201,Tumble Plant,1,Power is higher if the foe's cost is high.
+202,Root Frog,2,A normal attack.
+203,Peach-Thorn Arrow,1,The user takes 1/3 of the damage in recoil.
+204,Voice of Famine,2,10% chance to weaken the foe.
+205,Natural Beauty,1,20% chance to lower the foe's FoAtk.
+206,Grass Javelin,1,10% chance to weaken the foe.
+207,Power Drain,2,The user recovers half of the damage dealt.
+208,Hornet's Flit,1,Hits two to five times.
+209,Sakura Blizzard,1,10% chance to weaken the foe.
+210,Off-Season Bloom,2,Harshly lowers the user's SpAtk.
+211,Petal Dance,2,The user attacks for 2-3 turns, then becomes confused.
+212,Rainbow Flowers,2,A two-turn skill. The user charges on the first turn. Works instantly during Aurora.
+213,Pollen Mist,2,10% chance to lower the foe's SpAtk.
+214,Energy Absorb,2,The user recovers half of the damage dealt.
+215,Swirling Leaves,1,Always hits.
+216,Forest Therapy,0,Heals the user's party of all status ailments.
+217,Fountain of Life,0,The user recovers a little HP every turn, but becomes unable to switch or be blown away.
+218,Thorned Ivy,0,Blocks all damage from the foe's attack and counters strong attacks. May fail if used consecutively.
+219,Drain Seed,0,The foe's HP is drained to the user's side every turn. Does not work on Nature-type puppets.
+220,Grace of Mana,0,Restores half of the user's HP.
+221,White Lily Dance,0,The user faints. The next puppet to come out is restored to full HP and normal status.
+222,Fairy Dance,0,Raises the user's SpAtk, SpDef, and Speed.
+223,White Mist,0,Drastically raises the user's SpAtk.
+224,Mystic Wind,0,Drastically raises the user's FoDef.
+225,Bewitching Pollen,0,Stops the foe. Does not work on Nature-type puppets.
+226,Mystical Bug Mist,0,Paralyzes the foe.
+227,Terrain [Seiryu],0,Changes the terrain to Seiryu for 5 turns. During Seiryu, types do not interact.
+228,Butterfly's Flit,0,The user recovers a little HP every turn.
+229,Parasite,2,The user recovers half of the damage dealt.
+230,Apple Bomb,1,A normal attack that lands critical hits often.
+231,Scatter Beans,1,A normal attack.
+232,Seasonal Flowers,1,10% chance to lower the foe's Sp.Atk.
+233,Nature Sign,2,A normal attack. A puppet can only know one sign skill at a time.
+234,Root Injection,0,Poisons the foe.
+235,‚r‚j‚h‚k‚k‚O‚Q‚R‚T,0,--
+236,‚r‚j‚h‚k‚k‚O‚Q‚R‚U,0,--
+237,‚r‚j‚h‚k‚k‚O‚Q‚R‚V,0,--
+238,‚r‚j‚h‚k‚k‚O‚Q‚R‚W,0,--
+239,‚r‚j‚h‚k‚k‚O‚Q‚R‚X,0,--
+240,‚r‚j‚h‚k‚k‚O‚Q‚S‚O,0,--
+241,‚r‚j‚h‚k‚k‚O‚Q‚S‚P,0,--
+242,‚r‚j‚h‚k‚k‚O‚Q‚S‚Q,0,--
+243,‚r‚j‚h‚k‚k‚O‚Q‚S‚R,0,--
+244,‚r‚j‚h‚k‚k‚O‚Q‚S‚S,0,--
+245,‚r‚j‚h‚k‚k‚O‚Q‚S‚T,0,--
+246,‚r‚j‚h‚k‚k‚O‚Q‚S‚U,0,--
+247,‚r‚j‚h‚k‚k‚O‚Q‚S‚V,0,--
+248,‚r‚j‚h‚k‚k‚O‚Q‚S‚W,0,--
+249,‚r‚j‚h‚k‚k‚O‚Q‚S‚X,0,--
+250,‚r‚j‚h‚k‚k‚O‚Q‚T‚O,0,--
+251,Shattering Earth,1,Defeats the foe if it hits, regardless of their HP.
+252,Cataclysm,1,The user cannot move next turn.
+253,Shooting Press,2,A normal attack.
+254,Rocky Barrage,1,A normal attack that lands critical hits often.
+255,Royal Prism,2,30% chance to make the foe flinch.
+256,Rock Drills,1,A normal attack that always lands critical hits.
+257,Spiked Stones,1,Lowers the foe's Speed.
+258,Dust Cloud,1,30% chance to lower the foe's Accuracy.
+259,Stone Throw,1,Hits twice.
+260,Dust Devil Gate,1,Traps the foe for 4-5 turns.
+261,Godstone Frenzy,1,Hits two to five times.
+262,Waves of Earth,2,10% chance to lower the foe's Accuracy.
+263,Unstable Horizon,2,30% chance to lower the foe's Accuracy.
+264,Jewelry Storm,1,A normal attack.
+265,Landslide,1,Power doubles if the foe has less than half of their HP.
+266,Stone Circle,1,10% chance to raise all of the user's stats.
+267,Mine Trap,0,Lays a trap that hurts foes entering the field. Can be set up to 3 times.
+268,Weather [Duststorm],0,Changes the weather to Dust Storm for 5 turns. This harms puppets of most types.
+269,Mud Dango,1,A normal attack.
+270,Stone Rain,1,20% chance to make the foe flinch.
+271,Slingshot,1,Lowers the foe's Accuracy.
+272,Mudslide,1,10% chance to lower the foe's Accuracy.
+273,Earth Sign,2,A normal attack. A puppet can only know one sign skill at a time.
+274,Racing Earth,0,Sharply raises the user's Speed.
+275,Terrain [Kohryu],0,Changes the terrain to Kohryu for 5 turns. This disables the effects of items and abilities.
+276,Earthen Feast,1,10% chance to lower the foe's Accuracy.
+277,Realm [Gold],0,Summons Dust Storm weather and Kohryu terrain.
+278,Destruction Rift,1,Will double in power during any terrain, as well as cancel the terrain.
+279,‚r‚j‚h‚k‚k‚O‚Q‚V‚X,0,--
+280,‚r‚j‚h‚k‚k‚O‚Q‚W‚O,0,--
+281,‚r‚j‚h‚k‚k‚O‚Q‚W‚P,0,--
+282,‚r‚j‚h‚k‚k‚O‚Q‚W‚Q,0,--
+283,‚r‚j‚h‚k‚k‚O‚Q‚W‚R,0,--
+284,‚r‚j‚h‚k‚k‚O‚Q‚W‚S,0,--
+285,‚r‚j‚h‚k‚k‚O‚Q‚W‚T,0,--
+286,‚r‚j‚h‚k‚k‚O‚Q‚W‚U,0,--
+287,‚r‚j‚h‚k‚k‚O‚Q‚W‚V,0,--
+288,‚r‚j‚h‚k‚k‚O‚Q‚W‚W,0,--
+289,‚r‚j‚h‚k‚k‚O‚Q‚W‚X,0,--
+290,‚r‚j‚h‚k‚k‚O‚Q‚X‚O,0,--
+291,‚r‚j‚h‚k‚k‚O‚Q‚X‚P,0,--
+292,‚r‚j‚h‚k‚k‚O‚Q‚X‚Q,0,--
+293,‚r‚j‚h‚k‚k‚O‚Q‚X‚R,0,--
+294,‚r‚j‚h‚k‚k‚O‚Q‚X‚S,0,--
+295,‚r‚j‚h‚k‚k‚O‚Q‚X‚T,0,--
+296,‚r‚j‚h‚k‚k‚O‚Q‚X‚U,0,--
+297,‚r‚j‚h‚k‚k‚O‚Q‚X‚V,0,--
+298,‚r‚j‚h‚k‚k‚O‚Q‚X‚W,0,--
+299,‚r‚j‚h‚k‚k‚O‚Q‚X‚X,0,--
+300,‚r‚j‚h‚k‚k‚O‚R‚O‚O,0,--
+301,Clearing Mist,1,Power is higher if the foe's cost is high.
+302,Mirror's Reflection,2,Damage is 50% more than the damage taken from the foe's attack on the same turn.
+303,Impact Rebellion,1,Power is proportional to the foe's Speed, and inversely proportional to the user's Speed.
+304,Full Metal Crash,1,The user takes half of the damage in recoil.
+305,Samurai Edge,1,10% chance to raise the user's FoAtk.
+306,Brandish,1,The user takes 1/3 of the damage in recoil.
+307,Armor Pierce,1,10% chance to make the foe flinch.
+308,Killing Bite,1,A normal attack that always lands critical hits.
+309,Reversal Sword,1,Always hits.
+310,Overtake Strike,1,A normal attack with increased priority.
+311,Last Slash,1,Ruins the user's stance, preventing them from avoiding attacks.
+312,Silver Rain,2,10% chance to raise the user's SpAtk.
+313,Chrome Ray,2,10% chance to lower the foe's SpDef.
+314,Twin Gears,1,Hits twice.
+315,Rapid Throw,1,Hits two to five times.
+316,Focused Stance,0,Raises the user's FoAtk and Accuracy.
+317,Strenuous Stance,0,Sharply raises the user's FoAtk.
+318,Mad Rush Stance,0,Raises the user's FoAtk, and sharply raises their Speed.
+319,Iron Wall Stance,0,Sharply raises the user's FoDef.
+320,Vigilant Watch,0,Sees through the foe's stance, preventing them from avoiding the next attack.
+321,Terrain [Byakko],0,Changes the terrain to Byakko for 5 turns. This prevents anyone from avoiding attacks.
+322,Stealth Trap,0,Lays a trap that hurts foes entering the field. The trap's damage is Steel-typed.
+323,The Ripper,1,A normal attack that lands critical hits often.
+324,Hammer Throw,1,A normal attack that lands critical hits often.
+325,Knife Throw,1,10% chance to lower the foe's SpDef.
+326,Metal Needle,1,20% chance to raise the user's SpAtk.
+327,Steel Sign,2,A normal attack. A puppet can only know one sign skill at a time.
+328,Single-Minded,0,Raises the user's FoAtk.
+329,Hammer Bash,2,10% chance to lower the foe's FoDef.
+330,‚r‚j‚h‚k‚k‚O‚R‚R‚O,0,--
+331,‚r‚j‚h‚k‚k‚O‚R‚R‚P,0,--
+332,‚r‚j‚h‚k‚k‚O‚R‚R‚Q,0,--
+333,‚r‚j‚h‚k‚k‚O‚R‚R‚R,0,--
+334,‚r‚j‚h‚k‚k‚O‚R‚R‚S,0,--
+335,‚r‚j‚h‚k‚k‚O‚R‚R‚T,0,--
+336,‚r‚j‚h‚k‚k‚O‚R‚R‚U,0,--
+337,‚r‚j‚h‚k‚k‚O‚R‚R‚V,0,--
+338,‚r‚j‚h‚k‚k‚O‚R‚R‚W,0,--
+339,‚r‚j‚h‚k‚k‚O‚R‚R‚X,0,--
+340,‚r‚j‚h‚k‚k‚O‚R‚S‚O,0,--
+341,‚r‚j‚h‚k‚k‚O‚R‚S‚P,0,--
+342,‚r‚j‚h‚k‚k‚O‚R‚S‚Q,0,--
+343,‚r‚j‚h‚k‚k‚O‚R‚S‚R,0,--
+344,‚r‚j‚h‚k‚k‚O‚R‚S‚S,0,--
+345,‚r‚j‚h‚k‚k‚O‚R‚S‚T,0,--
+346,‚r‚j‚h‚k‚k‚O‚R‚S‚U,0,--
+347,‚r‚j‚h‚k‚k‚O‚R‚S‚V,0,--
+348,‚r‚j‚h‚k‚k‚O‚R‚S‚W,0,--
+349,‚r‚j‚h‚k‚k‚O‚R‚S‚X,0,--
+350,‚r‚j‚h‚k‚k‚O‚R‚T‚O,0,--
+351,Gensokyo Typhoon,2,A two-turn skill. The user charges on the first turn. Lands critical hits more often.
+352,Foehn Winds,1,The user takes 1/3 of the damage in recoil.
+353,Wind Javelin,1,10% chance to make the foe flinch.
+354,Air Stamp,1,Forces the foe to switch out for a random puppet after doing damage. Ends battles against wild puppets.
+355,Thieving Wind,2,Steals the foe's held item for yourself.
+356,Wind Train,2,Always hits.
+357,Twister,1,Hits two to five times.
+358,Great Tornado,2,Traps the foe for 4-5 turns.
+359,Macroburst,2,30% chance to confuse the foe.
+360,Swift Air-Raid,2,Always hits. Bypasses the effects of Magical Barrier.
+361,Wind Wave,2,30% chance to make the foe flinch.
+362,Dancing Wind,2,10% chance to raise all of the user's stats.
+363,Smash Spin,2,Clears the user's side of some binding effects, Drain Seed, and Trap skills.
+364,Spring First,2,A normal attack with increased priority.
+365,Wind God's Grace,0,For five turns, the user's party's Speed is doubled. Six turns during Calm weather.
+366,Squall,0,Forces the foe to switch out for a random puppet. Ends battles against wild puppets.
+367,Perch,0,Restores half of the user's HP, and grounds the user for the rest of the turn.
+368,Favorable Wind,0,Raises the user's Evasion.
+369,Skanda,0,Sharply raises the user's Speed.
+370,Weather [Calm],0,Changes the weather to Calm for 5 turns. During Calm, random secondary effects of skills are blocked.
+371,Feather Shot,2,A normal attack.
+372,Wintry Wind,2,A normal attack that lands critical hits often.
+373,Night Wind,2,A normal attack.
+374,Westerlies,2,20% chance to raise the user's Speed.
+375,Wind Sign,2,A normal attack. A puppet can only know one sign skill at a time.
+376,Sharp Wind,0,Raises the user's SpAtk and Speed.
+377,Flying Frenzy,1,10% chance to make the foe flinch.
+378,Spinning Air,2,10% chance to make the foe flinch.
+379,Realm [Serenity],0,Summons Calm weather and Seiryu Terrain.
+380,Passing Breeze,2,Will double in power during any weather, as well as cancel the weather.
+381,‚r‚j‚h‚k‚k‚O‚R‚W‚P,0,--
+382,‚r‚j‚h‚k‚k‚O‚R‚W‚Q,0,--
+383,‚r‚j‚h‚k‚k‚O‚R‚W‚R,0,--
+384,‚r‚j‚h‚k‚k‚O‚R‚W‚S,0,--
+385,‚r‚j‚h‚k‚k‚O‚R‚W‚T,0,--
+386,‚r‚j‚h‚k‚k‚O‚R‚W‚U,0,--
+387,‚r‚j‚h‚k‚k‚O‚R‚W‚V,0,--
+388,‚r‚j‚h‚k‚k‚O‚R‚W‚W,0,--
+389,‚r‚j‚h‚k‚k‚O‚R‚W‚X,0,--
+390,‚r‚j‚h‚k‚k‚O‚R‚X‚O,0,--
+391,‚r‚j‚h‚k‚k‚O‚R‚X‚P,0,--
+392,‚r‚j‚h‚k‚k‚O‚R‚X‚Q,0,--
+393,‚r‚j‚h‚k‚k‚O‚R‚X‚R,0,--
+394,‚r‚j‚h‚k‚k‚O‚R‚X‚S,0,--
+395,‚r‚j‚h‚k‚k‚O‚R‚X‚T,0,--
+396,‚r‚j‚h‚k‚k‚O‚R‚X‚U,0,--
+397,‚r‚j‚h‚k‚k‚O‚R‚X‚V,0,--
+398,‚r‚j‚h‚k‚k‚O‚R‚X‚W,0,--
+399,‚r‚j‚h‚k‚k‚O‚R‚X‚X,0,--
+400,‚r‚j‚h‚k‚k‚O‚S‚O‚O,0,--
+401,Thor's Hammer,1,The user takes 1/3 of the damage in recoil. 10% chance to paralyze the foe.
+402,Lightning Cut,1,10% chance to raise the user's Speed.
+403,Spark Javelin,1,10% chance to paralyze the foe.
+404,Plasma Ball,1,Paralyzes the foe.
+405,Thunderlord's Scorn,2,10% chance to paralyze the foe.
+406,Divine Thunder,2,Paralyzes the foe.
+407,Thunder Force,2,10% chance to paralyze the foe.
+408,Stormcloud's Eye,2,30% chance to paralyze the foe.
+409,Charge Thief,2,The user recovers half of the damage dealt.
+410,Lightning Speed,1,If it inflicts damage, the user switches for another puppet. Ends battles against wild puppets.
+411,Spark Cross,2,Lowers the foe's Speed.
+412,Purple Lightning,2,70% chance to raise the user's SpAtk.
+413,Lightning Charge,0,Raises the user's SpDef. If an Electric-type skill is used next turn, its power is doubled.
+414,High Magnetism,0,Changes the next skill the foe uses to Electric-type.
+415,Thunder Veil,0,Paralyzes and confuses the foe.
+416,Paralyzing Wave,0,Paralyzes the foe.
+417,Spark Shot,2,10% chance to paralyze the foe.
+418,Graze Bolt,2,20% chance to paralyze the foe.
+419,Lightning Strike,2,10% chance to paralyze the foe.
+420,Energy Bolt,2,10% chance to paralyze the foe.
+421,Electric Sign,2,A normal attack. A puppet can only know one sign skill at a time.
+422,Thunderclap,0,100% chance to make the foe flinch.
+423,Thunder Drill,1,A normal attack that always lands critical hits.
+424,Shocking Wave,0,Shocks the foe. Does not work on Earth-type puppets.
+425,‚r‚j‚h‚k‚k‚O‚S‚Q‚T,0,--
+426,‚r‚j‚h‚k‚k‚O‚S‚Q‚U,0,--
+427,‚r‚j‚h‚k‚k‚O‚S‚Q‚V,0,--
+428,‚r‚j‚h‚k‚k‚O‚S‚Q‚W,0,--
+429,‚r‚j‚h‚k‚k‚O‚S‚Q‚X,0,--
+430,‚r‚j‚h‚k‚k‚O‚S‚R‚O,0,--
+431,‚r‚j‚h‚k‚k‚O‚S‚R‚P,0,--
+432,‚r‚j‚h‚k‚k‚O‚S‚R‚Q,0,--
+433,‚r‚j‚h‚k‚k‚O‚S‚R‚R,0,--
+434,‚r‚j‚h‚k‚k‚O‚S‚R‚S,0,--
+435,‚r‚j‚h‚k‚k‚O‚S‚R‚T,0,--
+436,‚r‚j‚h‚k‚k‚O‚S‚R‚U,0,--
+437,‚r‚j‚h‚k‚k‚O‚S‚R‚V,0,--
+438,‚r‚j‚h‚k‚k‚O‚S‚R‚W,0,--
+439,‚r‚j‚h‚k‚k‚O‚S‚R‚X,0,--
+440,‚r‚j‚h‚k‚k‚O‚S‚S‚O,0,--
+441,‚r‚j‚h‚k‚k‚O‚S‚S‚P,0,--
+442,‚r‚j‚h‚k‚k‚O‚S‚S‚Q,0,--
+443,‚r‚j‚h‚k‚k‚O‚S‚S‚R,0,--
+444,‚r‚j‚h‚k‚k‚O‚S‚S‚S,0,--
+445,‚r‚j‚h‚k‚k‚O‚S‚S‚T,0,--
+446,‚r‚j‚h‚k‚k‚O‚S‚S‚U,0,--
+447,‚r‚j‚h‚k‚k‚O‚S‚S‚V,0,--
+448,‚r‚j‚h‚k‚k‚O‚S‚S‚W,0,--
+449,‚r‚j‚h‚k‚k‚O‚S‚S‚X,0,--
+450,‚r‚j‚h‚k‚k‚O‚S‚T‚O,0,--
+451,Luminous Flux,2,The user takes 1/3 of the damage in recoil.
+452,Evil-Crushing Arrow,1,10% chance to make the foe flinch.
+453,Atomic Energy,2,The user recovers half of the damage dealt.
+454,Light Javelin,1,10% chance to confuse the foe.
+455,Sunbeam Dance,2,If the Weather is not clear, inflicts double damage and removes it.
+456,Over Ray,2,A normal attack with increased priority.
+457,Pulse Laser,2,The user cannot move next turn.
+458,Arclight,2,Harshly lowers the user's SpAtk.
+459,Moonbow,1,A normal attack.
+460,Star Flare,1,20% chance to lower the foe's Accuracy.
+461,Field Barrier,0,The user's side takes half damage from Spread skills for five turns.
+462,Field Protect,0,The user's side takes half damage from Focus skills for five turns.
+463,Lucky Rainbow,0,The user's side is protected from abnormal status for five turns.
+464,Sun's Protection,0,Raises the user's FoAtk and SpAtk. More potent during Calm and Aurora.
+465,Moon's Protection,0,Raises the user's SpAtk and SpDef.
+466,Astrology,0,Harshly lowers the foe's FoAtk.
+467,Solar Eclipse,0,Scares and confuses the foe.
+468,Flash Bullet,0,Confuses the foe.
+469,Weather [Aurora],0,Changes the weather to Aurora for 5 turns. This strengthens Light attacks and weakens Dark attacks.
+470,Light Up,2,A normal attack that lands critical hits often.
+471,Angel Ladder,2,20% chance to lower the foe's Accuracy.
+472,Light of Origin,2,A normal attack.
+473,Diffusion Laser,2,20% chance to make the foe flinch.
+474,Light Sign,2,A normal attack. A puppet can only know one sign skill at a time.
+475,Gathered Stars,0,Raises the user's FoAtk.
+476,Realm [Corona],0,Summons Aurora weather and Byakko terrain.
+477,‚r‚j‚h‚k‚k‚O‚S‚V‚V,0,--
+478,‚r‚j‚h‚k‚k‚O‚S‚V‚W,0,--
+479,‚r‚j‚h‚k‚k‚O‚S‚V‚X,0,--
+480,‚r‚j‚h‚k‚k‚O‚S‚W‚O,0,--
+481,‚r‚j‚h‚k‚k‚O‚S‚W‚P,0,--
+482,‚r‚j‚h‚k‚k‚O‚S‚W‚Q,0,--
+483,‚r‚j‚h‚k‚k‚O‚S‚W‚R,0,--
+484,‚r‚j‚h‚k‚k‚O‚S‚W‚S,0,--
+485,‚r‚j‚h‚k‚k‚O‚S‚W‚T,0,--
+486,‚r‚j‚h‚k‚k‚O‚S‚W‚U,0,--
+487,‚r‚j‚h‚k‚k‚O‚S‚W‚V,0,--
+488,‚r‚j‚h‚k‚k‚O‚S‚W‚W,0,--
+489,‚r‚j‚h‚k‚k‚O‚S‚W‚X,0,--
+490,‚r‚j‚h‚k‚k‚O‚S‚X‚O,0,--
+491,‚r‚j‚h‚k‚k‚O‚S‚X‚P,0,--
+492,‚r‚j‚h‚k‚k‚O‚S‚X‚Q,0,--
+493,‚r‚j‚h‚k‚k‚O‚S‚X‚R,0,--
+494,‚r‚j‚h‚k‚k‚O‚S‚X‚S,0,--
+495,‚r‚j‚h‚k‚k‚O‚S‚X‚T,0,--
+496,‚r‚j‚h‚k‚k‚O‚S‚X‚U,0,--
+497,‚r‚j‚h‚k‚k‚O‚S‚X‚V,0,--
+498,‚r‚j‚h‚k‚k‚O‚S‚X‚W,0,--
+499,‚r‚j‚h‚k‚k‚O‚S‚X‚X,0,--
+500,‚r‚j‚h‚k‚k‚O‚T‚O‚O,0,--
+501,Twilight Infection,2,A normal attack.
+502,Dark Sphere,2,20% chance to make the foe flinch. Power increases against camouflage users and guaranteed to hit. 
+503,Blackout,1,30% chance to blind the foe.
+504,Changeling,1,If it inflicts damage, the user switches for another puppet. Ends battles against wild puppets.
+505,Panic Call,2,If the foe holds an item, the attack is 50% stronger and knocks away the item.
+506,Lost Crisis,1,If a Terrain is active, inflicts double damage and removes it.
+507,Dark Arrow,1,Hits twice.
+508,Dark Innocence,2,Hits two to five times.
+509,Darkness Dance,1,The user attacks for 2-3 turns, then becomes confused.
+510,Dark Sweets,2,10% chance to blind the foe.
+511,Eye of Laplace,1,A normal attack that lands critical hits often.
+512,Infinite Darkness,2,Traps the foe for 4-5 turns.
+513,Shark Trade,0,Trades hold items with the foe.
+514,Black Hole,0,The foe becomes unable to switch out until the user leaves the field.
+515,Puppet's Grudge,0,The user faints to harshly lower the foe's FoAtk and SpAtk.
+516,Dark Power,0,Raises the user's FoAtk and FoDef.
+517,Bind Trap,0,Lays a trap that lowers the Speed of foes entering the field.
+518,Sweet Nightmare,0,Blinds the foe.
+519,Weather [Heavy Fog],0,Changes the weather to Fog for 5 turns. This strengthens Dark attacks and weakens Light attacks.
+520,Dark Ball,1,10% chance to blind the foe.
+521,Ominous Doll,1,10% chance to blind the foe.
+522,Bad Moon,1,10% chance to blind the foe.
+523,Bloody Storm,2,10% chance to make the foe flinch.
+524,Dark Sign,2,A normal attack. A puppet can only know one sign skill at a time.
+525,Dead of Night,0,Raises the user's Evasion.
+526,Night Step,1,A normal attack.
+527,Creeping Darkness,0,Poisons and blinds the foe.
+528,Realm [Scarlet Mist],0,Summons Heavy Fog weather and Suzaku terrain.
+529,‚r‚j‚h‚k‚k‚O‚T‚Q‚X,0,--
+530,‚r‚j‚h‚k‚k‚O‚T‚R‚O,0,--
+531,‚r‚j‚h‚k‚k‚O‚T‚R‚P,0,--
+532,‚r‚j‚h‚k‚k‚O‚T‚R‚Q,0,--
+533,‚r‚j‚h‚k‚k‚O‚T‚R‚R,0,--
+534,‚r‚j‚h‚k‚k‚O‚T‚R‚S,0,--
+535,‚r‚j‚h‚k‚k‚O‚T‚R‚T,0,--
+536,‚r‚j‚h‚k‚k‚O‚T‚R‚U,0,--
+537,‚r‚j‚h‚k‚k‚O‚T‚R‚V,0,--
+538,‚r‚j‚h‚k‚k‚O‚T‚R‚W,0,--
+539,‚r‚j‚h‚k‚k‚O‚T‚R‚X,0,--
+540,‚r‚j‚h‚k‚k‚O‚T‚S‚O,0,--
+541,‚r‚j‚h‚k‚k‚O‚T‚S‚P,0,--
+542,‚r‚j‚h‚k‚k‚O‚T‚S‚Q,0,--
+543,‚r‚j‚h‚k‚k‚O‚T‚S‚R,0,--
+544,‚r‚j‚h‚k‚k‚O‚T‚S‚S,0,--
+545,‚r‚j‚h‚k‚k‚O‚T‚S‚T,0,--
+546,‚r‚j‚h‚k‚k‚O‚T‚S‚U,0,--
+547,‚r‚j‚h‚k‚k‚O‚T‚S‚V,0,--
+548,‚r‚j‚h‚k‚k‚O‚T‚S‚W,0,--
+549,‚r‚j‚h‚k‚k‚O‚T‚S‚X,0,--
+550,‚r‚j‚h‚k‚k‚O‚T‚T‚O,0,--
+551,Venom Nova,1,10% chance to poison the foe.
+552,Dust Bomb,1,30% chance to poison the foe.
+553,Poisoned Arrow,1,10% chance to poison the foe. Lands critical hits more often.
+554,Venom Strike,1,20% chance to poison the foe. Cannot be used when holding an item.
+555,Poison Bomb,1,10% chance to poison the foe.
+556,Venom Fang,1,30% chance to poison the foe.
+557,Mysterious Liquid,1,Does double damage if the foe is poisoned.
+558,Negative Mist,2,Always hits. Clears the foe's stat modifiers.
+559,Toxic Spiral,2,Harshly lowers the foe's SpDef.
+560,Poison Trap,0,Lays a trap that poisons foes entering the field. Can be stacked up to twice.
+561,Miasma,0,Harshly poisons the foe. Always hits if the user is Poison-type.
+562,Purple Smog,2,10% chance to poison the foe.
+563,Slime Ball,1,20% chance to harshly poison the foe.
+564,Smog Shot,1,30% chance to poison the foe.
+565,Toxic Haze,2,20% chance to harshly poison the foe.
+566,Poison Sign,2,A normal attack. A puppet can only know one sign skill at a time.
+567,Contagion,0,Poisons the foe.
+568,Poison Stream,2,A normal attack.
+569,Depressing Rain,2,Always hits. Clears the foe's stat modifiers.
+570,Sweet Desperado,2,Harshly lowers the user's SpAtk.
+571,Acid Tears,0,Poisons and scares the foe.
+572,‚r‚j‚h‚k‚k‚O‚T‚V‚Q,0,--
+573,‚r‚j‚h‚k‚k‚O‚T‚V‚R,0,--
+574,‚r‚j‚h‚k‚k‚O‚T‚V‚S,0,--
+575,‚r‚j‚h‚k‚k‚O‚T‚V‚T,0,--
+576,‚r‚j‚h‚k‚k‚O‚T‚V‚U,0,--
+577,‚r‚j‚h‚k‚k‚O‚T‚V‚V,0,--
+578,‚r‚j‚h‚k‚k‚O‚T‚V‚W,0,--
+579,‚r‚j‚h‚k‚k‚O‚T‚V‚X,0,--
+580,‚r‚j‚h‚k‚k‚O‚T‚W‚O,0,--
+581,‚r‚j‚h‚k‚k‚O‚T‚W‚P,0,--
+582,‚r‚j‚h‚k‚k‚O‚T‚W‚Q,0,--
+583,‚r‚j‚h‚k‚k‚O‚T‚W‚R,0,--
+584,‚r‚j‚h‚k‚k‚O‚T‚W‚S,0,--
+585,‚r‚j‚h‚k‚k‚O‚T‚W‚T,0,--
+586,‚r‚j‚h‚k‚k‚O‚T‚W‚U,0,--
+587,‚r‚j‚h‚k‚k‚O‚T‚W‚V,0,--
+588,‚r‚j‚h‚k‚k‚O‚T‚W‚W,0,--
+589,‚r‚j‚h‚k‚k‚O‚T‚W‚X,0,--
+590,‚r‚j‚h‚k‚k‚O‚T‚X‚O,0,--
+591,‚r‚j‚h‚k‚k‚O‚T‚X‚P,0,--
+592,‚r‚j‚h‚k‚k‚O‚T‚X‚Q,0,--
+593,‚r‚j‚h‚k‚k‚O‚T‚X‚R,0,--
+594,‚r‚j‚h‚k‚k‚O‚T‚X‚S,0,--
+595,‚r‚j‚h‚k‚k‚O‚T‚X‚T,0,--
+596,‚r‚j‚h‚k‚k‚O‚T‚X‚U,0,--
+597,‚r‚j‚h‚k‚k‚O‚T‚X‚V,0,--
+598,‚r‚j‚h‚k‚k‚O‚T‚X‚W,0,--
+599,‚r‚j‚h‚k‚k‚O‚T‚X‚X,0,--
+600,‚r‚j‚h‚k‚k‚O‚U‚O‚O,0,--
+601,Midnight Specter,1,The user takes 1/3 of the damage in recoil.
+602,Stalk and Murder,1,A two-turn skill. The user vanishes on the first turn. Bypasses Field Barriers. 
+603,Shadow Javelin,1,10% chance to scare the foe.
+604,Soul Hound,2,Always hits.
+605,Unfettered Soul,2,Does double damage if the user is not holding an item.
+606,Shadow Bomb,1,A normal attack with increased priority.
+607,Charon Ferries,2,Damage is equal to the user's level.
+608,Poltergeist,1,10% chance to scare the foe.
+609,Starving Spirit,1,A normal attack.
+610,Ghost Wave,2,30% chance to scare the foe.
+611,Love or Pain,1,Does double damage if the foe has a status ailment.
+612,Soul Eater,1,10% chance to raise all of the user's stats.
+613,Call of the Dead,0,If the user faints due to a Skill before their next action, the foe also faints.
+614,Curse Reversal,0,Adds the user's and foe's current HP and sets both to half of that.
+615,Shinigami's Waltz,0,Consumes half of the user's HP to sap a fourth of the foe's HP every turn.
+616,Jinx,0,Seals the skill the foe last used for four turns.
+617,Scorn,0,The last skill the foe used loses 4 SP.
+618,Behind You!,0,Scares the foe.
+619,Ghost Trick,1,10% chance to make the foe flinch.
+620,Specter Warning,1,10% chance to make the foe flinch.
+621,Soul Walking,1,30% chance to scare the foe.
+622,Play Ghost,1,10% chance to scare the foe.
+623,Nether Sign,2,A normal attack. A puppet can only know one sign skill at a time.
+624,Stone Pile,0,Raises the user's SpDef.
+625,Specter's Waltz,1,10% chance to scare the foe.
+626,Ghost Chase,0,Makes the user immune to Fighting-type skills.
+627,Eye of Calamity,0,Burns and scares the foe.
+628,‚r‚j‚h‚k‚k‚O‚U‚Q‚W,0,--
+629,‚r‚j‚h‚k‚k‚O‚U‚Q‚X,0,--
+630,‚r‚j‚h‚k‚k‚O‚U‚R‚O,0,--
+631,‚r‚j‚h‚k‚k‚O‚U‚R‚P,0,--
+632,‚r‚j‚h‚k‚k‚O‚U‚R‚Q,0,--
+633,‚r‚j‚h‚k‚k‚O‚U‚R‚R,0,--
+634,‚r‚j‚h‚k‚k‚O‚U‚R‚S,0,--
+635,‚r‚j‚h‚k‚k‚O‚U‚R‚T,0,--
+636,‚r‚j‚h‚k‚k‚O‚U‚R‚U,0,--
+637,‚r‚j‚h‚k‚k‚O‚U‚R‚V,0,--
+638,‚r‚j‚h‚k‚k‚O‚U‚R‚W,0,--
+639,‚r‚j‚h‚k‚k‚O‚U‚R‚X,0,--
+640,‚r‚j‚h‚k‚k‚O‚U‚S‚O,0,--
+641,‚r‚j‚h‚k‚k‚O‚U‚S‚P,0,--
+642,‚r‚j‚h‚k‚k‚O‚U‚S‚Q,0,--
+643,‚r‚j‚h‚k‚k‚O‚U‚S‚R,0,--
+644,‚r‚j‚h‚k‚k‚O‚U‚S‚S,0,--
+645,‚r‚j‚h‚k‚k‚O‚U‚S‚T,0,--
+646,‚r‚j‚h‚k‚k‚O‚U‚S‚U,0,--
+647,‚r‚j‚h‚k‚k‚O‚U‚S‚V,0,--
+648,‚r‚j‚h‚k‚k‚O‚U‚S‚W,0,--
+649,‚r‚j‚h‚k‚k‚O‚U‚S‚X,0,--
+650,‚r‚j‚h‚k‚k‚O‚U‚T‚O,0,--
+651,Cross Counter,1,Damage is twice the damage taken from the foe's Focus attack on the same turn.
+652,Mountain Breaker,1,Power is higher if the foe's cost is high.
+653,Aikido Arts,1,Damage is equal to the user's level.
+654,Dire State,2,Power is higher the lower the user's current HP is.
+655,Vacuum Rupture,1,The user cannot move next turn.
+656,Meteor Impact,1,Fails if the user is hurt on the same turn they try to use this Skill.
+657,Reckless Dive,1,If the skill fails to inflict damage, the user loses half of their HP.
+658,Exploding Fist,1,Confuses the foe.
+659,Heavenly Ascent,1,Lowers the user's FoDef and SpDef.
+660,Cross Drive,1,Lowers the user's Speed.
+661,Dancing Sword,1,A normal attack that lands critical hits often.
+662,Life Burst,2,Always hits.
+663,Aura Drain,1,The user recovers half of the damage dealt.
+664,Break Shot,1,Breaks the foe's Field Barrier and Field Protect effects before doing damage.
+665,Diligence,2,Power doubles if you take damage from a foe's Skill on the same turn.
+666,Charging Stun,1,Forces the foe to switch out for a random puppet after doing damage. Ends battles against wild puppets.
+667,Corkscrew,1,70% chance to raise the user's FoAtk.
+668,Strike Shot,1,A normal attack with increased priority.
+669,Divine Punishment,2,The user faints to deal damage equal to the current HP.
+670,GIGANTIC,2,10% chance to lower the foe's SpDef.
+671,Concussion,2,20% chance to make the foe flinch.
+672,Understep,1,Lowers the foe's Speed.
+673,Twin Thrust,1,Hits twice.
+674,Rush Attack,1,Hits two to five times.
+675,Hachiman's Blessing,0,Greatly increases the chance that the user will land a critical hit.
+676,Forward Thrust,1,A normal attack that lands critical hits often.
+677,Backhand Blow,1,A normal attack.
+678,Skull Breaker,1,A normal attack
+679,Spiral Strike,2,10% chance to raise the user's SpAtk.
+680,Fighting Sign,2,A normal attack. A puppet can only know one sign skill at a time.
+681,Tense Up,0,Raises the user's FoDef.
+682,Brave Burst,2,A normal attack.
+683,Shooting Arts,1,Hits two to five times.
+684,‚r‚j‚h‚k‚k‚O‚U‚W‚S,0,--
+685,‚r‚j‚h‚k‚k‚O‚U‚W‚T,0,--
+686,‚r‚j‚h‚k‚k‚O‚U‚W‚U,0,--
+687,‚r‚j‚h‚k‚k‚O‚U‚W‚V,0,--
+688,‚r‚j‚h‚k‚k‚O‚U‚W‚W,0,--
+689,‚r‚j‚h‚k‚k‚O‚U‚W‚X,0,--
+690,‚r‚j‚h‚k‚k‚O‚U‚X‚O,0,--
+691,‚r‚j‚h‚k‚k‚O‚U‚X‚P,0,--
+692,‚r‚j‚h‚k‚k‚O‚U‚X‚Q,0,--
+693,‚r‚j‚h‚k‚k‚O‚U‚X‚R,0,--
+694,‚r‚j‚h‚k‚k‚O‚U‚X‚S,0,--
+695,‚r‚j‚h‚k‚k‚O‚U‚X‚T,0,--
+696,‚r‚j‚h‚k‚k‚O‚U‚X‚U,0,--
+697,‚r‚j‚h‚k‚k‚O‚U‚X‚V,0,--
+698,‚r‚j‚h‚k‚k‚O‚U‚X‚W,0,--
+699,‚r‚j‚h‚k‚k‚O‚U‚X‚X,0,--
+700,‚r‚j‚h‚k‚k‚O‚V‚O‚O,0,--
+701,Miracle Reprisal,2,Power increases the more the foe's stats have been increased.
+702,Revolving Illusions,2,Uses the foe's FoAtk instead of the user's.
+703,Ephemeral,2,10% chance to lower the foe's FoDef.
+704,Sneak Attack,1,Fails if the foe is not readying an attacking Skill, or if the foe moves first.
+705,Mirage Edge,1,A normal attack that lands critical hits often.
+706,Flower of Hell,1,30% chance to break the foe's stance, preventing them from avoiding the next attack.
+707,St. Elmo's Fire,1,If the foe holds an item, the attack is 50% stronger and destroys the item.
+708,Fake Jewel,1,""I'm just borrowin' it 'till I'm dead."" Steals foe's held item.
+709,Invisible Heart,2,Always hits.
+710,Reprimand,1,Power doubles if you take damage from a foe's Skill on the same turn.
+711,Pursuit,1,If the foe attempts to switch on the same turn, attacks the fleeing puppet for double damage.
+712,Gravity Blast,2,Power decreases if the foe is not at full HP.
+713,Moon's Reflection,2,Damage is twice the damage taken from the foe's Spread attack on the same turn.
+714,Catastrophe,2,10% chance to lower the foe's SpDef.
+715,Glamor Pandemic,2,Confuses the foe.
+716,Unknown Flare,2,30% chance to confuse the foe.
+717,Mysterious Wave,2,Attacks against the foe's FoDef instead of their SpDef.
+718,Continue,0,The user recovers all HP and status, but is stopped for two turns.
+719,Mirage,0,Reflects Status skills back to the other party.
+720,Near-Death Event,0,Duplicates the effect of the last used Skill.
+721,Amnesia,0,The foe will be stopped at the end of the next turn.
+722,Power Swap,0,Switches the user's changes to FoAtk and SpAtk with the foe's.
+723,Power Split,0,Averages the user's FoAtk and SpAtk with the foe's.
+724,Cross Change,0,Switches the user's Ability with the foe's.
+725,Guard Swap,0,Switches the user's changes to FoDef and SpDef with the foe's.
+726,Guard Split,0,Averages the user's FoDef and SpDef with the foe's.
+727,Pretense,0,Changes the user's type to the type of the first Skill they know.
+728,Doppleganger,0,Changes the user's type to the foe's type.
+729,Imagination,0,Switches the user's FoAtk and FoDef.
+730,Honest Man's Lie,0,Moves the user's status ailment to the foe.
+731,Possession,0,Changes the user's Ability to the foe's Ability.
+732,Projection,0,The user copies all of the foe's stat modifiers.
+733,Recall Nightmare,0,Changes the foe's Ability to Active, removing their old ability and preventing them from being Stopped.
+734,Mind Control,0,Changes the foe's Ability to the user's Ability.
+735,Gorgon's Eye,0,Stops the foe.
+736,Bout Drunkard,0,Stops the foe.
+737,Illusion Bullets,1,A normal attack.
+738,Mirror World,2,30% chance to make the foe flinch.
+739,Mysterious Flare,2,A normal attack.
+740,Imaginary Friend,2,10% chance to lower the foe's SpDef.
+741,Illusion Sign,2,A normal attack. A puppet can only know one sign skill at a time.
+742,Heat Haze,0,Lowers the foe's FoAtk.
+743,Hallucination,2,A normal attack.
+744,Word Break,0,Seals two of the foe's skills for four turns.
+745,‚r‚j‚h‚k‚k‚O‚V‚S‚T,0,--
+746,‚r‚j‚h‚k‚k‚O‚V‚S‚U,0,--
+747,‚r‚j‚h‚k‚k‚O‚V‚S‚V,0,--
+748,‚r‚j‚h‚k‚k‚O‚V‚S‚W,0,--
+749,‚r‚j‚h‚k‚k‚O‚V‚S‚X,0,--
+750,‚r‚j‚h‚k‚k‚O‚V‚T‚O,0,--
+751,Detonation Burst,2,Lowers the user's FoAtk and FoDef.
+752,High Tone Crush,1,10% chance to lower one of the foe's stats randomly.
+753,Dancing Rain,1,50% chance to lower the foe's FoDef.
+754,Phantom Ensemble,2,Lowers the foe's FoAtk.
+755,Danmaku Orchestra,2,A normal attack.
+756,Ultra High Tone,1,10% chance to raise one of the user's stats randomly.
+757,Primal Noise,2,50% chance to lower the foe's SpDef.
+758,Fantasy Melody,2,Always hits.
+759,Sorrowful Tune,2,Lowers the foe's SpAtk.
+760,Infinite Scales,2,Power increases the more the user's stats have been increased.
+761,Encourage,0,Forces the foe to keep using the Skill they last used for three turns.
+762,Upbeat,0,Prevents the foe from using Status Skills for three turns.
+763,A Tempo,0,Clears everyone's stat modifiers.
+764,Booing,0,Forces the foe to switch out for a random puppet. Ends battles against wild puppets.
+765,Ruinous Voice,0,Both puppets will faint in 3 turns. Switching out ends the effect.
+766,Brave Song,0,Sharply raises the user's SpAtk.
+767,Cheer,0,Sharply raises the user's SpDef.
+768,Merry Dance,0,Raises the user's FoDef and SpDef.
+769,Inspiration,0,Sharply raises the user's FoDef.
+770,Decrescendo,0,Lowers the foe's FoAtk and SpAtk. The user then switches for another puppet. Ends battles against wild puppets.
+771,Shout,0,Lowers the foe's FoAtk.
+772,Shriek,0,Lowers the foe's SpAtk.
+773,Bellow,0,Lowers the foe's SpDef.
+774,Phase Inversion,0,Inverts the foe's stat modifiers.
+775,Roar,0,Sharply lowers the foe's FoDef.
+776,Claim,0,Prevents the foe from using the same Skill twice in a row.
+777,Lullaby,0,Stops the foe.
+778,Howling Voice,2,A normal attack.
+779,Ambient,2,10% chance to lower one of the foe's stats randomly.
+780,Soprano Voice,2,A normal attack.
+781,Waltz,2,10% chance to raise one of the user's stats randomly.
+782,Sound Sign,2,A normal attack. A puppet can only know one sign skill at a time.
+783,Tuning,0,Raises the user's SpAtk.
+784,‚r‚j‚h‚k‚k‚O‚V‚W‚S,0,--
+785,‚r‚j‚h‚k‚k‚O‚V‚W‚T,0,--
+786,‚r‚j‚h‚k‚k‚O‚V‚W‚U,0,--
+787,‚r‚j‚h‚k‚k‚O‚V‚W‚V,0,--
+788,‚r‚j‚h‚k‚k‚O‚V‚W‚W,0,--
+789,‚r‚j‚h‚k‚k‚O‚V‚W‚X,0,--
+790,‚r‚j‚h‚k‚k‚O‚V‚X‚O,0,--
+791,‚r‚j‚h‚k‚k‚O‚V‚X‚P,0,--
+792,‚r‚j‚h‚k‚k‚O‚V‚X‚Q,0,--
+793,‚r‚j‚h‚k‚k‚O‚V‚X‚R,0,--
+794,‚r‚j‚h‚k‚k‚O‚V‚X‚S,0,--
+795,‚r‚j‚h‚k‚k‚O‚V‚X‚T,0,--
+796,‚r‚j‚h‚k‚k‚O‚V‚X‚U,0,--
+797,‚r‚j‚h‚k‚k‚O‚V‚X‚V,0,--
+798,‚r‚j‚h‚k‚k‚O‚V‚X‚W,0,--
+799,‚r‚j‚h‚k‚k‚O‚V‚X‚X,0,--
+800,‚r‚j‚h‚k‚k‚O‚W‚O‚O,0,--
+801,Overdrive,2,Harshly lowers the user's FoAtk.
+802,Distortion Bomb,1,10% chance to lower the foe's FoDef.
+803,Alluring Maze,2,Attacks against the foe's SpDef instead of their FoDef.
+804,Stealth Kill,1,Always hits. Bypasses the effects of Magical Barrier.
+805,Trickster,1,A normal attack with increased priority.
+806,Dense Fog Bloom,2,A two-turn skill. The user charges on the first turn. Works instantly during Heavy Fog.
+807,Impulse,2,10% chance to lower the foe's SpDef.
+808,Luscious Whisper,2,Attacks against the foe's FoDef instead of their SpDef.
+809,Field Break,1,Breaks the foe's Field Barrier and Field Protect effects before doing damage.
+810,Irreversible Trick,2,Ignores Field Protect and Barrier Option, will increase in power if foe uses a support skill.
+811,Mirror Damage,2,Power doubles if you take damage from a foe's Skill on the same turn.
+812,Force Shield,0,Removes your weaknesses and resistances this turn to greatly limit damage. May fail if used consecutively.
+813,Element Reverse,0,Inverts the foe's weaknesses and resistances.
+814,Field Shift,0,Moves the foe's Field Barrier, Field Protect, Lucky Rainbow, and Magical Barrier to your side.
+815,Soul Corruption,0,Blinds and confuses the foe.
+816,Weather [Sunshower],0,Changes the weather to Sunshower for 5 turns. During Sunshower, FoDef and SpDef are switched.
+817,Warped Sign,2,A normal attack. A puppet can only know one sign skill at a time.
+818,Realm [Black Rain],0,Summons Sunshower weather and Genbu terrain.
+819,Time Screw,2,Always hits.
+820,Limitless Realm,0,Cancels all weather and terrain.
+821,‚r‚j‚h‚k‚k‚O‚W‚Q‚P,0,’ÊíUŒ‚B
+822,‚r‚j‚h‚k‚k‚O‚W‚Q‚Q,0,’ÊíUŒ‚B
+823,‚r‚j‚h‚k‚k‚O‚W‚Q‚R,0,’ÊíUŒ‚B
+824,‚r‚j‚h‚k‚k‚O‚W‚Q‚S,0,’ÊíUŒ‚B
+825,‚r‚j‚h‚k‚k‚O‚W‚Q‚T,0,’ÊíUŒ‚B
+826,‚r‚j‚h‚k‚k‚O‚W‚Q‚U,0,’ÊíUŒ‚B
+827,‚r‚j‚h‚k‚k‚O‚W‚Q‚V,0,’ÊíUŒ‚B
+828,‚r‚j‚h‚k‚k‚O‚W‚Q‚W,0,’ÊíUŒ‚B
+829,‚r‚j‚h‚k‚k‚O‚W‚Q‚X,0,’ÊíUŒ‚B
+830,‚r‚j‚h‚k‚k‚O‚W‚R‚O,0,’ÊíUŒ‚B
+831,‚r‚j‚h‚k‚k‚O‚W‚R‚P,0,’ÊíUŒ‚B
+832,‚r‚j‚h‚k‚k‚O‚W‚R‚Q,0,’ÊíUŒ‚B
+833,‚r‚j‚h‚k‚k‚O‚W‚R‚R,0,’ÊíUŒ‚B
+834,‚r‚j‚h‚k‚k‚O‚W‚R‚S,0,’ÊíUŒ‚B
+835,‚r‚j‚h‚k‚k‚O‚W‚R‚T,0,’ÊíUŒ‚B
+836,‚r‚j‚h‚k‚k‚O‚W‚R‚U,0,’ÊíUŒ‚B
+837,‚r‚j‚h‚k‚k‚O‚W‚R‚V,0,’ÊíUŒ‚B
+838,‚r‚j‚h‚k‚k‚O‚W‚R‚W,0,’ÊíUŒ‚B
+839,‚r‚j‚h‚k‚k‚O‚W‚R‚X,0,’ÊíUŒ‚B
+840,‚r‚j‚h‚k‚k‚O‚W‚S‚O,0,’ÊíUŒ‚B
+841,‚r‚j‚h‚k‚k‚O‚W‚S‚P,0,’ÊíUŒ‚B
+842,‚r‚j‚h‚k‚k‚O‚W‚S‚Q,0,’ÊíUŒ‚B
+843,‚r‚j‚h‚k‚k‚O‚W‚S‚R,0,’ÊíUŒ‚B
+844,‚r‚j‚h‚k‚k‚O‚W‚S‚S,0,’ÊíUŒ‚B
+845,‚r‚j‚h‚k‚k‚O‚W‚S‚T,0,’ÊíUŒ‚B
+846,‚r‚j‚h‚k‚k‚O‚W‚S‚U,0,’ÊíUŒ‚B
+847,‚r‚j‚h‚k‚k‚O‚W‚S‚V,0,’ÊíUŒ‚B
+848,‚r‚j‚h‚k‚k‚O‚W‚S‚W,0,’ÊíUŒ‚B
+849,‚r‚j‚h‚k‚k‚O‚W‚S‚X,0,’ÊíUŒ‚B
+850,‚r‚j‚h‚k‚k‚O‚W‚T‚O,0,’ÊíUŒ‚B
+851,‚r‚j‚h‚k‚k‚O‚W‚T‚P,0,’ÊíUŒ‚B
+852,‚r‚j‚h‚k‚k‚O‚W‚T‚Q,0,’ÊíUŒ‚B
+853,‚r‚j‚h‚k‚k‚O‚W‚T‚R,0,’ÊíUŒ‚B
+854,‚r‚j‚h‚k‚k‚O‚W‚T‚S,0,’ÊíUŒ‚B
+855,‚r‚j‚h‚k‚k‚O‚W‚T‚T,0,’ÊíUŒ‚B
+856,‚r‚j‚h‚k‚k‚O‚W‚T‚U,0,’ÊíUŒ‚B
+857,‚r‚j‚h‚k‚k‚O‚W‚T‚V,0,’ÊíUŒ‚B
+858,‚r‚j‚h‚k‚k‚O‚W‚T‚W,0,’ÊíUŒ‚B
+859,‚r‚j‚h‚k‚k‚O‚W‚T‚X,0,’ÊíUŒ‚B
+860,‚r‚j‚h‚k‚k‚O‚W‚U‚O,0,’ÊíUŒ‚B
+861,‚r‚j‚h‚k‚k‚O‚W‚U‚P,0,’ÊíUŒ‚B
+862,‚r‚j‚h‚k‚k‚O‚W‚U‚Q,0,’ÊíUŒ‚B
+863,‚r‚j‚h‚k‚k‚O‚W‚U‚R,0,’ÊíUŒ‚B
+864,‚r‚j‚h‚k‚k‚O‚W‚U‚S,0,’ÊíUŒ‚B
+865,‚r‚j‚h‚k‚k‚O‚W‚U‚T,0,’ÊíUŒ‚B
+866,‚r‚j‚h‚k‚k‚O‚W‚U‚U,0,’ÊíUŒ‚B
+867,‚r‚j‚h‚k‚k‚O‚W‚U‚V,0,’ÊíUŒ‚B
+868,‚r‚j‚h‚k‚k‚O‚W‚U‚W,0,’ÊíUŒ‚B
+869,‚r‚j‚h‚k‚k‚O‚W‚U‚X,0,’ÊíUŒ‚B
+870,‚r‚j‚h‚k‚k‚O‚W‚V‚O,0,’ÊíUŒ‚B
+871,‚r‚j‚h‚k‚k‚O‚W‚V‚P,0,’ÊíUŒ‚B
+872,‚r‚j‚h‚k‚k‚O‚W‚V‚Q,0,’ÊíUŒ‚B
+873,‚r‚j‚h‚k‚k‚O‚W‚V‚R,0,’ÊíUŒ‚B
+874,‚r‚j‚h‚k‚k‚O‚W‚V‚S,0,’ÊíUŒ‚B
+875,‚r‚j‚h‚k‚k‚O‚W‚V‚T,0,’ÊíUŒ‚B
+876,‚r‚j‚h‚k‚k‚O‚W‚V‚U,0,’ÊíUŒ‚B
+877,‚r‚j‚h‚k‚k‚O‚W‚V‚V,0,’ÊíUŒ‚B
+878,‚r‚j‚h‚k‚k‚O‚W‚V‚W,0,’ÊíUŒ‚B
+879,‚r‚j‚h‚k‚k‚O‚W‚V‚X,0,’ÊíUŒ‚B
+880,‚r‚j‚h‚k‚k‚O‚W‚W‚O,0,’ÊíUŒ‚B
+881,‚r‚j‚h‚k‚k‚O‚W‚W‚P,0,’ÊíUŒ‚B
+882,‚r‚j‚h‚k‚k‚O‚W‚W‚Q,0,’ÊíUŒ‚B
+883,‚r‚j‚h‚k‚k‚O‚W‚W‚R,0,’ÊíUŒ‚B
+884,‚r‚j‚h‚k‚k‚O‚W‚W‚S,0,’ÊíUŒ‚B
+885,‚r‚j‚h‚k‚k‚O‚W‚W‚T,0,’ÊíUŒ‚B
+886,‚r‚j‚h‚k‚k‚O‚W‚W‚U,0,’ÊíUŒ‚B
+887,‚r‚j‚h‚k‚k‚O‚W‚W‚V,0,’ÊíUŒ‚B
+888,‚r‚j‚h‚k‚k‚O‚W‚W‚W,0,’ÊíUŒ‚B
+889,‚r‚j‚h‚k‚k‚O‚W‚W‚X,0,’ÊíUŒ‚B
+890,‚r‚j‚h‚k‚k‚O‚W‚X‚O,0,’ÊíUŒ‚B
+891,‚r‚j‚h‚k‚k‚O‚W‚X‚P,0,’ÊíUŒ‚B
+892,‚r‚j‚h‚k‚k‚O‚W‚X‚Q,0,’ÊíUŒ‚B
+893,‚r‚j‚h‚k‚k‚O‚W‚X‚R,0,’ÊíUŒ‚B
+894,‚r‚j‚h‚k‚k‚O‚W‚X‚S,0,’ÊíUŒ‚B
+895,‚r‚j‚h‚k‚k‚O‚W‚X‚T,0,’ÊíUŒ‚B
+896,‚r‚j‚h‚k‚k‚O‚W‚X‚U,0,’ÊíUŒ‚B
+897,‚r‚j‚h‚k‚k‚O‚W‚X‚V,0,’ÊíUŒ‚B
+898,‚r‚j‚h‚k‚k‚O‚W‚X‚W,0,’ÊíUŒ‚B
+899,‚r‚j‚h‚k‚k‚O‚W‚X‚X,0,’ÊíUŒ‚B
+900,‚r‚j‚h‚k‚k‚O‚X‚O‚O,0,’ÊíUŒ‚B
+901,‚r‚j‚h‚k‚k‚O‚X‚O‚P,0,’ÊíUŒ‚B
+902,‚r‚j‚h‚k‚k‚O‚X‚O‚Q,0,’ÊíUŒ‚B
+903,‚r‚j‚h‚k‚k‚O‚X‚O‚R,0,’ÊíUŒ‚B
+904,‚r‚j‚h‚k‚k‚O‚X‚O‚S,0,’ÊíUŒ‚B
+905,‚r‚j‚h‚k‚k‚O‚X‚O‚T,0,’ÊíUŒ‚B
+906,‚r‚j‚h‚k‚k‚O‚X‚O‚U,0,’ÊíUŒ‚B
+907,‚r‚j‚h‚k‚k‚O‚X‚O‚V,0,’ÊíUŒ‚B
+908,‚r‚j‚h‚k‚k‚O‚X‚O‚W,0,’ÊíUŒ‚B
+909,‚r‚j‚h‚k‚k‚O‚X‚O‚X,0,’ÊíUŒ‚B
+910,‚r‚j‚h‚k‚k‚O‚X‚P‚O,0,’ÊíUŒ‚B
+911,‚r‚j‚h‚k‚k‚O‚X‚P‚P,0,’ÊíUŒ‚B
+912,‚r‚j‚h‚k‚k‚O‚X‚P‚Q,0,’ÊíUŒ‚B
+913,‚r‚j‚h‚k‚k‚O‚X‚P‚R,0,’ÊíUŒ‚B
+914,‚r‚j‚h‚k‚k‚O‚X‚P‚S,0,’ÊíUŒ‚B
+915,‚r‚j‚h‚k‚k‚O‚X‚P‚T,0,’ÊíUŒ‚B
+916,‚r‚j‚h‚k‚k‚O‚X‚P‚U,0,’ÊíUŒ‚B
+917,‚r‚j‚h‚k‚k‚O‚X‚P‚V,0,’ÊíUŒ‚B
+918,‚r‚j‚h‚k‚k‚O‚X‚P‚W,0,’ÊíUŒ‚B
+919,‚r‚j‚h‚k‚k‚O‚X‚P‚X,0,’ÊíUŒ‚B
+920,‚r‚j‚h‚k‚k‚O‚X‚Q‚O,0,’ÊíUŒ‚B
+921,‚r‚j‚h‚k‚k‚O‚X‚Q‚P,0,’ÊíUŒ‚B
+922,‚r‚j‚h‚k‚k‚O‚X‚Q‚Q,0,’ÊíUŒ‚B
+923,‚r‚j‚h‚k‚k‚O‚X‚Q‚R,0,’ÊíUŒ‚B
+924,‚r‚j‚h‚k‚k‚O‚X‚Q‚S,0,’ÊíUŒ‚B
+925,‚r‚j‚h‚k‚k‚O‚X‚Q‚T,0,’ÊíUŒ‚B
+926,‚r‚j‚h‚k‚k‚O‚X‚Q‚U,0,’ÊíUŒ‚B
+927,‚r‚j‚h‚k‚k‚O‚X‚Q‚V,0,’ÊíUŒ‚B
+928,‚r‚j‚h‚k‚k‚O‚X‚Q‚W,0,’ÊíUŒ‚B
+929,‚r‚j‚h‚k‚k‚O‚X‚Q‚X,0,’ÊíUŒ‚B
+930,‚r‚j‚h‚k‚k‚O‚X‚R‚O,0,’ÊíUŒ‚B
+931,‚r‚j‚h‚k‚k‚O‚X‚R‚P,0,’ÊíUŒ‚B
+932,‚r‚j‚h‚k‚k‚O‚X‚R‚Q,0,’ÊíUŒ‚B
+933,‚r‚j‚h‚k‚k‚O‚X‚R‚R,0,’ÊíUŒ‚B
+934,‚r‚j‚h‚k‚k‚O‚X‚R‚S,0,’ÊíUŒ‚B
+935,‚r‚j‚h‚k‚k‚O‚X‚R‚T,0,’ÊíUŒ‚B
+936,‚r‚j‚h‚k‚k‚O‚X‚R‚U,0,’ÊíUŒ‚B
+937,‚r‚j‚h‚k‚k‚O‚X‚R‚V,0,’ÊíUŒ‚B
+938,‚r‚j‚h‚k‚k‚O‚X‚R‚W,0,’ÊíUŒ‚B
+939,‚r‚j‚h‚k‚k‚O‚X‚R‚X,0,’ÊíUŒ‚B
+940,‚r‚j‚h‚k‚k‚O‚X‚S‚O,0,’ÊíUŒ‚B
+941,‚r‚j‚h‚k‚k‚O‚X‚S‚P,0,’ÊíUŒ‚B
+942,‚r‚j‚h‚k‚k‚O‚X‚S‚Q,0,’ÊíUŒ‚B
+943,‚r‚j‚h‚k‚k‚O‚X‚S‚R,0,’ÊíUŒ‚B
+944,‚r‚j‚h‚k‚k‚O‚X‚S‚S,0,’ÊíUŒ‚B
+945,‚r‚j‚h‚k‚k‚O‚X‚S‚T,0,’ÊíUŒ‚B
+946,‚r‚j‚h‚k‚k‚O‚X‚S‚U,0,’ÊíUŒ‚B
+947,‚r‚j‚h‚k‚k‚O‚X‚S‚V,0,’ÊíUŒ‚B
+948,‚r‚j‚h‚k‚k‚O‚X‚S‚W,0,’ÊíUŒ‚B
+949,‚r‚j‚h‚k‚k‚O‚X‚S‚X,0,’ÊíUŒ‚B
+950,‚r‚j‚h‚k‚k‚O‚X‚T‚O,0,’ÊíUŒ‚B
+951,‚r‚j‚h‚k‚k‚O‚X‚T‚P,0,’ÊíUŒ‚B
+952,‚r‚j‚h‚k‚k‚O‚X‚T‚Q,0,’ÊíUŒ‚B
+953,‚r‚j‚h‚k‚k‚O‚X‚T‚R,0,’ÊíUŒ‚B
+954,‚r‚j‚h‚k‚k‚O‚X‚T‚S,0,’ÊíUŒ‚B
+955,‚r‚j‚h‚k‚k‚O‚X‚T‚T,0,’ÊíUŒ‚B
+956,‚r‚j‚h‚k‚k‚O‚X‚T‚U,0,’ÊíUŒ‚B
+957,‚r‚j‚h‚k‚k‚O‚X‚T‚V,0,’ÊíUŒ‚B
+958,‚r‚j‚h‚k‚k‚O‚X‚T‚W,0,’ÊíUŒ‚B
+959,‚r‚j‚h‚k‚k‚O‚X‚T‚X,0,’ÊíUŒ‚B
+960,‚r‚j‚h‚k‚k‚O‚X‚U‚O,0,’ÊíUŒ‚B
+961,‚r‚j‚h‚k‚k‚O‚X‚U‚P,0,’ÊíUŒ‚B
+962,‚r‚j‚h‚k‚k‚O‚X‚U‚Q,0,’ÊíUŒ‚B
+963,‚r‚j‚h‚k‚k‚O‚X‚U‚R,0,’ÊíUŒ‚B
+964,‚r‚j‚h‚k‚k‚O‚X‚U‚S,0,’ÊíUŒ‚B
+965,‚r‚j‚h‚k‚k‚O‚X‚U‚T,0,’ÊíUŒ‚B
+966,‚r‚j‚h‚k‚k‚O‚X‚U‚U,0,’ÊíUŒ‚B
+967,‚r‚j‚h‚k‚k‚O‚X‚U‚V,0,’ÊíUŒ‚B
+968,‚r‚j‚h‚k‚k‚O‚X‚U‚W,0,’ÊíUŒ‚B
+969,‚r‚j‚h‚k‚k‚O‚X‚U‚X,0,’ÊíUŒ‚B
+970,‚r‚j‚h‚k‚k‚O‚X‚V‚O,0,’ÊíUŒ‚B
+971,‚r‚j‚h‚k‚k‚O‚X‚V‚P,0,’ÊíUŒ‚B
+972,‚r‚j‚h‚k‚k‚O‚X‚V‚Q,0,’ÊíUŒ‚B
+973,‚r‚j‚h‚k‚k‚O‚X‚V‚R,0,’ÊíUŒ‚B
+974,‚r‚j‚h‚k‚k‚O‚X‚V‚S,0,’ÊíUŒ‚B
+975,‚r‚j‚h‚k‚k‚O‚X‚V‚T,0,’ÊíUŒ‚B
+976,‚r‚j‚h‚k‚k‚O‚X‚V‚U,0,’ÊíUŒ‚B
+977,‚r‚j‚h‚k‚k‚O‚X‚V‚V,0,’ÊíUŒ‚B
+978,‚r‚j‚h‚k‚k‚O‚X‚V‚W,0,’ÊíUŒ‚B
+979,‚r‚j‚h‚k‚k‚O‚X‚V‚X,0,’ÊíUŒ‚B
+980,‚r‚j‚h‚k‚k‚O‚X‚W‚O,0,’ÊíUŒ‚B
+981,‚r‚j‚h‚k‚k‚O‚X‚W‚P,0,’ÊíUŒ‚B
+982,‚r‚j‚h‚k‚k‚O‚X‚W‚Q,0,’ÊíUŒ‚B
+983,‚r‚j‚h‚k‚k‚O‚X‚W‚R,0,’ÊíUŒ‚B
+984,‚r‚j‚h‚k‚k‚O‚X‚W‚S,0,’ÊíUŒ‚B
+985,‚r‚j‚h‚k‚k‚O‚X‚W‚T,0,’ÊíUŒ‚B
+986,‚r‚j‚h‚k‚k‚O‚X‚W‚U,0,’ÊíUŒ‚B
+987,‚r‚j‚h‚k‚k‚O‚X‚W‚V,0,’ÊíUŒ‚B
+988,‚r‚j‚h‚k‚k‚O‚X‚W‚W,0,’ÊíUŒ‚B
+989,‚r‚j‚h‚k‚k‚O‚X‚W‚X,0,’ÊíUŒ‚B
+990,‚r‚j‚h‚k‚k‚O‚X‚X‚O,0,’ÊíUŒ‚B
+991,‚r‚j‚h‚k‚k‚O‚X‚X‚P,0,’ÊíUŒ‚B
+992,‚r‚j‚h‚k‚k‚O‚X‚X‚Q,0,’ÊíUŒ‚B
+993,‚r‚j‚h‚k‚k‚O‚X‚X‚R,0,’ÊíUŒ‚B
+994,‚r‚j‚h‚k‚k‚O‚X‚X‚S,0,’ÊíUŒ‚B
+995,‚r‚j‚h‚k‚k‚O‚X‚X‚T,0,’ÊíUŒ‚B
+996,‚r‚j‚h‚k‚k‚O‚X‚X‚U,0,’ÊíUŒ‚B
+997,‚r‚j‚h‚k‚k‚O‚X‚X‚V,0,’ÊíUŒ‚B
+998,‚r‚j‚h‚k‚k‚O‚X‚X‚W,0,’ÊíUŒ‚B
+999,‚r‚j‚h‚k‚k‚O‚X‚X‚X,0,’ÊíUŒ‚B
+1000,‚r‚j‚h‚k‚k‚P‚O‚O‚O,0,’ÊíUŒ‚B
+1001,‚r‚j‚h‚k‚k‚P‚O‚O‚P,0,’ÊíUŒ‚B
+1002,‚r‚j‚h‚k‚k‚P‚O‚O‚Q,0,’ÊíUŒ‚B
+1003,‚r‚j‚h‚k‚k‚P‚O‚O‚R,0,’ÊíUŒ‚B
+1004,‚r‚j‚h‚k‚k‚P‚O‚O‚S,0,’ÊíUŒ‚B
+1005,‚r‚j‚h‚k‚k‚P‚O‚O‚T,0,’ÊíUŒ‚B
+1006,‚r‚j‚h‚k‚k‚P‚O‚O‚U,0,’ÊíUŒ‚B
+1007,‚r‚j‚h‚k‚k‚P‚O‚O‚V,0,’ÊíUŒ‚B
+1008,‚r‚j‚h‚k‚k‚P‚O‚O‚W,0,’ÊíUŒ‚B
+1009,‚r‚j‚h‚k‚k‚P‚O‚O‚X,0,’ÊíUŒ‚B
+1010,‚r‚j‚h‚k‚k‚P‚O‚P‚O,0,’ÊíUŒ‚B
+1011,‚r‚j‚h‚k‚k‚P‚O‚P‚P,0,’ÊíUŒ‚B
+1012,‚r‚j‚h‚k‚k‚P‚O‚P‚Q,0,’ÊíUŒ‚B
+1013,‚r‚j‚h‚k‚k‚P‚O‚P‚R,0,’ÊíUŒ‚B
+1014,‚r‚j‚h‚k‚k‚P‚O‚P‚S,0,’ÊíUŒ‚B
+1015,‚r‚j‚h‚k‚k‚P‚O‚P‚T,0,’ÊíUŒ‚B
+1016,‚r‚j‚h‚k‚k‚P‚O‚P‚U,0,’ÊíUŒ‚B
+1017,‚r‚j‚h‚k‚k‚P‚O‚P‚V,0,’ÊíUŒ‚B
+1018,‚r‚j‚h‚k‚k‚P‚O‚P‚W,0,’ÊíUŒ‚B
+1019,‚r‚j‚h‚k‚k‚P‚O‚P‚X,0,’ÊíUŒ‚B
+1020,‚r‚j‚h‚k‚k‚P‚O‚Q‚O,0,’ÊíUŒ‚B
+1021,‚r‚j‚h‚k‚k‚P‚O‚Q‚P,0,’ÊíUŒ‚B
+1022,‚r‚j‚h‚k‚k‚P‚O‚Q‚Q,0,’ÊíUŒ‚B
+1023,ƒ_ƒ~[,0,‹CÛ‚ğ ”Z–¶ ’n‘Š‚ğ é‚É ‚·‚éB

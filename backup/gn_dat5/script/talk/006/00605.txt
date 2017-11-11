@@ -1,0 +1,11 @@
+*魔理沙
+02_01
+*草むらなんかから飛び出して攻撃してきたりするんだ。\b
+These little thingies ambush from bushes.\b
+\x00
+*自分も人形を持っていれば対抗できるんだが おまえは・・・\b
+You'd better have your own puppets ready.\b
+\x02
+*持ってるわけないか。
+Oh. I almost forgot that you barely know
+anything.

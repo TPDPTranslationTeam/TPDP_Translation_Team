@@ -1,0 +1,31 @@
+Clownpiece
+129_03
+*表情変化テストへようこそ！\b
+Welcome to the emote testing corner!
+\x00
+*ここでは立ち絵の表情変化について 説明していきます。\b
+Let me explain the new emote system here.\b
+*\c幻想人形演舞アペンド（仮）では 会話中\b
+\cFor example, within a conversation\b
+\s130_03
+*喜び\b
+Happy\b
+\x01
+*怒り\b
+Angry
+\x02
+悲しみ\b
+*Sad
+\x00
+*通常\b
+Normal
+\j131_00
+*\cといったように表情が 次々と変化するシステムのが実装され\b
+\cYep, now you can see us emote each other.\b
+*会話中の感情変化が よりわかりやすくなりました。\b
+You may find it easier to notice the emotion
+changes during a conversation.\b
+\x03
+*\cキャラによっては 先ほどの表情の他に 特別差分が用意されますので ご期待くださいね！
+\cWe also added some special emotes for certain
+characters. you'll find out soon!\b

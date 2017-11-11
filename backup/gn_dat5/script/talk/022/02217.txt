@@ -1,0 +1,22 @@
+*早苗
+Sanae
+85
+*\pさん 先ほどの方が結界を司っている霊夢さんです。\b
+\p-san, the lady you met earlier was the
+manager of the Barrier, Reimu-san.
+\x05
+*口ぶりからして やはり結界はまだ弱められそうになさそうですね・・・。\b
+From what she said, it's very unlikely that
+she'll condense the Barrier.
+*\o魔理沙
+\oMarisa
+\s2
+*ま そんな不安がることはないぜ！\b
+Don't you worry!
+\x07
+*私がパパッと解決してきてやるからさ！\b
+For ME, it's such a piece of cake.\b
+*お前はここで早苗と日向ぼっこでもして待ってな。
+\cYou guys just enjoy your sunshine here and
+I'll get it done before you put on your
+sunglasses.\b

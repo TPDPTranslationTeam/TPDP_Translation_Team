@@ -1,0 +1,13 @@
+*早苗
+Sanae
+85_04
+*あれ ご存知なんですか？\b
+What? You knew it already?
+\x00
+*それなら話は早いです。\b
+We can get straight to the point then.
+\x05
+*\c今 幻想郷は 何故か人形で溢れかえっています。
+\cCurrently, Gensokyo is being flooded by
+Puppets. We haven't known what caused it
+yet.
