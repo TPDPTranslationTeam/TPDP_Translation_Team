@@ -1,11 +1,19 @@
 霖之助
 58
 いらっしゃい。\b
+Welcome.
 \x03
 おや キミは新聞で噂になっている子じゃないか。\b
+Oh, you're that human child that was mentioned in the newspaper.
 なにか必要な物でも 揃えに来たのかい。\b
+Anything you need to get stocked up on?
+
 \x05
 ・・・へぇ\b
+Hmm...
 人形のことを 調べて回る旅を始めたのか。\b
+So you've started looking into the mystery of these Puppets?
+#the word mystery wasn't mentioned but it seems to be implied in context.
 \x06
 それは色々と苦労しそうだね。
+That seems like a lot of touble. 
