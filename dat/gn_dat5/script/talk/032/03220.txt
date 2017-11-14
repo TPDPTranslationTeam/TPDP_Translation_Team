@@ -1,5 +1,8 @@
 
 
-どいてくれって？\b
-\c悪いが少し待っていてくれんか。
-もう少しで動きそうなんだ。
+*どいてくれって？\b
+Get out of your way?\b
+*\c悪いが少し待っていてくれんか。
+\cCan you wait for a bit more?
+*もう少しで動きそうなんだ。
+Just a little a bit more.
