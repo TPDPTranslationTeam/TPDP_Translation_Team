@@ -2,6 +2,5 @@
 Marisa
 02_01
 *お前 人形が出てきたのになんで何もしないんだよ？！
-A Puppet is right in front of you and you
-are just standing there doing absolutely 
-nothing!?
+There's a puppet right in front of you and you're
+just gonna stand there doing nothin'!?

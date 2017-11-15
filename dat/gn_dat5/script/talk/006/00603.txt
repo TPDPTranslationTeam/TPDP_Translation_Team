@@ -2,8 +2,8 @@
 Marisa
 02_05
 *ん？お前 人形のことを知らないのか？\b
-Wait a second. You don't know about
-Puppets, don't you?\b
+Wait a sec... You know about the Puppets, 
+right?\b
 \x02
 *あー・・・もしかして外から来たのか。
-Huh. Looks like you are from outside, eh?
+Hmm... You're from the outside world, aren't you?
