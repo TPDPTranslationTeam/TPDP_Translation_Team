@@ -6,3 +6,5 @@ utilities/ExeStringTranslation/save
 utilities/ExeStringTranslation/tpdp_log.txt
 utilities/ExeStringTranslation/tpdp_log_*.txt
 utf8exports
+.DS_Store
+*/.DS_Store
