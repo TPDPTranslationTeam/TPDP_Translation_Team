@@ -3,7 +3,7 @@
 *あの小屋には変な噂があるんだよ。\b
 There are rumors about that shack.\b
 *なんでも夢を見ると必ず悪夢を見るって噂だよ。\b
-All of your dreams you see would turn into
+All of the dreams that you'd see turn into
 nightmares.\b
 *\cまぁそんな都合よく夢なんて見れるものじゃないしね。\b
 \cWell, apparently it's not that easy to

@@ -5,4 +5,6 @@ It says, "I'm currently absent.\b
 *‚Æ‘‚©‚ê‚Ä‚¢‚éB\b
 Please make yourself at home."\b
 *\c‹x‚ñ‚Å‚¢‚«‚Ü‚·‚©H
-\cWould like to take a rest?
+\cWould you like to take a break?
+
+\\While "take a rest" is not necessarily incorrect, not many people say this.

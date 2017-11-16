@@ -2,7 +2,7 @@
 Reisen
 945_00
 *夢を見る薬ですか？\b
-Drug that forces you into a dream?
+A drug that forces you into a dream?
 *師匠が作った薬ならありますけど・・・
-I only have those that are made by master
+I only have those that are made by my master
 though...
