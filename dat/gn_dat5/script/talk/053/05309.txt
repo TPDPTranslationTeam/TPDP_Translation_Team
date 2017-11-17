@@ -1,7 +1,11 @@
-魔理沙
+Marisa
 2
-\pか。やっときたんだな。\b
-今 人形に関する本を探してるんだ。\b
+*\pか。やっときたんだな。\b
+Oh, it's \p. You finally came here too.\b
+*今 人形に関する本を探してるんだ。\b
+I'm looking for a book about puppets.\b
 \x06
-おっと 静かにしておいてくれよ。\b
-見つかったら厄介だからな・・・。
+*おっと 静かにしておいてくれよ。\b
+Hey, keep quiet.\b
+*見つかったら厄介だからな・・・。
+If I was caught, I'll be in trouble.
