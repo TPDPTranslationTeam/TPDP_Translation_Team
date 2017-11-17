@@ -1,8 +1,12 @@
 美鈴
 40_05
 ・・・。\b
+...
 \x06
-わ わわっ！ナイフはもうっ！！\b
+わ わわっ！ナイフはもうっ！！\
+Wawawa! Please not the knife!!
 そんなに刺さりませ・・・\b
+You don't have to stab so man-
 \s40_04
 はっ！！
+Ha!!!
