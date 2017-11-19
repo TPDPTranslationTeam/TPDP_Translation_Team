@@ -2,11 +2,12 @@
 Marisa
 02_04
 *おっと！今はそんなこと話してる場合じゃないみたいだな。\b
-Welp. We can do the lecturing later.
+Welp, you're not gonna gain any experience just standing
+here talking about it.
 \x07
 *習うより慣れろだ！\b
-Let's have some field practice first!\b
+It's time for the real thing!\b
 \x08
 *私の人形を貸してやるから実際にやってみな！
-Here, take my Puppet and see what you can
+Here, take my Puppet and let's see what you can
 do!

@@ -1,16 +1,26 @@
 美鈴
 40_02
 な なんだお客さんか。\b
+O-Oh, a vistor.
 よかった・・・。\b
+What a relief.
 \x00
 コホン。\b
+Ahem.
 それで何かご用？\b
+So what business do you have here?
 残念だけど 命令されてるから 今は通せないわ。\b
+Unfortunately, I am under orders to not allow anyone to go through. 
 \x02
 ・・・え？さっきまで寝てたじゃないかって？\b
+Huh? I was just sleeping before?
 \x03
 それは陽気な天気だったから ツイツイ。\b
+I just kind of dozed off because of the great weather.
 \x01
 って！私の話は いいのよ！\b
+Eh! My explanation was just fine!
 とにかく ここは通せないの。\b
+Anyway, you can't pass through here.
 無理矢理通りたいなら 私に勝たないとね。
+If you insist on going through, you'll have to beat me in battle first.

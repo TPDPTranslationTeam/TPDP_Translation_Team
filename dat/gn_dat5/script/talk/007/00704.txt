@@ -2,6 +2,7 @@
 Marisa
 2_02
 *‚¨‚¢I\b
-Oi!\b
+Hey!\b
 *‰½ “Ë‚Á—§‚Á‚Ä‚é‚ñ‚¾H
-What are you waiting for? Come in!\b
+What are you looking at over there?
+Come on!\b

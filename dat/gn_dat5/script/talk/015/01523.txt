@@ -5,4 +5,4 @@ Reisen
 Feel free to ask if you need anything.\b
 *あ 人形の体力を回復なら ベットを使っていいですよ。
 By the way, you can heal your Puppets by
-using Bed.
+using the Bed.
