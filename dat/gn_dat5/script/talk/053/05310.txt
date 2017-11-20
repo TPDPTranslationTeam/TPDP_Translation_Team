@@ -1,12 +1,19 @@
-魔理沙
+Marisa
 2_04
-やばっ\b・・・って\pか。\b
+*やばっ\b・・・って\pか。\b
+Damn it\b... Oh, it's you, \p.\b 
 \x02
-人形に関する本なら まだ見つかってないぞ。\b
+*人形に関する本なら まだ見つかってないぞ。\b
+I haven't find any book about Puppets.\b
 \x05
-なに？
-パチュリーが無関係だって言ってた？\b
-・・・本もないし 嘘じゃなさそうだな。\b
+*なに？
+What?
+*パチュリーが無関係だって言ってた？\b
+Patchouli said it's unrelated?\b
+*・・・本もないし 嘘じゃなさそうだな。\b
+...Sounds true considering I couldn't find any related books here.\b
 \x03
-じゃあ 私は 見つかる前にずらかることにするぜ。\b
-またな。
+*じゃあ 私は 見つかる前にずらかることにするぜ。\b
+Well, I'm leaving before getting caught.\b
+*またな。
+Bye.

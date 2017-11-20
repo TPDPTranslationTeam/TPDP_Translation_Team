@@ -1,3 +1,4 @@
-パチュリー
+Patchouli
 42
-人形の回復かしら？
+*人形の回復かしら？
+You want healing?

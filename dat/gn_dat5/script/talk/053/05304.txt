@@ -1,5 +1,7 @@
-パチュリー
+Patchouli
 42
-・・・さて もういいでしょう？\b
+*・・・さて もういいでしょう？\b
+...Well, I guess it's time to stop hiding.\b
 \x01
-ここに忍び込んだからには 排除をしなくてはね。
+*ここに忍び込んだからには 排除をしなくてはね。
+I must remove the intruder.\b
