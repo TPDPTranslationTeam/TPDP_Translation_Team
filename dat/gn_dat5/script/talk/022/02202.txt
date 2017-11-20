@@ -2,7 +2,7 @@
 Marisa
 02_05
 *・・・いや。\b
-Welp. You do have some potential.\b
+Welp... You do have some potential.\b
 \x03
 *それなら私がおまえを試してやるぜ。\b
 Let's test this out.\b
@@ -13,7 +13,7 @@ Is your little friend still following ya?\b
 There she is. It's time for a Puppet duel.\b
 \x00
 *・・・とはいってもおまえは初心者だからな。\b
-Since you're such an amature...\b
+Since you're such an amateur...\b
 *準備ぐらいはさせてやるよ。\b
 I'll lend you a few minutes just to get
 yourself together.

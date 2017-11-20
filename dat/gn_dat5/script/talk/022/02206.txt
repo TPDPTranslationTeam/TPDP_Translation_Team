@@ -2,13 +2,13 @@
 Marisa
 02
 *なんだ はじめてのくせにやるじゃないか。\b
-Welp. You did amazingly well as your first
+Welp. You did amazingly well on your first
 attempt!
 *それならおまえにも何かできるかもしれないな。\b
 You may come in handy sometimes.\b
 \x07
 *じゃ 後は早苗に任せて私はもう行くぜ。\b
 Alright. I should get going. Sanae should
-be taking care of the rest form now.\b
+be taking care of the rest for now.\b
 *霊夢に負けてられないからな！
-Had to get ahead of Reimu, y'know!
+I have to get ahead of Reimu, y'know!

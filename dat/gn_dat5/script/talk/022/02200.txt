@@ -4,9 +4,9 @@ Marisa
 *ま そんな不安がることはないぜ！
 Don't you worry!
 *私がパパッと解決してきてやるからさ！\b
-It's such a piece of cake for me.\b
+This is such a piece of cake for me.\b
 \x00
 *おまえはここで早苗とお茶でもすすってな！
 \cYou guys can just sit there enjoying your
-tea, and I'll get it done before it gets 
+tea, and I'll get it done before your drinks get 
 cold!

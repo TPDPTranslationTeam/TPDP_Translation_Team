@@ -2,7 +2,7 @@
 Sanae
 85_03
 *聞きましたよ \pさん！
-Hi, \p-san! Some good news for you.
+Hi, \p! I have some good news for you.
 *異変の解決を始めたそうですね。\b
 We're seriously dealing with the incident
 now.\b
@@ -12,4 +12,4 @@ We should be able to send you home very
 soon if everything goes right.
 \x06
 *ファイトですっ！
-Embrace it!
+Look alive!
