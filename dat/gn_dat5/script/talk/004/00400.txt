@@ -1,11 +1,6 @@
 
 
-*ようこそ。
 Welcome
-*コチラ側の世界へ・・・\b
 to our world...\b
-*\c幻想郷は 全てを受け入れる・・・\b
 \cGensokyo accepts all...\b
-*それはそれは 残酷なことですわ・・・
 This is rather a cruel statement...
-//I'm cutting the above statement out. It doesn't make sense in English.

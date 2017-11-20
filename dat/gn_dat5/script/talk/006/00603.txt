@@ -1,9 +1,6 @@
-*魔理沙
 Marisa
 02_05
-*ん？お前 人形のことを知らないのか？\b
 Wait a sec... You know about the Puppets, 
 right?\b
 \x02
-*あー・・・もしかして外から来たのか。
 Hmm... You're from the outside world, aren't you?

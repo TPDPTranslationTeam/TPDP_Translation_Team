@@ -1,10 +1,6 @@
 
 
-*ここは幻想郷につながってる
-*なんて噂があるんだぜ。\b
 The myth says there is a path connected to
 Gensokyo from this shrine.\b
-*\c幻想郷とは何かって？\b
-\cTWhat's Gensokyo again?\b
-*異世界だよ。異世界。
+\cWhat's Gensokyo again?\b
 It's a different world, or universe.

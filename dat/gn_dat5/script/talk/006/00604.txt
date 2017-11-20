@@ -1,10 +1,6 @@
-*魔理沙
 Marisa
 02_01
-*いいか？
-Okay. Listen up.
-*目の前にいるあいつが人形だ。\b
-This thing here right in front of you, is a puppet
-*ある日いきなり現れて好き勝手暴れてやがる。
+Okay. Listen up.\b
+This thing here right in front of you, is a puppet\b
 These things just suddenly appeared and
 spread all over the place.

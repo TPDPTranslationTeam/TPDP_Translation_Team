@@ -1,6 +1,4 @@
 
 
-*なんだ お気に入りはいないのか。\b
-*\fとか すげーかわいいんだけどなぁ。
 You don't have a favorite character?\b
 But \f is really cute, you know?
