@@ -1,7 +1,5 @@
 Yukari
 955
-*‚ ‚ç ‚»‚ë‚»‚ëŠÔ‚Ì‚æ‚¤‚Å‚·‚í‚æB\b
-Welp. It's almost time.
+Welp. It's almost time.\b
 \x01
-*ŠÔ‚Æ‚¢‚¤‚à‚Ì‚Í –{“–‚É‘‚­‰ß‚¬‚Ä‚µ‚Ü‚¢‚Ü‚·‚íB
 Time always runs so fast, doesn't it?
