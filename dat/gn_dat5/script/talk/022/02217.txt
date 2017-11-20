@@ -1,10 +1,10 @@
 Sanae
 85
 \p, the lady you met earlier was the
-manager of the Barrier, Reimu
+manager of the barrier, Reimu
 \x05
 From what she said, it's very unlikely that
-she'll condense the Barrier.
+she'll condense the barrier.
 \\Translation check: Is condense really the best word to use here?
 \oMarisa
 \s2

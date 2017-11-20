@@ -1,7 +1,7 @@
 Marisa
 2_07
 You are right on time!\b
-This \p guy just came across the Barrier
+This \p guy just came across the barrier
 from the outside world!
 \oReimu
 \j1_02
@@ -9,4 +9,4 @@ Hmm... It's getting more frequent these days.\b
 Sanae
 \j85
 Not to mention \p has a talent for taming
-Puppets!
+puppets!

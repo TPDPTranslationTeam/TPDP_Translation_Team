@@ -3,14 +3,14 @@ Sanae
 Oh, by the way!\b
 \x00
 Some people in the Human Village are investig-
-ating Puppets. Maybe you could start find-
+ating puppets. Maybe you could start find-
 ding clues there.\b
 \x05
 Unfortunately, I have to stay here as a backup
 for when Reimu is out. You are on yo-
 ur own for now.\b
 \x03
-You should be fine with your Puppet.\b
+You should be fine with your puppet.\b
 I'm sure she'll be your best ally!\b
 \x00
 You might also learn more about our world in the

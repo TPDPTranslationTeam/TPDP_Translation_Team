@@ -1,9 +1,9 @@
 Sanae
 85_01
 Every conflict in Gensokyo is solved thro-
-ugh Duels. This is our rule.\b
+ugh duels. This is our rule.\b
 \x00
-Usually we duel with Danmaku, but Puppet
+Usually we duel with danmaku, but puppet
 duels have now become the mainstream method as a 
 result of this incident.\b
 \x05

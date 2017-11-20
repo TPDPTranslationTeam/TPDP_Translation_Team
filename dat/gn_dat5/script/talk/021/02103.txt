@@ -6,11 +6,11 @@ nobody understands why they did, either.\b
 \cTheir population grows so fast that I
 alone cannot suppress them anymore.\b
 \x01
-I've been enhancing the Barrier to prevent
+I've been enhancing the barrier to prevent
 this incident from leaking into the outside world...
 \x05
 But the fact \p got lost here means that 
-the Barrier is far from perfect.
+the barrier is far from perfect.
 \x01
 And \p can't possibly return if the 
-Barrier stays at this power level.
+barrier stays at this power level.
