@@ -3,7 +3,7 @@ Sanae
 85
 *私は\pさんに人形がなついたことが気になるんですよね。\b
 I'm quite curious about your talent for
-taming Puppets.\b
+taming puppets.\b
 \x03
 *強化された結界を越えてきたこともありますし \pさんにはなにかある気がするんです！
 I bet there is something special about you!

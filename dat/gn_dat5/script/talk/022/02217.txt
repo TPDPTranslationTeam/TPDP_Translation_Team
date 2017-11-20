@@ -3,11 +3,11 @@ Sanae
 85
 *\pさん 先ほどの方が結界を司っている霊夢さんです。\b
 \p, the lady you met earlier was the
-manager of the Barrier, Reimu.
+manager of the barrier, Reimu.
 \x05
 *口ぶりからして やはり結界はまだ弱められそうになさそうですね・・・。\b
 From what she said, it's very unlikely that
-she'll condense the Barrier.
+she'll condense the barrier.
 \\Translation check: Is condense really the best word to use here?
 *\o魔理沙
 \oMarisa

@@ -14,8 +14,7 @@ alone cannot suppress them anymore.\b
 I've been enhancing the Barrier to prevent
 this incident from leaking into the outside world...
 \x05
-*\p‚³‚ñ‚ª–À‚¢‚ñ‚Å‚µ‚Ü‚Á‚½ˆÈã Š®‘S‚Å‚Í‚È‚©‚Á‚½‚æ‚¤‚Å‚·‚ËB\b
-The fact \p got lost here means that 
+But the fact that \p got lost here means that 
 the Barrier is far from perfect.
 \x01
 *‚µ‚©‚à–ï‰î‚È‚±‚Æ‚ÉŒ‹ŠE‚ª‹­‚¢‚Ü‚Ü‚¾‚Æ \p‚³‚ñ‚ÍŒ³‚ÌêŠ‚É–ß‚ê‚È‚¢‚Í‚¸‚È‚ñ‚Å‚·B

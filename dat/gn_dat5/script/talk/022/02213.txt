@@ -8,5 +8,5 @@ Err, nevermind.\b
 ... Oh, I almost forgot to tell you!\b
 \x00
 *人里なら神社を出てから西に進むと見えてきますよ！
-After you leave the Shrine, head west.
-You should see the Village very soon!
+After you leave the shrine, head west.
+You should see the village very soon!

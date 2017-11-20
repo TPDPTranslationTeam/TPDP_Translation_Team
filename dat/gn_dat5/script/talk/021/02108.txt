@@ -4,7 +4,7 @@ Marisa
 *お ちょうどいいタイミングで戻ってきたな！\b
 You are right on time!\b
 *この \pってやつ 外の世界から来たみたいだぜ！\b
-This \p guy just came across the Barrier
+This \p guy just came across the barrier
 from the outside world!
 *\o霊夢
 \oReimu
@@ -16,4 +16,4 @@ Sanae
 \j85
 *しかも人形が懐いているんですよ！
 Not to mention \p has a talent for taming
-Puppets!
+puppets!
