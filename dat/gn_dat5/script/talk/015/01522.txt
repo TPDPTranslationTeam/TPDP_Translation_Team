@@ -1,9 +1,6 @@
-*鈴仙
 Reisen
 64_03
-*また必要なときは声かけて下さい。\b
 Feel free to ask if you need it again.\b
 \x00
-*あ 人形の体力を回復なら ベットを使っていいですよ。
-Again, you may use the Bed to heal your
-Puppets.
+Again, you may use the bed to heal your
+puppets.

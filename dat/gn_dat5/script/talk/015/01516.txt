@@ -1,11 +1,5 @@
-*エリス
 Elis
 5
-*あれ？こんなところに珍しいね。\b
-Huh. It's kinda new to see you here.\b
-
-//Unnatural line with odd structure.  Possible alternatives include "Huh, you look like a new face around here." or "Huh, I haven't seen you around here before."
-*もしかして迷子さんかな？\b
+Huh, I haven't seen you around here before.
 Are you lost?\b
-*あらら お人形さんはお疲れみたいだね。
-Aww. Your Puppet looks so weary.\b
+Aww. Your puppet looks so weary.\b

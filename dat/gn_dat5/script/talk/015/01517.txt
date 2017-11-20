@@ -1,9 +1,6 @@
-*エリス
 Elis
 5_03
-*はい これでお人形さんも元気いっぱい！\b
 Here we go. Now they are pumped up as usual!\b
-*何しにきたか知らないけど お人形さんは大事にしてあげてね。
 I don't care about what you're doing here, but
 take good care of them, alright?
 

@@ -1,10 +1,6 @@
 
 
-*『現在留守にしております ごゆっくりおくつろぎください』\b
-It says, "I'm currently absent.\b
-*と書かれている。\b
-Please make yourself at home."\b
-*\c休んでいきますか？
+It says, "I'm currently absent."\b
+"Please make yourself at home."\b
 \cWould you like to take a break?
-
 \\While "take a rest" is not necessarily incorrect, not many people say this.
