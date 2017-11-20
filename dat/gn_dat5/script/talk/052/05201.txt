@@ -1,12 +1,8 @@
-美鈴
+Meiling
 40_05
-・・・。\b
-...
+...\b
 \x06
-わ わわっ！ナイフはもうっ！！\
-Wawawa! Please not the knife!!
-そんなに刺さりませ・・・\b
-You don't have to stab so man-
+Wawawa! Please not the knife!!\b
+You don't have to stab so man-\b
 \s40_04
-はっ！！
 Ha!!!

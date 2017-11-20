@@ -1,28 +1,17 @@
-霖之助
+Rinnosuke
 58_03
-そうだ！\b
-I got it!
-この最新式の自転車をキミに譲ってあげよう！\b
-I'll give you this latest model bicycle. 
-きっと 冒険の役にも立つだろう。\b
-Surely it'll be helpful on your adventure. 
+I got it!\b
+I'll give you this latest model bicycle.\b
+Surely it'll be helpful on your adventure.\b
 \x04
-・・・まぁ 少しお手伝いはしてもらうけどね。\b
-Well, I'll also like you to run an errand for me too.
+Well, I'll also like you to run an errand for me too.\b
 \x00
-ここの先の森にいるアリスという少女に 荷物を届けてもらいたい。\b
-In the forest up ahead there's a girl named Alice that wants a package delivered.
+In the forest up ahead there's a girl named Alice that wants a package delivered.\b
 \x06
-ちょうど自転車の修理に時間が掛かってしまっているからね。\b
-It did take some time to get the right repairs done on the bike, 
-いい時間つぶしにもなるだろう。\b
-but you should be able to get there in no time.
+It did take some time to get the right repairs done on the bike,\b
+but you should be able to get there in no time.\b
 \x00
-それに・・・\b
-Also...
+Also...\b
 \x03
-人形のことならアリスに聞くのが一番。\b
-Alice is the best person you can learn about dolls from.
-#Though it would normally be Puppets, I feel like dolls would make better sense considering what you find out later.
-キミのためにもなって ちょうどいいじゃないか。
+Alice is the best person you can learn about dolls from.\b
 Isn't that great for you too?

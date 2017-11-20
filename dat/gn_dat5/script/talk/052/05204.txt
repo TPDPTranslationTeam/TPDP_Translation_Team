@@ -1,9 +1,7 @@
 美鈴
 040
-・・・はい？まだ何か御用ですか？\b
-Yes? What is it that you want?
+Yes? What is it that you want?\b
 \x03
-ふぁ・・・えぇ ちゃんと聞いてますよー。\b
-*yawn* Uhm, yes I'm listening carefully.
+*yawn* Uhm, yes I'm listening carefully.\b
 \s40_05
-・・・zzz
+...zzz

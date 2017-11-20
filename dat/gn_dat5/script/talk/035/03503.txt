@@ -1,9 +1,6 @@
-èÁ”V•
+Rinnosuke
 58_02
-–Ø‚ğØ‚é“¹‹ï‚Í ‰i‰“’à‚ÌÒ‚É”„‚Á‚Ä‚µ‚Ü‚Á‚½‚ñ‚¾B\b
-The tree cutting tool was something I sold to the Eientei folks.
+The tree cutting tool was something I sold to the Eientei folks.\b
 \x00
-‰i‰“’à‚Í l—¢‚ğ“ì‚ÉŒü‚©‚Á‚½’|—Ñ‚Ìæ‚É‚ ‚éB\b
-Eientei is located south of the human village and inside of the bamboo forest.
-Ø‚è‚És‚­‚È‚ç –À‚í‚È‚¢‚æ‚¤‚É’ˆÓ‚·‚é‚ñ‚¾‚æB
+Eientei is located south of the human village and inside of the bamboo forest.\b
 When you go to borrow the item, be sure not to get lost. 
