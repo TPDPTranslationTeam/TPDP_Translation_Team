@@ -8,4 +8,4 @@ Huh. It's kinda new to see you here.\b
 *もしかして迷子さんかな？\b
 Are you lost?\b
 *あらら お人形さんはお疲れみたいだね。
-Aww. Your puppet looks so weary.\b
+Aww. Your Puppet looks so weary.\b
