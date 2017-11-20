@@ -1,6 +1,11 @@
 Sakuya
 43_01
-Here is the mistress' room.\b
+//この先は ここの主のお部屋。\b
+This is the mistress' room.\b
+//何のアポイントメントも持たない人間のあなたを通すはずもないじゃない。\b
 There's no way letting you through without any appointment.\b
 \x00
+//私が完膚無きまでに やっつけてあげる。
 I'll knock you out right here, right now.
+
+//I'm not confident with the last line

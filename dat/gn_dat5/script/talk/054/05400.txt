@@ -1,19 +1,32 @@
 Remilia
 44
+//紅魔館へようこそ。\b
 Welcome to my mansion。\b.
+//あなたが来ることは わかっていたわ。\b
 I knew you're coming.\b
 \x05
+//私がこの館の主。\b
 I am the master of this mansion.\b
+//運命を見通すことができるのよ。\b
 I can see through the destiny.\b
 \x03
+//あなた 相当おもしろい運命をしているわね。\b
 Your destiny looks interesting.\b
 \s44_02
+//・・・あら 図書館にご用なのね。\b
 ...Oh, you're looking for the library.\b
+//てっきり私に会いに来てくれたのだと思ったのだけれども・・・。\b
 I thought you're interested in me.\b
 \x00
+//どう？パチェの用が済んだ後にでも 私に会いに来なさいよ。\b
 How about seeing me after you're done with Patchy?\b
+//私なら あなたの運命の続く先を導いてあげられるわよ？\b
 I can guide your path of destiny...\b
 \x04
+//とは言っても 私の部屋まで来れたらの話だけれど。\b
 But only if you did make it to my room.\b
 \s44_03
+//じゃあ ごゆっくり・・・。
 Well then...
+
+//I am not that confident of this part
