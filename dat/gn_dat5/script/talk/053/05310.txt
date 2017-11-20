@@ -4,7 +4,7 @@ Marisa
 Damn it\b... Oh, it's you, \p.\b 
 \x02
 *人形に関する本なら まだ見つかってないぞ。\b
-I haven't find any book about Puppets.\b
+I haven't find any book about puppets.\b
 \x05
 *なに？
 What?

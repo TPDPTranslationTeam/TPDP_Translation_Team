@@ -4,7 +4,7 @@ Patchouli
 There's no more worthless time than pointless conversation.\b
 \x01
 *・・・私が人形と無関係なのは本当よ。\b
-...I'm not related with the Puppets. It's true.\b
+...I'm not related with the puppets. It's true.\b
 *信じられないのなら そこにいるコソ泥にでも聞くといいわ。\b
 If you can't believe your ears, you can ask that sliking cat over there.\b
 \s42
@@ -29,4 +29,4 @@ But...\b
 *このまま進むのも大変だろうから 人形の回復ぐらいはしてあげる。\b
 You're gonna have a hard time if you're going as it is.\b
 必要なら 声を掛けて頂戴。
-I can heal your Puppets. Talk to me if you need to.
+I can heal your puppets. Talk to me if you need to.
