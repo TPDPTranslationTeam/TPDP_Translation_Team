@@ -3,4 +3,4 @@ Reisen
 Feel free to ask if you need it again.\b
 \x00
 Again, you may use the bed to heal your
-puppets.
+Puppets.

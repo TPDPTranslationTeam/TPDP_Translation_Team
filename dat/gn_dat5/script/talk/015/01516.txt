@@ -2,4 +2,4 @@ Elis
 5
 Huh, I haven't seen you around here before.
 Are you lost?\b
-Aww. Your puppet looks so weary.\b
+Aww. Your Puppet looks so weary.\b
