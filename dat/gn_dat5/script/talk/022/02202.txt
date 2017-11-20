@@ -5,7 +5,7 @@ Welp... You do have some potential.\b
 Let's test this out.\b
 \x07
 Is your little friend still following ya?\b
-There she is. It's time for a puppet duel.\b
+There she is. It's time for a Puppet duel.\b
 \x00
 Since you're such an amateur...\b
 I'll lend you a few minutes just to get

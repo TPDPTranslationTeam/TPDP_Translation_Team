@@ -3,7 +3,7 @@ Sanae
 Oh, by the way!\b
 \x00
 Some people in the Human Village are investig-
-ating puppets. Maybe you could start find-
+ating Puppets. Maybe you could start find-
 ding clues there.\b
 \x05
 Unfortunately, I have to stay here as a backup
