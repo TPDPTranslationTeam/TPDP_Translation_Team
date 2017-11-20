@@ -10,7 +10,7 @@ Unfortunately, I have to stay here as a backup
 for when Reimu is out. You are on yo-
 ur own for now.\b
 \x03
-You should be fine with your puppet.\b
+You should be fine with your Puppet.\b
 I'm sure she'll be your best ally!\b
 \x00
 You might also learn more about our world in the
