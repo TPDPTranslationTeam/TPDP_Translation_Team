@@ -6,7 +6,7 @@ Oh, by the way!\b
 \x00
 *人里に人形について調べている人がいたはずなので そこへ行けば何か分かるかもしれません。\b
 Some people in the Human Village are investig-
-ating the puppets. Maybe you could start find-
+ating the Puppets. Maybe you could start find-
 ding clues there.\b
 \x05
 *私は霊夢さんが出かけたら また留守番を頼まれてしまうでしょうから 一緒には行けません。\b
@@ -15,7 +15,7 @@ for when Reimu is out. You are on yo-
 ur own for now.\b
 \x03
 *けど人形がいれば大丈夫です。\b
-You should be fine with your puppet.\b
+You should be fine with your Puppet.\b
 *きっと\pさんの力になってくれますよ！\b
 I'm sure she'll be your best ally!\b
 \x00

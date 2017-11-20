@@ -6,7 +6,7 @@ Every conflict in Gensokyo is solved thro-
 ugh duels. This is our rule.\b
 \x00
 *普段は弾幕勝負なんですが 今は異変の影響で人形対戦が主流です。\b
-Usually we duel with danmaku, but puppet
+Usually we duel with danmaku, but Puppet
 duels have now become the mainstream method as a 
 result of this incident.\b
 \x05
