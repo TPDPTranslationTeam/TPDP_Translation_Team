@@ -1,24 +1,15 @@
-*霊夢
 Reimu
 1_05
-*・・・。\b
 ...\b
-*関係はなさそうね。\b
 You don't seem related.\b
-*どうせ監視もついてることだろうし。\b
 But I'm gonna watch over you anyway.\b
 \x00
-*\p だったかしら。\b
 You are \p, right?\b
-*余計な首は突っ込まないことね。\b
 Please don't get involved too much.\b
 \x03
-*どうせ今は帰れないんだから この異変が落ち着くまでどこかで静かにしてなさい。\b
 Just stay low until we clean up this mess.
 You can't get back to your world at this 
 moment regardless.
 \s1_01
-*ほら 私は疲れてるのよ。
 I'm getting pretty damn tired.
-*部外者は外へ出て行った 出て行った！
 Now get the hell out of here!

@@ -1,7 +1,4 @@
-*魔理沙
 Marisa
 02_06
-*おいおい 外に行く気か？\b
 Hey, hey, you wanna hang out with me right?
-*逃げるのはナシだぜ。
-That'd be nothing if you choose to escape.
+There'd be nothing for you if you try to escape.

@@ -1,13 +1,8 @@
-*早苗
 85_01
-*コホン！\b
-cough, cough\b
+Cough, cough!\b
 \x03
-*私は東風谷早苗といいます。\b
 My name is Sanae Kochiya.\b
 \x00
-*ここは\pさんの住んでいるところから結界で隔離された場所。\b
 This place is completely separated from 
-where \p-san lived, by a great Barrier.\b
-*幻想郷というのですけれど・・・
+where \p lived by a great Barrier.\b
 It is called... Gensokyo.
