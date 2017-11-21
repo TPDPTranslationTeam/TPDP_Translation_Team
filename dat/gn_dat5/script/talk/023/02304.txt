@@ -2,8 +2,8 @@
 Sanae
 85_03
 *私は霊夢さんに話を聞いてみますね。\b
-I'll ask Reimu-san later.\b
+I'll ask Reimu about it later.\b
 \x00
 *あ 人里なら 神社を出て西に進むと見えてきますよ。
-Human Village? Go west after you leave
-the Shrine.
+Where's the Human Village?\b
+It's to the west of the shrine.

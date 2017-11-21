@@ -2,7 +2,7 @@
 Daiyousei
 38_03
 *人形解放戦線は 使役されている全部の人形を解放するのよ。\b
-Puppet Liberation Front will liberate all
-Puppets that are enslaved.
+The Puppet Liberation Front will liberate all
+the enslaved Puppets!
 *邪魔しないでよね！
-We will prevail!
+We will win!

@@ -2,16 +2,17 @@
 Medicine
 72
 *・・・あんた 人形を連れてるのね。\b
-You... are also walking with Puppets.
+You... also have puppets.
 \x04
 *ふーん・・・\b
-Humm...\b
+Hmm...\b
 \x00
 *まぁいいわ。\b
-Unfortunately, I got no time for you.\b
+Unfortunately, I've got no time for you.\b
 \x01
 *ほら どいてどいて！\b
 Now get out of my way.\b
 *私は忙しいの。
 *また会わないことを願ってなさい！
-Don't let me see you again.
+If you know what good for you, you 
+won't ever let me see you again!

@@ -2,11 +2,11 @@
 Wriggle
 60_04
 *わっ もう来たのか！\b
-Argh, they are already here!\b
+Wah... they're already here!\b
 *\oルーミア
 \oRumia
 \s37_01
 *こうなったら仕方がない！
-If that's the case...
+I guess we have no other choice...\b
 *ここはチルノに任せて わたし達は逃げるよ！
-Let's just ditch Cirno here and run!
+Everyone ditch Cirno and run!

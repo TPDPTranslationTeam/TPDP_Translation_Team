@@ -2,7 +2,7 @@
 Rumia
 37_05
 *まだ追いかけてくる元気があるのか！\b
-You are still not tired chasing us, eh?\b
+You're still not tired of chasing us?\b
 \x01
 *ミスティア！任せたよ！
-Mystia, you're up!
+Go get em', Mystia!

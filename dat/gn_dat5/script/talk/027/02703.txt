@@ -2,7 +2,9 @@
 Akyuu
 76_01
 *里の近辺で何か企んでいる者たちがいるという噂を聞きました。\b
-I heard some rumours about suspicious indi-
-viduals jerking around in the Village.\b
+I have heard some rumors about suspicious
+individuals lurking around in the Village.\b
 *念のため気を付けてくださいね。
-I haven't confirmed it, but just in case.
+I am not certain if these rumors are true,\b
+but it is better to inform you for your own
+well-being.
