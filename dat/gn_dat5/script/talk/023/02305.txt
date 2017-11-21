@@ -13,3 +13,4 @@ She went out somewhere after the briefing.\b
 \x00
 *あ 人里なら 神社を出て西ですよ。
 Human Village? It's to the west of Shrine.
+//Don't know if this one is used instead. Will have to test later.

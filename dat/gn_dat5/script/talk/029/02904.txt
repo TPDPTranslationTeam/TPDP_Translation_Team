@@ -1,8 +1,5 @@
-*リグル
 Wriggle
 60_04
-*わわっ！また来た！\b
-He found us again!\b
+They found us again!\b
 \x01
-*大ちゃん任せたよ！
-Dai-chan, it's your turn!
+Dai, it's your turn!

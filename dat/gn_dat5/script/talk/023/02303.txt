@@ -1,17 +1,12 @@
-*早苗
+Sanae
 85_03
-*これは 人形を仲間にしたとき 持ちきれなくなった人形を入れておくための箱です。\b
-Newly joined Puppets that exceed your
-party limit would be put in this box.\b
+If you already have six Puppets in your party,
+any new Puppets obtained will be stored in this box\b
 \x06
-*落ち着ける場所なら 箱を開いて手持ちと入れ替えることもできるんですよ。\b
-You may open it and switch Puppets between
-box and your active party in some safe 
-area\b
+You can open it and swap out Puppets in the box with
+those in your party.\b
 \x00
-*箱を開ける場所は 目印にあきゅう人形があるはずですから ぜひ活用してください！\b
-The area where you can open the box is
-marked by Akyuu Puppet. Use it wisely!
+You can access the box by interacting with the 
+Akyuu Puppets you'll find on your adventure. \b
 \x03
-*それでは がんばってくださいね！
-That's all I got. Good luck on your trip!
+That's all I've got for you. Good luck on your trip!

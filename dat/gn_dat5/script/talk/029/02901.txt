@@ -1,11 +1,7 @@
-*チルノ
 Cirno
 39_01
-*あたい達は にんぎょうかいほうせんせん！\b
-We, are the Pup Pet Lib Ration Front!\b
-*計画の邪魔をするやつは サイキョーのあたいがただじゃ置かないよ！\b
-You'll be punished by me, the strongest,
-for putting off our plans!
+We are the Puppet Liberation Front!\b
+You'll be hurt by me, the strongest,
+so badly, you'll cry like a baby!\b
 \x00
-*いざ せんせんふこくする！！
-Now this is my Dec La Ration of war!!
+This means war!!

@@ -1,9 +1,7 @@
-早苗
+Sanae
 85_03
-*忘れるところでした・・・。\b
 Just one more thing...\b
 \x00
-*人形と一緒とはいえ いきなり一人で山道を抜けるのは大変でしょうから 使えそうなものを 探してきたんです！
-Climbling down this mountain would be pre-
-tty tough for you and your Puppet alone.
-And I found some items to help you out!
+Climbling down this mountain will be really
+tough for just you and your Puppet alone.\b
+Here are some items that will help you out!

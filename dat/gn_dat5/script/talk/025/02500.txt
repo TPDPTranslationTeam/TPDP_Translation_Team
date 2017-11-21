@@ -1,9 +1,6 @@
 
 
-*\lいたっ！\b\l
 \lOuch!\b\l
-*\oメディスン
 Medicine
 \s72_05
-*何すんのよ！ちゃんと前見てなさいよね！
-Wactch your steps!
+Watch where you're going!
