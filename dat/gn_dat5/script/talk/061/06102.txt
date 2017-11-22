@@ -1,8 +1,8 @@
-文
+Aya
 73
-そうそう。そんな あなたにビッグニュース！\b
-どうやら 河童のアジトが人形戦線に占領されたようです。\b
-どうです？気になる記事でしょう？\b
-\cここから湖の縁を橋のところまで下って 左方向に進めば 玄武の沢です。\b
-そこの洞窟内から アジトへいけますよ。\b
-\cそれでは！またどこかで会いましょう！
+Yes, indeed. I have some big news for you!
+It appears that the Kappa Hideout is being occupied by the Puppet Liberation Front.\b
+How about that? Did that news interest you?\b
+\cFrom here, go down the bridge by edge of the lake, and then head left to reach Genbu Ravine.
+Inside the cavern will be where the Hideout is located.\b
+Until then, we shall meet again!
