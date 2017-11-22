@@ -1,5 +1,8 @@
-文
+Aya
 73
 ・・・あややや！\b
+... Ayayaya!\b
 あなたは巷で有名な\pさんではないですか。\b
+You're the well known \p that I heard of right?\b
 いやぁ こんなところで会うとは 奇遇ですね。
+How unexpected to meet you here.

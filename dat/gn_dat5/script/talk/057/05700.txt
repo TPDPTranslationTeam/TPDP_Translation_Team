@@ -1,15 +1,24 @@
-文
+Aya
 73_04
 ・・・あややや！\b
+... Ayayaya!\b
 \x03
 あなたは巷で有名な\pさんではないですか。\b
+You're the well known \p that I heard of right?\b
 いやぁ こんなところで会うとは 奇遇ですね。\b
+How unexpected to meet you here.\b
 \x00
 もしかして妖怪の山へ行かれるのですか？\b
+Are you perhaps heading toward Youkai Mountain?\b
 いやぁ 流石というか。\b
+How impressive.
 あなたはやはり他の人間とは違うのですねぇ。\b
+You truly are different from other humans.\b
 \x03
 妖怪の山はいいですよ～！\b
+Youkai Mountain is nice!\b
 麓に河童のアジト 中腹に天狗の里 山頂には守矢神社と 観光にはもってこいです。\b
+We have the Kappa Hideout at the mountain base, Tengu Village in the middle, and the Moriya Shrine at the summit. The mountain is also great for sightseeing!\b
 \x01
 噂には 仙人の住まう庵もあるとかないとか・・・
+There's also a rumor of a hermit retreat being somewhere on the mountain...
