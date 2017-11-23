@@ -1,5 +1,8 @@
-レミリア
+//レミリア
+Remilia
 44_02
-もったいないことするのね。\b
+//もったいないことするのね。\b
+You're wasting an opportunity.\b
 \x03
-いいわ。変えたくなったら また私を頼りなさい。
+//いいわ。変えたくなったら また私を頼りなさい。
+Anyway, ask me again if you want to change.

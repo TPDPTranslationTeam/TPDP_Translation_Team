@@ -1,8 +1,13 @@
 Remilia
 44_01
 //そういえば あなたの 人形のニックネーム
-まるでセンスが感じられないわね。\b
+//まるでセンスが感じられないわね。\b
+By the way, I don't see any creative sense from your nickname.\b
 \x05
-私なら もっとセンスのあるニックネームを付けてあげられるわよ。\b
+//私なら もっとセンスのあるニックネームを付けてあげられるわよ。\b
+I can give you better name.\b
 \x00
-どう？私に任せてみない？
+//どう？私に任せてみない？
+How about leaving it to me?
+
+//very inconfident about this

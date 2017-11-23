@@ -8,10 +8,10 @@ I knew you're coming.\b
 //私がこの館の主。\b
 I am the master of this mansion.\b
 //運命を見通すことができるのよ。\b
-I can see through the destiny.\b
+I can see through a person's fate.\b
 \x03
 //あなた 相当おもしろい運命をしているわね。\b
-Your destiny looks interesting.\b
+Your fate looks interesting.\b
 \s44_02
 //・・・あら 図書館にご用なのね。\b
 ...Oh, you're looking for the library.\b
