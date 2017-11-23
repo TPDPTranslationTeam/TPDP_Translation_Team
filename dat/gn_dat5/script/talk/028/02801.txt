@@ -2,21 +2,21 @@
 Rumia
 37_04
 *見つかったって！？どうするの！？\b
-They found us! What to do!?\b
+They found us! What do we do!?\b
 *\oチルノ
 \oCirno
 \s39_03
 *フフン そんなの最強のあたいがコテンパンにしてやるわ！\b
-Leave them to Me, the strongest, to beat
-their pants off!\b
+Just leave them to me, the strongest, to beat
+the socks off them!\b
 *\o大妖精
 \oDaiyousei
 \j38_03
 *さすがチルノちゃん！カッコいいわ！！\b
-You are so cool, Cirno-chan!\b
+Wow! You're so cool, Cirno!\b
 *\oチルノ
 \oCirno
 \s39_01
 *・・・ところで リグルが見つかったって人間って アイツ？
-...By the way, is this the human Wriggle
-just saw earlier?
+...By the way, is that the human Wriggle
+saw earlier?

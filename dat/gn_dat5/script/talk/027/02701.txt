@@ -2,11 +2,12 @@
 Akyuu
 76
 *何か分かり次第お伝えしますので しばらく里の見物でもして待っていてもらえませんか？\b
-Please enjoy yourself in the Village while
-we are finding more clues of it. I'll inf-
-orm you as soon as we make any progress.\b
+Please enjoy your time here in the village while
+we continue to research the matter.\b
+We will inform you when we make progress in
+our research.\b
 \x03
 *たいした名物もない里ですが 外の世界の人には珍しいものも あるかもしれませんよ。
-Well... Although we don't have anything re-
-markable, I bet you'd find something that
+We don't have anything remarkable,\b
+but I bet you will find something that
 is very special to you and your world.

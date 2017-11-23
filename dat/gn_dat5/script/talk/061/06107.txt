@@ -1,4 +1,6 @@
-文
+Aya
 73
 河童のアジトにはそこの洞窟内からいけるみたいですよ。\b
+The Kappa Hideout should be located inside of the cavern.\b
 \cそれでは！またどこかで会いましょう。
+\cUntil then, let us meet again.

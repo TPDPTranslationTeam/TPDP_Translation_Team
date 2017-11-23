@@ -1,5 +1,7 @@
-小悪魔
+Koakuma
 41_04
 勝手にしていいのかって？\b
+Trying to do whatever you want here?\b
 \x00
 いいのよ。どうせ気付かれないし。
+Fine. I totally didn't see anything.
