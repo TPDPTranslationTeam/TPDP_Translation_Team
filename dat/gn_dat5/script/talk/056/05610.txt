@@ -1,6 +1,10 @@
-咲夜
+//咲夜
+Sakuya
 43_01
-こんなところまで入ってきて 何か用があるのかしら？\b
-生憎 あなたに割ける時間は一秒たりともないわ。\b
+//こんなところまで入ってきて 何か用があるのかしら？\b
+What are you looking for here?\b
+//生憎 あなたに割ける時間は一秒たりともないわ。\b
+I have no time for dealing with you.\b
 \x00
-私には やらなきゃいけないことが沢山あるの。
+//私には やらなきゃいけないことが沢山あるの。
+I've got many things to do.

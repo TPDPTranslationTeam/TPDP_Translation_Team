@@ -1,10 +1,18 @@
-レミリア
+//レミリア
+Remilia
 44_03
-フフ 今のは主っぽい行いだったわね。\b
+//フフ 今のは主っぽい行いだったわね。\b
+Huhu, that was a lordly deed.\b
 \x00
-さぁ あなたも人形も元気になったでしょう？\b
-もう少し付き合ってもらうわ。\b
+//さぁ あなたも人形も元気になったでしょう？\b
+Now you and your puppets are fine.\b
+//もう少し付き合ってもらうわ。\b
+Play with me more.\b
 \x04
-私も あなたと遊ぶのを楽しみにしていたのよ。\b
+//私も あなたと遊ぶのを楽しみにしていたのよ。\b
+I was eagerly waiting for playing with you.\b
 \x05
-嫌と言っても お相手してもらうわ。
+//嫌と言っても お相手してもらうわ。
+If you want or not, stick with me.
+
+//Line 3, 6 needs help: "付き合う" "相手をする"

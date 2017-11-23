@@ -1,6 +1,11 @@
 華扇
 974_05
-霊夢も もっと本業を大事にすべきよね。\b
-仕方が無いから 今は私が面倒を見てるの。\b
+//霊夢も もっと本業を大事にすべきよね。\b
+Reimu should do value her original job more.\b
+//仕方が無いから 今は私が面倒を見てるの。\b
+I'm taking care now, I had no choice.\b
 \x00
-何もしてあげられないけど ゆっくりしていくといいんじゃないかしら。
+//何もしてあげられないけど ゆっくりしていくといいんじゃないかしら。
+I can't do anything but take it easy.
+
+//Copied some from 05626

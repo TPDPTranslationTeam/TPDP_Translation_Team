@@ -1,5 +1,9 @@
-永琳
+//永琳
+Eirin
 65
-あら いらっしゃい。\b
-\cだいぶ お疲れのようですね。
-少し休んでいきますか？
+//あら いらっしゃい。\b
+Oh, hi.\b
+//\cだいぶ お疲れのようですね。
+\cYou look really tired.
+//少し休んでいきますか？
+Do you want to take some rest?
