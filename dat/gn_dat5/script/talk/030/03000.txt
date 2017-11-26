@@ -2,10 +2,10 @@
 Rumia
 37_05
 *もー あんたもしつこいなー。\b
-Your pity resistance is getting annoying.\b
+Your petty resistance is getting annoying.\b
 \x01
 *でも ここで作戦を邪魔されるわけにはいかないんだから！\b
-But, your interfering against our agenda
+Your interference with our agenda
 stops right here.\b
 \x00
 *そう！わたしがリーダーのルーミア！\b
@@ -19,4 +19,5 @@ Arghh... Now you're just being irratiting!
 \x01
 *とにかく！リーダーのわたしと勝負だー！
 Anyway, I'm the leader and this is a leader
--level duel!
+-level duel!\
+//What?^

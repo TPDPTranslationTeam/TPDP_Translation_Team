@@ -6,4 +6,4 @@ The tree cutting tool was something I sold to the Eientei folks.
 永遠亭は 人里を南に向かった竹林の先にある。\b
 Eientei is located south of the human village and inside of the bamboo forest.
 借りに行くなら 迷わないように注意するんだよ。
-When you go to borrow the item, be sure not to get lost. 
+Be sure not to get lost in the forest when you go to borrow it.
