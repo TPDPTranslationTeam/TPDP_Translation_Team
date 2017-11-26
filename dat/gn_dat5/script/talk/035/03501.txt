@@ -1,18 +1,21 @@
-Rinnossuke
+Rinnosuke
 58_03
-I've already got an explanation written up on how to use it.\b
+I've already got an explanation written up on how to use it.
 \x00
-Hm? The Scarlet Devil Mansion?\b
+Hm? The Scarlet Devil Mansion?
 \x00
-I see, so you heard from Alice.\b
+I see, so you heard about it from Alice.
 \x02
-However, there's some troublesome trees over there that'll need to be cut down.\b
+However, there's some troublesome trees over there
+you'll need to cut down,
 \x00
-I did make a deal with the Eientei youkai before when I sold them the tree cutter.\b
+but I already lent the Eientei youkai my tree cutter. 
 \x03
-I guess their task is over now, so how about asking them to borrow the tree cutter?\b
+I'm sure they are done with it by now. If you want, you can try asking them
+for it.
+#I'm worried about this sentence and the previous one. It feels hard to convey.
 \x00
-It would be a good idea to ask the half-youkai elementary teacher in the human village on how to get to Eientei.\b
-She's well informed about that area after all.\b 
+It would be best to ask the half-youkai elementary teacher in the human village on how to get to Eientei.
+She's well informed about that area after all. 
 \x03
-Well, good luck on your adventure. I'll be supporting you.\b
+Well, good luck on your adventure. 
