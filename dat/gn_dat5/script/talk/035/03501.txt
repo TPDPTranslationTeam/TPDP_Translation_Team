@@ -2,7 +2,7 @@ Rinnosuke
 58_03
 I've already got an explanation written up on how to use it.\b
 \x00
-... Hm? The Scarlet Devil Mansion?\b
+...Hm? The Scarlet Devil Mansion?\b
 \x00
 I see, so you heard about it from Alice.\b
 \x02
