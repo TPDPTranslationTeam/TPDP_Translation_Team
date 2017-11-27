@@ -1,19 +1,19 @@
 Marisa
 2_04
 *やばっ\b・・・って\pか。\b
-Damn it\b... Oh, it's you, \p.\b 
+Damn it\b...Oh, it's you, \p.\b 
 \x02
 *人形に関する本なら まだ見つかってないぞ。\b
-I haven't find any book about puppets.\b
+I haven't found any books about puppets.\b
 \x05
 *なに？
 What?
 *パチュリーが無関係だって言ってた？\b
-Patchouli said it's unrelated?\b
+Patchouli said she's unrelated?\b
 *・・・本もないし 嘘じゃなさそうだな。\b
 ...Sounds true considering I couldn't find any related books here.\b
 \x03
 *じゃあ 私は 見つかる前にずらかることにするぜ。\b
-Well, I'm leaving before getting caught.\b
+Well, I'm leaving before I get caught.\b
 *またな。
 Bye.
