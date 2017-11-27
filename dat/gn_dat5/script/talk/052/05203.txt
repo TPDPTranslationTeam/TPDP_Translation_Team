@@ -1,6 +1,7 @@
 美鈴
+Meiling
 40_07
 あぁ 負けた。\b
-Ah, I've been defeated.
+Ah, I've been defeated.\b
 お嬢様にまた怒られるぅ・・・。
 The mistress will be mad at me again...
