@@ -9,7 +9,7 @@ I see, so you heard about it from Alice.\b
 However, there's some troublesome trees over there that
 you'll need to cut down,\b
 \x00
-but I already lent the Eientei youkai my tree cutter.\b
+but I already sold to the Eientei youkai my tree cutter.\b
 \x03
 I'm sure they are done with it by now. If you want, you can try asking them
 for it.\b
