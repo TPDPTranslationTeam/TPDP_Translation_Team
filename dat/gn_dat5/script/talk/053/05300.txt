@@ -3,10 +3,10 @@ Patchouli
 *こんなところに何の用かしら？\b
 What's your business here?\b
 *あなたには関係ない場所だと思うけれど・・・。\b
-I think this place has none of your business...\b
+I think this place is none of your business...\b
 \x05
 *人形が魔力で動いている？\b
-Puppets moving with magic?\b
+Puppets moving through magic?\b
 *だから私が怪しいとでも踏んだのかしら？\b
 So you're suspecting me, aren't you?
 \x01
