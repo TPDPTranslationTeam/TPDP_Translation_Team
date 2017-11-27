@@ -1,32 +1,33 @@
 Patchouli
 42_05
 *意味のない時間ほど無駄なことはないわね。\b
-There's no more worthless time than pointless conversation.\b
+There's no bigger waste of time than pointless conversation.\b
 \x01
 *・・・私が人形と無関係なのは本当よ。\b
-...I'm not related with the puppets. It's true.\b
+...I'm not related to the puppets. It's true.\b
 *信じられないのなら そこにいるコソ泥にでも聞くといいわ。\b
-If you can't believe your ears, you can ask that sliking cat over there.\b
+If you can't believe your ears, you can ask that slinking cat over there.\b
 \s42
 *さて\b レミィに呼ばれているのでしょう？\b
-Well,\b you're called by Remi, right?\b
+Well,\b you're being called by Remi, right?\b
 *なぜ知っているのかって？\b
 How did I know that?\b
 \x03
 *少し前に 新聞であなたがここに向かっていることを知って そわそわしてたのよ。\b
-She knew you're coming here by the newspaper and was antsy for you.\b
+She knew you were coming here from reading the newspaper and was antsy waiting for you.\b
 *わかりやすいわ。\b
 How predictable.\b
 \x00
 *そんなことより レミィのところへ行くのなら 先の扉からどうぞ。\b
-Anyway, you can go Remi's place from the door over there.\b 
+Anyway, you can go to Remi's room from the door over there.\b 
 *どうなってもかまわないと言うのであれば 私は止めないから。\b
-I won't stop if you're don't matter what happen.\b
+I won't stop you if you don't care what happens.\b
+\\I had to rearrange this entire sentence for it to make sense in English.
 \x04
 *でも そうね。\b
 But...\b
 \x00
 *このまま進むのも大変だろうから 人形の回復ぐらいはしてあげる。\b
-You're gonna have a hard time if you're going as it is.\b
+You're gonna have a hard time if you're going as is.\b
 必要なら 声を掛けて頂戴。
 I can heal your puppets. Talk to me if you need to.
