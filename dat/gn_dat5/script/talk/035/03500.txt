@@ -1,8 +1,9 @@
 èÁ”V•
+Rinnosuke
 58_05
 ‚¨‚â ‚¸‚¢‚Ô‚ñŠÔ‚ªŠ|‚©‚Á‚½‚æ‚¤‚¾‚ËB\b
-Oh, you took your time getting back. 
+Oh, you took your time getting back.\b
 \x00
 ‚Ù‚ç ©“]Ô‚È‚çŠ®¬‚µ‚½‚æB
 Hey, this task was accomplished thanks to the bike. 
-#I feel like this is the context of this sentence
+\\I feel like this is the context of this sentence
