@@ -7,7 +7,7 @@ My, hello there.
 Um, my name is Alice.
 \x02
 ・・・え？私への届け物？\b
-Huh? You're here to bring me my delivery package?
+Huh? You're here to bring me my package?
 \o
 \s
 \pはアリスに届け物を渡した！
