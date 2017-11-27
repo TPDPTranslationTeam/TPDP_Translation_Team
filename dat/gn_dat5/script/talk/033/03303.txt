@@ -1,6 +1,7 @@
 霖之助
+Rinnosuke
 58
 アリスの家なら西の森にあるよ。\b
-Alice's residence is on the west side of the forest.
+Alice's residence is on the west side of the forest.\b
 森に入る前に準備していくかい？
 Before you go, do you have everything in order?
