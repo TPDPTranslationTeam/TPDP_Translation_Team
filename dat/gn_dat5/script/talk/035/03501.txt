@@ -5,7 +5,7 @@ Rinnosuke
 I've already got an explanation written up on how to use it.\b
 \x00
 ・・・ん？ 紅魔館かい？\b
-... Hm? The Scarlet Devil Mansion?\b
+...Hm? The Scarlet Devil Mansion?\b
 \x00
 なるほど アリスから聞いたんだね。\b
 I see, so you heard about it from Alice.\b
