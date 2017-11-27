@@ -1,6 +1,4 @@
 
-
-*さっきお菓子いっぱいもらったんだ。わけてあげるから一緒に食べようよ。
-I've got lots of sweets, [I will give you some and let's eat together]
+I've got lots of sweets; [I will give you some and we'll eat them together.]
 
 //I couldn't come up with good translation
