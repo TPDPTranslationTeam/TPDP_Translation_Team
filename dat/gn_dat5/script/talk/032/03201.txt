@@ -14,7 +14,7 @@ You're going outside the village.
 *早苗から里の外は危険だって聞かなかった？\b
 Didn't Sanae tell you that the outside is dangerous?\b
 *\c・・・まさか 人形の件に首突っ込むつもりじゃないわよね。 \b
-\c ... Seriously, are you going to take on the Puppet incident?\b
+\c ...Seriously, are you going to take on the Puppet incident?\b
 \c
 \x05
 *はっきり言って困るわ。

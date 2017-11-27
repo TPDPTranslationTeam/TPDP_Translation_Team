@@ -20,4 +20,4 @@ I don't care about what you do otherwise.\b
 
 \x00
 *・・・それじゃあね。
-... Bye.
+...Bye.
