@@ -1,9 +1,9 @@
 Alice
 31
-My hello there.\b
+My, hello there.\b
 Um, my name is Alice.\b
 \x02
-Huh? You brought me my delivery package?\b
+Huh? You're here to bring me my package?\b
 \o
 \s
-\phas handed over the delivery package to Alice!
+\p has handed over the delivery package to Alice!
