@@ -1,16 +1,10 @@
 Patchouli
 42
-*こんなところに何の用かしら？\b
 What's your business here?\b
-*あなたには関係ない場所だと思うけれど・・・。\b
-I think this place has none of your business...\b
+I think this place is none of your business...\b
 \x05
-*人形が魔力で動いている？\b
-Puppets moving with magic?\b
-*だから私が怪しいとでも踏んだのかしら？\b
+Puppets moving through magic?\b
 So you're suspecting me, aren't you?
 \x01
-*残念だけど 私の術式とは違うものよ。\b
 Sadly, that formula is different from mine.\b
-*もし関係があったとしても あなたに教える義理もないわ。\b
 Even if it's mine, I don't have any obligation to tell you.\b
