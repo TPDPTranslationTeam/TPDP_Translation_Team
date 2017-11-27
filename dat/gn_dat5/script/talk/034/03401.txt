@@ -15,7 +15,7 @@ That reminds me, you're that human child that made it into the newspaper.\b
 Hmm... It's as \p says.\b
 \x02
 c”O‚È‚ñ‚¾‚¯‚Ç „‚à‚»‚ñ‚È‚Éî•ñ‚ğ‚Á‚Ä‚¢‚È‚¢‚ÌB\b
-Unfortunately though, I don't have any information either.\b 
+Unfortunately, I don't have any information either.\b 
 ‚¨–ğ‚É—§‚Ä‚È‚­‚Ä‚²‚ß‚ñ‚È‚³‚¢‚ËB\b
 I'm so sorry that I'm not able to help you out.\b
 \x00
