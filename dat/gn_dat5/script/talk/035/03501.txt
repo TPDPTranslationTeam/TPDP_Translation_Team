@@ -1,21 +1,21 @@
 Rinnosuke
 58_03
-I've already got an explanation written up on how to use it.
+I've already got an explanation written up on how to use it.\b
 \x00
-Hm? The Scarlet Devil Mansion?
+... Hm? The Scarlet Devil Mansion?\b
 \x00
-I see, so you heard about it from Alice.
+I see, so you heard about it from Alice.\b
 \x02
-However, there's some troublesome trees over there
-you'll need to cut down,
+However, there's some troublesome trees over there that
+you'll need to cut down,\b
 \x00
-but I already lent the Eientei youkai my tree cutter. 
+but I already lent the Eientei youkai my tree cutter.\b
 \x03
 I'm sure they are done with it by now. If you want, you can try asking them
-for it.
-#I'm worried about this sentence and the previous one. It feels hard to convey.
+for it.\b
+\\I'm worried about this sentence and the previous one. It feels hard to convey.
 \x00
-It would be best to ask the half-youkai elementary teacher in the human village on how to get to Eientei.
-She's well informed about that area after all. 
+It would be best to ask the half-youkai elementary teacher in the Human Village on how to get to Eientei.\b
+She's well informed about that area after all.\b
 \x03
 Well, good luck on your adventure. 
