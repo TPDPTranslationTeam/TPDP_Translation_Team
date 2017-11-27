@@ -1,30 +1,31 @@
 霖之助
+Rinnosuke
 58_03
 使い方は説明がきに書いておいたからね。\b
-I've already got an explanation written up on how to use it.
+I've already got an explanation written up on how to use it.\b
 \x00
 ・・・ん？ 紅魔館かい？\b
-Hm? The Scarlet Devil Mansion?
+... Hm? The Scarlet Devil Mansion?\b
 \x00
 なるほど アリスから聞いたんだね。\b
-I see, so you heard about it from Alice.
+I see, so you heard about it from Alice.\b
 \x02
 しかし あそこへ行くには邪魔な木を切れるものが必要なんだ。\b
-However, there's some troublesome trees over there
-you'll need to cut down,
+However, there are some troublesome trees over there that
+you'll need to cut down,\b
 \x00
 前だと僕のとこで扱っていたんだけど 永遠亭の妖怪に売ってしまってね。\b
-but I already lent the Eientei youkai my tree cutter. 
+but I already lent the Eientei youkai my tree cutter.\b 
 \x03
 そろそろ用も済んでいる頃だろうし 彼らに貸してくれるよう頼んでみたらどうだろう？\b
-I'm sure they are done with it by now. If you want, you can try asking them
-for it.
-#I'm worried about this sentence and the previous one. It feels hard to convey.
+I'm sure they are done using it by now. If you want, you can try asking them
+for it.\b
+\\I'm worried about this sentence and the previous one. It feels hard to convey.
 \x00
 永遠亭に行くのなら 人里の寺子屋で先生をやっている半妖に 色々聞くといい。\b
-It would be best to ask the half-youkai elementary teacher in the human village on how to get to Eientei.
+It would be best to ask the half-youkai elementary teacher in the human village on how to get to Eientei.\b
 彼女は あの辺りに詳しいはずだからね。\b
-She's well informed about that area after all. 
+She's well informed about that area after all.\b
 \x03
 じゃあ冒険頑張ってくれ。応援してるよ。
 Well, good luck on your adventure. 
