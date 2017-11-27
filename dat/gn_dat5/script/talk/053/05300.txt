@@ -8,7 +8,7 @@ I think this place is none of your business...\b
 *人形が魔力で動いている？\b
 Puppets moving through magic?\b
 *だから私が怪しいとでも踏んだのかしら？\b
-So you're suspecting me, aren't you?
+So you're suspecting me, aren't you?\b
 \x01
 *残念だけど 私の術式とは違うものよ。\b
 Sadly, that formula is different from mine.\b
