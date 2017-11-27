@@ -8,4 +8,4 @@ Anything you need to get stocked up on?\b
 Hmm...\b
 So you've started looking into the mystery of these Puppets? \b
 \x06
-That seems like a lot of touble.\b
+That seems like a lot of trouble.\b
