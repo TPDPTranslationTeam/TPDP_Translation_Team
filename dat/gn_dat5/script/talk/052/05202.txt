@@ -7,10 +7,10 @@ Ahem.\b
 So what business do you have here?\b
 Unfortunately, I am under orders to not allow anyone to go through.\b 
 \x02
-Huh? I was just sleeping before?\b
+... Huh? I was just sleeping before?\b
 \x03
 I just kind of dozed off because of the great weather.\b
 \x01
-Eh! My explanation was just fine!\b
+Eh! My explanation is fine!\b
 Anyway, you can't pass through here.\b
 If you insist on going through, you'll have to beat me in battle first.
