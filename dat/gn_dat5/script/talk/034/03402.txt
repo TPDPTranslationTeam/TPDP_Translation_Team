@@ -4,7 +4,7 @@ You and your Puppets look well rested.\b
 \x01
 ...\b
 \x00
-Oh yes I just remembered!\b
+Oh, yes, I just remembered!\b
 The Puppets are moving by means of a magical power.\b
 There's a place called the Scarlet Devil Mansion with a witch there that may be related to this incident.\b
 How about going there?\b
