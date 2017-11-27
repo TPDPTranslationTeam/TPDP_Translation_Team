@@ -1,7 +1,7 @@
-”ü—é
+Meiling
 040
-Yes? What is it that you want?\b
+...Yes? What is it that you want?\b
 \x03
-*yawn* Uhm, yes I'm listening carefully.\b
+*yawn* Uhm, yes, I'm listening carefully.\b
 \s40_05
-...zzz
+...Zzz
