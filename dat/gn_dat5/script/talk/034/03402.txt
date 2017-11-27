@@ -17,4 +17,4 @@ There's a place called the Scarlet Devil Mansion with a witch there that may be 
 How about going there?\b
 \x03
 \c‹zŒŒ‹S‚à‚¢‚é‚©‚ç H‚×‚ç‚ê‚¿‚á‚í‚È‚¢‚æ‚¤‚É‚ËB
-There's also a vampire there, so try not to be eaten.
+There's also a vampire there, so try not to get eaten.
