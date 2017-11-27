@@ -4,6 +4,6 @@ Rumia
 *そうだ！\b
 Oh, by the way!\b
 *\c体験版は これくらいにしておいてやる！\b
-\cThat's all the contents for demo version.\b
+\cThat's all the content for demo version.\b
 *楽しみにしてろー！
-Have fun!
+Have fun and remember to not pirate!

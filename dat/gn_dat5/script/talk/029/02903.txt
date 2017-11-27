@@ -2,10 +2,10 @@
 Cirno
 39
 ^にんぎょうかいほうせんせん ってなにかって？\b
-What is "Puppet Liberation Front" you say?\b
+What is the "Puppet Liberation Front" do?\b
 \x04
 ^・・・・・・？\b
 ......?\b
 \x03
 ^おまえなんかに教えるか ばーか！
-Wh-Why would I tell you! Idiot!
+Wh-Why should I tell you!? Idiot!

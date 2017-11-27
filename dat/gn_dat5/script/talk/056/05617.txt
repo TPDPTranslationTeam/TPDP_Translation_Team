@@ -1,6 +1,10 @@
-鈴仙
+//鈴仙
+Reisen
 945
-あ この間の・・・。\b
-私？薬を売りに出て来てるんです。\b
+//あ この間の・・・。\b
+Oh, it's you from before...\b
+//私？薬を売りに出て来てるんです。\b
+Me? I'm selling medicines.\b
 \x02
-残念だけど 人形用の薬はないんですよ。
+//残念だけど 人形用の薬はないんですよ。
+Unfortunately, I don't have medicines for puppets.

@@ -1,9 +1,14 @@
-レミリア
+Remilia
 44
-あらためて 私がここの主 レミリア・スカーレット。\b
-人間の血を糧に生きている吸血鬼の末裔よ。\b
+//あらためて 私がここの主 レミリア・スカーレット。\b
+Again, I am the master Remilia Scarlet.\b
+//人間の血を糧に生きている吸血鬼の末裔よ。\b
+The descendant of vampires, who feeds on human's blood.\b
 \x03
-ここまでの道のり 楽しめてもらえたかしら？\b
+//ここまでの道のり 楽しめてもらえたかしら？\b
+Did you have fun of those path?\b
 \s44_05
-フフ 疲れている顔ね。\b
-せっかくだから私が回復してあげるわ。
+//フフ 疲れている顔ね。\b
+Fufu, you look tired.\b
+//せっかくだから私が回復してあげるわ。
+You made it this far. Let me heal you.

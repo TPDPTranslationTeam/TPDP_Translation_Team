@@ -1,8 +1,16 @@
-レミリア
+//レミリア
+Remilia
 44
-そうそう。忘れていたわね。\b
-妖怪の山が あなたの次に向かう運命よ。\b
-\c妖怪の山は 湖の西にある 玄武の沢から続いているわ。\b
-\cその先の運命は あなた自身で切り開いてみたらいいんじゃないかしら？\b
+//そうそう。忘れていたわね。\b
+Oh, I forgot to tell you.\b
+//妖怪の山が あなたの次に向かう運命よ。\b
+Your next fate is at Youkai Mountain.\b
+//\c妖怪の山は 湖の西にある 玄武の沢から続いているわ。\b
+\cGenbu Ravine, which is at the west of the lake will lead to the mountain.\b
+//\cその先の運命は あなた自身で切り開いてみたらいいんじゃないかしら？\b
+I think you should open the path by yourself from there.\b
 \x03
-運命なんて いくらでも変わるものなのだからね。
+//運命なんて いくらでも変わるものなのだからね。
+You can change your fate can change as much as you can.
+
+//Not confident with this.

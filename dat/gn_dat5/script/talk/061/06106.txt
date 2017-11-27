@@ -1,6 +1,10 @@
-文
+Aya
 73
 そうそう 道順を教えてませんでしたね。\b
+Oh yes, you would like me to tell you about the route again.\b
 この道を橋のところまで下って 左方向に進めば 玄武の沢です。\b
+Go down the bridge on this road and head left to reach Genbu Ravine.\b
 そこの洞窟内からいけるみたいですよ。\b
+Inside the cavern is where the Hideout should be.\b
 \cそれでは！またどこかで会いましょう。
+\cUntil then, let us meet again.

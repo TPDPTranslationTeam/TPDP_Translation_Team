@@ -1,3 +1,4 @@
 
 
-見えない何かに 押し戻された・・・。
+//見えない何かに 押し戻された・・・。
+You have been pushed back by something invisible...

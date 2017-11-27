@@ -1,7 +1,11 @@
-てゐ
+//てゐ
+Tewi
 63
-毎度！\b
+//毎度！\b
+Deal!\b
 \x01
-・・・ってお金持ってないじゃん。\b
+//・・・ってお金持ってないじゃん。\b
+...Hold on, you don't have enough money.\b
 \x02
-そんなんじゃ 売れないよ。
+//そんなんじゃ 売れないよ。
+I can't sell this for you.

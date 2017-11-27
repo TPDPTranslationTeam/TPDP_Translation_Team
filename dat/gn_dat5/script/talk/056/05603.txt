@@ -1,5 +1,10 @@
-レミリア
+//レミリア
+Remilia
 44_01
-さぁ！ 本気でかかって来なさい！\b
+//さぁ！ 本気でかかって来なさい！\b
+\b
 \x05
-さもないと・・・今宵のメインディッシュが あなたになるわよ！
+//さもないと・・・今宵のメインディッシュが あなたになるわよ！
+Or else, tonight's main dish will be YOU!
+
+//I had no idea to translate the first line 

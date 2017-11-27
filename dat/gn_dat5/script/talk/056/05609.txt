@@ -1,9 +1,17 @@
-レミリア
+//レミリア
+Remilia
 44
-その子は これから \t よ！\b
+//その子は これから \t よ！\b
+The puppet is now \t! \d
 \x05
-ぴったりよね？
-答えは聞いてないわ。\b
+//ぴったりよね？
+It's fitting, right?
+//答えは聞いてないわ。\b
+I'm not asking for your answer.\b
 \x03
-ニックネームを変えたくなったら また私を頼りなさい。\b
-きっと 素敵な名前をつけてあげるわ。
+//ニックネームを変えたくなったら また私を頼りなさい。\b
+If you want to change others, ask me again.\b
+//きっと 素敵な名前をつけてあげるわ。
+I will give you a great name.
+
+//Another inconfident part

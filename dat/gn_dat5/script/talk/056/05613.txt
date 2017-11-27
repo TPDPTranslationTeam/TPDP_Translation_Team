@@ -1,6 +1,10 @@
-アリス
+//アリス
+Alice
 31
-紅魔館が原因ではなかったのね。\b
+//紅魔館が原因ではなかったのね。\b
+So, it was not by Scarlet Devil Mansion.\b
 \x02
-他には・・・\b特に思い当たらないわ。\b
-お役に立てなくてごめんなさいね。
+//他には・・・\b特に思い当たらないわ。\b
+Otherwise... \bI have no clue.\b
+//お役に立てなくてごめんなさいね。
+Sorry I can't help you.

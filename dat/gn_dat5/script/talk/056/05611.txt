@@ -1,10 +1,16 @@
-パチュリー
+//パチュリー
+Patchouli
 42_05
-あら また来たの。\b
+//あら また来たの。\b
+Oh, you again.\b
 \x01
-何度来てもここにはそんな情報なんて・・・。\b
+//何度来てもここにはそんな情報なんて・・・。\b
+I said don't have anything...\b
 \x00
-いや ないこともないわね。\b
-まだ調べている途中ではあるけれど 人形のもつ才能をさらに伸ばすことができそうなの。\b
+//いや ないこともないわね。\b
+Oh, I have one.\b
+//まだ調べている途中ではあるけれど 人形のもつ才能をさらに伸ばすことができそうなの。\b
+I'm currently investigating about  puppets' talents.
 \x03
-時が経てば 実用できるかもしれないわね。
+//時が経てば 実用できるかもしれないわね。
+It might be actual use later.
