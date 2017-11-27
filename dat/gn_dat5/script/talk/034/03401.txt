@@ -1,27 +1,28 @@
 アリス
+Alice
 31_03
 やっと来たのね 待ってたのよ！\b
-It's finally here; I've been waiting for this!
+It's finally here; I've been waiting for this!\b
 ありがとう すごく助かったわ。\b
-Thanks, you've really helped me out.
+Thanks, you've really helped me out.\b
 \x00
 ・・・え？人形のこと？\b
-Huh? About the Puppets?
+Huh? About the Puppets?\b
 そういえば あなた新聞の記事になってた子ね。\b
-That reminds me, you're that human child that made it into the newspaper. 
+That reminds me, you're that human child that made it into the newspaper.\b
 \x01
 ふぅん・・・\pっていうのね。\b
-Hmm... It's as\p says. 
+Hmm... It's as \p says.\b
 \x02
 残念なんだけど 私もそんなに情報を持っていないの。\b
-Unfortunately though I don't have any information either. 
+Unfortunately though, I don't have any information either.\b 
 お役に立てなくてごめんなさいね。\b
-I'm so sorry I wasn't able to help you out.
+I'm so sorry that I'm not able to help you out.\b
 \x00
 そうだ \p。\b
-Oh right, \p.
+Oh, right, \p.\b
 あなた ここまで来るのに疲れたりしていない？\b
-You must be really tired after coming all the way out here right?
+You must be really tired after coming all the way out here, right?\b
 \x03
 同じ道を戻るんだから 少し休んでいくといいわ。
 Since you'll be heading back on the same road, you should rest here for a little bit.
