@@ -1,18 +1,18 @@
 Reimu
 1_05
-You were at my shrine, right? \b
-Um... \b
+You were at my shrine, right?\b
+Um...\b
 \x04
-Yeah. \b
+Yeah.\b
 \x02
 You're going outside the village.
-Didn't Sanae tell you that the outside is dangerous? \b
-\c ... Seriously, are you going to take on the Puppet incident? \b
+Didn't Sanae tell you that the outside is dangerous?\b
+\c ... Seriously, are you going to take on the Puppet incident?\b
 \c
 \x05
 To be clear, you are a troublemaker for me.
-Solving incidents isn't an amateur job. \b
-Don't get in my way. \b
+Solving incidents isn't an amateur job.\b
+Don't get in my way.\b
 \x07
-If you do, I'll fight you. \b
-Go ahead. I'm gonna beat you up. \b
+If you do, I'll fight you.\b
+Go ahead. I'm gonna beat you up.\b
