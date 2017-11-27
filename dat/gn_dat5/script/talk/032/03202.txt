@@ -11,4 +11,4 @@ Anyway, don't get in my way.\b
 I don't care about what you do otherwise.\b
 
 \x00
-... Bye.
+...Bye.
