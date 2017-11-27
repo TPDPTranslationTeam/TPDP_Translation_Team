@@ -1,26 +1,27 @@
 美鈴
+Meiling
 40_02
 な なんだお客さんか。\b
-O-Oh, a vistor.
+O-Oh, a vistor.\b
 よかった・・・。\b
-What a relief.
+What a relief.\b
 \x00
 コホン。\b
-Ahem.
+Ahem.\b
 それで何かご用？\b
-So what business do you have here?
+So what business do you have here?\b
 残念だけど 命令されてるから 今は通せないわ。\b
-Unfortunately, I am under orders to not allow anyone to go through. 
+Unfortunately, I am under orders to not allow anyone to go through.\b
 \x02
 ・・・え？さっきまで寝てたじゃないかって？\b
-Huh? I was just sleeping before?
+... Huh? I was just sleeping before?\b
 \x03
 それは陽気な天気だったから ツイツイ。\b
-I just kind of dozed off because of the great weather.
+I just kind of dozed off because of the great weather.\b
 \x01
 って！私の話は いいのよ！\b
-Eh! My explanation was just fine!
+Eh! My explanation is fine!\b
 とにかく ここは通せないの。\b
-Anyway, you can't pass through here.
+Anyway, you can't pass through here.\b
 無理矢理通りたいなら 私に勝たないとね。
 If you insist on going through, you'll have to beat me in battle first.
