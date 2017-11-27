@@ -23,7 +23,7 @@ for it.\b
 \\I'm worried about this sentence and the previous one. It feels hard to convey.
 \x00
 永遠亭に行くのなら 人里の寺子屋で先生をやっている半妖に 色々聞くといい。\b
-It would be best to ask the half-youkai elementary teacher in the human village on how to get to Eientei.\b
+It would be best to ask the half-youkai elementary teacher in the Human Village on how to get to Eientei.\b
 彼女は あの辺りに詳しいはずだからね。\b
 She's well informed about that area after all.\b
 \x03
