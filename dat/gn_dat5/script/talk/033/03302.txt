@@ -1,9 +1,10 @@
 èÁ”V•
+Rinnosuke
 58
 ‚¶‚á‚  —Š‚ñ‚¾‚æB\b
-Well then, I'll be leaving this to you.
+Well then, I'll be leaving this to you.\b
 ‚«‚¿‚ñ‚Æ“Í‚¯‚Ä‚«‚Ä‚­‚êB\b
-Make sure it's delievered properly.
+Make sure it's delivered properly.\b
 \x06
 ‚  X‚Å‚Í–À‚í‚È‚¢‚æ‚¤‚É‚ËB
 Oh, and try not to get lost in the forest.
