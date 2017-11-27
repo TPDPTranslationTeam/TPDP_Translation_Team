@@ -8,4 +8,4 @@ I'm looking for a book about puppets.\b
 *おっと 静かにしておいてくれよ。\b
 Hey, keep quiet.\b
 *見つかったら厄介だからな・・・。
-If I was caught, I'll be in trouble.
+If I am caught, I'll be in trouble.
