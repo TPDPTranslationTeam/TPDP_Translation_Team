@@ -7,7 +7,7 @@ Ahem.\b
 So what business do you have here?\b
 Unfortunately, I am under orders to not allow anyone to go through.\b 
 \x02
-... Huh? I was just sleeping before?\b
+...Huh? I was just sleeping before?\b
 \x03
 I just kind of dozed off because of the great weather.\b
 \x01
