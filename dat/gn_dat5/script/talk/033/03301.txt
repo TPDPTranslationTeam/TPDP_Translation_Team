@@ -9,15 +9,15 @@ I'll give you this latest model bicycle!\b
 Surely it'll be helpful on your adventure.\b 
 \x04
 ・・・まぁ 少しお手伝いはしてもらうけどね。\b
-...Well, I'd also like you to run an errand for me too.\b
+... Well, I'd also like you to run an errand for me too.\b
 \x00
 ここの先の森にいるアリスという少女に 荷物を届けてもらいたい。\b
 In the forest up ahead there's a girl named Alice who wants a package delivered.\b
 \x06
 ちょうど自転車の修理に時間が掛かってしまっているからね。\b
-It did take some time to get the right repairs done on that bike.\b
+It did take some time to get the right repairs done on that bike,\b
 いい時間つぶしにもなるだろう。\b
-But you should be able to get there in no time.\b
+but you should be able to get there in no time.\b
 \x00
 それに・・・\b
 Also...\b
