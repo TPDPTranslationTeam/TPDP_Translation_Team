@@ -14,7 +14,7 @@ So what business do you have here?\b
 Unfortunately, I am under orders to not allow anyone to go through.\b
 \x02
 ・・・え？さっきまで寝てたじゃないかって？\b
-... Huh? I was just sleeping before?\b
+...Huh? I was just sleeping before?\b
 \x03
 それは陽気な天気だったから ツイツイ。\b
 I just kind of dozed off because of the great weather.\b
