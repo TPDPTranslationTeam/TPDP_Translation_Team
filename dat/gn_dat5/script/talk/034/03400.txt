@@ -1,12 +1,13 @@
 アリス
+Alice
 31
 あら こんにちは。\b
-My hello there. 
+My, hello there. 
 ええ 私がアリスよ。\b
 Um, my name is Alice.
 \x02
 ・・・え？私への届け物？\b
-Huh? You're bring me my delivery package?
+Huh? You're here to bring me my delivery package?
 \o
 \s
 \pはアリスに届け物を渡した！
