@@ -1,6 +1,5 @@
 Patchouli
 42_05
 *‚±‚ñ‚È‚±‚Æ‚ğ‚µ‚Ä‚à ‡’²‚Éi‚ß‚é‚Æ‚Ív‚í‚È‚¢‚¯‚ê‚ÇB
-Even if you are fully healed, I don't think you will be okay.
-\\Not sure what this sentence is supposed to be so my changes are minimal.
+Even though I'm doing this, I don't think it'll make easier for you to progress.
 
