@@ -1,11 +1,18 @@
-永琳
+//永琳
+Eirin
 65_03
-助かりました。これで何とか一件落着です。\b
+//助かりました。これで何とか一件落着です。\b
+What a relief, The trouble is over.\b
 \x00
-\pさんには お世話になりました。\b
-えっと 何かお礼をしなくてはいけないですね。\b
+//\pさんには お世話になりました。\b
+Thanks for your cooperation, \p. 
+//えっと 何かお礼をしなくてはいけないですね。\b
+I think I need to do something in return.\b
 \x04
-・・・え？\b
-香霖堂さんから買ったものを貸して欲しいのですか？\b
+//・・・え？\b
+...Oh?\b
+//香霖堂さんから買ったものを貸して欲しいのですか？\b
+You want to borrow what I bought at Kourindou?\b
 \x03
-ええ 用も済んでいますし 構いませんよ。
+//ええ 用も済んでいますし 構いませんよ。
+Sure, I've done the business with it.

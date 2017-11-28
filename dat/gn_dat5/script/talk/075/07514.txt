@@ -1,3 +1,4 @@
 
 
-\c永遠亭まで 行きたいんですか？
+//\c永遠亭まで 行きたいんですか？
+\cAre you going to Eientei?

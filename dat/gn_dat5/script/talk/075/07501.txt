@@ -1,9 +1,15 @@
-永琳
+//永琳
+Eirin
 65
-先ほども言ったように この喧嘩の仲裁に入ります。\b
+//先ほども言ったように この喧嘩の仲裁に入ります。\b
+As I said before, we're going to pursuade this.\b
 \x01
-あなたに止めていただくのは 白い髪の者です。\b
-うちの姫の天敵で 名前を藤原 妹紅。\b
+//あなたに止めていただくのは 白い髪の者です。\b
+You are going to stop the person with white hair.\b
+//うちの姫の天敵で 名前を藤原 妹紅。\b
+She is Fujiwara no Mokou, the arch-nemesis of our princess.\b
 \x00
-少々手ごわいですが きっとあなたなら大丈夫。\b
-さぁ 被害が広がる前に行きますよ。
+//少々手ごわいですが きっとあなたなら大丈夫。\b
+She's a formidable foe, but I believe you can do this.\b
+//さぁ 被害が広がる前に行きますよ。
+Let's do this before the damage spreads.

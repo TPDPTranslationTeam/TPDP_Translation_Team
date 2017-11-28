@@ -1,5 +1,8 @@
 
 
-\pさんですね。
-八意様から話は聞いています。\b
-\c竹林の外まで お送りしましょうか？
+//\pさんですね。
+You're \p, right?
+//八意様から話は聞いています。\b
+I heard it from master.\b
+//\c竹林の外まで お送りしましょうか？
+\cShall send you outside the forest?

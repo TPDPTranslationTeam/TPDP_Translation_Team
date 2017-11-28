@@ -1,9 +1,15 @@
-輝夜
+//輝夜
+Kaguya
 66_01
-ちょっと妹紅！まだ終わって・・・\b
-\o永琳
+//ちょっと妹紅！まだ終わって・・・\b
+Hey! Mokou, it's not over yet...\b
+//\o永琳
+\oEirin
 \j65_01
-姫 もういいでしょう。\b
-\o輝夜
+//姫 もういいでしょう。\b
+Princess, you should stop it.\b
+//\o輝夜
+\oKaguya
 \s66_02
-・・・・・・。
+//・・・・・・。
+...
