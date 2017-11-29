@@ -1,12 +1,20 @@
-魔理沙
+//魔理沙
+Marisa
 2_02
-ふぃー。油断しちまったな。\b
-まさか ここまで力付けてるとは思わなかったぜ。\b
+//ふぃー。油断しちまったな。\b
+Phew, you caught me off guard.\b
+//まさか ここまで力付けてるとは思わなかったぜ。\b
+I didn't expect you to be THIS strong.\b
 \x00
-そういや これからどこ行くんだ？\b
+//そういや これからどこ行くんだ？\b
+By the way, where are you going now?\b
 \x05
-紅魔館だって？\b
-なるほど アリスがそんなことをな・・・。\b
+//紅魔館だって？\b
+Scarlet Devil Mansion?\b
+//なるほど アリスがそんなことをな・・・。\b
+I see, Alice said so...\b
 \x07
-それじゃ 私は先を急ぐぜ。\b
-今度はもっと強くなってるから 負けないようにお前も強くなっとけよ！
+//それじゃ 私は先を急ぐぜ。\b
+Well, I'd better get going.\b
+//今度はもっと強くなってるから 負けないようにお前も強くなっとけよ！
+I'll be more stronger than that, so you'd better be as well!

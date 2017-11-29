@@ -1,13 +1,24 @@
-魔理沙
+//魔理沙
+Marisa
 2
-こんなところで会うとは奇遇だな \p。\b
+//こんなところで会うとは奇遇だな \p。\b
+It was unexpected to see you here, \p.\b
 \x07
-お前もお前で頑張ってるらしいな。
-色々聞いてるよ。\b
+//お前もお前で頑張ってるらしいな。
+I heard about you.
+//色々聞いてるよ。\b
+You're doing your job.\b
 \x03
-永遠亭にも どうせ何かしに行ったんだろう？\b
+//永遠亭にも どうせ何かしに行ったんだろう？\b
+You had something with Eientei, right?\b
 \x05
-・・・へぇ 慧音のお使いか。\b
+//・・・へぇ 慧音のお使いか。\b
+...Hm, you're asked to go on the errand by Keine.\b
 \x07
-そんなことを頼まれるんだ。\b
-前よりは強くなってるんだろ？
+//そんなことを頼まれるんだ。\b
+I guess you're more stronger than before\b
+//前よりは強くなってるんだろ？
+because you're asked like that.
+
+//I swapped the meaning of Line 2-3 and 6-7.
+//Line 3: another "頑張る", it's difficult
