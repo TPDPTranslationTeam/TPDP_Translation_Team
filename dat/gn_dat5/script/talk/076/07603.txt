@@ -4,10 +4,12 @@ Marisa
 //そういえば 今回のは慧音のお使いなんだろ？\b
 You were asked to go errand by Keine, right?\b
 //なら 紅魔館に行く前に寺子屋によっていくといい。\b
-You' should go before you go Scarlet Devil Mansion.\b
+You' should go [Terakoya] before you go Scarlet Devil Mansion.\b
 \x03
 //アイツは義理堅いから 何かくれるかもしれないしな。\b
 She's dutiful, she should give you something in return.\b
 \x07
 //今度こそ行くぜ。じゃあな。
 I'm going for real. Bye.
+
+//[Terakoya] part should be replaced with proper translated word
