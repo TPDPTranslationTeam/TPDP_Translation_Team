@@ -1,4 +1,8 @@
 
 
-了解だよ！
-ササッと連れて行ってあげるからねぇ。
+//了解だよ！
+Alright!
+//ササッと連れて行ってあげるからねぇ。
+I'll take you for .
+
+//I need a word to keep the feeling of "ササッと".
