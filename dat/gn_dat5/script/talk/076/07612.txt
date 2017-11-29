@@ -1,5 +1,9 @@
-慧音
+//慧音
+Keine
 62
-あぁ \pか。\b
-人形のことでわからないことがあったら
-ここで学んでいったらどうだ？
+//あぁ \pか。\b
+Oh, it's \p.\b
+//人形のことでわからないことがあったら
+If you have something to learn about puppets,
+//ここで学んでいったらどうだ？
+you should learn at here.

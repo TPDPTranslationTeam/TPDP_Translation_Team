@@ -1,8 +1,17 @@
-慧音
+//慧音
+Keine
 62
-無事に永遠亭の問題を解決してくれたみたいだな。\b
+//無事に永遠亭の問題を解決してくれたみたいだな。\b
+I heard you solved the Eientei problem.\b
 \x04
-ああいうことは何度も起こっていたんだが 今回ばかりはタイミングが悪くてな・・・\b
+//ああいうことは何度も起こっていたんだが 今回ばかりはタイミングが悪くてな・・・\b
+That kind of problem had been happening for many times, 
+but this time it was in a bad timing.\b
 \x03
-本当に助かったよ。\b
-ほんのお礼だが これを受け取ってくれないか。
+//本当に助かったよ。\b
+Thanks a lot.\b
+//ほんのお礼だが これを受け取ってくれないか。
+Please accept my return. 
+
+//The last line is hard to catch the original feel.
+//the last line is giving the item.

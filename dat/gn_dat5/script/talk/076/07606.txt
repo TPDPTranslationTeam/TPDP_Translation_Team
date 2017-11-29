@@ -1,5 +1,8 @@
-てゐ
+//てゐ
+Tewi
 63_02
-あれ また来たの？\b
+//あれ また来たの？\b
+You came again?\b
 \x00
-もしかして 姫様に惚れちゃった？
+//もしかして 姫様に惚れちゃった？
+Did you fell in love with the princess?

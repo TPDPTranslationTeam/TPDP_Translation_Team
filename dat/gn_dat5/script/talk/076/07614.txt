@@ -1,6 +1,12 @@
-霖之助
+//霖之助
+Rinnosuke
 58
-いらっしゃい。\b
+//いらっしゃい。\b
+Welcome.\b
 \x03
-木こり人形は無事に手に入れたんだね。\b
-これからも旅を続けるなら 贔屓に頼むよ。
+//木こり人形は無事に手に入れたんだね。\b
+You're safe and sound and got the Woodcutter Doll.\b
+//これからも旅を続けるなら 贔屓に頼むよ。
+for your adventure.
+
+//patronage? favor? I don't know how to translate "贔屓".

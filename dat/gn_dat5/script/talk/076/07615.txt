@@ -1,4 +1,7 @@
-霖之助
+//霖之助
+Rinnosuke
 58
-いらっしゃい。
-ゆっくり見ていくといいよ。
+//いらっしゃい。
+Welcome.
+//ゆっくり見ていくといいよ。
+Take your time and look.
