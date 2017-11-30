@@ -1,3 +1,4 @@
 
 
-はいよ！しっかりと捕まってなよ！
+//はいよ！しっかりと捕まってなよ！
+Alrighty then, hang on tightly!

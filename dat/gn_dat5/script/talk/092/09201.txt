@@ -1,3 +1,4 @@
 
 
-おや 出たいのかい？
+//おや 出たいのかい？
+Huh? Do you want to go out?
