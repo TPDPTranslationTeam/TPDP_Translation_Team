@@ -1,4 +1,6 @@
-阿求
+Akyuu
 76
 ここは鈴奈庵という貸し本屋。\b
+This place is called 'Suzunaan'. It's a book rental store.\b
 それも外の本まで置いてある 情報の宝庫ですわ。
+There are books from outside that end up here, so this place is a treasury of information.
