@@ -1,8 +1,8 @@
-鈴仙
+Reisen
 64
-じゃ 私は先に師匠に伝えてくる。\b
+Well then, I'll go tell master about his arrival.\b
 \x01
-てゐはちゃんと この人を連れてくるのよ？\b
-\oてゐ
+Now Tewi, will you properly show this person around?
+\oTewi
 \j63
-はーい。わかってるって。
+Fiiine. I get it.

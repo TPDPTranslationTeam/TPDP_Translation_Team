@@ -1,11 +1,11 @@
-てゐ
+Tewi
 63_04
-ふーん。実力は本当だったんだ。\b
+Aww. I guess your skill is the real deal after all.\b
 \x00
-じゃ 先に進むといいよ。\b
-永琳様は中にいるからさ。\b
+Well then, you go in if you want.\b
+Ms. Eirin is in there ya know.\b
 \x04
-・・・え？\b
+Huh?\b
 \x03
-誰も直接案内するとは言ってないでしょ？\b
-ほらほら 早く！怒られちゃうよ？
+Nobody said I'd be your personal guide did they?\b
+Come on now, hurry up! I might get mad ya know?
