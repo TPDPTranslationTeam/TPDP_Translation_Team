@@ -1,11 +1,11 @@
-慧音
+Keine
 62_03
-そうか！
-引き受けてくれるか！\b
-ありがとう 恩に着るよ。\b
-\o阿求
+Yes!
+So you'll do the favor!\b
+Thanks, I owe you one.\b
+\oAkyuu
 \s76
-永遠亭は里の南を道なりに進むと見える竹林の中にあります。\b
+Head south of the village until you see a bamboo forest. Eientei is located within there.\b
 \x03
-南西の門番には 私が許可したと伝えれば 通してくれるはずです。\b
-頑張ってきてくださいね。
+I'll tell the southwest gatekeeper to give you permission to go through.\b
+Good luck.
