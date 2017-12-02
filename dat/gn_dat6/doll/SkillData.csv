@@ -808,7 +808,7 @@
 807,Impulse,2,10% chance to lower the foe's SpDef.
 808,Luscious Whisper,2,Attacks against the foe's FoDef instead of their SpDef.
 809,Field Break,1,Breaks the foe's Field Barrier and Field Protect effects before doing damage.
-810,Irreversible Trick,2,Ignores Field Protect and Barrier Option, will increase in power if foe uses a support skill.
+810,Irreversible Trick,2,Ignores Field Barrier, Barrier Option, and protection. Will increase in power if foe uses a support skill.
 811,Mirror Damage,2,Power doubles if you take damage from a foe's Skill on the same turn.
 812,Force Shield,0,Removes your weaknesses and resistances this turn to greatly limit damage. May fail if used consecutively.
 813,Element Reverse,0,Inverts the foe's weaknesses and resistances.

@@ -118,7 +118,7 @@
 117,Weather Resist,This Puppet is immune to the effects of weather.
 118,ìVãCó\ïÒ,Ç»ÇµÅB
 119,ñ≥à◊é©ëR,Ç»ÇµÅB
-120,Dark Clothing,Resists against Light-type skills and restores HP when hit by a Dark-type skill.
+120,Dark Clothing,Restores HP when hit by Dark-type skills and increases the damage received by Light-type skills.
 121,Economist,Charms may be restored after use. During calm, you will always restore them.
 122,NULL,Ç»ÇµÅB
 123,Burning Spirit,Boosts Fire-type skills when HP is less than 1/3.
@@ -163,21 +163,21 @@
 162,Adverse Wind,Only Wind-type opponents can flee.
 163,Ç`ÇaÇkÇPÇUÇR,Ç»ÇµÅB
 164,ñ≥å`îVå^,Ç»ÇµÅB
-165,Hellfire Form,Void-type skills are treated as Fire-type skills.
-166,Stream Form,Void-type skills are treated as Water-type skills.
-167,Natural Form,Void-type skills are treated as Nature-type skills.
-168,Desolation Form,Void-type skills are treated as Earth-type skills.
-169,Unyielding Form,Void-type skills are treated as Steel-type skills.
-170,Gale Form,Void-type skills are treated as Wind-type skills.
-171,Thunder Form,Void-type skills are treated as Electric-type skills.
-172,Bright Form,Void-type skills are treated as Light-type skills.
-173,Midnight Form,Void-type skills are treated as Dark-type skills.
-174,Ghost Form,Void-type skills are treated as Nether-type skills.
-175,Miasma Form,Void-type skills are treated as Poison-type skills.
-176,General's Form,Void-type skills are treated as Fighting-type skills.
-177,Imaginary Form,Void-type skills are treated as Illusion-type skills.
-178,Recital Form,Void-type skills are treated as Sound-type skills.
-179,Twisted Form,Void-type skills become treated as Warped-type.
+165,Hellfire Form,Void-type skills become Fire-type skills. The power of those moves is boosted by 30%.
+166,Stream Form,Void-type skills become Water-type skills. The power of those moves is boosted by 30%.
+167,Natural Form,Void-type skills become Nature-type skills. The power of those moves is boosted by 30%.
+168,Desolation Form,Void-type skills become Earth-type skills. The power of those moves is boosted by 30%.
+169,Unyielding Form,Void-type skills become Steel-type skills. The power of those moves is boosted by 30%.
+170,Gale Form,Void-type skills become Wind-type skills. The power of those moves is boosted by 30%.
+171,Thunder Form,Void-type skills become Electric-type skills. The power of those moves is boosted by 30%.
+172,Bright Form,Void-type skills become Light-type skills. The power of those moves is boosted by 30%.
+173,Midnight Form,Void-type skills become Dark-type skills. The power of those moves is boosted by 30%.
+174,Ghost Form,Void-type skills become Nether-type skills. The power of those moves is boosted by 30%.
+175,Miasma Form,Void-type skills become Poison-type skills. The power of those moves is boosted by 30%.
+176,General's Form,Void-type skills become Fighting-type skills. The power of those moves is boosted by 30%.
+177,Imaginary Form,Void-type skills become Illusion-type skills. The power of those moves is boosted by 30%.
+178,Recital Form,Void-type skills become Sound-type skills. The power of those moves is boosted by 30%.
+179,Twisted Form,Void-type skills become Warped-type skills. The power of those moves is boosted by 30%.
 180,Antibody,Immune to Poison and Heavy Poison statuses.
 181,Cleared Mind,Immune to Burn and Heavy Burn statuses.
 182,Active,Immune to Stop status.
@@ -226,7 +226,7 @@
 225,Ç`ÇaÇkÇQÇQÇT,Ç»ÇµÅB
 226,Infectious,Spreads Infection through attacks that are below 95 BP.
 227,Ç`ÇaÇkÇQÇQÇV,Ç»ÇµÅB
-228,Armor Purge,When hit by a FoAtk, FoDef decreases and Speed increases.
+228,Armor Purge,When hit by a Focus Attack, FoDef decreases, FoAtk and Speed increase.
 229,Ç`ÇaÇkÇQÇQÇX,Ç»ÇµÅB
 230,Ç`ÇaÇkÇQÇRÇO,Ç»ÇµÅB
 231,Insight,Easier to score critical hits.
