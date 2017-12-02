@@ -1,12 +1,12 @@
-阿求
+Akyuu
 76
-中に本居小鈴という者がいます。\b
-彼女を訪ねてみてください。\b
-\c得体のしれない本を定期的に入荷しているようなので もしかしたら情報があるかもしれませんわ。\b
+Inside there's a girl named Kosuzu Motoori.\b
+Please go and visit her.\b
+\cFrom time to time mysterious books end up in here, so maybe the information you seek is here.\b
 \x01
-人形が現れるようになったのはごく最近です。\b
-ですが ここも少しは役に立つはずでしょう。\b
+Puppets have been appearing around here very recently.\b
+However, even here they should be of some use to you.\b
 \x00 
-では 私も引き続き調査してみます。\b
-また何かあれば 私の家へお越しください。
-ぜひお力添えさせていただきますわ。
+Well then, I too must continue my investigation.\b
+If you find anything, please come to my residence.
+I shall lend whatever strength that is necessary. 

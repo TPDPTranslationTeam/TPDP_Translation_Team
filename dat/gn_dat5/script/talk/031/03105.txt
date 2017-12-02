@@ -1,9 +1,4 @@
-*ˆ¢‹
 Akyuu
 76
-*¬—é‚Ì‚Æ‚±‚ë‚É‚Í “¾‘Ì‚Ì‚µ‚ê‚È‚¢–{‚ª‘½”‚ ‚é‚ñ‚Å‚·B\b
-Kosuzu collected lots of books from unknown
-sources.
-*‚à‚µ‚©‚µ‚½‚çî•ñ‚ª‚ ‚é‚©‚à‚µ‚ê‚Ü‚¹‚ñ‚íB
-She might have special information about
-the incident.
+Kosuzu has collected many books of unknown sources.\b
+She might have special information on the incident.

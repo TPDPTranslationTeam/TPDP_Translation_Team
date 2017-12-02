@@ -1,8 +1,4 @@
-*阿求
 Akyuu
 76
-*人形について お話した以上のことはまだわかっていません・・・\b
-About Puppets, there is nothing new I can
-tell since our last meeting, unfortunately.
-*\cそれとも \pさんも 人形について調べることにしたんですか？
+There's nothing new I can tell you about Puppets since our last meeting.\b
 \cHave you found out anything on your own?

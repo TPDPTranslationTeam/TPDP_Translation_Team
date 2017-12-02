@@ -1,10 +1,5 @@
-*阿求
 Akyuu
 76
-*そうですか・・・\b
 Okay...\b
-*\c\pさんも気が変わったら またいらしてくださいね。\b
-\c\pPlease come to me again if you changed
-your mind.\b
-*できることがあれば 私も協力しますので。
-I'll do whatever I could to help you.
+\c\pPlease come to me again if you changed your mind.\b
+I'll do whatever I can to help you.
