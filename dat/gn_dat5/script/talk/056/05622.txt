@@ -1,13 +1,13 @@
 
 
 //きたきた そっと押し返すと みんな きょとんと するのが面白いのよね・・・\b
-Here it comes, it's fun to look at everyone's surprised face...\b 
+Here they come, it's fun to look at everyone's surprised face...\b 
 //って光学迷彩の バッテリーが切れてる！\b
-Oh no! Optical camouflage's battery has ran out! 
+Oh no! My Optical camouflage's battery has ran out! 
 //\cみ 見たわね！？\b
-\cD, Did you see me?\b
+\cC-Can you see me?!\b
 //こうなったらヤケよ！
-
+I-If it's come down to this,
 //私と勝負しなさい！
 Fight me!!
 

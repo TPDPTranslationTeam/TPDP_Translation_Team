@@ -2,9 +2,9 @@
 Alice
 31
 //紅魔館が原因ではなかったのね。\b
-So, it was not by Scarlet Devil Mansion.\b
+So, it was not by Scarlet Devil Mansion?\b
 \x02
 //他には・・・\b特に思い当たらないわ。\b
-Otherwise... \bI have no clue.\b
+Then... I don't really know\b
 //お役に立てなくてごめんなさいね。
-Sorry I can't help you.
+Sorry, I can't help you.

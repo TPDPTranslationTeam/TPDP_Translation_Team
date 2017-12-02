@@ -2,4 +2,4 @@
 Remilia
 44
 //Ç«ÇÃêlå`Ç…Ç∑ÇÈÇÃÇ©ÇµÇÁÅH
-Which puppet are you going to change?
+Which Puppet's name did you want to change?

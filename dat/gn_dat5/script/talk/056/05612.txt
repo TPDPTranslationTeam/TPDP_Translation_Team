@@ -1,13 +1,13 @@
 //阿求
-Akyu
+Akyuu
 76_03
 //あら \pさん。調子はどうですか？\b
-Oh, \p. How's it going?\b
+Oh, \p. How have you been?\b
 \x00
 //そうそう。\b
-By the way,\b
+\cBy the way,\b
 //最近 巷では河童の技術が注目されているみたいですわ。\b
-Recently it seems kappa technology has been drawing attention.\b
+it seems the kappa's technology have been drawing attention.\b
 \x01
 //\cなんでも技術を駆使して 体を見えなくできるのだとか・・・。
-\cAs they say, their technology can make themselves invisible...
+\cThey say their technology can make themselves invisible...

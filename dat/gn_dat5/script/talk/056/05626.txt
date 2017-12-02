@@ -8,12 +8,12 @@ Oh welcome.\b
 Unfortunately, the shrine maiden is out now.\b
 \x05
 //霊夢ったら また自分の神社をほったらかしで出掛けているみたいなの。
-Reimu is going out with leaving her shrine again.
+Reimu just left her shrine again with no warning.
 //もっと本業を大事にすべきだと あなたも思わない？\b
-Don't you think should do value her original job more?\b
+Don't you think she should value her actual job more?\b
 \x01
 //仕方が無いから 今は私が面倒を見てるのよ。\b
-I'm taking care now, I had no choice.\b
-\x00
+I'm taking care of the shrine temporarily, I had no choice.\b
+\x02
 //何もしてあげられないけど ゆっくりしていくといいんじゃないかしら。
-I can't do anything but take it easy.
+I can't really do anything but relax.
