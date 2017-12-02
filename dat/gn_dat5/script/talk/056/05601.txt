@@ -1,13 +1,14 @@
-レミリア
+Remilia
 44_02
-・・・・・・。\b
+......\b
 \x00
-あら 結構 強いのね。\b
-・・・本気出してると思った？\b
+Oh, you're stronger than I expected.\b
+...Did you think I was fighting seriously?\b
 \x05
-暇つぶしだもの 本気なんて出さないわ。\b
+I was just killing time.\b
 \x00
-・・・でも楽しかったわ。\b
-また機会が会ったら遊びましょ。\b
+It was fun, though.\b
+Let's play again if we have a chance.\b
 \x03
-これからは直接ここに来れるようにしてあげるから また 遊びに来なさい。
+You have my permission to come here whenever you please. \b
+Come again.

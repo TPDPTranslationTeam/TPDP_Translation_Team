@@ -1,8 +1,8 @@
-阿求
+Akyuu
 76_03
-あら \pさん。調子はどうですか？\b
+Oh, \p. How have you been?\b
 \x00
-そうそう。\b
-最近 巷では河童の技術が注目されているみたいですわ。\b
+\cBy the way,\b
+it seems the kappa's technology have been drawing attention.\b
 \x01
-\cなんでも技術を駆使して 体を見えなくできるのだとか・・・。
+\cThey say their technology can make themselves invisible...

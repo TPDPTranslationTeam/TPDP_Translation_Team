@@ -1,6 +1,6 @@
-アリス
+Alice
 31
-紅魔館が原因ではなかったのね。\b
+So, it was not by Scarlet Devil Mansion?\b
 \x02
-他には・・・\b特に思い当たらないわ。\b
-お役に立てなくてごめんなさいね。
+Then... I don't really know\b
+Sorry, I can't help you.

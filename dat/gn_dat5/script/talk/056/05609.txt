@@ -1,9 +1,9 @@
-レミリア
+Remilia
 44
-その子は これから \t よ！\b
+The puppet is now \t! \d
 \x05
-ぴったりよね？
-答えは聞いてないわ。\b
+It's fitting, right?
+Don't answer that.\b
 \x03
-ニックネームを変えたくなったら また私を頼りなさい。\b
-きっと 素敵な名前をつけてあげるわ。
+If you want to give other Puppets better names, ask me again.\b
+I will give them a great name.

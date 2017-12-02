@@ -1,19 +1,19 @@
 Remilia
 44
-Welcome to my mansionÅB\b.
-I knew you're coming.\b
+Welcome to my mansion.\b.
+I had a feeling you would come.\b
 \x05
-I am the master of this mansion.\b
-I can see through the destiny.\b
+I am Remilia, the master of this mansion.\b
+I can see through a person's fate.\b
 \x03
-Your destiny looks interesting.\b
+Your fate looks interesting.\b
 \s44_02
 ...Oh, you're looking for the library.\b
-I thought you're interested in me.\b
+I thought you came here for me.\b
 \x00
-How about seeing me after you're done with Patchy?\b
-I can guide your path of destiny...\b
+Come see me after you're done with Patchy.\b
+I can guide you on your path of destiny.\b
 \x04
-But only if you did make it to my room.\b
+But only if you can make it to my room.\b
 \s44_03
-Well then...
+Until we meet again...

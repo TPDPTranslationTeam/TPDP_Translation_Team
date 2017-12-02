@@ -1,10 +1,10 @@
-パチュリー
+Patchouli
 42_05
-あら また来たの。\b
+Oh, it's you again.\b
 \x01
-何度来てもここにはそんな情報なんて・・・。\b
+I already told you that I don't know anything.\b
 \x00
-いや ないこともないわね。\b
-まだ調べている途中ではあるけれど 人形のもつ才能をさらに伸ばすことができそうなの。\b
+Well...\b
+After researching the Puppets, it may actually be possible to enhance their "potential" even further.\b
 \x03
-時が経てば 実用できるかもしれないわね。
+This may be very useful information in the future.

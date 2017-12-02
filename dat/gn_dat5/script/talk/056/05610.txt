@@ -1,6 +1,6 @@
-咲夜
+Sakuya
 43_01
-こんなところまで入ってきて 何か用があるのかしら？\b
-生憎 あなたに割ける時間は一秒たりともないわ。\b
+What do you want now?\b
+I don't have time to deal with you.\b
 \x00
-私には やらなきゃいけないことが沢山あるの。
+I have too many things to do.

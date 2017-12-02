@@ -1,6 +1,6 @@
 Sakuya
 43_01
-Here is the mistress' room.\b
-There's no way letting you through without any appointment.\b
+This is the mistress's room.\b
+There's no way I will let you through without any appointment.\b
 \x00
-I'll knock you out right here, right now.
+I'll take you out right here, right now!

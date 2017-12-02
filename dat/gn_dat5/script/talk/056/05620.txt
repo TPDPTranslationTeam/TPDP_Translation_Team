@@ -1,5 +1,5 @@
-永琳
+Eirin
 65
-そうですか。\b
+Okay.\b
 \x03
-必要になったら また声をかけてくださいね。
+If you ever need medical assistance, feel free to stop by again.

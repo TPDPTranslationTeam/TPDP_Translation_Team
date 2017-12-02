@@ -1,7 +1,7 @@
 Aya
 73
-Ayaya, I'm done pestering you.\b
-\cSince you're busy looking into this incident \p, I shall be taking my leave.\b
+Ayaya! Alright, I'm done pestering you.\b
+\cSince you're busy looking into this incident, \p, I'll be taking my leave.\b
 \x03
-If you can arrive at the Tengu Village without any issue, please, by all means investigate to your liking!
+If you can arrive at the Tengu Village without any issue, please, by all means, investigate to your liking!\b
 Until then!

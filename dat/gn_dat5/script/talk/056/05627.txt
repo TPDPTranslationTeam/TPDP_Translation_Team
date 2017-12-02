@@ -1,6 +1,6 @@
-華扇
+Kasen
 974_05
-霊夢も もっと本業を大事にすべきよね。\b
-仕方が無いから 今は私が面倒を見てるの。\b
-\x00
-何もしてあげられないけど ゆっくりしていくといいんじゃないかしら。
+Reimu should value her actual job more.\b
+I'm taking care of the shrine temporarily, I had no choice.\b
+\x02
+I can't really do anything but relax.

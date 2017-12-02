@@ -1,10 +1,10 @@
 Sakuya
-43_01
+43_02
 ...I lost.\b
 I didn't expect you to be this strong.\b
 \x04
 ...What?\b
-You're told to be here?\b
+You were told to come here?\b
 \x05
 No way...
-I haven't heard anything from mistress...?
+But... I haven't heard anything from mistress...
