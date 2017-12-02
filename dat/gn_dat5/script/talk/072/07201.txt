@@ -1,9 +1,9 @@
 
 
-え？永遠亭・・・？\b
-\cなるほど 慧音先生の代理でいらしたんですね！\b
-そうですよね！？\b
-\cでしたら 急いでください！\b
-このままじゃ 大変なことになるって八意様が言ってました！\b
-\cでは 私はあなたのことを八意様に伝えてきますので
-ひとまず先に失礼します！
+Huh? Eientei...?\b
+\cOh I see. So you're taking Keine's place in this matter!\b
+Right!?\b
+\cIn that case, please hurry along!\b
+Ms. Yagokoro said that as things are now something terrible will occur!\b
+\cAnyway, I'll go tell Ms. Yagokoro about you,
+so I'll move on ahead!
