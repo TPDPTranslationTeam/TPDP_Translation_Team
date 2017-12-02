@@ -1,10 +1,10 @@
-永琳
+Eirin
 65
-あなたが兎の言っていた 慧音の代理ね。\b
-私は八意 永琳。
-ここで医者をやっているの。\b
+So you're the person I heard of from that rabbits that's acting as Keine's representative.\b
+My name is Eirin Yagokoro.
+I act as the doctor here.
 \x01
-いきなりだけど あなたを試させてもらうわ。\b
-今回の件は 人形遣いとしての実力が必要なのよ。\b
+I know this sudden, but I'm going to test you.\b
+A Puppeteer with real power is needed at this time.
 \x00
-ウドンゲ お願いするわね。
+Udonge, if you please.

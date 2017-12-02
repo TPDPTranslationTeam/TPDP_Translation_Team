@@ -1,5 +1,5 @@
-鈴仙
+Reisen
 64
-わかりました 師匠。お任せ下さい。\b
+Understood master. Please leave this to me.\b
 \x03
-全力全開で試させてもらいます！
+I shall test them with all of my might!

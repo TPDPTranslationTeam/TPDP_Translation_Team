@@ -1,21 +1,21 @@
-鈴仙
+Reisen
 64
-すごい・・・。\b
-さすが 慧音さんに助力を頼まれただけの実力はあるわね。\b
-\o永琳
+Amazing...\b
+As expected of someone that was asked by Keine to come here.\b
+\oEirin
 \s65
-確かに 実力はお持ちのようね。\b
+You certainly seem to have the ability.\b
 \x03
-・・・大丈夫そうですね。\b
-\pさん あなたに手伝ってもらいましょう。\b
+This seems alright.\b
+Now come and offer me a hand \p.\b
 \x00
-あなたにお願いするのは
-うちの姫と ある者の 喧嘩の仲裁。\b
+The request that you were asked to do
+was to mediate the quarrel between our princess and that other person.\b
 \x02
-姫だけならなんとか止めることもできるのですが
-二人同時 しかも人形を使うとなると手に余ってしまって・・・。\b
-あなたに もう片方を止めて欲しいのです。\b
+If it were just the princess this would been dealt with but,
+two people at the same using Puppets is a bit too much deal with.\b
+I'd like you to stop one of the pair.\b
 \x00
-とは言っても あなたにも準備はあるでしょうから
-私は先に行ってます。\b
-それでは よろしくお願いしますね。
+With that said, since you will be doing preparations
+I shall move on ahead.
+Until then, thank you for your cooperation.
