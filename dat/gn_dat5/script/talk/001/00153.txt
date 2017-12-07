@@ -1,11 +1,11 @@
 
+You are about to start the second playthrough
+with your previous completion data inherited.\b
 
-You are about to start the 2nd playerthrough
-with your previous clear data inherited.\b
-\cIn 2nd playthrough, all of non-inherited
+\cIn the second playthrough, all of the non-inherited
 puppets you were carrying, except Fatefully
-Reuinted Puppets will be reincarnated in\b
-\cfirst page of Puppet Box.\b
+Reunited Puppets,\b 
+\cwill be reincarnated and placed into the first page of the Puppet Box.\b
 \cAlso, Puppets after Puppet Box 21 can be 
 used after inheritance.\b
-\cPlease read the manual for more details.\b
+\cPlease read the manual for more details.
