@@ -1,4 +1,4 @@
 
 
-Start the game without inheritance.
+Starting the game without inheritance.
 Are you sure?
