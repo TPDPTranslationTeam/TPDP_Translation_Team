@@ -2,5 +2,5 @@
 
 *クリアデータを引き継がずにゲームを開始して
 *よろしいですか？
-Start the game without inheritance.
+Starting the game without inheritance.
 Are you sure?
