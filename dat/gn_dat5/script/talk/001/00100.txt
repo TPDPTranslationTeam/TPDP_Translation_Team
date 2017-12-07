@@ -1,33 +1,34 @@
-ÅHÅHÅH
+??? 
+
 
 Hey.\b
 \o
 .....\b
 \o???
-Hey. It's time to get up.\b
+Hey. It's time to get up.
 \o
 ......\b
 \o???
-\cLet's start with "hello," shall we?\b
+\cLet's start with "Hello," shall we?\b
 \s955_03
-Finally you are there. How do you feel?\b
+Finally, you are here. How do you feel?
 \x00
 Me? My name is Yukari Yakumo. This is the 
-the first time we meet, perhaps.\b
+the first time we've met, yes?
+*\oéá
 \oYukari
-This might be a weird question for you.
-Have you ever heard of Gensokyo?\b
+This might be a weird question for you, 
+but have you ever heard of Gensokyo?\b
 ...Not at all, eh?\b
-\cGensokyo, a place where all forgottens 
-belong to,\b
-A world where the abandoned gathers.\b
+\cGensokyo, a place that belongs to all that has been forgotten.\b
+A world where the abandoned gathers.
 \x01
-Including those who were only told through
-folklores...\b
+Including those who were only known through
+folklore...
 \x03
 Hmm. Looks like you are hooked already.\b
-What an interting being you are.(Giggling)\b
+Ufufu, what an interesting being you are.\b
 \x00
-Since we're having such great interests in
-each other, mind if I ask more about you?\b
-First of all, are you a boy or girl?\b
+Since we're so interested in
+each other, mind if I learn more about you?
+First of all, are you a boy or girl?
