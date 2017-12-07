@@ -1,7 +1,7 @@
 
 
 *前作「幻想人形演舞」のクリアデータが存在します。\b
-Cannot locate previous full clear data.\b
+Cannot locate previous completion data.\b
 *\cクリアデータを引き継ぐことでイベントが若干変化したり\b
 \cCertain events will be changed based on
 your inherited data.\b
@@ -9,4 +9,4 @@ your inherited data.\b
 \cYour Puppets can also be inherited from
 previous data.\b
 *\c「幻想人形演舞」のクリアデータを引き継ぎますか？
-Would you like to inherit your clear data?
+Would you like to inherit your completion data?
