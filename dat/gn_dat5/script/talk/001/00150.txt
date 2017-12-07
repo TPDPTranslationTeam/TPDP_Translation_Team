@@ -1,8 +1,8 @@
 
 
-Cannot locate previous full clear data.\b
+Cannot locate previous completion data.\b
 \cCertain events will be changed based on
 your inherited data.\b
 \cYour Puppets can also be inherited from
 previous data.\b
-Would you like to inherit your clear data?
+Would you like to inherit your completion data?
