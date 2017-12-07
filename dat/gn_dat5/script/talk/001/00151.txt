@@ -1,6 +1,6 @@
 
 
-Cannot locate previous full clear data.\b
-Start the game without inheritance.\b
+Cannot locate previous completion data.\b
+Starting the game without inheritance.\b
 \cIf you wish to inherit your previous data,
 turn off the game and read the manual.\b
