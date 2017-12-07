@@ -2,17 +2,17 @@
 Remilia
 44_03
 //フフ 今のは主っぽい行いだったわね。\b
-Huhu, that was a lordly deed.\b
+Huhu, that was an exciting battle.\b
 \x00
 //さぁ あなたも人形も元気になったでしょう？\b
-Now you and your puppets are fine.\b
+You and your Puppets are fine now.\b
 //もう少し付き合ってもらうわ。\b
-Play with me more.\b
+You should stop by more often.\b
 \x04
 //私も あなたと遊ぶのを楽しみにしていたのよ。\b
-I was eagerly waiting for playing with you.\b
+It's always fun to battle you.\b
 \x05
 //嫌と言っても お相手してもらうわ。
-If you want or not, stick with me.
+Anyway, feel free to stick around if you want... or don't.
 
 //Line 3, 6 needs help: "付き合う" "相手をする"

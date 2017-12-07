@@ -1,9 +1,14 @@
-慧音
+Keine
 62_02
 先日里で人形解放戦線が暴れた事件があったろう？\b
+The Puppet Liberation Front caused a ruckus the other day remember?\b
 それの後処理に追われていてな・・・\b
+I'm still dealing with the aftermath of that ya know...\b
 \x00
 永遠亭は 竹林の最奥にある。\b
+Eientei is deep within the bamboo forest.\b
 あそこは迷いやすいから気をつけてくれ。\b
+It's easy to get lost there so be careful.\b
 \x04
 ・・・すまないが よろしく頼むよ。
+Sorry I can't help, but I'm counting on you.

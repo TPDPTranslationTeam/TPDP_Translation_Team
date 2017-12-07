@@ -1,17 +1,27 @@
-慧音
+Keine
 62
 そうか お前があの人形遣いか。\b
+Oh, you're that Puppeteer.\b
 里での噂でなら知っている。\b
+I know because of the rumors in the village.\b
 \x01
 早速だが 少し話を聞いて欲しい。\b
+First things first though, there's something I want you to hear.\b
 今 永遠亭で困ったことが起きているらしいんだ。\b
+Right now something troublesome is happening in Eientei./b
 \x04
 本来は私が助力を頼まれたんだが 少々たてこんでいてな・・・。\b
+I was the one who was gonna help out this situation but right now I'm kinda caught up with other matters...\b
 \x02
 虫のいい話だと重々承知なんだが 永遠亭に行って事件を解決してきてもらえないだろうか？\b
+I know that I'm asking for a lot with the situation at Eientei, but can you please help resolve the problem?\b
 \o阿求
+\oAkyuu
 \j76
 どうです？\b
+How is that?
 こういった小さなことを解決していくのも 異変解決の一歩に繋がっていくことだと思いますよ。\b
+I think this little problem will put you one step closer to solving the bigger incident ahead.
 \x03
 受けてみませんか？
+Are you up for it?

@@ -1,12 +1,21 @@
-妹紅
+//妹紅
+Mokou
 67_02
-あー。見事なまでに負けちゃった。\b
-・・・やめよ やめ。\b
-完全にやる気を削がれてしまったわ。\b
+//あー。見事なまでに負けちゃった。\b
+Ah, what a clean loss.\b
+//・・・やめよ やめ。\b
+...Screw this.\b
+//完全にやる気を削がれてしまったわ。\b
+That match discouraged me.\b
 \x00
-えっと・・・。色々と迷惑かけてたようね。\b
-ちょっと暴れすぎちゃったみたいだし
-今回はこれぐらいにして 竹林に戻るわ。\b
+//えっと・・・。色々と迷惑かけてたようね。\b
+Um... I'm sorry for these troubles.\b
+//ちょっと暴れすぎちゃったみたいだし
+Apparently I was rampant,
+//今回はこれぐらいにして 竹林に戻るわ。\b
+I'm going back to the bamboo forest now.\b
 \x03
-何か用でもあったら 会いに来てくれたっていいのよ。\b
-またあなたとも 勝負してみたいからね。
+//何か用でもあったら 会いに来てくれたっていいのよ。\b
+If you have something for me, you can see me anytime.\b
+//またあなたとも 勝負してみたいからね。
+I want to have a match again with you.

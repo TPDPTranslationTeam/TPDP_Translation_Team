@@ -1,18 +1,16 @@
-*阿求
 Akyuu
 76_02
-*はぁはぁ・・・\b
-haa... haa...\b
-*ここにいらっしゃったのですね。\b
-I finally found you.
-*\c解放戦線が里に出没したと聞いてやってきたのですが・・・\b
-I just heard that some of the Liberation
-Front were hiding in the village...
+はぁはぁ・・・\b
+Haa... haa...\b
+ここにいらっしゃったのですね。\b
+I finally found you.\b
+\c解放戦線が里に出没したと聞いてやってきたのですが・・・\b
+\cI just heard that some of the Liberation Front members was hiding in the village...\b
 \x04
-*まさか\pさんが倒されたのですか？\b
+まさか\pさんが倒されたのですか？\b
 Oh, my. You already kicked them out?\b
 \x03
-*すごいじゃないですか！！\b
+すごいじゃないですか！！\b
 Impressive!\b
-*思った通り あなたは人形遣いの才をお持ちなのですね。
+思った通り あなたは人形遣いの才をお持ちなのですね。
 You are quite the talented Puppeteer.

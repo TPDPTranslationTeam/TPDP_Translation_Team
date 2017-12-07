@@ -1,48 +1,27 @@
-
 gn_dat1\ending:
 back0.png
 
 gn_dat2\opening:
 opening.ogv (good luck)
 
-gn_dat5\map\town:
-MapToTownMapData.csv
-townMapData0.csv
-townMapData1.csv
-townMapData2.csv
-townMapData3.csv
-
 gn_dat5\name:
 BgmData.csv
 ChipSetName.csv
-DollName.csv
-DollNameO.csv
 MapLocationName.csv
-MapName.csv
 StandName.csv
-
-gn_dat5\script\dollOperator:
-butokai.csv
 
 gn_dat5\script\shop:
 everything
 
 gn_dat5\script\talk:
-everything
+everything (mostly)
 
 gn_dat6\doll:
-AbilityData.csv
 Compatibility.csv
-DollCaption.csv
-SkillData.csv
 SkillEffect.csv
 
 gn_dat6\dollImage\reinforce:
-skill2Info.png
+skill2Info.png (?)
 
 gn_dat6\dollImage\status:
-shift.png
-skillBase.png
-
-gn_dat6\item:
-ItemData.csv
+skillBase.png (?)

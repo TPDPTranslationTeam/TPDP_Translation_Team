@@ -1,8 +1,14 @@
 
 
-到着！\b
-ここが私たちのアジトだよ。\b
-\c帰りも私が必要になるだろう？\b
-その時は また声を掛けてくれれば外に連れてってあげるよ。\b
-\cじゃあ 解放戦線のこと頼んだっ！\b
-応援してるよ！
+//到着！\b
+Here!\b
+//ここが私たちのアジトだよ。\b
+This is our hideout.\b
+//\c帰りも私が必要になるだろう？\b
+You need my help going back, right?\b
+//その時は また声を掛けてくれれば外に連れてってあげるよ。\b
+Ask me again and I'll take you out then.\b
+//\cじゃあ 解放戦線のこと頼んだっ！\b
+\cI'll leave the Liberation Front to you!\b
+//応援してるよ！
+I'm supporing you!

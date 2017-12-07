@@ -1,8 +1,14 @@
-妹紅
+//妹紅
+Mokou
 67_01
-・・・なに？私の邪魔をしようっていうの？\b
-どう見ても あなたじゃ相手にならないだけよ。\b
-\cでもいい。\b
-邪魔するやつは排除すればいいだけだ。\b
+//・・・なに？私の邪魔をしようっていうの？\b
+...What? Are you going to stop me?\b
+//どう見ても あなたじゃ相手にならないだけよ。\b
+It's clear that you are outmatched.\b
+//\cでもいい。\b
+\cWell then.\b
+//邪魔するやつは排除すればいいだけだ。\b
+I will defeat you.\b
 \x00
-加減せずに戦ってあげるわ。
+//加減せずに戦ってあげるわ。
+I'll fight you with full power.

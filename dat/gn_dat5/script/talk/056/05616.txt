@@ -5,7 +5,7 @@ Tewi
 Deal!\b
 \x01
 //・・・ってお金持ってないじゃん。\b
-...Hold on, you don't have enough money.\b
+Wait... you don't have enough money.\b
 \x02
 //そんなんじゃ 売れないよ。
-I can't sell this for you.
+I can't sell this to you.

@@ -1,9 +1,6 @@
-*阿求
 Akyuu
 76
-*小鈴のところには 得体のしれない本が多数あるんです。\b
-Kosuzu collected lots of books from unknown
-sources.
-*もしかしたら情報があるかもしれませんわ。
-She might have special information about
-the incident.
+小鈴のところには 得体のしれない本が多数あるんです。\b
+Kosuzu has collected many books of unknown sources.\b
+もしかしたら情報があるかもしれませんわ。
+She might have special information on the incident.

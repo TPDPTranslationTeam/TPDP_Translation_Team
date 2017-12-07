@@ -1,8 +1,15 @@
-輝夜
+//輝夜
+Kaguya
 66_01
-あら 永琳と邪魔してきた人間ね。\b
+//あら 永琳と邪魔してきた人間ね。\b
+Oh, you're that human interfered us with Eirin\b
 \x02
-何？妹紅だけじゃ飽き足りなくて 今度はあたしと戦いたいの？\b
+//何？妹紅だけじゃ飽き足りなくて 今度はあたしと戦いたいの？\b
+You want to battle me, not even Mokou?\b
 \x00
-いいわ。消化不良で退屈していたの。
-永い時の一瞬だけでも 私を楽しませてよね。
+//いいわ。消化不良で退屈していたの。
+Okay, I was not satisfied with that fight.
+//永い時の一瞬だけでも 私を楽しませてよね。
+Even though this fight is a flash for the eternity, I hope you can entertain me.
+
+//Last line needs polishing

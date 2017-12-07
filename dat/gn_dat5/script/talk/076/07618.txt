@@ -1,5 +1,8 @@
-妹紅
+//妹紅
+Mokou
 67_02
-やっぱり負けてしまうのね。\b
+//やっぱり負けてしまうのね。\b
+I lost again.\b
 \x03
-でも勝ち負けが予想できないからこそ 退屈しないのよ。
+//でも勝ち負けが予想できないからこそ 退屈しないのよ。
+But unpredictable battles are what makes me not bored.

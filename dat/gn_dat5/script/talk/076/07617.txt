@@ -1,8 +1,13 @@
-妹紅
+//妹紅
+Mokou
 67
-本当に訪ねてきてくれたのね。\b
-この間の再戦がしたいってことかしら？\b
+//本当に訪ねてきてくれたのね。\b
+You really came.\b
+//この間の再戦がしたいってことかしら？\b
+You want a rematch for before?\b
 \x03
-いいわね その心がけ嫌いじゃないよ。\b
+//いいわね その心がけ嫌いじゃないよ。\b
+Nice, I like your attitude.\b
 \x00
-さあ無駄な会話はこれくらいにして 楽しもうじゃない。
+//さあ無駄な会話はこれくらいにして 楽しもうじゃない。
+Without further ado, let's have fun.

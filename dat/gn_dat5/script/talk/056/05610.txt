@@ -2,9 +2,9 @@
 Sakuya
 43_01
 //こんなところまで入ってきて 何か用があるのかしら？\b
-What are you looking for here?\b
+What do you want now?\b
 //生憎 あなたに割ける時間は一秒たりともないわ。\b
-I have no time for dealing with you.\b
+I don't have time to deal with you.\b
 \x00
 //私には やらなきゃいけないことが沢山あるの。
-I've got many things to do.
+I have too many things to do.

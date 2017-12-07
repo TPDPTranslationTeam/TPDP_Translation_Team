@@ -4,12 +4,12 @@ Remilia
 ......\b
 \x00
 //あら 結構 強いのね。\b
-Oh, you're stronger than as I thought.\b
+Oh, you're stronger than I expected.\b
 //・・・本気出してると思った？\b
-...Did you thought I was serious?\b
+...Did you think I was fighting seriously?\b
 \x05
 //暇つぶしだもの 本気なんて出さないわ。\b
-I was just killing time, not serious.\b
+I was just killing time.\b
 \x00
 //・・・でも楽しかったわ。\b
 It was fun, though.\b
@@ -17,4 +17,5 @@ It was fun, though.\b
 Let's play again if we have a chance.\b
 \x03
 //これからは直接ここに来れるようにしてあげるから また 遊びに来なさい。
-You'll be able come here directly from next time. Come again.
+You have my permission to come here whenever you please. \b
+Come again.

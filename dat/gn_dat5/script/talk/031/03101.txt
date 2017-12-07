@@ -1,14 +1,10 @@
-*阿求
 Akyuu
 76_04
-*・・・そうです！すっかり忘れてしまうところでした。\b
-Ah! There is another thing I would like
-to add.\b
+・・・そうです！すっかり忘れてしまうところでした。\b
+Ah! There is another thing I would like to add.\b
 \x00
-*つい先ほど 里内でも情報を得ることのできる場所を思い出したのです！\b
-I just reminded myself that there is a place
-worth visiting.\b
+つい先ほど 里内でも情報を得ることのできる場所を思い出したのです！\b
+I just reminded myself that there is a place worth visiting.\b
 \x03
-*お伝えしなくては・・・と\pさんをお探ししていたのでしたわ。
-I was looking for you just to inform you
-about it.
+お伝えしなくては・・・と\pさんをお探ししていたのでしたわ。
+I was looking for you just to inform you about it.

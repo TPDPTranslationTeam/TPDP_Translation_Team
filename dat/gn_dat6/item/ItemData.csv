@@ -58,7 +58,7 @@
 56,Rainbow M.Stone,0,0,0,0,0,0,2,0,1,A mysterious magic stone. When used in Reincarnation it ups random additional ranks being passed.
 57,Item057,0,255,0,0,1,0,0,0,1,ItemÇOÇTÇVÅB
 58,Item058,0,255,0,0,1,0,0,0,1,ItemÇOÇTÇWÅB
-59,B.Dream Pill,1000,0,0,0,1,0,0,0,1,If the normal butterfly dream pills are unsatisfactory, this nightmare-type is for you.
+59,B.Dream Pill,1000,0,0,0,1,0,0,0,1,If the normal butterfly dream pills are unsatisfactory, this nightmare type is for you.
 60,Item060,0,255,0,0,1,0,0,0,1,ItemÇOÇUÇOÅB
 61,Item061,0,255,0,0,1,0,0,0,1,ItemÇOÇUÇPÅB
 62,Item062,0,255,0,0,1,0,0,0,1,ItemÇOÇUÇQÅB
@@ -71,13 +71,13 @@
 69,Item069,0,255,1,1,1,0,0,0,1,ItemÇOÇUÇXÅB
 70,Item070,0,255,1,1,1,0,0,0,1,ItemÇOÇVÇOÅB
 71,Fujiwara RiceCookie,300,1,1,1,1,0,0,0,1,A hard rice cracker baked in bamboo charcoal. Heals 20 HP.
-72,Hakugyou Dango,500,1,1,1,1,0,0,0,1,A dumpling autographed by the mistress of Hakugyokurou. Heals 50 HP.
+72,Hakugyoku Dango,500,1,1,1,1,0,0,0,1,A dumpling autographed by the mistress of Hakugyokurou. Heals 50 HP.
 73,Chirei Sweet Bun,700,1,1,1,1,0,0,0,1,Popular steamed bun souvenir. Heals 100 HP.
 74,Misty Jelly,1200,1,1,1,1,0,0,0,1,Moderately sweet bean jelly. Heals 200 HP.
 75,Dessert of the Sun,2500,1,1,1,1,0,0,0,1,A jam with a generous helping of fruit. Fully heals HP.
 76,Bhava-Agra Set,3000,1,1,1,1,0,0,0,1,Assortment of peaches from Heaven. Fully restores a Puppet's HP and removes status effects.
-77,Moriya Shinshu,1500,1,1,1,1,0,0,0,1,Sacred sake used for spiritual rites at the Moriya Shrine. Restores a fainted Puppet to half HP.
-78,Hakurei Shinshu,4000,1,1,1,1,0,0,0,1,Sacred sake used for spiritual rites at the Hakurei Shrine. Restores a fainted Puppet to full HP.
+77,Moriya's Miki,1500,1,1,1,1,0,0,0,1,Sacred sake used for spiritual rites at the Moriya Shrine. Restores a fainted Puppet to half HP.
+78,Hakurei's Miki,4000,1,1,1,1,0,0,0,1,Sacred sake used for spiritual rites at the Hakurei Shrine. Restores a fainted Puppet to full HP.
 79,Myouren Tea,600,1,1,1,1,0,0,0,1,Tea brewed by a nun of Myouren Temple. Granting one a relaxed sensation it recovers status ailments.
 80,Item080,0,255,1,1,1,0,0,0,1,ItemÇOÇWÇOÅB
 81,Item081,0,255,1,1,1,0,0,0,1,ItemÇOÇWÇPÅB

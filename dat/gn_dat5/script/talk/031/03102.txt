@@ -1,6 +1,9 @@
-阿求
+Akyuu
 76_03
 ふふ。やはり気になります？\b
+Hee hee. So you're interested after all?\b
 \x00
 ここから近いことですし ご案内させていただきますね。\b
+The place is nearby here, so please follow me.\b
 どうぞ こちらですわ。
+Yes, this way. 

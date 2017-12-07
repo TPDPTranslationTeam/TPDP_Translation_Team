@@ -2,12 +2,12 @@ Remilia
 44_01
 //そういえば あなたの 人形のニックネーム
 //まるでセンスが感じられないわね。\b
-By the way, I don't see any creative sense from your nickname.\b
+The nickname you chose is lacking in creativity.\b
 \x05
 //私なら もっとセンスのあるニックネームを付けてあげられるわよ。\b
-I can give you better name.\b
+I can come up with a better name.\b
 \x00
 //どう？私に任せてみない？
-How about leaving it to me?
+How about..?
 
 //very inconfident about this

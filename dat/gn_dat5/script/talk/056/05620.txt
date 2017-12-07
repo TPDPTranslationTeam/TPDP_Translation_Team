@@ -5,4 +5,6 @@ Eirin
 Okay.\b
 \x03
 //•K—v‚É‚È‚Á‚½‚ç ‚Ü‚½º‚ğ‚©‚¯‚Ä‚­‚¾‚³‚¢‚ËB
-Ask me again if you want to.
+If you ever need medical assistance, feel free to stop by again.
+
+*I know it doesn't say anything about medical assistance, but the literal translation sounds so unnatural

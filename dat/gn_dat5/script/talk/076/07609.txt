@@ -1,5 +1,9 @@
-永琳
+//永琳
+Eirin
 65
-\pさんではありませんか。\b
-またいらっしゃったんですね。\b
-\c姫なら 屋敷のどこかにいると思いますよ。
+//\pさんではありませんか。\b
+Oh, it's \p.\b
+//またいらっしゃったんですね。\b
+You came here again.\b
+//\c姫なら 屋敷のどこかにいると思いますよ。
+\cThe princess might be in here somewhere.

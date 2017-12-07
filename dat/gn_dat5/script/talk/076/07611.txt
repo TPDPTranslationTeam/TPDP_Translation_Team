@@ -1,6 +1,10 @@
-慧音
+//慧音
+Keine
 62
-それは 人形にスキルを覚えさせる道具だ。\b
-きっと \pの役に立つだろう。\b
+//それは 人形にスキルを覚えさせる道具だ。\b
+It's a tool to teach a skill to a puppet.\b
+//きっと \pの役に立つだろう。\b
+It should be your help.\b
 \x03
-それじゃあ 気をつけてな。
+//それじゃあ 気をつけてな。
+Well then, take care.

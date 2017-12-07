@@ -2,7 +2,7 @@
 Remilia
 44_02
 //‚à‚Á‚½‚¢‚È‚¢‚±‚Æ‚·‚é‚Ì‚ËB\b
-You're wasting an opportunity.\b
+No? You're missing out on a great opportunity here.\b
 \x03
 //‚¢‚¢‚íB•Ï‚¦‚½‚­‚È‚Á‚½‚ç ‚Ü‚½„‚ğ—Š‚è‚È‚³‚¢B
-Anyway, ask me again if you want to change.
+When you come to your senses, you can ask me again to change it.

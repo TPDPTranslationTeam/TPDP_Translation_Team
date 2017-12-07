@@ -6,4 +6,4 @@ Oh, hi.\b
 //\c‚¾‚¢‚Ô ‚¨”æ‚ê‚Ì‚æ‚¤‚Å‚·‚ËB
 \cYou look really tired.
 //­‚µ‹x‚ñ‚Å‚¢‚«‚Ü‚·‚©H
-Do you want to take some rest?
+Do you want to take a rest?
