@@ -8,7 +8,7 @@ Music and sound effects are not included as they're unnecessary.
 
 If you want to actually play the game, consider buying it here: http://www.melonbooks.com/index.php?main_page=product_info&products_id=IT0000184711
 
-There should be guides on how to buy from MelonBooks on the web somewhere...
+Here's a tutorial on how to buy it: http://thpp.supersanctuary.net/forum/index.php?topic=416.0
 
 FAQs:
 -----
