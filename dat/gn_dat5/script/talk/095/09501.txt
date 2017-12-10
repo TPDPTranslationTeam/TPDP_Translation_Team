@@ -1,7 +1,7 @@
-霊夢
+Reimu
 001_02
-意地でも行くってことね。\b
+Willing to go at any cost huh.\b
 \x05
-まぁ一応忠告したし 後は勝手にどうぞ。\b
+Well I already said what I needed to say, so go ahead and do whatever you want.\b
 \s1_04
-あ そうだ。私必要ないから これあげるわ。
+Oh right. I don't need this thing, so I'm giving it to you.

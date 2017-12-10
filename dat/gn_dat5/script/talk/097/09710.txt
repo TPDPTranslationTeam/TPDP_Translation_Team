@@ -1,8 +1,8 @@
-橙
+Chen
 47
-あ さっきの人間！
-あれ？紫様が言ってた人間じゃない。\b
+Ah you're human from before!
+Oh? You're that human Ms. Yukari was talking about.\b
 \x03
-あいつらをやっつけてくれたのね！助かったわ！\b
+You really beat up those fairies! Thanks a lot!\b
 \x00
-そうそう。これ紫様から預かっていたの。
+Right right. Ms. Yukari wanted you to hold onto this.

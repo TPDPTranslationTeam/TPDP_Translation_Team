@@ -1,4 +1,4 @@
-？？？
+???
 
-また 来たな？\b
-よくも 光学迷彩を盗んでいってくれたね！
+You're back again?\b
+How dare you! You're the one who stole my optical camoflage!
