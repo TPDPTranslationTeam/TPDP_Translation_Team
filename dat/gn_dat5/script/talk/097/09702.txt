@@ -1,6 +1,9 @@
-にとり
+Nitori
 83
 また何か用があるのかい？\b
+Is there something that you need again?
 ん？私が何をしてるかだって？\b
+Hm? What am I doing?\b
 \x03
 今は新しい機械の試作を組み立てているところだよ。
+Right now I'm assembling a new machine prototype.

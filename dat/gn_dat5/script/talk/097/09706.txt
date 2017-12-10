@@ -1,9 +1,16 @@
 
 
 古びたチラシが落ちている。\b
+Old looking leaflets are falling.\b
 \c　　　　　　いにしえの遺跡‘夢幻遺跡’
+\c	 Ancient Relics 'Fantasy Ruins'
 　　　　　　　本日１０時　開店\b
+	Opening today at 10\b
 \cこの遺跡に訪れた方には あなたをしあわせにする何かをプレゼントします。
+\cFor those who visit the ruins, I'll give you something that'll make you happy.
 皆さんのご来店を心よりお待ちしております。\b
+I am waiting warmly for you to visit my shop.
 \c･･･と書かれている。
+\c... is what is written.
 いかがわしいチラシのようだ。
+These leaflets are quite suspicious.

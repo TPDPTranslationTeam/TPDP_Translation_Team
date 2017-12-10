@@ -1,5 +1,7 @@
-霊夢
+Reimu
 001_05
 この先 洞窟が続くから 何も用意してないと後々泣くことになるわよ。\b
+If you continue on into this cavern unprepared, you'll be coming out crying.\b
 \x06
 じゃ 後は自分の力で頑張りなさい。
+Well then, persevere with your own strength.

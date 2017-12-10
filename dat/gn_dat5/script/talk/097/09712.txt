@@ -1,8 +1,12 @@
-橙
+Chen
 47
 それは スキマップ。\b
+That's a Gap Map.\b
 使えば 一度訪れたことのある場所は一瞬で行くことができるんだって。\b
+It allows you to go instantly to places you've been to before.\b
 \x01
 道具の 大切ってとこにあるらしいから 忘れないようにしなさいって 紫様が言っていたよ。\b
+This tool is supposed to be a Key Item, so be sure not to forget about it is what Ms. Yukari said.\b
 \x03
 いい？ちゃんと紫様に感謝するのよ？
+Really? You want me to send Ms. Yukari your thanks?\b

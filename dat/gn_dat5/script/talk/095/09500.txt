@@ -1,12 +1,18 @@
-霊夢
+Reimu
 001_04
 あら あんた・・・\b
+Hey aren't you...\b
 \x05
 そう\pだわ。\b
+That's right, it's \p.\b
 \x02
 今度は ここらへんをうろついていたのね。\b
+So you're wandering this place now huh?\b
 \x05
 あのねぇ 一応忠告してあげるけど 本来ここは人の立ち入る場所じゃないの。\b
+Just so you know, the area you're standing in was originally not a place for people.\b
 \c天狗もざわついてるみたいだし 余計に危険度は増してるんじゃないかしら。\b
+\cThe Tengu may be a noisy bunch, but I do wonder if they've gotten anymore dangerous.\b
 \x07
 どうしても行くって言うのなら 力は見せてくれるのよね？
+Nonetheless if you say you want to pass, how about showing me how strong you are?

@@ -1,21 +1,34 @@
-にとり
+Nitori
 83_03
 お！受取ったってことは 私の依頼を引き受けてくれるってことだ！\b
+Oh! You understand so you're taking my request!\b
 いやぁ \pがわかるやつで助かるよ！\b
+Thanks \p, you're such an understanding person!\b
 \x00
 これは ゴムボート。\b
+Right here is the Inflatable Boat.\b
 使うときは かばんの中の 大切のとこから選択するんだ。\b
+When you need to use it, go into your bag and select it from Key Items.\b
 \cこれさえあれば 大抵の水場は移動ができるようになる。\b
+\cAs long as you have this, you can move over almost any body of water.\b
 飛べない人間が山を登るための必需品さ！\b
+A necessary item for humans climbing the mountain since you can't fly!\b
 \x03
 \pには必要なもんだろう？\b
+An important item for you, right \p?
 \x00
 さ！これで準備は万端だね。
+There! Now all preparations are complete.
 キミには期待しているよ。\b
+I have high hopes for you.\b
 \x03
 盟友なんだ ちゃんと取り返してきてくれるんだろう？\b
+As a sworn comrade, you gotta make sure you get it back right?\b
 取り返して持ってきてくれたら それなりにお礼は弾むからさ！\b
+You going and bringing my stuff back to me is a big enough thanks already!\b
 \x00
 そうだ！天狗の里は山の中腹らへんで ちょいと道を逸れてみるといいよ。\b
+Oh that's right! Since the Tengu Village is halfway up the mountain, it's a bit easy to miss. 
 \x03
 わかりにくいけど よくよく探してみれば 入り口はきっと見つかるはずだからね。
+I know it's a bit hard to understand, but if you search well enough you should find the entrance.

@@ -1,8 +1,12 @@
-にとり
+Nitori
 83_04
 ・・・え 解放戦線じゃないって？\b
+Huh, you're not apart of the Liberation Front?\b
 \x00
 良く見ると キミ人間様じゃないかい。\b
+Now that I look at you again, you're a human arent you?\b
 \x02
 なんだ 間違えちゃったのはこっちなのか。\b
+Wow, I guess I was in the wrong here.\b
 それは すまないことをしたね。
+Sorry about that.

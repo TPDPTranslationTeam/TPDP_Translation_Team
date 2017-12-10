@@ -1,39 +1,57 @@
-サニー
+Sunny Milk
 69_03
 ふっ ふっ ふっ・・・
+Hee hee hee...
 どう 二人とも！\b
+How's that you two!\b
 \c私の能力にかかれば カッパのモノを盗むことなんて 朝飯前なのよ！\b
-\oルナ
+\cWith my power, stealing the Kappa's tech was easy pickings!\b
+\oLuna Child
 \j70
 まぁサニーにしては 珍しくいい作戦考えたものよね。\b
+Well this was a unusually good plan for you Sunny.\b
 こんなにうまくいくとは思わなかったけど。\b
-\oスター
+I never thought it'd go this smoothly.\b
+\oStar Sapphire
 \j71
 これでイタズラし放題ね！\b
+Now we can pull as many pranks as we want!\b
 \x03
 何たって この光学迷彩を使えば 隠れ放題なんだから！\b
-\oサニー
+With this optical camoflage, we can be invisible whenever we want!\b
+\oSunny Milk
 \j69
 そうそう\b
+Uh-huh.
 \s69_04
 ・・・えっ？\b
-\oルナ
+What?
+\oLuna Child
 \j70_03
 さぁ どこで どんなイタズラをしようかしら？\b
-\oサニー
+Now, where should we do our mischief?
+\oSunny Milk
 \j69_05
 ほら 隠れるなら私が・・・\b
-\oスター
+Hey, I'm supposed to make you invisible...\b
+\oStar Sapphire
 \j71
 そうね・・・行き先は天狗の里なんて どう？\b
+Let's see.. how about the Tengu Village?\b
 \c実は私 あそこに珍しいものがあるって聞いたのよ。\b
+\cActually, I heard something funny was happening over there.\b
 ついでに持って行っちゃいましょうよ！\b
+While we're at it let's take this with us!\b
 \x03
 光学迷彩を手に入れた今の私たちに勝てる相手なんていないんだから 天狗にだって勝てちゃうわ！\b
-\oサニー
+The optical camoflage we have makes us unbeatable, so we can completely beat the Tengu too!\b
+\oSunny Milk
 \j69_02
 ・・・うん 勝てるんじゃないかなぁ。\b
-\oルナ
+... Yeah it's no guess we can win.\b
+\oLuna Child
 \j70_03
 そうと決まれば すぐに行きましょ！\b
+Since it's been decided, let's go right now!\b
 思い立ったが吉日！光の三妖精の実力を見せつけてやるわ！
+We're living in the moment! Let's show them what the Three Fairies of Light are made of!

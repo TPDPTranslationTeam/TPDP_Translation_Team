@@ -1,7 +1,10 @@
 
 355_01
 むっ！侵入者ね！\b
-\o橙
+Dang it! An intruder!\b
+\oChen
 \s47
 いいタイミングっ！
+Great timing!
 この隙に逃げちゃおーっと！
+Now's my chance to escape!
