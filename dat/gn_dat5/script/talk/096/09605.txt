@@ -1,8 +1,13 @@
-早苗
+//早苗
+Sanae
 085_04
-次に行くところがないんですか？\b
+//次に行くところがないんですか？\b
+You don't have anywhere to go now?\b
 \x05
-うーん・・・私も心当たりはないですね。\b
+//うーん・・・私も心当たりはないですね。\b
+Hmmm, me neither.\b
 \x00
-\pさんもそろそろこちらに慣れてきた頃ですし 自分で探してみてはどうでしょう？\b
-色々な発見ができるかもしれませんよ。
+//\pさんもそろそろこちらに慣れてきた頃ですし 自分で探してみてはどうでしょう？\b
+You should've getting used to here. How about searching on your own?\b
+//色々な発見ができるかもしれませんよ。
+There may be various discoveries.

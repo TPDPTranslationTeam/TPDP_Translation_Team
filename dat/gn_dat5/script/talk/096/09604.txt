@@ -1,19 +1,34 @@
-早苗
+//早苗
+Sanae
 085
-これは怪力グローブと言って 道を塞いでいる岩を破壊することができるものです。\b
+//これは怪力グローブと言って 道を塞いでいる岩を破壊することができるものです。\b
+This is Superpower Glove. You can break rocks blocking the way with this.\b
 \x06
-道具の大切なところにありますから そこから選択して使ってくださいね。\b
-\o神奈子
+//道具の大切なところにありますから そこから選択して使ってくださいね。\b
+Select it from "Important" part of the item menu and use it.\b
+//\o神奈子
+\oKanako
 \s086
-そうそう。\b
-山の麓に それらしき物があったから使ってみるといいかもしれないね。\b
+//そうそう。\b
+Oh.
+//山の麓に それらしき物があったから使ってみるといいかもしれないね。\b
+There was the rock like that at the bottom of the mountain, I guess you should try on it.\b
 \x03
-そうすればここも参拝しやすくなって 便利になる。\b
-いいこと尽くめだろう？\b
-\o早苗
+//そうすればここも参拝しやすくなって 便利になる。\b
+Then it'll be more easy and convenient to come here.\b
+//いいこと尽くめだろう？\b
+It's full of good things, right?\b
+//\o早苗
+\oSanae
 \j085_03
-さすが神奈子様！いいアイディアです！\b
-これで参拝客も また増えますね！\b
-\o神奈子
+//さすが神奈子様！いいアイディアです！\b
+Good idea, Lady Kanako!\b
+//これで参拝客も また増えますね！\b
+Worshippers will be back with it!\b
+//\o神奈子
+\oKanako
 \j086_03
-まぁ ここはあまり見るものは無いけどゆっくりしてきな。
+//まぁ ここはあまり見るものは無いけどゆっくりしてきな。
+Well, there's nothing much to check out but relax.
+
+//My brain is not working properly

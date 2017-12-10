@@ -1,11 +1,18 @@
-早苗
+//早苗
+Sanae
 085_03
-お久しぶりです。\b
-私のこと覚えていますか？\b
+//お久しぶりです。\b
+It's been a while.\b
+//私のこと覚えていますか？\b
+Do you remember me?\b
 \x00
-各地を旅しているのだとは聞いてましたが こちらにいらしてたんですね。\b
+//各地を旅しているのだとは聞いてましたが こちらにいらしてたんですね。\b
+I heard you're on journey but I didn't know you're here.\b
 \x06
-ここ私のおうちなんですよ。いい所でしょう！\b
+//ここ私のおうちなんですよ。いい所でしょう！\b
+This is my home. Nice place, isn't it?\b
 \o？？？
+//\o???
 \s
-早苗 お客さんかい？
+//早苗 お客さんかい？
+Sanae, is that person your visitor?

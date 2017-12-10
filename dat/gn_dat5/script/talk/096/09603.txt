@@ -1,8 +1,14 @@
-早苗
+//早苗
+Sanae
 085_04
-負けてしまいましたね。\b
+//負けてしまいましたね。\b
+I lost.\b
 \x00
-前より人形の遣い方も上手くなっているようですし やはり才能をお持ちなんでしょう。\b
+//前より人形の遣い方も上手くなっているようですし やはり才能をお持ちなんでしょう。\b
+You're getting better at using puppets than before.
+I'm sure you have some talent.
 \x03
-ありがとうございました。すごく楽しかったです！\b
-あ お礼にこれ受け取ってください。
+//ありがとうございました。すごく楽しかったです！\b
+Thank you for the battle. That was very fun!\b
+//あ お礼にこれ受け取ってください。
+Please take this for my pleasure.

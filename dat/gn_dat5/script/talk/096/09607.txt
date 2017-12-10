@@ -1,10 +1,17 @@
-神奈子
+//神奈子
+Kanako
 086_01
-本当に強いみたいだね。\b
-神をも負かすとは末恐ろしい子だわ。\b
+//本当に強いみたいだね。\b
+You seems to be really strong.\b
+//神をも負かすとは末恐ろしい子だわ。\b
+I wonder what you will grow up to be.\b
 \x02
-期待させてしまって悪いんだけど 今のままでは願いを叶える事は難しいよ。\b
-まずは起こっている 異変を解決しないと。\b
+//期待させてしまって悪いんだけど 今のままでは願いを叶える事は難しいよ。\b
+I'm sorry. You expected but I can't grant your wishes now.\b
+//まずは起こっている 異変を解決しないと。\b
+We must solve the incident first.\b
 \x00
-・・・だが 手ぶらで帰らせるのも気がひけるわね。\b
-そうだ では今後の旅に役立つアイテムをあげよう。
+//・・・だが 手ぶらで帰らせるのも気がひけるわね。\b
+But I think you shouldn't leave here without anything.\b
+//そうだ では今後の旅に役立つアイテムをあげよう。
+I give you an item useful for your journey.

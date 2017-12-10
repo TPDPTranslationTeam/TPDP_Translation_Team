@@ -1,25 +1,46 @@
-早苗
+//早苗
+Sanae
 085_03
-そうですよ 神奈子様。\b
-こちらは\pさんという方で 元は外の世界の方なんです。\b
+//そうですよ 神奈子様。\b
+Yes, Lord Kanako.\b
+\b
+//こちらは\pさんという方で 元は外の世界の方なんです。\b
+This is \p, which is from the outside world,\b
 \x00
-今は帰るために異変を解決しようと 幻想郷を旅されてるのです。\b
-なんだか親近感を覚えませんか？\b
+//今は帰るために異変を解決しようと 幻想郷を旅されてるのです。\b
+and now on the journey to solve the incident in order to return outside.\b
+//なんだか親近感を覚えませんか？\b
+Relatable, right?\b
 \o神奈子
 \j086
-へぇ・・・。\b
-我ら以外にも外からやってきた者がいたのね。\b
+//へぇ・・・。\b
+I see.\b
+//我ら以外にも外からやってきた者がいたのね。\b
+There's someone who came from outside other than us.\b
 \x03
-ふむ 興味深いわ。\b
-色々と話を交わしてみたいものね。\b
-\o早苗
+//ふむ 興味深いわ。\b
+Interesting.\b
+//色々と話を交わしてみたいものね。\b
+I want to talk a lot.\b
+//\o早苗
+\oSanae
 \j085_04
-だ だめです 神奈子様。\b
-今日は私が\pさんと遊ぶ日なんですから！\b
+//だ だめです 神奈子様。\b
+No, Lady Kanako.\b
+//今日は私が\pさんと遊ぶ日なんですから！\b
+Let me play with \p Today!\b
 \x00
-ね \pさん。
-私と人形で勝負しましょう！\b
-私も戦ってみたかったんです。\b
+//ね \pさん。
+Hey \p,
+//私と人形で勝負しましょう！\b
+let's have a puppet battle!\b
+//私も戦ってみたかったんです。\b
+I wanted to battle!\b
 \x07
-ということで いざ勝負！\b
-さぁ行きますよ！
+//ということで いざ勝負！\b
+Well, let's battle!\b
+//さぁ行きますよ！
+Here I come!
+
+//Line 3: How not to use "he" and "she" for the protagonist?
+//the last lines are shit
