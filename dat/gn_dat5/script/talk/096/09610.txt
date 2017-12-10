@@ -1,7 +1,13 @@
-早苗
+//早苗
+Sanae
 085
-そういえば外の世界にいるとき 仲間を集めて冒険するゲームってありましたよね？\b
+//そういえば外の世界にいるとき 仲間を集めて冒険するゲームってありましたよね？\b
+Do you remember the game which you collect monsters and go on an adventure?\b
 \x03
-あれ 私好きだったんですよね。\b
+//あれ 私好きだったんですよね。\b
+I loved that game.\b
 \x06
-対戦も結構強かったんですよ。
+//対戦も結構強かったんですよ。
+I was good at competitive play too.\b
+
+//Of course they're self-aware

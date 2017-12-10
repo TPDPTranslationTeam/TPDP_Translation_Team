@@ -1,3 +1,4 @@
 
 
-どの人形の衣装がいい？
+//どの人形の衣装がいい？
+Which puppet's costume do you want?

@@ -1,5 +1,10 @@
-早苗
+//早苗
+Sanae
 085_04
-\pさん 解放戦線を解散させたって本当ですか！？\b
+//\pさん 解放戦線を解散させたって本当ですか！？\b
+I heard you disbanded the Puppet Liberation Front!?\b
 \x03
-すごいです！私も負けていられませんね！
+//すごいです！私も負けていられませんね！
+You're great! I can't stay lost to you!
+
+//Line 2 is literal, it implies "I should've done nothing" or something

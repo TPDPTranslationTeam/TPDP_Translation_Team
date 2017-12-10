@@ -1,4 +1,6 @@
 
 
-人形の衣装は 森の人形師さんに作ってもらってるんですって。\b
-あの森に人なんて住めたのね。
+//人形の衣装は 森の人形師さんに作ってもらってるんですって。\b
+Costumes for puppets are made by the puppeteer who lives in the Magic Forest.\b
+//あの森に人なんて住めたのね。
+I didn't know a human could live in there.

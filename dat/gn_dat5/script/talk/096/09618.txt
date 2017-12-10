@@ -1,4 +1,6 @@
 
 
-呉服屋
-人形衣装の取り扱い始めました！
+//呉服屋
+Draper
+//人形衣装の取り扱い始めました！
+Costumes for puppets now available!
