@@ -1,13 +1,13 @@
 Tewi
 63_02
 ・・・で 実際どうなの？\b
-So how good are you?
+... So how good are you?\b
 実力があるなんて言われてるけど本当？\b
 Is it really true what they say about your skill?\b
 怪しいんだよね ものすごく。\b
 I say that's very suspicious.\b
 \x00
 \cということで まずは私と勝負。\b
-\cIn that case, how about battling me first.
+\cIn that case, how about battling me first.\b
 これで確かめさせてもらうわ。
 I just gotta make sure is all.
