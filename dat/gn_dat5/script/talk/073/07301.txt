@@ -5,4 +5,4 @@ Well then, I'll go tell master about his arrival.\b
 Now Tewi, will you properly show this person around?
 \oTewi
 \j63
-Fiiine. I get it.
+Fiiine. I got it.
