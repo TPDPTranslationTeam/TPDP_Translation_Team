@@ -6,10 +6,10 @@ Ow ow.
 Our little scuffle caused the books to fall down.\b
 \x00
 ん？落ちた本に興味があるの？\b
-Hm? You're interested in the books that fell?
+Hm? You're interested in the books that fell?\b
 \x01
 ・・・この妖魔本がほしいのね。\b
-This youma book is what you want huh?
+This youma book is what you want huh?\b
 \x04
 んー・・・\b
 Hmmm...\b
@@ -17,7 +17,7 @@ Hmmm...\b
 そうだ！\b
 Ah!\b
 この館の主の所に 辿りつけたら あげてもいいわよ！\b
-If you can reach the master of the mansion, I'll give this book to you!
+If you can reach the master of the mansion, I'll give this book to you!\b
 \x03
 あの吸血鬼に会ってもまだ生きてたら また来るといいわ。
 If you're still alive after meeting that vampire, come by again.
