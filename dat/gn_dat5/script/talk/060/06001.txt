@@ -1,11 +1,11 @@
 Koakuma
 41_02
-Owow.
-Our little scruff caused the books to fall down.\b
+Ow ow.
+Our little scuffle caused the books to fall down.\b
 \x00
 Hm? You're interested in the books that fell?
 \x01
-This Youma Book is what you want huh?
+This youma book is what you want huh?
 \x04
 Hmmm...\b
 \x00
