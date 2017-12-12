@@ -1,15 +1,15 @@
 Koakuma
 41_02
 いてて。
-Owow.
+Ow ow.
 暴れたら本が落ちてきちゃったわ。\b
-Our little scruff caused the books to fall down.\b
+Our little scuffle caused the books to fall down.\b
 \x00
 ん？落ちた本に興味があるの？\b
 Hm? You're interested in the books that fell?
 \x01
 ・・・この妖魔本がほしいのね。\b
-This Youma Book is what you want huh?
+This youma book is what you want huh?
 \x04
 んー・・・\b
 Hmmm...\b
