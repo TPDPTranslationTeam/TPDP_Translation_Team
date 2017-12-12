@@ -6,7 +6,7 @@ I know because of the rumors in the village.\b
 First thing's first though, there's something I want you to hear.\b
 Right now something troublesome is happening in Eientei.\b
 \x04
-I was the one who was going to help out this situation but right now I'm kind of caught up in other matters...\b
+I was the one who was gonna help out this situation but right now I'm kinda caught up in other matters...\b
 \x02
 I know that I'm asking for a lot with the situation at Eientei, but could you please help resolve the problem?\b
 \oAkyuu
