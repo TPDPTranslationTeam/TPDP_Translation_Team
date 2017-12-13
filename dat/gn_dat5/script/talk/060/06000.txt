@@ -1,7 +1,7 @@
 Koakuma
 41_04
 知らないあなたはだーれ？\b
-I don't know who you areeee?~\b
+I don't know who you areeee~?\b
 \x01
 さては私の読書を邪魔する気ね。\b
 You're totally disturbing my reading.\b

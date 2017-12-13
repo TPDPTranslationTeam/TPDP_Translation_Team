@@ -7,7 +7,7 @@ It appears that the Kappa Hideout is being occupied by the Puppet Liberation Fro
 どうです？気になる記事でしょう？\b
 How about that? Did that news interest you?\b
 \cここから湖の縁を橋のところまで下って 左方向に進めば 玄武の沢です。\b
-\cFrom here, go down the bridge by edge of the lake, and then head left to reach Genbu Ravine.
+\cFrom here, go down the bridge by edge of the lake, and then head left to reach Genbu Ravine.\b
 そこの洞窟内から アジトへいけますよ。\b
 Inside the cavern will be where the Hideout is located.\b
 \cそれでは！またどこかで会いましょう！
