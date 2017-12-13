@@ -4,5 +4,5 @@
 *ということは 東方Projectって知ってるよな！\b
 *\c一番のお気に入りキャラを教えてくれよ！
 Hey! Are you interested in this place?\b
-That means you know about the Touhou Project!\b
+That means you know about Touhou Project!\b
 \cWho's your favorite character?!
