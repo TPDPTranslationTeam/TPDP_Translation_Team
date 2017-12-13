@@ -2,7 +2,7 @@
 Sanae
 085
 //そういえば外の世界にいるとき 仲間を集めて冒険するゲームってありましたよね？\b
-Do you remember the game which you collect monsters and go on an adventure?\b
+Do you remember the game which you capture monsters and goes on an adventure?\b
 \x03
 //あれ 私好きだったんですよね。\b
 I loved that game.\b

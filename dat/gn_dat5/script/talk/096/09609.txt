@@ -2,7 +2,7 @@
 Sanae
 085_04
 //\pさん 解放戦線を解散させたって本当ですか！？\b
-I heard you disbanded the Puppet Liberation Front!?\b
+You disbanded the Puppet Liberation Front, right!?\b
 \x03
 //すごいです！私も負けていられませんね！
 You're great! I can't stay lost to you!
