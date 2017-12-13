@@ -1,5 +1,8 @@
-パルスィ
+//パルスィ
+Parsee
 92
-そういえば旧都で祭りをやってるみたいで騒がしかったわ。\b
+//そういえば旧都で祭りをやってるみたいで騒がしかったわ。\b
+A festival is going on at the Old Capital and noisy over there.
 \x03
-祭りなんて実に妬ましい行事よね。
+//祭りなんて実に妬ましい行事よね。
+Festival, how jealous.

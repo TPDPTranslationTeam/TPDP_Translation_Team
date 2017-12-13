@@ -1,3 +1,5 @@
-さとり
+//さとり
+Satori
 094_04
-私のベッドになにか御用ですか？
+//私のベッドになにか御用ですか？
+Is something about my bed bugging you?

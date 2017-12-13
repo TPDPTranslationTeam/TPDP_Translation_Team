@@ -1,10 +1,16 @@
-さとり
+//さとり
+Satori
 094_03
-驚いているようだけど あなたの考えを知ることは簡単だわ。\b
+//驚いているようだけど あなたの考えを知ることは簡単だわ。\b
+You're surprised but it's easy to know what you're thinking.\b
 \x01
-・・・嫌でも知ってしまうもの。\b
+//・・・嫌でも知ってしまうもの。\b
+It comes into my mind even if I don't want to.\b
 \x00
-あなたが知りたいのは 間欠泉地下センターへの行き方でしょう？\b
-だけど そう易々と通すこともできないの。\b
+//あなたが知りたいのは 間欠泉地下センターへの行き方でしょう？\b
+You want to know how to get to the Underground Geyser Center, right?\b
+//だけど そう易々と通すこともできないの。\b
+But I can't let you through so easily.\b
 \x03
-さぁ あなたはどんな風に自分と向き合い 私を納得させてくれるのかしら。
+//さぁ あなたはどんな風に自分と向き合い 私を納得させてくれるのかしら。
+Let me see how you face yourself and convince me.

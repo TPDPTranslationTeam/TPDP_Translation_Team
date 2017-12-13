@@ -1,8 +1,14 @@
-勇儀
+//勇儀
+Yuugi
 093
-ほう 人間がここまでやって来るなんて 久しぶりだねぇ・・・。\b
-\cこの奥にある場所になにか用がある・・・ってとこかい？\b
-それなら旧地獄巡りのついでに ここで私と勝負しようじゃないか。\b
+//ほう 人間がここまでやって来るなんて 久しぶりだねぇ・・・。\b
+Huh, it's the first time seeing any human in a long time.\b
+//\cこの奥にある場所になにか用がある・・・ってとこかい？\b
+\cYou have a business at the depth, right?
+//それなら旧地獄巡りのついでに ここで私と勝負しようじゃないか。\b
+Then, let's have a quick match for the former hell tour.\b
 \x03
-大丈夫さ 退屈はさせないよ。\b
-さぁ 思う存分に暴れな。
+//大丈夫さ 退屈はさせないよ。\b
+I won't make you bored.\b
+//さぁ 思う存分に暴れな。
+Come on, show me what you got.

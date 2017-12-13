@@ -1,7 +1,11 @@
-パルスィ
+//パルスィ
+Parsee
 092
-そうやってムキになれるのも また妬ましい。\b
+//そうやってムキになれるのも また妬ましい。\b
+I'm also jealous of how you can be serious.\b
 \x01
-人間は斯くも貪欲で 魅力的で 愚か・・・。\b
+//人間は斯くも貪欲で 魅力的で 愚か・・・。\b
+How humans greedy, fascinating and foolish are they.
 \x03
-実に妬ましいわ。
+//実に妬ましいわ。
+What a jealous.

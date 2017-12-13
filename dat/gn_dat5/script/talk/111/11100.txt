@@ -1,13 +1,24 @@
-パルスィ
+//パルスィ
+Parsee
 092
-あら 人間。\b
-力を求めて こんな所にまで来てしまったのかしら。\b
-\c他の強い人形遣いが羨ましい？\b
-勝負に勝ちたい？\b
+//あら 人間。\b
+Oh, hi human.\b
+//力を求めて こんな所にまで来てしまったのかしら。\b
+What are you looking for here?\b
+//\c他の強い人形遣いが羨ましい？\b
+\cAre you jealous of other good puppeteers?\b
+//勝負に勝ちたい？\b
+You want to win the battle?\b
 \x03
-ふふ あながち間違いでもなさそうね。\b
+//ふふ あながち間違いでもなさそうね。\b
+Seems not too far, huh?\b
 \x00
-嫉妬は人の行動の原動力。\b
-あなたは 素直にその感情に従い動けるらしいわね。\b
+//嫉妬は人の行動の原動力。\b
+Jealousy makes people move on,\b
+//あなたは 素直にその感情に従い動けるらしいわね。\b
+and you're very honest to your jealousy.\b
 \x01
-とても妬ましいから 私がその気持ちをへし折ってあげるわ。
+//とても妬ましいから 私がその気持ちをへし折ってあげるわ。
+I'll break your heart down because I'm jealous of you.
+
+//I love Parsee's lines
