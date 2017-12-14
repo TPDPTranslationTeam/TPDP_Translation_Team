@@ -2,7 +2,7 @@
 Parsee
 92
 //‚»‚¤‚¢‚¦‚Î‹Œ“s‚ÅÕ‚è‚ğ‚â‚Á‚Ä‚é‚İ‚½‚¢‚Å‘›‚ª‚µ‚©‚Á‚½‚íB\b
-A festival is going on at the Old Capital and noisy over there.
+A festival is going on at the Former Capital and noisy over there.
 \x03
 //Õ‚è‚È‚ñ‚ÄÀ‚É“i‚Ü‚µ‚¢s–‚æ‚ËB
 Festival, how jealous.
