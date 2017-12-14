@@ -12,12 +12,21 @@ Here's a tutorial on how to buy it: http://thpp.supersanctuary.net/forum/index.p
 
 FAQs:
 -----
-Q: When will it be done?
+**Q: When will it be done?**
 
 A: Soon™, but at least this time we won't be on hiatus.
 
 
-Q: Is fruitymario procrastinating his part of the project?
+**Q: The game crashes with a weird japanese error whenever I launch it**
+
+A: If the error looks like this:
+
+![bad](https://cdn.discordapp.com/attachments/385687911229685762/390635846740738059/unknown.png "bad")
+
+Please make sure you have already installed both the original TPDP as well as the Shard of Dreams expansion.
+
+
+**Q: Is fruitymario procrastinating his part of the project?**
 
 A: Yes
 (Asked and answered by fruitymario)
