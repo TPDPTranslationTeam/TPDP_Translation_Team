@@ -6,16 +6,16 @@ Ah, what a clean loss.\b
 //・・・やめよ やめ。\b
 ...Screw this.\b
 //完全にやる気を削がれてしまったわ。\b
-That match discouraged me.\b
+I've lost the will to fight.\b
 \x00
 //えっと・・・。色々と迷惑かけてたようね。\b
-Um... I'm sorry for these troubles.\b
+Um... I'm sorry for causing troubles.\b
 //ちょっと暴れすぎちゃったみたいだし
 Apparently I was rampant,
 //今回はこれぐらいにして 竹林に戻るわ。\b
 I'm going back to the bamboo forest now.\b
 \x03
 //何か用でもあったら 会いに来てくれたっていいのよ。\b
-If you have something for me, you can see me anytime.\b
+If you have something for me, come by anytime.\b
 //またあなたとも 勝負してみたいからね。
-I want to have a match again with you.
+I want to have a rematch with you.

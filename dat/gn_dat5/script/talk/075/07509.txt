@@ -2,13 +2,14 @@
 Eirin
 65_02
 //さて 片付けないと・・・。\b
-Well, I need to clean up...\b
+I'm busy cleaning up right now...\b
 \x00
 //\pさんは 紅魔館へ向かうのですよね。\b
-I heard you're going to Scarlet Devil's Mansion.\b
+Anyway, I heard you're going to the Scarlet Devil's Mansion.\b
 \x03
 //帰りは 兎に竹林の道案内をするよう言っておきますので 必要なら外の兎に声をかけてください。\b
-I tell a rabbit to guide on your way back. Ask her if you want to.\b
+I told a rabbit to guide you on your way back.
+She'll be waiting outside if you need a guide.\b
 \x00
 //それでは 道中お気をつけて。
 Take care.

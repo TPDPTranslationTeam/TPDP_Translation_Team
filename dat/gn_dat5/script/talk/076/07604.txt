@@ -2,6 +2,6 @@
 Tewi
 63_02
 //これから 片付けに駆り出されるのかぁ。\b
-Are we going to clean up all these mess?\b
+We have to clean up all this mess?\b
 //やだなぁ。
-I don't want to.
+I don't wanna.

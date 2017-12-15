@@ -5,13 +5,13 @@ Keine
 I heard you solved the Eientei problem.\b
 \x04
 //ああいうことは何度も起こっていたんだが 今回ばかりはタイミングが悪くてな・・・\b
-That kind of problem had been happening for many times, 
-but this time it was in a bad timing.\b
+That kind of problem had been happening very often, 
+but this time, it happened at a very bad time.\b
 \x03
 //本当に助かったよ。\b
-Thanks a lot.\b
+Thank you very much.\b
 //ほんのお礼だが これを受け取ってくれないか。
-Please accept my return. 
+For all of your hard work, please accept this in return.
 
 //The last line is hard to catch the original feel.
 //the last line is giving the item.

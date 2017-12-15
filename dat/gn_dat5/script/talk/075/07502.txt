@@ -2,11 +2,11 @@
 Mokou
 67_01
 //・・・なに？私の邪魔をしようっていうの？\b
-...What? Are you going to stop me?\b
+...What? You're gonna try and stop me?\b
 //どう見ても あなたじゃ相手にならないだけよ。\b
-It's clear that you are outmatched.\b
+You're clearly outmatched here.\b
 //\cでもいい。\b
-\cWell then.\b
+\cFine then.\b
 //邪魔するやつは排除すればいいだけだ。\b
 I will defeat you.\b
 \x00

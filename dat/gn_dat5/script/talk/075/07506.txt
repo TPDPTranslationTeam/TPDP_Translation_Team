@@ -2,11 +2,11 @@
 Eirin
 65
 //これは 道にある細い木を切る道具。\b
-This is the tool to cut a short tree.\b
+This tool can be used to cut down small trees.\b
 //道を塞いでいる細い木の前で使えば 先に進むことができるんです。\b
-You can use this to go through the place blocked by the tree.\b
+It is useful for getting past any problematic shrubbery that blocks your path.\b
 \x03
 //その木こり人形はお譲りします。\b
 I will give you the Woodcutter Doll.\b
 //うちの物置にしまっておくよりは \pさんの方が有効活用できるでしょう。
-It's better than leaving it at our storage.\b
+It's better than leaving it in our storage to gather dust.\b

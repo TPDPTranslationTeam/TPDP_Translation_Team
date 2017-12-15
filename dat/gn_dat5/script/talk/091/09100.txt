@@ -3,19 +3,19 @@
 //大変だ 大変だ！\b
 Emergency! Emergency!\b
 //私たちのアジトが 人形解放戦線に乗っ取られちゃった！\b
-Our hideout has taken over by Puppet Liberation Front!\b
+Our hideout has been taken over by the Puppet Liberation Front!\b
 //\c好き放題に暴れて困っているから
-\cThey're rampaging all over the base,
+\cThey're rampaging all over our base,
 //助けてくれそうなヤツを探してるんだけど・・・。\b
 I'm looking for someone who can help us...\b
 //キミ 助けてくれたりする？\b
-Hey you, can you save us?\b
+Hey, you! Can you help us?\b
 //\c大丈夫！\b
 \cNo problem!\b
 //アジトへの行き方は少し特殊だけど\b
-The way to the hideout is a bit complicated
+The way to the hideout is a bit complicated.
 //声を掛けてくれたらいつでも連れていくからさ！\b
 but I can guide you anytime if you ask!\b
 //\c・・・盟友だもん きっと助けてくれるよね？
 \c...Humans are sworn friends of kappa, as they say.
-Can you help us?
+So you'll help us, right?

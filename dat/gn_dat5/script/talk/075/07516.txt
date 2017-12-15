@@ -1,6 +1,6 @@
 
 
 //着きましたよ。\b
-Here.\b
+We've finally arrived.\b
 //案内が必要なら また声をかけてくださいね！
-Ask me again if you want a guide!
+If you need a guide again, just ask!

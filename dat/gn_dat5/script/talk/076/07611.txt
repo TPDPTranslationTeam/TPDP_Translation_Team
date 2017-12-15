@@ -2,9 +2,9 @@
 Keine
 62
 //それは 人形にスキルを覚えさせる道具だ。\b
-It's a tool to teach a skill to a puppet.\b
+It's a tool to teach a skill to a Puppet.\b
 //きっと \pの役に立つだろう。\b
-It should be your help.\b
+It should help you on your way.\b
 \x03
 //それじゃあ 気をつけてな。
 Well then, take care.

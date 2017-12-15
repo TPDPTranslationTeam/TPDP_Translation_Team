@@ -4,7 +4,7 @@ Mokou
 //本当に訪ねてきてくれたのね。\b
 You really came.\b
 //この間の再戦がしたいってことかしら？\b
-You want a rematch for before?\b
+You want a rematch?\b
 \x03
 //いいわね その心がけ嫌いじゃないよ。\b
 Nice, I like your attitude.\b

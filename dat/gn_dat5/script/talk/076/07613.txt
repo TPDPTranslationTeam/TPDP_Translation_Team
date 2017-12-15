@@ -1,19 +1,19 @@
 //阿求
-Akyu
+Akyuu
 76
 //あら \pさん。\b
 Oh, \p.\b
 //上白沢さんの頼まれ事は 無事終えられたのですね。\b
-You've finished the task from Ms. Kamishirasawa.\b
+I heard you had finished the task for Ms. Kamishirasawa.\b
 //\c次は紅魔館へ？\b
-\cYou're going to Scarlet Devil Mansion?\b
+\cYou're going to Scarlet Devil Mansion next, right?\b
 \x03
 //精力的に動いてますね。
-You're energetic.
+You're quite energetic.
 //いいことですわ。\b
-Nice.\b
+That's a good attitude to have in your situation.\b
 \x01
 //紅魔館は霧の湖のほとりにある 吸血鬼を主とする館。\b
 Scarlet Devil Mansion is near the Misty Lake and ruled by a vampire.\b
 //油断しないようにしてくださいね。
-Please be careful.
+Please, do be careful.

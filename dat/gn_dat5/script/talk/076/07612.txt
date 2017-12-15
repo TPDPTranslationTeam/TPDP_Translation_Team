@@ -4,6 +4,6 @@ Keine
 //あぁ \pか。\b
 Oh, it's \p.\b
 //人形のことでわからないことがあったら
-If you have something to learn about puppets,
+If there's something you want to know about Puppets,
 //ここで学んでいったらどうだ？
-you should learn at here.
+you should be able to learn it here.

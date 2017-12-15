@@ -2,23 +2,23 @@
 Marisa
 2
 //こんなところで会うとは奇遇だな \p。\b
-It was unexpected to see you here, \p.\b
+What a surprise to see you here, \p.\b
 \x07
 //お前もお前で頑張ってるらしいな。
-I heard about you.
+I've been hearing all kinds of things about you lately.\b
 //色々聞いてるよ。\b
-You're doing your job.\b
+It sounds like you're making great progress.\b
 \x03
 //永遠亭にも どうせ何かしに行ったんだろう？\b
-You had something with Eientei, right?\b
+You had something with Eintei, right?\b
 \x05
 //・・・へぇ 慧音のお使いか。\b
-...Hm, you're asked to go on the errand by Keine.\b
+...Hm, you were asked to go on the errand by Keine.\b
 \x07
 //そんなことを頼まれるんだ。\b
-I figure you've gotten much stronger\b
+I figure you've gotten much stronger if \b
 //前よりは強くなってるんだろ？
-so if Keine trusts you enough to run this errand for her.
+Keine trusts you enough to run this errand for her.
 
 //I swapped the meaning of Line 2-3 and 6-7.
 //Line 3: another "頑張る", it's difficult

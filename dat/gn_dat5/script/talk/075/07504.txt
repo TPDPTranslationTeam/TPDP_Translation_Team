@@ -2,12 +2,12 @@
 Kaguya
 66_01
 //ちょっと妹紅！まだ終わって・・・\b
-Hey! Mokou, it's not over yet...\b
+Hey, Mokou! It's not over yet...\b
 //\o永琳
 \oEirin
 \j65_01
 //姫 もういいでしょう。\b
-Princess, you should stop it.\b
+Princess, that's enough!\b
 //\o輝夜
 \oKaguya
 \s66_02

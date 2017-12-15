@@ -2,9 +2,9 @@
 Marisa
 2_02
 //ふぃー。油断しちまったな。\b
-Phew, you caught me off guard.\b
+Phew... that was rough.\b
 //まさか ここまで力付けてるとは思わなかったぜ。\b
-I didn't expect you to be THIS strong.\b
+I didn't expect you to get THIS strong.\b
 \x00
 //そういや これからどこ行くんだ？\b
 By the way, where are you going now?\b
@@ -12,9 +12,9 @@ By the way, where are you going now?\b
 //紅魔館だって？\b
 Scarlet Devil Mansion?\b
 //なるほど アリスがそんなことをな・・・。\b
-I see, Alice said so...\b
+I see, Alice told you to go there...\b
 \x07
 //それじゃ 私は先を急ぐぜ。\b
-Well, I'd better get going.\b
+Well, I'd better get going too.\b
 //今度はもっと強くなってるから 負けないようにお前も強くなっとけよ！
-I'll be more stronger than that, so you'd better be as well!
+I'm going to get much stronger, so you'd better plan on doing the same!

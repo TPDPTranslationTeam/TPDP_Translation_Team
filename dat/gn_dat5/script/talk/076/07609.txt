@@ -4,6 +4,6 @@ Eirin
 //\pさんではありませんか。\b
 Oh, it's \p.\b
 //またいらっしゃったんですね。\b
-You came here again.\b
+What brings you here?\b
 //\c姫なら 屋敷のどこかにいると思いますよ。
-\cThe princess might be in here somewhere.
+\cThe princess should be around somewhere.

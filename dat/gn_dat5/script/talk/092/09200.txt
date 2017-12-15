@@ -1,14 +1,14 @@
 
 
 //到着！\b
-Here!\b
+We're here!\b
 //ここが私たちのアジトだよ。\b
 This is our hideout.\b
 //\c帰りも私が必要になるだろう？\b
-You need my help going back, right?\b
+If you want to leave, you'll need me to get you out.\b
 //その時は また声を掛けてくれれば外に連れてってあげるよ。\b
-Ask me again and I'll take you out then.\b
+So just ask me if you ever need to leave.\b
 //\cじゃあ 解放戦線のこと頼んだっ！\b
 \cI'll leave the Liberation Front to you!\b
 //応援してるよ！
-I'm supporing you!
+I'm rooting you!

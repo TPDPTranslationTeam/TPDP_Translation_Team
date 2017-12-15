@@ -2,7 +2,7 @@
 Eirin
 65
 //先ほども言ったように この喧嘩の仲裁に入ります。\b
-As I said before, we're going to pursuade this.\b
+Like I said before, we're going to stop this.\b
 \x01
 //あなたに止めていただくのは 白い髪の者です。\b
 You are going to stop the person with white hair.\b
@@ -10,6 +10,6 @@ You are going to stop the person with white hair.\b
 She is Fujiwara no Mokou, the arch-nemesis of our princess.\b
 \x00
 //少々手ごわいですが きっとあなたなら大丈夫。\b
-She's a formidable foe, but I believe you can do this.\b
+She's a formidable foe, but I believe you can do it.\b
 //さぁ 被害が広がる前に行きますよ。
-Let's do this before the damage spreads.
+Let's end this before the damage continues.

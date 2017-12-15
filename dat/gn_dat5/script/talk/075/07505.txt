@@ -2,17 +2,17 @@
 Eirin
 65_03
 //助かりました。これで何とか一件落着です。\b
-What a relief, The trouble is over.\b
+Finally, it's over.\b
 \x00
 //\pさんには お世話になりました。\b
-Thanks for your cooperation, \p. 
+Thanks for your cooperation, \p. \b
 //えっと 何かお礼をしなくてはいけないですね。\b
-I think I need to do something in return.\b
+If there's anything I can do to repay the favor, just ask\b
 \x04
 //・・・え？\b
 ...Oh?\b
 //香霖堂さんから買ったものを貸して欲しいのですか？\b
-You want to borrow what I bought at Kourindou?\b
+You want to borrow the Woodcutter Doll?\b
 \x03
 //ええ 用も済んでいますし 構いませんよ。
-Sure, I've done the business with it.
+Sure, I'm done using it anyway.

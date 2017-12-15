@@ -3,6 +3,6 @@
 //\pさんですね。
 You're \p, right?
 //八意様から話は聞いています。\b
-I heard it from master.\b
+Master told me about you.\b
 //\c竹林の外まで お送りしましょうか？
-\cShall send you outside the forest?
+\cDid you want me to guide you through the forest?
