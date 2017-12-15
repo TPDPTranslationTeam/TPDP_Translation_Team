@@ -16,9 +16,9 @@ You had something with Eientei, right?\b
 ...Hm, you're asked to go on the errand by Keine.\b
 \x07
 //‚»‚ñ‚È‚±‚Æ‚ğ—Š‚Ü‚ê‚é‚ñ‚¾B\b
-You were asked to do an errand,\b
+I figure you've gotten much stronger\b
 //‘O‚æ‚è‚Í‹­‚­‚È‚Á‚Ä‚é‚ñ‚¾‚ëH
-so you've likely gotten stronger in the meantime, right?
+so if Keine trusts you enough to run this errand for her.
 
 //I swapped the meaning of Line 2-3 and 6-7.
 //Line 3: another "Šæ’£‚é", it's difficult
