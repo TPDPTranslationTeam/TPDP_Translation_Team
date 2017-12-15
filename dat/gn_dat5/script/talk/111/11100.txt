@@ -2,23 +2,23 @@
 Parsee
 092
 //あら 人間。\b
-Oh, hi human.\b
+Oh, hello human.\b
 //力を求めて こんな所にまで来てしまったのかしら。\b
 What are you looking for here?\b
 //\c他の強い人形遣いが羨ましい？\b
-\cAre you jealous of other good puppeteers?\b
+\cEnvy of other good puppeteers?\b
 //勝負に勝ちたい？\b
 You want to win the battle?\b
 \x03
 //ふふ あながち間違いでもなさそうね。\b
-Seems not too far, huh?\b
+You're not too far off, aren't you?\b
 \x00
 //嫉妬は人の行動の原動力。\b
-Jealousy makes people move on,\b
+Envy is a great motivator,\b
 //あなたは 素直にその感情に従い動けるらしいわね。\b
-and you're very honest to your jealousy.\b
+and you're very transparent with your feelings.\b
 \x01
 //とても妬ましいから 私がその気持ちをへし折ってあげるわ。
-I'll break your heart down because I'm jealous of you.
+I'm envy of you so I will crush your heart.
 
 //I love Parsee's lines
