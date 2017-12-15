@@ -7,6 +7,6 @@ Welcome.\b
 //木こり人形は無事に手に入れたんだね。\b
 You're safe and sound and got the Woodcutter Doll.\b
 //これからも旅を続けるなら 贔屓に頼むよ。
-for your adventure.
+I'll ask you for more favors while you're on your journey.
 
 //patronage? favor? I don't know how to translate "贔屓".
