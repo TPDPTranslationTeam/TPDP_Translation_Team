@@ -1,8 +1,13 @@
-響子
+//響子
+Kyouko
 107_03
-あ おはようございまぁす。\b
+//あ おはようございまぁす。\b
+Oh, good morning.\b
 \x01
-だめだめだめ！声が小さいよ！\b
-挨拶は生活の基本！\b
+//だめだめだめ！声が小さいよ！\b
+What's wrong with your response? More louder!\b
+//挨拶は生活の基本！\b
+Greetings are a basis of life!\b
 \x00
-私がその怠けきった根性を直してあげるっ！
+//私がその怠けきった根性を直してあげるっ！
+I will fix your dulled out attitude!
