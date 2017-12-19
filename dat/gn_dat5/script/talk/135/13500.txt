@@ -1,9 +1,16 @@
-霊夢
+//霊夢
+Reimu
 1_05
-この先に何の用？\b
-また何かやらかそうって言うの？\b
-\cよくよく考え直してみたら あんたがこっちに来てから異変が激化していったのよね。\b
-\cあんたがこの異変の一部だと考えても 筋が通るくらいには・・・。\b
+//この先に何の用？\b
+What's your business here?\b
+//また何かやらかそうって言うの？\b
+Are you scheming something again?\b
+//\cよくよく考え直してみたら あんたがこっちに来てから異変が激化していったのよね。\b
+\cAfter thinking about it, things got worse after you came here.\b
+//\cあんたがこの異変の一部だと考えても 筋が通るくらいには・・・。\b
+It makes sense if I consider you're part of this incident.\b
 \x07
-これ以上 事態をややこしくするなら 私にだって考えがあるわ。\b
-さぁ \p 私に大人しく成敗されなさい。
+//これ以上 事態をややこしくするなら 私にだって考えがあるわ。\b
+If you makes things even more worse, I have an idea.\b
+//さぁ \p 私に大人しく成敗されなさい。
+\p, stay calm and prepare for punishment.

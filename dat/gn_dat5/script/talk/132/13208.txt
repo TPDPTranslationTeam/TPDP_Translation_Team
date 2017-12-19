@@ -1,7 +1,12 @@
-星
+//星
+Shou
 102
-聖から話は聞いてますよ。\b
-あなたの実力を試してくれ・・・と。\b
+//聖から話は聞いてますよ。\b
+I heard the story from Hijiri.\b
+//あなたの実力を試してくれ・・・と。\b
+She asked me to test your skill\b
 \x01
-毘沙門天の代理である私が お相手して差し上げましょう。\b
-さぁ正々堂々とかかってきなさい。
+//毘沙門天の代理である私が お相手して差し上げましょう。\b
+I, an avatar of Bishamonten will challenge you.\b
+//さぁ正々堂々とかかってきなさい。
+Bring it on, let's battle fair and square.

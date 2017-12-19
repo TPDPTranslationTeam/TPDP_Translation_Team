@@ -1,10 +1,16 @@
-魔理沙
+//魔理沙
+Marisa
 02_07
-おっと 私を無視してどこに行こうって言うんだ？\b
+//おっと 私を無視してどこに行こうって言うんだ？\b
+Hey, where are you going with ignoring me?\b
 \x00
-よっ 久しぶりだなっ \p！\b
+//よっ 久しぶりだなっ \p！\b
+Long time no see, \p!\b
 \x03
-なかなかお前に会えなかったら かなり人形も強くなってしまったぜ！\b
+//なかなかお前に会えなかったら かなり人形も強くなってしまったぜ！\b
+I couldn't see you for a while so my puppets are so strong now!\b
 \x08
-ほら早速対戦だ。\b
-手加減はしてやれないぜ！
+//ほら早速対戦だ。\b
+Hey, let's fight.\b
+//手加減はしてやれないぜ！
+I can't hold back for you!

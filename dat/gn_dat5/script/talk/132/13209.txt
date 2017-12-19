@@ -1,6 +1,10 @@
-星
+//星
+Shou
 102_04
-ふむ。噂で聞くとおりにお強い。\b
-まさか 私までもが負けてしまうとは・・・。\b
+//ふむ。噂で聞くとおりにお強い。\b
+You're strong as I hear.\b
+//まさか 私までもが負けてしまうとは・・・。\b
+Even I am lost.\b
 \x05
-そういえば 私の宝塔 どこに行ったか知りません？
+//そういえば 私の宝塔 どこに行ったか知りません？
+By the way, did you see my pagoda somewhere?

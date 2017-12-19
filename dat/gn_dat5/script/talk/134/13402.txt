@@ -1,12 +1,20 @@
-魔理沙
+//魔理沙
+Marisa
 2_04
-もしかしてお前 魔界に行くつもりなのか？\b
+//もしかしてお前 魔界に行くつもりなのか？\b
+Are you going to Makai?\b
 \x00
-・・・へぇ 幽香がヒントをくれたのか。\b
-それは面白そうだなっ！\b
+//・・・へぇ 幽香がヒントをくれたのか。\b
+...Yuuka gave you a hint.\b
+//それは面白そうだなっ！\b
+Sounds fun!\b
 \x03
-じゃあ私は冥界にでも行ってみるとするかな。\b
-あそこの連中も大概怪しいからな。\b
+//じゃあ私は冥界にでも行ってみるとするかな。\b
+I guess I'm off to the Netherworld.\b
+//あそこの連中も大概怪しいからな。\b
+These fellows are shady enough to be suspected.\b
 \x07
-そうと決まれば 善は急げだ！\b
-\pも頑張れよ！
+//そうと決まれば 善は急げだ！\b
+Strike while the iron is hot!\b
+//\pも頑張れよ！
+Good luck, \p!

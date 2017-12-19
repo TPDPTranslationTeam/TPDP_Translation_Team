@@ -1,7 +1,11 @@
-村紗
+//村紗
+Murasa
 101
-どうも 聖輦船の元船長の村紗です。\b
+//どうも 聖輦船の元船長の村紗です。\b
+Hi, I'm Murasa, former captain of Seirensen.\b
 \x03
-えぇ船長ですよ 船長。\b
+//えぇ船長ですよ 船長。\b
+Yes, I was a captain.\b
 \x00
-まぁこんなところで立ち話もなんですから 勝負をしましょうか。
+//まぁこんなところで立ち話もなんですから 勝負をしましょうか。
+Well, let's battle. We shouldn't be talking at place like here.

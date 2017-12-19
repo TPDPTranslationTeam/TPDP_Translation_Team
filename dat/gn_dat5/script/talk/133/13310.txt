@@ -1,8 +1,13 @@
-白蓮
+//白蓮
+Byakuren
 103
-たまたま手に入れた書物です。\b
-なにやら不思議な力を感じますので 読んでみるのも手かもしれません。\b
+//たまたま手に入れた書物です。\b
+This is a scroll I came across before.\b
+//なにやら不思議な力を感じますので 読んでみるのも手かもしれません。\b
+I feel somewhat mysterious power from it. I think you can read it.\b
 \x01
-さて 私からの説法は以上です。\b
+//さて 私からの説法は以上です。\b
+Well, my preaching is over.\b
 \x03
-あとはご自身で確かめなさい。
+//あとはご自身で確かめなさい。
+Now go and find out yourself.

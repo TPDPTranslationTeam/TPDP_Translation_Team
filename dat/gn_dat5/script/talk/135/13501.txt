@@ -1,15 +1,25 @@
-霊夢
+//霊夢
+Reimu
 1_04
-はぁ？異変は幻想郷以外の世界が関係してるかもしれない？\b
-それで裏山から魔界に行こうとしてるってわけ？\b
+//はぁ？異変は幻想郷以外の世界が関係してるかもしれない？\b
+What? The incident might be involved with realms other than Gensokyo?\b
+//それで裏山から魔界に行こうとしてるってわけ？\b
+And you're about to go Makai from the mountain?\b
 \x02
-はぁ・・・\b魔理沙も魔理沙で乗り気ってわけね。\b
+//はぁ・・・\b魔理沙も魔理沙で乗り気ってわけね。\b
+Ah... Marisa is eager too.\b 
 \x05
-・・・情報源的に あながち間違ってもなさそうね。\b
-あんたが魔界 魔理沙が冥界なら 私は天界あたりでも目星をつけてみようかしら。\b
+//・・・情報源的に あながち間違ってもなさそうね。\b
+Considering the source, it seems to be not entirely wrong.\b
+//あんたが魔界 魔理沙が冥界なら 私は天界あたりでも目星をつけてみようかしら。\b
+You're going Makai and Marisa going to the Netherworld. I think I'm marking the Heaven.\b
 \x00
-まぁ手間の分散ができてちょうどいいわ。\b
-これで当たりなら異変の解決もできるわけだし。\b
+//まぁ手間の分散ができてちょうどいいわ。\b
+Well, it's good to splitting the burden. \b
+//これで当たりなら異変の解決もできるわけだし。\b
+If it hits the mark, I can solve the incident.\b
 \x05
-いい？\bやるからには \pもきちんとやりなさいよ。\b
-そっちは任せたから。
+//いい？\bやるからには \pもきちんとやりなさいよ。\b
+\p, do your best.\b
+//そっちは任せたから。
+I leave Makai to you.
