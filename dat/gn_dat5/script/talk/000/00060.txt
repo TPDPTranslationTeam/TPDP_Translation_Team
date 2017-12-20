@@ -1,7 +1,4 @@
-Reihu
+Reimu
 1
-‘Ò‚¿‚È‚³‚¢I\b
-*Hey, you there!\b
-„‚ÆŸ•‰‚æI
-*Fight me!
-~really bloody simple sentences here. Perhaps need more flavors.
+Hey, you there!\b
+Fight me!

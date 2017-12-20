@@ -1,4 +1,3 @@
 
 
-*テストバトルだ！
-This is the last battle!
+This is the final battle!

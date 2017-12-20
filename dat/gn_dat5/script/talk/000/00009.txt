@@ -1,6 +1,4 @@
 
 
-*ここなら人形箱を開けられそうだ！\b
-*\c人形箱を開きますか？
 Here you can open you Puppet Box!\b
 Would you like to open your Puppet Box?

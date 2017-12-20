@@ -1,4 +1,3 @@
 
 
-*lŒ`‚ª‚¨‚¢‚Ä‚ ‚éI
-A puppet is placed here!
+A puppet is already here!
