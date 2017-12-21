@@ -1,4 +1,7 @@
-霊夢
+//霊夢
+Reimu
 1
-・・・油断したわ。\b
-次は こうは行かないわよ。
+//・・・油断したわ。\b
+You caught me off guard.\b
+//次は こうは行かないわよ。
+You can't go next time like this.

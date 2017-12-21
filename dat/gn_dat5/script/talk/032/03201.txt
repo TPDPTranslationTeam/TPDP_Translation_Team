@@ -2,29 +2,29 @@
 Reimu
 1_05
 *あんた 私の神社にいたやつよね。\b
-You were at my shrine, right?\b
+You were at my shrine, right? \b
 *ええっと・・・\b
-Um...\b
+Um... \b
 \x04
 *そう\pだわ。\b
-Yeah.\b
+Yeah.
 \x02
 *この先は 里の外よ。
 You're going outside the village.
 *早苗から里の外は危険だって聞かなかった？\b
-Didn't Sanae tell you that the outside is dangerous?\b
-*\c・・・まさか 人形の件に首突っ込むつもりじゃないわよね。 \b
-\c ...Seriously, are you going to take on the Puppet incident?\b
+Didn't Sanae told you about the outside is dangerous? \b
+*\c・・・まさか 人形の件に首突っ込むつもりじゃないわよね。\b
+\c ... Seriously, are you going to take on the Puppet incident?\b
 \c
 \x05
 *はっきり言って困るわ。
-To be clear, you are a troublemaker for me.
+To be clear, you are a trouble for me.
 *異変解決は専門家の仕事なの。\b
-Solving incidents isn't an amateur job.\b
+Solving incidents aren't a amateur job. \b
 *あんたに 邪魔させると困るのよ。\b
-Don't get in my way.\b
+Don't get in my way.
 \x07
 *どうしてもって言うなら 私が相手をしてあげる。\b
-If you do, I'll fight you.\b
+Or else, I'll fight you. \b
 *ぶちのめしてあげるから かかってきなさい。
-Go ahead. I'm gonna beat you up.\b
+Go ahead. I'm gonna beat you up. \b

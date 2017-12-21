@@ -1,23 +1,23 @@
 霊夢
-Reimu
 1_04
 *ふーん・・・
 Uh-huh?
 *それなりの力は持ってるようね。\b
 I admit, you have some skill.\b
+\b
 \x05
 *だけど 調子には乗らないことね。
 But don't get too excited.
 *痛い目見て泣いても 誰も助けてくれないわ。\b
-No one's gonna help you if you cry.\b
+No one's gonna help you if you cry. \b
 *ここは そういうとこよ。\b
-It's do or die in this place.\b
+It's do or die in this place. \b
 \x02
 *とにかく 私の邪魔はしないでくれる？\b
 Anyway, don't get in my way.\b
 *それ以外なら 勝手にするといいわ。\b
-I don't care about what you do otherwise.\b
+Otherwise, I don't care.\b
 
 \x00
 *・・・それじゃあね。
-...Bye.
+... Bye.

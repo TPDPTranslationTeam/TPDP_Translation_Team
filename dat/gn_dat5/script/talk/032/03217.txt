@@ -1,3 +1,4 @@
 
 
-まずは 人里に向かおう！
+//まずは 人里に向かおう！
+Let's go to the Human Village first!
