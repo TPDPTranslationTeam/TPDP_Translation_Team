@@ -1,16 +1,25 @@
-幽香
+Yuuka
 25_04
 ・・・人形の異変について？\b
+About the Puppet Incident?\b
 \x00
 残念だけど 人形の発生に私は何も手出しはしてないわ。\b
+Unfortunately, I have no dealings with the Puppet outbreak at hand.\b
 \x05
 私はお遊びに付き合って メディスンを焚きつけただけ。\b
+It was only a game with Medicine to kindle her.\b
 \x03
 ・・・まあ 心当たりがない わけでもないかしら。\b
+...Though it's not like I don't have an idea of what's going on.\b
 \x05
 凶悪な存在はそこらじゅういるのよ。\b
+There's an atrocious existance all over the place.\b
 原因なんてそこかしこにあるものだわ。\b
+Such a source can be here or there.\b
 \cそれこそ幻想郷以外の世界にすら・・・ね。\b
+\cIt's almost as if it's from a world outside of Gensokyo... yes.\b
 \x00
 私が教えてあげられるのは ここまでよ。\b
+That is as much as I will tell you.\b
 あとは自分の力で頑張りなさい\b 外の世界のマスターさん。
+Everything else is left up to you.\b Mr. Master of the Outsider World.

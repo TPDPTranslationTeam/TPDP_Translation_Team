@@ -1,6 +1,9 @@
-燐
+Rin
 95
 無事着けたみたいだね。\b
+Looks like you arrived safely.\b
 さとり様に案内するように言われてたんだけど道間違えちゃったよ。\b
+Lady Satori told me to be your guide but I kinda got lost.\b
 \x01
 この先が間欠泉地下センターになってるから気をつけてね。
+Up ahead is the Underground Geyser Center, so be careful now.

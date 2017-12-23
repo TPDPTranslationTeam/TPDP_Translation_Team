@@ -1,6 +1,9 @@
-チルノ
+Cirno
 039_03
 おぼえていないけど このあいだの人間ね！\b
+I don't really remember, but you're that human from before!\b
 \x01
 あたいと最強をかけて さいせんだ！\b
+This will be a rematch for the title of 'Strongest'!\b
 せいせいどうどう かかってきな！
+Now let's fight fair and square!

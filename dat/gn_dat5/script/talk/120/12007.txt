@@ -1,11 +1,16 @@
-阿求
+Akyuu
 076
 人形解放戦線は 解散したんですね。\b
+So the Puppet Liberation Front has been disbanded.\b
 \x01
 しかし 幽香さんが関わっていたとは・・・。\b
+However for Yuuka to be involved in this...\b
 \x04
 え？ 幻想郷以外の世界ですか？\b
+Huh? A world other than Gensokyo?\b
 \x01
 寺の僧侶を封印した世界があると 聞いたことはありますが・・・。\b
+There's that world the buddhist monk was sealed in before...\b
 \x02
 残念ながら 詳しくはわかりませんね・・・。
+I don't really know the details unfortunately...

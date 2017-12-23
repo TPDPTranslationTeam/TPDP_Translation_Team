@@ -1,6 +1,9 @@
-幽香
+Yuuka
 25
 あら まだ手がかりを探してるのかしら？\b
+My, are you trying to search for another lead?\b
 \x03
 ダメよ こういうのは自分で見つけるのが楽しいのよ。\b
+No no no, it's more fun if you look for this yourself.\b
 色々な所を歩いてみなさい？
+Walk to various places why don't you?

@@ -1,7 +1,11 @@
-メディスン
+Medicine
 072_04
 なぁに もう来ちゃったの？\b
+Ooh did you finally show up?\b
 空気読めないわね。\b
+Can't read the mood can you?\b
 \x00
 仕方ないわ。\b
+It can't be helped.
 あんたはあたしが直々に倒してあげる。
+I guess I'll have to take you down myself.

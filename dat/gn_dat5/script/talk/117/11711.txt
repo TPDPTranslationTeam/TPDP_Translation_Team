@@ -1,6 +1,9 @@
-ルーミア
+Rumia
 037_05
 この前はよくもやってくれたわね！\b
+You really did it last time!\b
 おかげで怒られちゃったじゃない。\b
+Thanks to you I was so angry.\b
 \x01
 今度はちゃんと勝たせてもらうわよ！
+This time I'm gonna beat you thoroughly!

@@ -1,6 +1,8 @@
-メディスン
+Medicine
 072_03
 あれ？さっきの威勢はどこにいったのかしら？\b
-\o霊夢
+Oh? I wonder where that spirit you once had went?\b
+\oReimu
 \j001_08
 あーもう数ばっかりいて鬱陶しいわね！
+Oh jeez! All of these fairies are so annoying!

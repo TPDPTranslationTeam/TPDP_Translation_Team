@@ -1,11 +1,18 @@
-幽香
+Yuuka
 25
 あら あのお人形さんは負けちゃったようね。\b
+Oh my, seems like that like little doll lost.\b
 せっかく楽しそうな遊びだったのに 残念だわ。\b
+It's too bad since it looked like so much playing around.\b
 \x05
 私？\b
+Me?\b
 私はただの相談役。\b
+I am but a simple advisor.\b
 直接 解放戦線に参加していたわけじゃないわ。\b
+I didn't participate directly in the Liberation Front affairs.\b
 \x00
 さて 私も遊びの仕上げに あなたに付き合ってあげる。\b
+Now, you and I will put the finishing touches on this game.\b
 存分にかかってきなさいな。
+Let us fight to our heart's content.

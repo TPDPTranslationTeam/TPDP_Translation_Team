@@ -1,8 +1,12 @@
-阿求
+Akyuu
 76
 どうしんたんですか\pさん？\b
+What is the matter \p?\b
 \x04
 鈴蘭の人形の行きそうなところですか。\b
+The suzuran doll went through here?\b
 \x00
 鈴蘭と言ったら 鈴蘭畑なんてどうですか？\b
+Since this is suzuran you speak of, how about the Suzuran Field?\b
 六の道の先にありますよ。
+Just head down Route 6.

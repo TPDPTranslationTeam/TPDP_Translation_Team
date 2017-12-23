@@ -1,8 +1,12 @@
-霊夢
+Reimu
 001_02
 逃げ足が速い奴らね。\b
+She's pretty good at running away.\b
 \x05
 まぁいいわ。\b
+Oh well.
 \s1_07
 ほら\p あんたも首を突っ込んだんだから 手伝いなさい。\b
+Hey \p, since you decided to poke your nose into this, you have to help me out.\b
 手分けしてさっさとこの異変 解決するわよ。
+Let's split up and quickly resolve this incident.

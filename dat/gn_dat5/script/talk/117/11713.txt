@@ -1,6 +1,9 @@
-ルナ
+Luna Child
 070
 今度は私一人でお相手よ。\b
+This time you will be fighting only me.\b
 \x01
 何よ 物足りなさそうね。\b
+What disappointment you seem to have.\b
 三人一緒じゃないと戦えないなんて思わないでよね！
+Don't think I can't fight just because I'm not with the other two!
