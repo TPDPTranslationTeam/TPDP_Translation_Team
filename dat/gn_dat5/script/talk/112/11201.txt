@@ -2,7 +2,7 @@
 Yuugi
 093
 //鬼である私に勝つなんて大したもんだよ。\b
-It's rare to see someone defeating an oni like you.\b
+It's rare to see a human like you defeat an oni like me.\b
 //\cお前 人間の里や山で解放戦線ってヤツらを懲らしめたっていう人間だろう？\b
 \cYou're the one who punished "the Liberation Front" on the surface, right?\b
 \x03
@@ -12,14 +12,14 @@ How did I know?\b
 It's just my intuition.\b
 \x00
 //知っているかい？
-Did you know?
+Did you know
 //ヤツらは この先にある間欠泉地下センターってとこを根城にしてる。\b
-That Liberation Front is swarming a place called Underground Geyser Center.\b
+that Liberation Front is swarming a place called the Underground Geyser Center.\b
 \x01
 //最近 好き勝手やってるみたいでねぇ。\b
-They're doing whatever they like recently.\b
+Recently, they've just been doing whatever they want without any regards to anything.\b
 //そろそろお灸の据え時ってとこさ。\b
 Someone need to punish them.\b
 \x00
 //ま その気があるなら 地霊殿の主にでも話を聞いてみてくれよ。
-If you want to, you can ask the master of Palace of the Earth Spirits.
+If you want to, you can ask the master of the Palace of the Earth Spirits for help.

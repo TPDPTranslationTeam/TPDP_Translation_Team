@@ -7,7 +7,7 @@ It's been a while.\b
 Do you remember me?\b
 \x00
 //各地を旅しているのだとは聞いてましたが こちらにいらしてたんですね。\b
-I heard you're on journey but I didn't know you're here.\b
+I heard you're on journey but I didn't know you would be here.\b
 \x06
 //ここ私のおうちなんですよ。いい所でしょう！\b
 This is my home. Nice place, isn't it?\b
@@ -15,4 +15,4 @@ This is my home. Nice place, isn't it?\b
 //\o???
 \s
 //早苗 お客さんかい？
-Sanae, is that person your visitor?
+Sanae, did you invite this human?

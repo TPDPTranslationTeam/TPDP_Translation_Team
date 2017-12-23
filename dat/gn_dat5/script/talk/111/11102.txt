@@ -2,7 +2,7 @@
 Parsee
 92
 //‚»‚¤‚¢‚¦‚Î‹Œ“s‚ÅÕ‚è‚ğ‚â‚Á‚Ä‚é‚İ‚½‚¢‚Å‘›‚ª‚µ‚©‚Á‚½‚íB\b
-A festival is going on at the Former Capital and it's a bit of a ruckus.
+A festival is going on in the Former Capital and it's a bit of a ruckus.
 \x03
 //Õ‚è‚È‚ñ‚ÄÀ‚É“i‚Ü‚µ‚¢s–‚æ‚ËB
-A festival, how nice.
+A festival... how nice.

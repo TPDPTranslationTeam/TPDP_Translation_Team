@@ -2,10 +2,10 @@
 Satori
 094
 //あら 来客なんて珍しいわ。\b
-Oh, a visitor. How rare it is.\b
+Oh, a visitor. How rare.\b
 \x03
 //・・・そう あなた \pって言うのね。\b
-...You're name is \p,\b
+So...you're name is \p,\b
 \x00
 //へぇ 勇儀に言われてここに来たと・・・。
-and you came here by Yuugi's words...
+and Yuugi told you to come here.

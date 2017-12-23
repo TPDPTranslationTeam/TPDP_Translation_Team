@@ -2,33 +2,34 @@
 Sanae
 085
 //これは怪力グローブと言って 道を塞いでいる岩を破壊することができるものです。\b
-This is Superpower Glove. You can break rocks blocking the way with this.\b
+This is a Superpower Glove. If there is a rock in the way you can smash it to bit with this item.\b
 \x06
 //道具の大切なところにありますから そこから選択して使ってくださいね。\b
-Select it from "Important" part of the item menu and use it.\b
+Select it from the "Key Items" part in the item menu and use it.\b
+...or you could look at the rock and just smash it; your choice.\b
 //\o神奈子
 \oKanako
 \s086
 //そうそう。\b
-Oh.
+Oh, right.
 //山の麓に それらしき物があったから使ってみるといいかもしれないね。\b
-There was the rock like that at the bottom of the mountain, I guess you should try on it.\b
+There was the rock like that at the bottom of the mountain, you should go try out the glove on that.\b
 \x03
 //そうすればここも参拝しやすくなって 便利になる。\b
-Then it'll be more easy and convenient to come here.\b
+Then it'll be much easier to get here.\b
 //いいこと尽くめだろう？\b
-It's full of good things, right?\b
+It's very convenient, right?\b
 //\o早苗
 \oSanae
 \j085_03
 //さすが神奈子様！いいアイディアです！\b
-Good idea, Lady Kanako!\b
+That's right, Lady Kanako!\b
 //これで参拝客も また増えますね！\b
-Worshippers will be back with it!\b
+Worshippers can use it to easily come back!\b
 //\o神奈子
 \oKanako
 \j086_03
 //まぁ ここはあまり見るものは無いけどゆっくりしてきな。
-Well, there's nothing much to check out but relax.
+Yes... Anyway, there's not much else to do but relax.
 
 //My brain is not working properly

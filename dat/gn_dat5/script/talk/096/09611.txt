@@ -3,9 +3,9 @@
 //いらっしゃい！\b
 Welcome!\b
 //ウチでは人形用の衣装も取り扱い始めたのよ。\b
-We started to sell costumes for puppets.\b
+We started selling costumes for Puppets.\b
 //\c料金は３０００円なんだけど
-\cDo you want to change puppet's costume?
+\cDo you want to change your Puppet's costume?
 //人形の衣装を変えたいの？
 Costumes are 3000 Yen each.
 

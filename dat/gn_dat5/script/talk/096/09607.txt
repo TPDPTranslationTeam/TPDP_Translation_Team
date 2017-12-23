@@ -2,16 +2,16 @@
 Kanako
 086_01
 //本当に強いみたいだね。\b
-You seems to be really strong.\b
+You seem to be really strong.\b
 //神をも負かすとは末恐ろしい子だわ。\b
 I wonder what you will grow up to be.\b
 \x02
 //期待させてしまって悪いんだけど 今のままでは願いを叶える事は難しいよ。\b
-I'm sorry. You expected but I can't grant your wishes now.\b
+I'm sorry, but I'm not going to grant your wish while we're still in the middle of an incident.\b
 //まずは起こっている 異変を解決しないと。\b
 We must solve the incident first.\b
 \x00
 //・・・だが 手ぶらで帰らせるのも気がひけるわね。\b
-But I think you shouldn't leave here without anything.\b
+Of course I wouldn't let you leave here without some kind of reward for beating me.\b
 //そうだ では今後の旅に役立つアイテムをあげよう。
-I give you an item useful for your journey.
+This item should useful on your journey.

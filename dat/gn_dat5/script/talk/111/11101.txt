@@ -2,10 +2,10 @@
 Parsee
 092
 //そうやってムキになれるのも また妬ましい。\b
-I'm envy of how you could take things serious.\b
+I'm envious of how you could take things so seriously.\b
 \x01
 //人間は斯くも貪欲で 魅力的で 愚か・・・。\b
-Humans, how greedy, so foolish... Fascinating.
+Humans, so greedy, so foolish, so... fascinating.
 \x03
 //実に妬ましいわ。
 Oh, curse this jealousy.

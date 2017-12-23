@@ -2,7 +2,7 @@
 Sumireko
 124_04
 //もしかしてあなた外の人！？\b
-Are you from outside!?\b
+Are you from the outside!?\b
 \x00
 //私以外にこの夢に入り込む人がいるなんて驚いたわ。\b
 It's surprising to see someone else in this dream.\b
@@ -10,9 +10,9 @@ It's surprising to see someone else in this dream.\b
 //気をつけなさいよ。
 Be careful.
 //ただの夢じゃないから。\b
-This is not a ordinary dream.\b
+This is no ordinary dream.\b
 \x03
 //ここで怪我をすれば 現実で傷つくかも知れないし\b
-If you get injured here you might get harmed in real life\b
+If you get injured here, you may be harmed in real life\b
 //ともすれば命を落とすかもね。
-or you might die.
+or you could die. They're both equally likely.

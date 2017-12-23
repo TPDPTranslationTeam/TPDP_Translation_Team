@@ -5,10 +5,10 @@ Sanae
 I lost.\b
 \x00
 //前より人形の遣い方も上手くなっているようですし やはり才能をお持ちなんでしょう。\b
-You're getting better at using puppets than before.
-I'm sure you have some talent.
+You're getting better at using Puppets than before.
+I'm sure you have some talent.\b
 \x03
 //ありがとうございました。すごく楽しかったです！\b
 Thank you for the battle. That was very fun!\b
 //あ お礼にこれ受け取ってください。
-Please take this for my pleasure.
+Please take this as thanks.
