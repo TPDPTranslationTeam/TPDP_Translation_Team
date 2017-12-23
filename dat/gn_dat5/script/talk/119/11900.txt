@@ -1,12 +1,12 @@
-メディスン
+Medicine
 072_04
-やっぱり追ってきた。\b
-なぁに？そんなに人形に好き勝手されると困るわけ？\b
+I knew you'd chase after me.\b
+Hmm? Why cause so much trouble when we all love Puppets so much?\b
 \x01
-今まで散々好き放題してきたのは 人間じゃない。\b
-この人形たちだって そう思ってるわ。\b
-道具扱いされるのは嫌だって。\b
+Up until now, the one's that were showing them so much love were not humans.\b
+These Puppets think so too.\b
+They hate being treated like tools.\b
 \x02
-あたしにはその気持ちが痛いくらいにわかる。\b
+I understand the those painful feelings.\b
 \x05
-だから人形は人間から解放されなきゃいけないのよ！！
+That's why I must liberate these Puppets from humans!!

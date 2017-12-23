@@ -1,5 +1,5 @@
-ルーミア
+Rumia
 037_02
-また負けた！\b
+I lost again!\b
 \x03
-・・・叱られちゃう前に逃げちゃおうかな。
+...I better run before I get chewed out.

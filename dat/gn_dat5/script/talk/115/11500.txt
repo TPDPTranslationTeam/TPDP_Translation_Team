@@ -1,9 +1,9 @@
-空
+Utsuho
 096
-あら こんな場所になんの用？\b
-観光か何か？\b
+Oh, what are you doing here in a place like this?\b
+You sightseeing?\b
 \x01
-残念ね 今はこれ以上進めないわよ。\b
-いいって言うまで 誰も通しちゃだめって さとり様が言ってたって言われた気がするもの。\b
+Too bad though, I can't let you through here.
+No, I'm pretty sure Lady Satori said no one is allowed through here.\b
 \x00
-無理にでも通るって言うなら あたしが相手してあげる。
+If you say I'm being unreasonable about passing through, then you'll have to fight me.

@@ -1,8 +1,8 @@
-燐
+Rin
 95
-こんな熱いところにくるなんて物好きだね。\b
+You really gotta be strange if you're coming to this hot place.\b
 \x01
-倒れたときは運んであげるから安心してね。\b
-え どこに運ぶかって？\b
+I'll carry you if you end up collapsing, so there's no worries.\b
+Where will I carry you you say?\b
 \x03
-にゃはは。
+Nyahaha.

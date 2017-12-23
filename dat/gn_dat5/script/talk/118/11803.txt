@@ -1,8 +1,8 @@
-メディスン
+Medicine
 072_06
-なんで負けるのよ・・・。\b
+Why did I lose...\b
 \x05
-嫌よ！\b
-あたしはこんなところで負けちゃいけないの。\b
+No way!\b
+I can't lose in a place like this.\b
 \x02
-・・・っ \b立て直さなきゃ。
+uh... \bGotta go and heal up.

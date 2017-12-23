@@ -1,8 +1,8 @@
-霊夢
+Reimu
 001
-あら やっと来たのね。\b
+You're finally here.
 \x02
-あまりに遅いから 待ちくたびれたわ。\b
+You took so long I got tired of waiting.\b
 \x07
-ほら ここでグズグズしてても意味ないわ。\b
-さっさと先に進むわよ。
+Look, there's no point moving slowly around here.\b
+Let's move on ahead already.

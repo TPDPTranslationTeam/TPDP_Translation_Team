@@ -1,13 +1,13 @@
-メディスン
+Medicine
 072
-人間の里ぶりね。\b
-私は会いたくもなかったけど。\b
+A Human villager huh.\b
+I didn't wanna run into you though.\b
 \x01
-人間は人間らしく大人しくしていればいいのに よくも邪魔ばっかりしてくれたわね！\b
-そんなにあたしたちの邪魔をしたいの？\b
+Humans are supposed to stay quietly in one spot and yet here you are always getting in my way!\b
+You wanna get in our way that badly do you?\b
 \x03
-だったら 今ここで全員と戦いなさいよ。\b
-ほら あんたにとっても あたしたちにとっても一石二鳥よ？\b
-\o？？？
+In that case, fight all the members with me here right now.\b
+Won't this be good thing for either us?\b
+\o???
 \s
-あんた達 お遊びはそこまでよ？
+Haven't you people played around enough already?\b

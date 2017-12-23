@@ -1,15 +1,15 @@
-メディスン
+Medicine
 072_06
-博麗の巫女？\b
-・・・なんで そっちから来れるのよ！？\b
-\o霊夢
+Hakurei Shrine Maiden?\b
+Why the heck are you here!?\b
+\oReimu
 \s001_05
-やっぱり人形は頭が回らないのね。\b
-ここに全員いて出口に誰もいないんじゃ 入れるに決まってるわ。\b
-\oメディスン
+So a doll can't turn its head back after all.\b
+Since all of the members are here there was no one guarding the exit, so I decided to enter in.\b
+\oMedicine
 \j072_04
-・・・。\b
-なんで人間って こうも邪魔ばかり・・・。\b
+...\b
+Why are you humans always getting in the way...\b
 \x01
-いいわ。あんた達の挑戦 受けてやろうじゃない。\b
-ほら みんな散らばるよ！
+Fine then. I'll accept your challenge.\b
+Hey, everyone spread out!
