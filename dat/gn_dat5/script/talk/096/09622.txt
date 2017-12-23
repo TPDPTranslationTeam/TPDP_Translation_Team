@@ -1,9 +1,15 @@
-菫子
+//菫子
+Sumireko
 124_00
-私以外にこの夢に入り込む人がいるなんて驚いたわ。\b
+//私以外にこの夢に入り込む人がいるなんて驚いたわ。\b
+It's surprising to see someone came from the real world besides me in this dream.\b
 \x01
-気をつけなさいよ。
-ただの夢じゃないから。\b
+//気をつけなさいよ。
+Be careful,
+//ただの夢じゃないから。\b
+this is not a regular dream.\b
 \x03
-ここで怪我をすれば 現実で傷つくかも知れないし
-ともすれば命を落とすかもね。
+//ここで怪我をすれば 現実で傷つくかも知れないし
+If you're injured in here you might be so too in real life,
+//ともすれば命を落とすかもね。
+or even your life.
