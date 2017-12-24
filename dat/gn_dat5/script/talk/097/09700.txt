@@ -1,7 +1,7 @@
 
 355
-Hey hey! This place belongs to the Liberation Front now! Hand it over!\b
+Hey, hey! This place belongs to the Liberation Front now! Hand it over!\b
 \oChen
 \s47_01
-I have no idea what you're talking about.
+I have no idea what you're talking about.\b
 Besides, this place doesn't belong to me!
