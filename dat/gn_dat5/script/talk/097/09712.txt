@@ -3,6 +3,6 @@ Chen
 That's a Gap Map.\b
 It allows you to go instantly to places you've been to before.\b
 \x01
-This tool is supposed to be a Key Item, so be sure not to forget about it is what Ms. Yukari said.\b
+This tool is supposed to be a Key Item, so be sure not to forget about it, is what Ms. Yukari said.\b
 \x03
 Really? You want me to send Ms. Yukari your thanks?\b
