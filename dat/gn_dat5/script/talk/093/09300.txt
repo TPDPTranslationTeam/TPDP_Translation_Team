@@ -48,7 +48,7 @@ The optical camouflage we have makes us unbeatable, so we can completely beat th
 \oSunny Milk
 \j69_02
 ・・・うん 勝てるんじゃないかなぁ。\b
-... Yeah, it's no surprise that we can win.\b
+... Yeah, it's no surprise that we could win.\b
 \oLuna Child
 \j70_03
 そうと決まれば すぐに行きましょ！\b
