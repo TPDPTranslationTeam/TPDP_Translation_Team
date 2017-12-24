@@ -1,21 +1,21 @@
 Nitori
 83_03
 Oh! You understand so you're taking my request!\b
-Thanks \p, you're such an understanding person!\b
+Thanks, \p, you're such a reasonable person!\b
 \x00
 Right here is the Inflatable Boat.\b
 When you need to use it, go into your bag and select it from Key Items.\b
 \cAs long as you have this, you can move over almost any body of water.\b
-A necessary item for humans climbing the mountain since you can't fly!\b
+It's a necessary item for humans climbing the mountain since they can't fly!\b
 \x03
-An important item for you, right \p?
+An important item for you, right \p?\b
 \x00
 There! Now all preparations are complete.
 I have high hopes for you.\b
 \x03
-As a sworn comrade, you gotta make sure you get it back right?\b
+As a sworn comrade, you gotta make sure you get it back, right?\b
 You going and bringing my stuff back to me is a big enough thanks already!\b
 \x00
-Oh that's right! Since the Tengu Village is halfway up the mountain, it's a bit easy to miss. 
+Oh, that's right! Since the Tengu Village is halfway up the mountain, it's a bit easy to miss.\b
 \x03
 I know it's a bit hard to understand, but if you search well enough you should find the entrance.
