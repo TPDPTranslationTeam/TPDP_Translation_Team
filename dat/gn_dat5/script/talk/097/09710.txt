@@ -1,7 +1,7 @@
 Chen
 47
 あ さっきの人間！
-Ah you're human from before!
+Ah, you're the human from before!
 あれ？紫様が言ってた人間じゃない。\b
 Oh? You're that human Ms. Yukari was talking about.\b
 \x03
@@ -9,4 +9,4 @@ Oh? You're that human Ms. Yukari was talking about.\b
 You really beat up those fairies! Thanks a lot!\b
 \x00
 そうそう。これ紫様から預かっていたの。
-Right right. Ms. Yukari wanted you to hold onto this.
+Right, right. Ms. Yukari wanted you to hold onto this.
