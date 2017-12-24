@@ -4,9 +4,9 @@ Nitori
 You know though, what the heck is the Puppet Liberation Front anyway?\b
 \x01
 光学迷彩を変なイタズラに使わなきゃいいんだけどなぁ。\b
-It'd be nice if they didn't use the optical camoflage for any weird pranks.\b
+It'd be nice if they didn't use the optical camouflage for any weird pranks.\b
 ・・・ほら 私たちが怒られちゃうだろう？\b
-... Now that'd make us mad don't you think?\b
+...Now that'd make us mad, don't you think?\b
 \x00
 あ 天狗の里は山の中腹らへんで ちょっと道を逸れてみるといいよ。
 Anyway, the Tengu Village is halfway the mountain, so it's a bit easy to miss.
