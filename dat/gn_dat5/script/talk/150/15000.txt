@@ -1,7 +1,11 @@
-マイ
+//マイ
+Mai
 33_04
-はぁ・・・こうも易々と通すなんて ユキは何のために修行したのかしら。\b
+//はぁ・・・こうも易々と通すなんて ユキは何のために修行したのかしら。\b
+Sigh... What's the deal with the training if she let through you this easily?\b
 \x01
-対応しなくちゃいけない私の苦労も考えて欲しいわ。\b
+//対応しなくちゃいけない私の苦労も考えて欲しいわ。\b
+Yuki, please think how hard I'm dealing with you.\b
 \x00
-今回も本気出してあげるから 簡単に音を上げないでよね！
+//今回も本気出してあげるから 簡単に音を上げないでよね！
+I'll go all out again, don't give up so easily!

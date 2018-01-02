@@ -1,7 +1,11 @@
-霊夢
+//霊夢
+Reimu
 1_05
-あんたは迷惑にも神社の境内でぶっ倒れてたのよ。\b
-お賽銭を入れる参拝者の邪魔だから ここに移動したの。\b
+//あんたは迷惑にも神社の境内でぶっ倒れてたのよ。\b
+You were laying at the middle of the shrine.\b
+//お賽銭を入れる参拝者の邪魔だから ここに移動したの。\b
+It was blocking worshippers' way so I moved you.\b
 \o早苗
 \s85_06
-霊夢さんはぶっきら棒にあんなこと言ってますが\b実は献身的にあなたのお世話をしていたりしたんですよ？
+//霊夢さんはぶっきら棒にあんなこと言ってますが\b実は献身的にあなたのお世話をしていたりしたんですよ？
+She's rude but actually she cared you so much.

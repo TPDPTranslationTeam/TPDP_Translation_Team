@@ -1,5 +1,8 @@
-早苗
+//早苗
+Sanae
 85
-\pさん おはようございます。\b
+//\pさん おはようございます。\b
+Good morning, \p.\b
 \x05
-体の加減はいかがです？
+//体の加減はいかがです？
+How is your body going?

@@ -8,7 +8,7 @@ What are you looking for here?\b
 //\c他の強い人形遣いが羨ましい？\b
 \cYou're envious of other Puppeteers, aren't you?\b
 //勝負に勝ちたい？\b
-You want to win this battle, right?\b
+You want to win battles, right?\b
 \x03
 //ふふ あながち間違いでもなさそうね。\b
 You're not too far off.\b
