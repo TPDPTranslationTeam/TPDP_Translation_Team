@@ -1,3 +1,5 @@
-パチュリー
+//パチュリー
+Patchouli
 
-転生人形をセットしたら 後は転生ボタンを押すだけね。
+//転生人形をセットしたら 後は転生ボタンを押すだけね。
+Set your puppet and you're ready to go.

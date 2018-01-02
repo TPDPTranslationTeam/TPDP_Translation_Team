@@ -1,4 +1,8 @@
-パチュリー
+//パチュリー
+Patchouli
 
-２体設定した場合はそれぞれの人形からランダムに３箇所 １体の場合はその子からランダムに２箇所よ。\b
-\c継承元の人形が高いランクを持っていれば 転生した人形が高いランクで転生するかもしれないって訳ね。
+//２体設定した場合はそれぞれの人形からランダムに３箇所 １体の場合はその子からランダムに２箇所よ。\b
+If you chose two puppets for the source, three stats are randomly chosen from them
+and two random stats if you chose one.\b
+//\c継承元の人形が高いランクを持っていれば 転生した人形が高いランクで転生するかもしれないって訳ね。
+\cIf the sources have high ranks, reincarnated puppets' ranks can also be higher.

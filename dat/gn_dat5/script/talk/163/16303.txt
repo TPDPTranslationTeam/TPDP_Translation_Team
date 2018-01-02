@@ -1,3 +1,5 @@
-パチュリー
+//パチュリー
+Patchouli
 42
-あら 転生と継承について聞きたくなったのかしら？
+//あら 転生と継承について聞きたくなったのかしら？
+Do you want to hear about Reincarnation and Inheritance?

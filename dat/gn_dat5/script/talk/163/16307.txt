@@ -1,7 +1,16 @@
-パチュリー
+//パチュリー
+Patchouli
 
-これで転生の一連の流れは終了よ。
-理解できてるかしら？\b
-\c転生する前に持っていた人形のPPは全て０になること。\b
-個体ランクは完全にランダムで決定されること。\b
-\cこの二つが転生の注意点ね。
+//これで転生の一連の流れは終了よ。
+Now this is how reincarnation is done.
+//理解できてるかしら？\b
+Did you get it?\b
+//\c転生する前に持っていた人形のPPは全て０になること。\b
+//\b
+//個体ランクは完全にランダムで決定されること。\b
+//\cこの二つが転生の注意点ね。
+Please notice the following when you reincarnate your puppets:\b
+\cthe Puppet's PP returns to 0,
+\cand the Individual Rank is determined randomly.
+
+//I need to swap lines
