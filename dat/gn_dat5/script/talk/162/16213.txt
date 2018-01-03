@@ -1,6 +1,10 @@
 リグル
+Wriggle
 60_01
 寒いところと殺虫剤は嫌いね！
+I hate cold places and insecticide!
 ほら 理由はわかってるでしょ？\b
+Hey, you know why, right?
 \x04
 害虫じゃないよ 蛍だよっ！
+I'm not some pest, I'm a firefly!

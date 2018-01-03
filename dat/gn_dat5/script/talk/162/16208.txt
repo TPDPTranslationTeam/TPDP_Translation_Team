@@ -1,6 +1,10 @@
 メディスン
+Medicine
 72_06
 まだ あんたには勝てないのね。\b
+I still can't win against you.
 \x03
 でも 必ず強くなってみせるわっ。
+But I'll definitely get stronger.
 だって 私 みんなのリーダーなんだもの！
+Because that's what I, everybody's leader, does!

@@ -1,5 +1,8 @@
 村紗
+Murasa
 101
 私とも戦いたいですか・・・。\b
+Did you want to fight with me...
 \x03
 残念でした。何事も君の思い通りになると思っちゃいけないですよ。
+Too bad.  This isn't gonna go how you think.

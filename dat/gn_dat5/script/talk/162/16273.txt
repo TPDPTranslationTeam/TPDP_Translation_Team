@@ -1,7 +1,11 @@
 文
+Aya
 73_02
 いやぁ 何度挑戦しても勝てないのは なかなかに悔しいですねぇ。\b
+Nooo! No matter how many times i challenge you, I can't win! How frustrating!
 \x00
 その強さを解明するためにも 今度 密着取材させてもらえませんかねぇ？\b
+Next time can I watch you so I can learn more about your strength?
 \x03
 えぇ 悪いようには書きませんよ。
+I won't write anything bad!

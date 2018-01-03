@@ -1,5 +1,8 @@
 星
+Shou
 102
 あら また来たのですね。今日は聖に用ではないのですか？\b
+Oh, you've come again. Is it not for a holy purpose today?
 \x03
 ふむ では私と勝負をしましょう 。
+Hm, well then, let's have a match then.

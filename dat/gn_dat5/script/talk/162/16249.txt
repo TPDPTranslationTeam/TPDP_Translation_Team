@@ -1,6 +1,10 @@
 一輪
+Ichirin
 100
 おや この前の・・・。\b
+Oh, before this...
 どうです？また私と手合わせなんかしてみません？\b
+How about it? Will you have another bout with me?
 \x03
 さぁさぁ遠慮せず 楽しもうじゃない！
+Well well, let's enjoy this without any restraint!

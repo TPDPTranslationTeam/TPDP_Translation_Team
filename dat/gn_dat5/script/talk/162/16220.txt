@@ -1,6 +1,10 @@
 にとり
+Nitori
 83
 お \pじゃないか。元気にやってるみたいだね。\b
+Oh. aren't you \p? You seem to be doing well.
 どうだい？また私と勝負してみないかい？\b
+How about it? Would you like another match with me?
 \x03
 存分に河童の技術を見せてあげるよ！
+I'll show you the skill of kappa as much as you'd like!

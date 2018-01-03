@@ -1,9 +1,15 @@
 ルナ
+Luna
 70
 で いつもどおりにやられちゃったんだけど サニー？\b
+S-so is this how it's always done, Sunny?
 \oサニー
+Sunny
 \s69
 こ これはスターの作戦だから 私のせいじゃないわよ！\b
+Th-this is Star's plan, so it's not my fault!
 \oスター
+Star
 \s71
 でも作戦を決行したのはサニーじゃない。私だけのせいじゃないわ。
+But wasn't Sunny the one who was carrying it out? The blame is all on me!

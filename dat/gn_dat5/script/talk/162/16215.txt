@@ -1,11 +1,19 @@
 サニー
+Sunny
 69_03
 さぁ 私たちの準備は整ってるわよ！\b
+Well then, our preparations are ready!
 \oルナ
+Luna
 \s70_04
 何がって 再戦するのよ？
+What are you rematching for?
 決まっているじゃない。\b
+It's already decided, isn't it?
 \oスター
+STar
 \s71_03
 どうせ暇でもしてたでしょ？
+Anyway, you did it even though you were free right?
 せっかくだから 私たちと遊びましょ！
+It was so much effort, so let's play together!

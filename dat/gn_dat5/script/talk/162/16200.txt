@@ -1,6 +1,10 @@
 霊夢
+Reimu
 001_04
 あら \p。あんた暇そうね。\b
+Huh. Don't you look leisurely.
 \x00
 ちょうどすることもないし 私の対戦相手をしてみない？\b
+You're not really doing anything, so why not be my opponent?
 あんたの力には興味があるのよ。
+I've got an interest in your power.

@@ -1,6 +1,10 @@
 勇儀
+Yuugi
 93_03
 お 来た来たっ！待ってたんだよ！\b
+Oh, you came! You came! I was waiting!
 \x00
 力試ししたくてしょうがなかったんだ。\b
+I wanted a test of strength, but there was nothing I could do
 さぁ私と楽しく戦おうじゃないか。
+Well then, will you enjoy a battle with me?

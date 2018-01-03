@@ -1,9 +1,14 @@
 紫
+Yukari
 55_01
 どこから見ていたのかって？\b
+Where are you watching from?
 \x00
 この幻想郷に入った時から持っているものがあるでしょう？\b
+Is there something you've been carrying since you entered Gensokyo?
 \x03
 ふふ もちろん見るだけでなく お手伝いもさせてもらいましたわ。\b
+Fufu, I wasn't just watching, I also helped out.
 \x00
 だから 許してちょうだいね？
+So please forgive me?

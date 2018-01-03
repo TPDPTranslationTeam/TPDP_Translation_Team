@@ -1,6 +1,10 @@
 文
+Aya
 73_04
 おやおや \pさん。また観光ですか？\b
+Oh oh, \p! Sightseeing again?
 \x00
 それなら私と勝負しましょう！
+Alright then, have a battle with me!
 さぁ準備はいいですか？
+Well, you ready?

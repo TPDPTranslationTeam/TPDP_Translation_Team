@@ -1,6 +1,10 @@
 さとり
+Satori
 94
 あら いらっしゃい。また来たのですね。\b
+Oh, welcome. You've come again.
 \x03
 ふふ そんなにあの対戦が良かったのですか。\b
+Fufu, so that match was that good?
 なんなら もう一度やりますか？
+Well then, would you like to do it one more time?

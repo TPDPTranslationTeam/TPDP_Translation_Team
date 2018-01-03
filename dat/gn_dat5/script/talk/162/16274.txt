@@ -1,14 +1,23 @@
 紫
+Yukari
 55
 いらっしゃい \p。
+Welcome, \p
 悪魔の世界に行ったようですわね。\b
+It seems you went to hell.
 \x01
 全て見ていましたわ。
+I was watching it all.
 結局 人形がいなくなることはないのね。\b
+Afterall, it won't do to get rid of all the puppets.
 \x03
 この幻想郷も人形を受け入れてきているようですし このまま常識になっていくのでしょうね。\b
+Gensokyo seems to be welcoming the dolls.  They should pretty commonplace at this rate.
 \x00
 ・・・それでいいのかって？\b
+Is that okay?
 \x03
 ふふ 今までも色々なものがやってきて 受け入れてきたのです。
+Fufu, up til now, all kinds of things have become accepted here.
 残酷だけれど それが幻想郷ですわ。
+It's unfortunate, but that's Gensokyo.

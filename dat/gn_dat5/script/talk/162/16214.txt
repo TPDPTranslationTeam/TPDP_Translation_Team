@@ -1,6 +1,10 @@
 ルーミア
+rumia
 37_00
 あなたは食べてもいい人類だっけ？\b
+Are you a human I can eat?
 \x03
 \cなーんて。
+Why not?
 人間が夜道を歩くときは 気をつけるのよ。
+Humans should be careful when walking around at night.

@@ -1,5 +1,8 @@
 阿求
+Akyuu
 76
 どうやら里の外れで催し物が開催されているようですわ。\b
+Apparently there's some entertainment being held outside the village.
 \x03
 \pさんも挑戦してはいかがですか？
+Will you be challenging it as well, \p?

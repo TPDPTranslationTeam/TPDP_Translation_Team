@@ -1,9 +1,15 @@
 幽香
+Yuuka
 25
 あら このあいだぶりね。
+Oh, after all this time
 こっちに戻っていたことを知っていたのかしら？\b
+Did you know I would return here, I wonder?
 \x05
 何でもお見通しなんて さすがマスターさんね。\b
+As expected of the all seeing Master.
 \x03
 ほら ボサッとせずに戦いましょう？
+Hey, wanna have a battle?
 暇をしているんでしょう？
+You're free, aren't you?

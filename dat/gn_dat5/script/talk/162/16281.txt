@@ -1,10 +1,17 @@
 霊夢
+Reimu
 1_05
 ・・・そう。
+...So.
 人形の拡散は あの悪魔姉妹の仕業だったのね。\b
+Those demon sisters are responsible for the spread of these dolls, huh?
 \x00
 まぁ でもあなたが懲らしめたんでしょ？\b
+But you already chastisted them?
 それならもういいんじゃないかしら。\b
+If that's the case, I wonder if that's good enough.
 \c人形も 減り始めているし もう手出ししないのなら 放っておいても大丈夫でしょ。\b
+The dolls are beginning to decrease, and as long as you aren't messing with them, it should be okay.
 \x03
 また何かやろうものなら 今度は私が直接 懲らしめてやるわ。
+I'll personally chastise you if you do.

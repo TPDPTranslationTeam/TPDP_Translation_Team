@@ -1,16 +1,27 @@
 霊夢
+Reimu
 1_05
 ・・・そう。
+...so.
 人形はいなくならないってわけね。\b
+The dolls won't go away.
 \x00
 まぁ でもいいんじゃない？
+Well, that's ok isn't it?
 人形という存在を ここにいる者が受け入れ始めているわ。\b
+People are beginning to accept the existence of these dolls.
 \x05
 何をやっても人形の発生を止められないのであれば 私はこれ以上の手出しはしない。\b
+If nothing I do is gonna stop the puppet generation, I won't go any further.
 \x03
 それが幻想郷のやり方よ。
+That's how Gensokyo works.
 受け入れてしまえば それが日常になるの。\b
+If you accept it, that becomes the everyday.
 \x00
 ・・・まぁ悲観することもないと思うわ。\b
+...Well then, nothing to be pessimistic about.
 誰も落ち着かないなんて言ってないもの。
+If nobody's upsest about it, I won't say anything.
 そのうちポッと帰れるかもしれないでしょ。
+You might be able to get home soon.

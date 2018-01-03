@@ -1,5 +1,8 @@
 神奈子
+Kanako
 86
 おや まだこっちにいたんだね？\b
+Oh, are you still here?
 \x03
 そうそう 君に渡しそびれた物があるんだったわ。
+Oh yeah, you had something for me.

@@ -1,6 +1,10 @@
 アリス
+Alice
 31_01
 ふーん・・・異変はあの人が裏で糸を引いてたの。\b
+Hmm...that person pulling the strings of the incident.
 ということは人形は魔界から来ていたということになるのね。\b
+So that means the dolls come from Makai.
 \x00
 それなら なぜ人形が意思を持って動いていたのかも 大体は説明がつくわ。
+If so, that would explain why they can move.
