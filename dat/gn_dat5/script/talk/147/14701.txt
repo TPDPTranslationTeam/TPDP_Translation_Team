@@ -1,5 +1,7 @@
-夢子
+Yumeko
 35_04
 また勝てたからって 調子に乗らないことよ。\b
+Don't get too excited from winning now.\b
 \x00
 お遊びなんでしょう？付き合ったまでよ。
+Just coming to play? I will escort you then.

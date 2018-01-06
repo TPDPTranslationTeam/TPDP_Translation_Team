@@ -1,6 +1,10 @@
 
 
 ・・・。\b
+...\b
 ・・・・・・。\b
+......\b
 \c・・・ねぇ 起きてくれないかしら。\b
+\c...Hey, can you wake up?\b
 また私と少しお話しない？
+Can I have a little talk with you again?
