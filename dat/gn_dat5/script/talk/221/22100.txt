@@ -1,14 +1,23 @@
 華扇
+Kasen
 106
 あら ここに訪問客が来るなんて・・・。\b
+Oh, someone's come to visit here...
 \x03
 でもちょうど良かった。少し私の手伝いをしてくれませんか？\b
+But this is perfect.  Could you help me a little?
 \x01
 実は人形にイタズラされてしまって 集めていた物を隠されてしまったの。\b
+The truth is a puppet played a prank on me and hid the things I was collecting.
 結構たくさんあって 一人で探すのも大変なのです。\b
+There's a lot, so it would be hard for one person to search for.
 \x02
 だから あなたにぜひ協力してもらいたいの！\b
+So I would love your cooperation!
 もちろんただとは言いませんよ。
+Of course, it wouldn't be for free.
 それ相応のお礼は返すつもりです。\b
+I would reward you appropriately!
 \x00
 どうです？手伝っていただけませんか？
+How about it? Could I get your help?

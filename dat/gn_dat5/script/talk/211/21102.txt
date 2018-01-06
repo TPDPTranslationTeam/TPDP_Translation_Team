@@ -1,8 +1,13 @@
 リリカ
+Lyrica
 49_00
 今 皿が割れる音にビクついたでしょ。\b
+You were probably just scared by the big crash of a plate breaking, huh?
 \x03
 駄目よ 隠したってわかっちゃうんだから。\b
+It's no good trying to hide it.
 私たちと遊ぶために来たんだったら もっと面白い音色を奏でてよね。\b
+You came to play with us, so let's make more big, fun sounds!
 \x00
 ほらほら 楽しい演奏会を始めましょ！
+Hey hey! Let's start a fun concert!

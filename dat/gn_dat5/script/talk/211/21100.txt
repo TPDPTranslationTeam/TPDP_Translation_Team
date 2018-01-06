@@ -1,8 +1,13 @@
 メルラン
+Merlin
 50_00
 びっくりした？ねぇ びっくりしたでしょ？\b
+Did I surprise you? Hey, did I surprise you?
 \x03
 ここに誰かがやってくるなんて 本当に久しぶり。\b
+It's really been a while since somebody's come here.
 すっごく嬉しいから もっと私と遊びましょ！\b
+I'm sooo happy! Let's play some more!
 \x00
 さあ 用意はいい？
+Are you ready?

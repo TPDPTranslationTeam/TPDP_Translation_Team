@@ -1,13 +1,21 @@
 華扇
+Kasen
 106_03
 そうですか！助かります。\b
+Really! I'm saved!
 \x01
 あなたに探していただきたいのは 桃のかんざし・戌笛・申の腰掛・四条流庖丁道 この４点です。\b
+The 4 things I need you to search for are the Peach Hairpin, Dog Whistle, Monkey Seat, and Way of the Knife.
 \x02
 場所は・・・特定できないですね。
+The locations... I can't tell.
 きっと幻想郷じゅうに散らばっているでしょう。\b
+It definitely seems like they've scattered across Gensokyo.
 \x00
 おそらく探し回るのも一苦労ですから ゆっくりでいいですよ。\b
+It's probably a lot of trouble to find them, so take your time looking.
 すべて見つけ終わったら また声を掛けてください。\b
+Please come again when you've found them all.
 \x03
 お渡しして頂いたときに お礼はきちんとさせていただきますね。
+I'll thank you properly when you've handed them over.

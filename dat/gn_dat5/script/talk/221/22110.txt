@@ -1,6 +1,10 @@
 針妙丸
+Shinmyoumaru
 122_02
 ちょっと！\b
+Wait!
 普通訪ねるときは戸を叩くものでしょ。揺らすものじゃないわよ。\b
+Usually when you visit you knock on the door, not swing it open!
 \x01
 そんな常識知らずのあなたは人形バトルで成敗してあげる！
+I'll punish you who barges in with a puppet battle!

@@ -1,8 +1,13 @@
 華扇
+Kasen
 106_04
 あら 全部集められたんですか？\b
+Oh, have you collected them all?
 \x03
 ありがとうございますっ！
+Thank you so much!
 どれも大事な物だったので 本当に助かりました。\b
+They're all important things, so you've really helped me out!
 \x00
 そうそう。お礼でしたね。これを受け取ってください。
+Yes, yesh, thank you so much. Please accept this.

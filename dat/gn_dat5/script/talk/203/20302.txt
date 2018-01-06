@@ -1,6 +1,10 @@
 紫
+Yukari
 55_03
 あら 使用料を取るなんて どこぞの巫女みたいなことは言いませんわ。\b
+Oh, I don't really take a hiring fee like that shrine maiden.
 ご自由に使ってくださいな。\b
+Please use it freely.
 \x00
 それでは ごきげんよう。
+Well then, have a nice day.

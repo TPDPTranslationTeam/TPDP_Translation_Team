@@ -1,5 +1,8 @@
 カナ
+Kana
 16
 へー 仙人の探し物だったんだ。あなたも大変ね。\b
+Ehh, something the hermit was looking for? How dreadful.
 \x03
 じゃ わたしは行くから。ばいばーい。
+Well then, I shall go.  Bye bye~

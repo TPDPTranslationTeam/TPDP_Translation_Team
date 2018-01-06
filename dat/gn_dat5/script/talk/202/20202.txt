@@ -1,13 +1,21 @@
 紫
+Yukari
 55_03
 お待ちしていましたわ \p。\b
+I've been waiting.
 どう？幻想郷を楽しんでいただけてるかしら？\b
+How is it? Are you enjoying Gensokyo?
 \x00
 外の世界のあなたにとっては 珍しいことだらけでしょう。\b
+That's rare for someone like you from the outside world.
 \x01
 だけど そろそろ物足りなさも感じているのではないかしら？\b
+But maybe you're feeling like something just isn't right?
 \x00
 そんなあなたに朗報。\b
+Well, I have good news for you.
 \x03
 私と遊んで勝てたら あなたの幻想郷にもっと色を足して差し上げますわ。\b
+If you battle with me and win, I'll add some more color to your Gensokyo
 用意はいいかしら？
+Are you ready?
