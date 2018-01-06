@@ -1,28 +1,28 @@
-神綺
+Shinki
 36_03
-いらっしゃい。
-やっとここまで来たのね。\b
+Welcome.
+Looks like you're finally here.\b
 \x00
-あら 私が知らないとでも思った？\b
-この世界のことなら なんでもお見通しなんだから。\b
-それで あなたの目的はなぁに？\b
+Oh you didn't think I knew?\b
+I can see everything in this world.\b
+Anyway what is your purpose for being here?\b
 \x04
-・・・人形の異変？\b
+...The Puppet Incident?\b
 \x05
-あら そっちの方にも行っちゃってるのね。\b
+Ah, so they went over there too huh?\b
 \x00
-最初は私の世界に可愛さが足りないなと思って 人形を作ってみただけなのよ。\b
+Recently my world hasn't been cute enough, so I just made some dolls.\b
 \x05
-でもちょっと作りすぎちゃったのよね。\b
-しかも いつの間にか動いちゃうようになっちゃって・・・。\b
+However I kinda made too much.\b
+Moreover before anyone noticed, they all started moving on their own...\b
 \x03
-でも可愛いから そのままにしていたのよ。\b
+But hey, they're cute so it's fine the way it is.\b
 \x00
-あら迷惑してたの？\b
-でも可愛くないかしら？\b
+It's troublesome you say?\b
+Even though they're so cute?\b
 \x04
-え それだと結界をゆるめられないから困るって？\b
+And since the barrier is loose, it's causing problems?\b
 \x02
-んー・・・止めてあげてもいいけど それはあなた次第かしら。\b
+Hm... Well I can stop it, but that depends solely on you.\b
 \x03
-ほら わかっているでしょ？
+Come on, you know what that means?

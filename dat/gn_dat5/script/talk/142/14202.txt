@@ -1,8 +1,8 @@
-ルイズ
+Louise
 30
-あら？あなたは外の人かしら？\b
+Oh? Aren't you a human from outside?\b
 \x02
-疲れてるみたいね。\b
-よかったら 休んでいくといいわ。\b
+You look tired.\b
+If you'd like, you can rest right here.\b
 \x03
-そのあいだ あなたのお話聞かせて貰えないかしら。
+While you're here, I'd like to hear about you.

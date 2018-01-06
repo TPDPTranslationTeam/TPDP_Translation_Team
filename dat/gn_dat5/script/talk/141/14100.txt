@@ -1,14 +1,14 @@
-幻月
+Gengetsu
 27_03
-あら 人間ね。珍しい。\b
-\o夢月
+Oh a human, how rare.\b
+\oMugetsu
 \j26
-ちょっとこっちの様子を見に来てみたのに もっと面白いものに出会っちゃったわね 姉さん。\b
-\o幻月
+I wanted to watch this little situation more. It's more interesting than having to run into them like this, sister.\b
+\oGengetsu
 \j27
-そうね。\b
-人形を連れているみたいだし いい遊び相手が見つかったわ。\b
-\o夢月
+Indeed.\b
+They have some dolls following them too, we may have found a good playmate.\b
+\oMugetsu
 \j26_03
-さぁさぁ人間さん。\b
-私たちとお人形遊びしましょ。
+Now come, human.\b
+Play dolls with us. 

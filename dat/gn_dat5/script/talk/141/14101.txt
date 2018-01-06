@@ -1,14 +1,14 @@
-夢月
+Mugetsu
 26_02
-この人間 意外と強いのね。\b
-\o幻月
+This human is stronger than expected.\b
+\oGengetsu
 \j27
-あら人形が強い の間違いじゃない？\b
-\o夢月
+So their doll's strength was no mistake?\b
+\oMugetsu
 \j26_03
-そうよね。
-お人形さんが強いに決まっているわ。\b
-\o幻月
+That is right.
+The Puppet's strength has been decided.\b
+\oGengetsu
 \j27_03
-これだからお人形遊びはやめられないのよね。\b
-じゃあね お強い人間さん。
+Because of this, our Puppet game will not end.
+Now, Powerful Human.

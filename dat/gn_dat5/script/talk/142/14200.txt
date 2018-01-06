@@ -1,13 +1,12 @@
-サラ
+Sara
 29_01
-ちょっと待って。\b
-この先に何があるのか あなたは知ってるの？\b
+Hold it.\b
+Do you have any idea what's up ahead here?\b
 \x00
-魔界よ。\b
-あなたのような人間には まーったく関係のないところ。\b
+It's Makai.\b
+A place that has absolutely nothing to do with you humans.\b
 \x04
-・・・何よ その顔。\b
-この先に進みたいってこと？\b
-\x00
-残念 この先に進もうとすることは許さないわ。\b
-通りたいなら 私と勝負よ。
+...Why that face?\b
+You wanna pass through here?\b
+Sorry, but no one is permitted to pass through here.\b
+If you wish to pass, challenge me to a battle.

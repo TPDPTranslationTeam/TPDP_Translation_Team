@@ -1,5 +1,5 @@
-ルイズ
+Louise
 30_03
-ふふ 元気になったみたいね。\b
+Heehee, you look well.\b
 \x00
-またいらっしゃい。
+Come by again.

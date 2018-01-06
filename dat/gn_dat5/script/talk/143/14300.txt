@@ -1,11 +1,11 @@
-ユキ
+Yuki
 32_03
-いらっしゃい 侵入者さん。待ちわびていたわ。\b
-ここに忍び込もうだなんて 案外やるじゃない。\b
+Welcome Intruder. You've kept me waiting.\b
+Really surprising how you come and creep in here like this.\b
 \x00
-え 入り口が簡単すぎるって？\b
+Eh? The entrance is really simple?\b
 \x03
-あらこんな誘導式も珍しくていいでしょ。\b
+Wow this introduction style is unusually good.\b
 \x01
-さて ここに来たからには 私が華麗に退治をしてあげなきゃね！\b
-その身が焦げるくらいに熱くしてあげるっ！
+Anyway, for you to come here means I must give you a gorgeous extermination!\b
+I'll give your body a really good burning!

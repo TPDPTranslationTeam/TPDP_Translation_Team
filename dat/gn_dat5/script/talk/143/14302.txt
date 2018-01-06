@@ -1,6 +1,6 @@
 
 
-いらっしゃいませ パンデモニウムへようこそ。\b
-お客様 アポイントメントはお持ちで？\b
-\c・・・ああ 持っているはずもないですよね。\b
-では 侵入者の方は 左手の入り口からどうぞ。
+Welcome to Pandemonium.\b
+Is there an appointment that you are waiting for?\b
+\c...Aah, did not make an appointment I see.\b
+In that case, the path of the intruder is to your left.
