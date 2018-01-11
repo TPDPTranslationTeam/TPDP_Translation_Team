@@ -2,9 +2,9 @@
 Shou
 102_04
 //ふむ。噂で聞くとおりにお強い。\b
-You're strong as I hear.\b
+You're as strong as they say.\b
 //まさか 私までもが負けてしまうとは・・・。\b
-Even I am lost.\b
+I'm not strong enough yet to compete with you.\b
 \x05
 //そういえば 私の宝塔 どこに行ったか知りません？
-By the way, did you see my pagoda somewhere?
+By the way, have you seen my pagoda somewhere?

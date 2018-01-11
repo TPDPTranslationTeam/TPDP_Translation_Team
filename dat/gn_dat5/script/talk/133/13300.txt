@@ -2,19 +2,25 @@
 Byakuren
 103_03
 //あら 思ったよりもすんなりと勝ててしまったのですね。\b
-Oh, it was easier for you than I expected.\b
+Wow. You came back a lot faster than I expected.\b
 \x00
 //確か・・・\pさん でしたね。\b
-You're \p, isn't it?\p
+You're name's \p, right?\b
 //人形が溢れかえった異変を止めるために動いてるのでしょう？\b
-I heard you're acting to stop the puppet incident.\b
+I heard you're trying to stop the Puppet incident.\b
 \x02
 //だけどそれは本当に必要でしょうか？\b
 Is it really necessary?\b
 //根本を絶つのではなく 人形と共にある道も選ぶことは可能ではないですか？\b
-Isn't it possible to choose the way to be with puppets?\b
+Isn't there a way to live in harmony with Puppets?\b
+... I see.\b
 \x01
 //私が その脆弱な考えを正してあげましょう。\b
-I shall correct your weak thoughts.\b
+I can't change your mind, but-\b
+*\x01 *I want to put the above image change here
+I will try and stop you with all my strength!\b
 //共存の道を選ぶために。\bいざっ 南無三！
-For the way of coexistence.\b Now, namusan!
+How foolish and self-centered you are!\b
+Now, in the name of the three treasures!
+
+*I put "in the name of the three treasures" instead of "namusan" because in the english translation, they say that instead. I've pretty much copied what Byakuren said in the actual game.

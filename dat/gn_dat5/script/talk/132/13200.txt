@@ -2,12 +2,12 @@
 Kyouko
 107_03
 //あ おはようございまぁす。\b
-Oh, good morning.\b
+Oh, good morning!\b
 \x01
 //だめだめだめ！声が小さいよ！\b
-What's wrong with your response? More louder!\b
+Don't mumble! You have to speak loud and clear; otherwise, no one's gonna wanna talk to you!\b
 //挨拶は生活の基本！\b
-Greetings are a basis of life!\b
+Giving a proper greeting is the foundation to a proper friendship!\b
 \x00
 //私がその怠けきった根性を直してあげるっ！
-I will fix your dulled out attitude!
+I'll fix that boring attitude of your's!

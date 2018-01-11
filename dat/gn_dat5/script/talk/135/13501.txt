@@ -2,24 +2,24 @@
 Reimu
 1_04
 //はぁ？異変は幻想郷以外の世界が関係してるかもしれない？\b
-What? The incident might be involved with realms other than Gensokyo?\b
+What? The incident may be happening outside Gensokyo too?\b
 //それで裏山から魔界に行こうとしてるってわけ？\b
-And you're about to go Makai from the mountain?\b
+And you're about to go to Makai through the mountain?\b
 \x02
 //はぁ・・・\b魔理沙も魔理沙で乗り気ってわけね。\b
-Ah... Marisa is eager too.\b 
+Ah... And Marisa is inspecting the Netherworld.\b 
 \x05
 //・・・情報源的に あながち間違ってもなさそうね。\b
-Considering the source, it seems to be not entirely wrong.\b
+Considering the source, it may not entirely be wrong.\b
 //あんたが魔界 魔理沙が冥界なら 私は天界あたりでも目星をつけてみようかしら。\b
-You're going Makai and Marisa going to the Netherworld. I think I'm marking the Heaven.\b
+You're going to Makai and Marisa is going to the Netherworld. I guess I'll check out Heaven.\b
 \x00
 //まぁ手間の分散ができてちょうどいいわ。\b
-Well, it's good to splitting the burden. \b
+We'll be able to cover more ground if we split up. \b
 //これで当たりなら異変の解決もできるわけだし。\b
-If it hits the mark, I can solve the incident.\b
+If the source of the incident is in Heaven, I can put a stop to it.\b
 \x05
 //いい？\bやるからには \pもきちんとやりなさいよ。\b
-\p, do your best.\b
+\p, if the source is in Makai, I expect it to be solved by the time I get back.\b
 //そっちは任せたから。
-I leave Makai to you.
+I'm trusting you here. Don't disappoint me.

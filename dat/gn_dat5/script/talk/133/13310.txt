@@ -4,10 +4,10 @@ Byakuren
 //たまたま手に入れた書物です。\b
 This is a scroll I came across before.\b
 //なにやら不思議な力を感じますので 読んでみるのも手かもしれません。\b
-I feel somewhat mysterious power from it. I think you can read it.\b
+I feel some kind of mysterious power from it. Maybe you can read it.\b
 \x01
 //さて 私からの説法は以上です。\b
-Well, my preaching is over.\b
+Well, that's all I have to say\b
 \x03
 //あとはご自身で確かめなさい。
-Now go and find out yourself.
+Kindly, see yourself out.

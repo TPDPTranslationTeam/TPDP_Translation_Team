@@ -2,6 +2,6 @@
 Nazrin
 98_02
 //あぁ またご主人が失くし物を・・・。\b
-Ah, my master lost a thing again...\b
+Ah, my master lost her pagoda again...\b
 //探しに行かなくてはならないね。
-I gotta go find it.
+Now I've gotta go find it.
