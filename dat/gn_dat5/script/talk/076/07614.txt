@@ -1,6 +1,6 @@
-霖之助
+Rinnosuke
 58
-いらっしゃい。\b
+Welcome.\b
 \x03
-木こり人形は無事に手に入れたんだね。\b
-これからも旅を続けるなら 贔屓に頼むよ。
+You're safe and sound and got the Woodcutter
+Doll.\b

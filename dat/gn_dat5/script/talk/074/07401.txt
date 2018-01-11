@@ -1,10 +1,13 @@
 Eirin
 65
-So you're the person I heard of from that rabbits that's acting as Keine's representative.\b
-My name is Eirin Yagokoro.
-I act as the doctor here.
+So you're the one I've heard of from the 
+rabbits, acting as Keine's representative.\b
+My name is Eirin Yagokoro.\b
+I act as the doctor here.\b
 \x01
-I know this sudden, but I'm going to test you.\b
-A Puppeteer with real power is needed at this time.
+I know this sudden, but I'm going to test 
+you.\b
+A Puppeteer with real power is needed at 
+this time.\b
 \x00
 Udonge, if you please.

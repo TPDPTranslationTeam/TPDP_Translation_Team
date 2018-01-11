@@ -1,9 +1,12 @@
-永琳
+Eirin
 65
-\pさんは・・・\bなるほど 旅を。\b
-この後は紅魔館へ向かうのですね。\b
+You are...\b
+Oh, you are about to go on a journey.\b
+You're going Scarlet Devil Mansion, right?\b
 \x03
-それでは 帰りは兎に竹林の道案内をするよう言っておきます。\b
-必要なら 外の兎に声をかけてくださいね。\b
+I'll tell a rabbit to guide you through the 
+forest.\b
+She'll be waiting outside if you need a 
+guide.\b
 \x00
-道中お気をつけて。
+Take care.

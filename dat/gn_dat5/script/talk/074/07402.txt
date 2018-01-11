@@ -1,5 +1,5 @@
 Reisen
 64
-Understood master. Please leave this to me.\b
+Understood, master. Please, leave it to me.\b
 \x03
-I shall test them with all of my might!
+I shall test them with all my might!

@@ -1,10 +1,13 @@
-鈴仙
+Reisen
 64_01
-私 昔は月にいたの。\b
-槐安通路を通って 幻想郷に来たのよ。\b
+I was on the moon before.\b
+I came to Gensokyo by going through the 
+Kaian Passageway.\b
 \x00
-槐安通路っていうのは 夢の世界にある通路なんだけど・・・\b
+What's Kaian Passageway? It's in a dream 
+world and...\b 
 \x02
-って 語ってもしょうがないわね。\b
+Well... It's useless information for you.\b
 \x00
-あ 人形の体力を回復なら ベットを使っていいですよ。
+Oh, if you want to heal your puppets, you 
+can use the bed.

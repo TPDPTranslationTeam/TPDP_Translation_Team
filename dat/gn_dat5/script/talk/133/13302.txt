@@ -1,5 +1,8 @@
-響子
+//響子
+Kyouko
 107_03
-おはようございますっ！\b
+//おはようございますっ！\b
+Goood Morning!\b
 \x00
-いやぁ 挨拶はいつでも気持ちいいものよね。
+//いやぁ 挨拶はいつでも気持ちいいものよね。
+Greetings always feel good, right?

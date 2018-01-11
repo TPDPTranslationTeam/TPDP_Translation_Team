@@ -1,5 +1,8 @@
-ぬえ
+//ぬえ
+Nue
 104
-滅多に人間の前に姿を出してやったりはしないが 今回は特別。\b
+//滅多に人間の前に姿を出してやったりはしないが 今回は特別。\b
+Usually I wouldn't show up before a human, but this is a special case.\b
 \x03
-正体不明の私に慄くと良い！！
+//正体不明の私に慄くと良い！！
+Fear the unknown!!

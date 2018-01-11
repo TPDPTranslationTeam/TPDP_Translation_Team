@@ -1,11 +1,12 @@
-永琳
+Eirin
 65_03
-助かりました。これで何とか一件落着です。\b
+Finally, it's over.\b
 \x00
-\pさんには お世話になりました。\b
-えっと 何かお礼をしなくてはいけないですね。\b
+Thanks for your cooperation, \p. \b
+If there's anything I can do to repay the 
+favor, just ask.\b
 \x04
-・・・え？\b
-香霖堂さんから買ったものを貸して欲しいのですか？\b
+...Oh?\b
+You want to borrow the Woodcutter Doll?\b
 \x03
-ええ 用も済んでいますし 構いませんよ。
+Sure, I'm done using it anyway.

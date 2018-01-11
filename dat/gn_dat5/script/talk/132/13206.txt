@@ -1,6 +1,10 @@
-一輪
+//一輪
+Ichirin
 100_01
-来ましたね。\b
-聖様の命ですし 手加減なしでお相手しましょうか。\b
+//来ましたね。\b
+You finally came.\b
+//聖様の命ですし 手加減なしでお相手しましょうか。\b
+It's master Hijiri's request, so I refuse to accept defeat!\b
 \x03
-雲山も張り切ってますし 今日はきっと絶好調ですよ。
+//雲山も張り切ってますし 今日はきっと絶好調ですよ。
+Unzan is pumped up too. Witness our true strength!

@@ -1,7 +1,12 @@
-魔理沙
+//魔理沙
+Marisa
 2_06
-くっそー。\pも当然ながら強くなってたか。\b
-結構頑張ったんだけどな・・・。\b
+//くっそー。\pも当然ながら強くなってたか。\b
+Damn, of course \p is stronger.\b
+//結構頑張ったんだけどな・・・。\b
+We worked really hard, though.\b
 \x05
-そういえば神社の裏に何の用だ？\b
-この先にあるのは・・・
+//そういえば神社の裏に何の用だ？\b
+What are you looking for here anyway?\b
+//この先にあるのは・・・
+The only thing that's ahead is...

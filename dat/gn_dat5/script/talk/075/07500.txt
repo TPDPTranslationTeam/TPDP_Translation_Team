@@ -1,5 +1,5 @@
-永琳
+Eirin
 65
-来ましたね。\b
+You're here.\b
 \x02
-まぁ ご覧のあり様です・・・。
+Well... as you can see...

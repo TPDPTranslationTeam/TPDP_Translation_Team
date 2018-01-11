@@ -1,8 +1,11 @@
-慧音
+Keine
 62
-無事に永遠亭の問題を解決してくれたみたいだな。\b
+I heard you solved the Eientei problem.\b
 \x04
-ああいうことは何度も起こっていたんだが 今回ばかりはタイミングが悪くてな・・・\b
+That kind of problem has been happening very
+often, but this time, it happened at a very 
+bad time.\b
 \x03
-本当に助かったよ。\b
-ほんのお礼だが これを受け取ってくれないか。
+Thank you very much.\b
+For all of your hard work. Please accept 
+this in return.

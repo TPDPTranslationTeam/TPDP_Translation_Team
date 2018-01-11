@@ -1,5 +1,6 @@
 
 
-\pさんですね。
-八意様から話は聞いています。\b
-\c竹林の外まで お送りしましょうか？
+You're \p, right?
+Master told me about you.\b
+\cDid you want me to guide you through the 
+forest?

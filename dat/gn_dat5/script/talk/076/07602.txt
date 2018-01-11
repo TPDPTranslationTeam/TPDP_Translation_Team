@@ -1,12 +1,14 @@
-魔理沙
+Marisa
 2_02
-ふぃー。油断しちまったな。\b
-まさか ここまで力付けてるとは思わなかったぜ。\b
+Phew... that was rough.\b
+I figured you've gotten stronger, but I 
+didn't expect you to get THIS strong.\b
 \x00
-そういや これからどこ行くんだ？\b
+By the way, where are you going now?\b
 \x05
-紅魔館だって？\b
-なるほど アリスがそんなことをな・・・。\b
+Scarlet Devil Mansion?\b\b
+I see, Alice told you to go there...\b
 \x07
-それじゃ 私は先を急ぐぜ。\b
-今度はもっと強くなってるから 負けないようにお前も強くなっとけよ！
+Well, I'd better get going too.\b
+I'm going to get much stronger, so you'd 
+better plan on doing the same!

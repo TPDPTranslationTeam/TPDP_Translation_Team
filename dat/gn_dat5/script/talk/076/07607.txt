@@ -1,8 +1,11 @@
-輝夜
+Kaguya
 66_01
-あら 永琳と邪魔してきた人間ね。\b
+Oh, you're that human that stopped me and 
+Mokou's battle.\b
 \x02
-何？妹紅だけじゃ飽き足りなくて 今度はあたしと戦いたいの？\b
+You want to battle me instead of Mokou?\b
 \x00
-いいわ。消化不良で退屈していたの。
-永い時の一瞬だけでも 私を楽しませてよね。
+Sure. I've been really bored lately anyway.\b
+Even though this fight will be only a flash 
+compared to all of eternity, I hope it will 
+be enough to entertain me.

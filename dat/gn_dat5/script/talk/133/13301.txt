@@ -1,12 +1,21 @@
-白蓮
+//白蓮
+Byakuren
 103_02
-何故こうも人形を遣うことができるのに共存の道を選ばないのか 不思議でなりません。\b
+//何故こうも人形を遣うことができるのに共存の道を選ばないのか 不思議でなりません。\b
+I wonder why you would wish to stop this incident.\b
+You and your Puppets fight together so well.\b
 \x00
-が 約束は約束です。\b
-わかりました 私の知っている情報を教えましょう。\b
+//が 約束は約束です。\b
+But I must keep my promise.\b
+//わかりました 私の知っている情報を教えましょう。\b
+Alright. I'll tell you what I know.\b
 \x01
-幻想郷とは異なる軸に 魔界 という世界が存在しています。\b
-\cとある力を持つ者によって作られたその世界は こちらとは違う概念で成り立っている。\b
-\c一部の文献に博麗神社の裏山に繋がっていると書かれていたものがあった とも伝えられています。\b
+//幻想郷とは異なる軸に 魔界 という世界が存在しています。\b
+There's a dimension called Makai outside Gensokyo.\b
+//\cとある力を持つ者によって作られたその世界は こちらとは違う概念で成り立っている。\b
+\cThe realm was made by an entity with immense power.\b
+//\c一部の文献に博麗神社の裏山に繋がっていると書かれていたものがあった とも伝えられています。\b
+\cSome sources say it's connected through mountain to the Hakurei Shrine.\b
 \x03
-そうそう これもあなたの役に立つものかもしれませんね。
+//そうそう これもあなたの役に立つものかもしれませんね。
+By the way, this might help you on your journey.

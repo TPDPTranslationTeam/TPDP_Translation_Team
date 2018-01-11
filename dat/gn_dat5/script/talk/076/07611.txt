@@ -1,6 +1,6 @@
-慧音
+Keine
 62
-それは 人形にスキルを覚えさせる道具だ。\b
-きっと \pの役に立つだろう。\b
+It's a tool to teach a skill to a Puppet.\b
+It should help you on your way.\b
 \x03
-それじゃあ 気をつけてな。
+Well then, take care.

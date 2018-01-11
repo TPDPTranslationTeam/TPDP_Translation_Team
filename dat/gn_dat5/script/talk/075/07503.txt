@@ -1,12 +1,13 @@
-妹紅
+Mokou
 67_02
-あー。見事なまでに負けちゃった。\b
-・・・やめよ やめ。\b
-完全にやる気を削がれてしまったわ。\b
+Ah, what a clean loss.\b
+...Screw this.\b
+I've lost the will to fight.\b
 \x00
-えっと・・・。色々と迷惑かけてたようね。\b
-ちょっと暴れすぎちゃったみたいだし
-今回はこれぐらいにして 竹林に戻るわ。\b
+Um... I'm sorry for causing trouble.\b
+Apparently I was rampant.\b
+I'm going back to the bamboo forest now.\b
 \x03
-何か用でもあったら 会いに来てくれたっていいのよ。\b
-またあなたとも 勝負してみたいからね。
+If you have anything else for me, come by 
+anytime.\b
+I want to have a rematch with you.

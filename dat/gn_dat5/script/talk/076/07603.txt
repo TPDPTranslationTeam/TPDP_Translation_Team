@@ -1,8 +1,11 @@
-魔理沙
+Marisa
 2
-そういえば 今回のは慧音のお使いなんだろ？\b
-なら 紅魔館に行く前に寺子屋によっていくといい。\b
+You were asked to run an errand by Keine, 
+right?\b
+You should go see her in her class before 
+you go to the Scarlet Devil Mansion.\b
 \x03
-アイツは義理堅いから 何かくれるかもしれないしな。\b
+She's trustworthy, I'm sure she'll give you 
+something in return.\b
 \x07
-今度こそ行くぜ。じゃあな。
+I'm going for real now. See ya.
