@@ -1,5 +1,8 @@
-天子
+//天子
+Tenshi
 089_00
-ふーん 魔界神ねぇ。\b
+//ふーん 魔界神ねぇ。\b
+The creator of Makai, huh?\b
 \x03
-私は 退屈しなくて好きだけどね。人形。
+//私は 退屈しなくて好きだけどね。人形。
+I like puppets though, they won't make me bored. 

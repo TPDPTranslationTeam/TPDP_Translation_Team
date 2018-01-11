@@ -1,4 +1,6 @@
 
 
-あれ？稗田の当主？\b
-体験版だから この先は 進めませんぜ？
+//あれ？稗田の当主？\b
+Huh? Miss Hieda?\b
+//体験版だから この先は 進めませんぜ？
+You can't go through, because it's demo.

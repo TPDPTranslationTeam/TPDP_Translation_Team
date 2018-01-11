@@ -1,6 +1,10 @@
-衣玖
+//衣玖
+Iku
 088_00
-地上の方ですか。
-なんだって こんな所に。\b
+//地上の方ですか。
+Earth person?
+//なんだって こんな所に。\b
+What is your business here?\b
 \x01
-天界は 地上の者に厳しいですよ？
+//天界は 地上の者に厳しいですよ？
+Heaven is unsparing for grounders.

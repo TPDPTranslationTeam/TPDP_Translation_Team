@@ -1,5 +1,9 @@
-天子
+//天子
+Tenshi
 089_01
-何よ。そんなにムキになって。\b
-\cえ？ 人形の発生源はもう判明した？\b
-そういうことは もっと早く言いなさいよ。
+//何よ。そんなにムキになって。\b
+Hey, why are you being so serious?\b
+//\cえ？ 人形の発生源はもう判明した？\b
+\cWhat? You already found where the puppets came from?
+//そういうことは もっと早く言いなさいよ。
+You should've told me at first place!
