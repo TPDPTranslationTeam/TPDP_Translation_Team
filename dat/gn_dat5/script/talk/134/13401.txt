@@ -2,11 +2,11 @@
 Marisa
 2_06
 //くっそー。\pも当然ながら強くなってたか。\b
-Dang, of course \p is stronger.\b
+Damn, of course \p is stronger.\b
 //結構頑張ったんだけどな・・・。\b
-I worked hard, though.\b
+We worked really hard, though.\b
 \x05
 //そういえば神社の裏に何の用だ？\b
-By the way, what are you looking for here?\b
+What are you looking for here anyway?\b
 //この先にあるのは・・・
-What ahead is...
+The only thing that's ahead is...

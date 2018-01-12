@@ -1,6 +1,10 @@
-サラ
+Sara
 29_02
 はぁ なんでいつもこう。\b
+Why is always like this?\b
 \x01
 ・・・何よ 憐れな目を向けないで頂戴っ！\b
+Don't look at me with those pitable eyes!\b
 ほら 先に進めばいいでしょ。
+Come on, just go through already.
+#This isn't exactly what she said, but it feels right.

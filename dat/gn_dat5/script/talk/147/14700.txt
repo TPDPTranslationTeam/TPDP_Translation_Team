@@ -1,9 +1,14 @@
-夢子
+Yumeko
 35_04
 性懲りもなく またやってきたのね。\b
+Even after that's happened you still come back.\b
 また神綺様のところに用なのかしら？\b
+So you're going to visit Lady Shinki yes?\b
 \x01
 そう簡単に通すわけないでしょ。\b
+I'm not going to let you pass through that easily.\b
 当然 私が排除するに決まってるじゃない。\b
+Naturally, I've decided to eliminate you first.\b
 \x00
 私の力で退場して頂くわ。
+I will make you leave with my own power.

@@ -1,11 +1,18 @@
-神綺
+//神綺
+Shinki
 36_05
-あら また負けちゃった。\b
+//あら また負けちゃった。\b
+I lost again.\b
 \x03
-でもやっぱりあなたとの対戦は楽しいわね。\b
+//でもやっぱりあなたとの対戦は楽しいわね。\b
+Battling with you is always fun, though.\b
 \x00
-またいらっしゃい。\b
-何度だってお相手をしてあげるわっ。\b
+//またいらっしゃい。\b
+Come again anytime\b
+//何度だってお相手をしてあげるわっ。\b
+I'm not enough for battling you only once.\b
 \x03
-じゃあ またね。外の世界の人間さん。\b
-今度も私の期待を裏切らないでちょうだいね？
+//じゃあ またね。外の世界の人間さん。\b
+See you then, the outside human.\b
+//今度も私の期待を裏切らないでちょうだいね？
+Don't disappoint my expectations again, please?

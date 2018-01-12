@@ -1,15 +1,24 @@
-神綺
+Shinki
 36_04
 あら負けちゃった。\b
+Looks like I lost.\b
 \x00
 随分 私の人形たちとも親睦を深めてきたみたいね。\b
+Looks like I really got deepen my relationship with my dolls.\b
 \x03
 ふふふ 楽しんでくれたようでよかった。\b
+Fufufu I'm glad it was so fun for you.\b
 私も楽しかったわ。\b
+I too had a lot of fun.\b
 \c名残惜しくはあるけど あなたの言うとおりにしてあげる。\b
+\cThough I hate to part with you, I'm gonna do as you say.\b
 \x05
 結構膨大な力だから 完全に無くなるまでは時間が必要よ？\b
+A lot of energy is need, so it'll take some time for everything to be done you know?\b
 しばらくは今のままだけど 我慢してね。\b
+So it'll take a little while so please be patient.\b
 \x00
 さて 外の世界の人間さん そろそろ帰る時間よ。\b
+Now then, human from the outsider world, it's time for you to go home.\b
 さぁ ゆっくり目を閉じて・・・。
+Yes, just slowly close your eyes.

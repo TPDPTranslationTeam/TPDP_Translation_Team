@@ -1,6 +1,10 @@
-橙
+//橙
+Chen
 047
-あら また来たの？
-あなたも暇してるのね。\b
+//あら また来たの？
+Oh, you came here gain?
+//あなたも暇してるのね。\b
+You have time to spare, isn't it?\b
 \x03
-ねぇねぇ 折角だからちょっと私と遊びましょ。
+//ねぇねぇ 折角だからちょっと私と遊びましょ。
+Since you came here all along, let's play.

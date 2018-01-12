@@ -2,6 +2,6 @@
 Nazrin
 98
 //なんだ。探し物をしていたのは君の方なのか。\b
-Oh, you're looking for something.\b
+Oh, you're looking for something?\b
 //なんだったら手伝ってあげてもいいのだけれどね。
-I want to help you if you could.
+I would help you, but I can't

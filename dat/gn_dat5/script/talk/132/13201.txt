@@ -2,9 +2,9 @@
 Kyouko
 107_02
 //負けたぁ！\b
-I lost!\b
+I lost... and to introvert no less!\b
 //まだまだ修行不足なのね・・・。\b
 I still need more training...\b
 \x00
 //ところで住職さんに何か用なの？
-By the way, what's up with our master?
+By the way, what's our master up to?

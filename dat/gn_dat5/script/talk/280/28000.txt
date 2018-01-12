@@ -1,10 +1,16 @@
-天子
+//天子
+Tenshi
 089_00
-人形が現れたと思ったら 巫女が来て 次は地上人ねぇ。\b
+//人形が現れたと思ったら 巫女が来て 次は地上人ねぇ。\b
+Puppets appeared, and now a shrine maiden and an earthling?\b
 \x01
-\cどうせ あなたも人形発生の原因がどうのって言うつもりでしょ？\b
+//\cどうせ あなたも人形発生の原因がどうのって言うつもりでしょ？\b
+\cInterrogating me about the source of puppets too, aren't you?
 \x03
-\cいいわよ。
-幸い 今はお父様方もいないし・・・\b
+//\cいいわよ。
+\cOkay.
+//幸い 今はお父様方もいないし・・・\b
+Luckily, my father is going out, so...\b
 \x00
-\c私に勝ったら 教えてあげる！
+//\c私に勝ったら 教えてあげる！
+\cI'll tell you if you can defeat me! 

@@ -1,9 +1,15 @@
-ユキ
+//ユキ
+Yuki
 32
-また来たのね 侵入者さん。\b
+//また来たのね 侵入者さん。\b
+Nice to see you again, the interloper.\b
 \x03
-そんなにここが気に入ったの？
-変わった人間ね。\b
+//そんなにここが気に入ったの？
+It seems you really liked here.
+//変わった人間ね。\b
+What a strange person.
 \x01
-さあ こんどこそ私が華麗に退治してあげるわ！\b
-特訓の成果 思い知りなさい！
+//さあ こんどこそ私が華麗に退治してあげるわ！\b
+I will repel you this time!
+//特訓の成果 思い知りなさい！
+I did a special training for this!

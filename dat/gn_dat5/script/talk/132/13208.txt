@@ -7,6 +7,6 @@ I heard the story from Hijiri.\b
 She asked me to test your skill\b
 \x01
 //毘沙門天の代理である私が お相手して差し上げましょう。\b
-I, an avatar of Bishamonten will challenge you.\b
+I, an avatar of Bishamonten, will challenge you.\b
 //さぁ正々堂々とかかってきなさい。
 Bring it on, let's battle fair and square.

@@ -5,7 +5,7 @@ Murasa
 I didn't expect you to be this strong.\b
 \x00
 //え？なんで寺に船長がいるかって？\b
-What? Why a captain is in a temple?\b
+What? Why am I, a captain, in a temple like this?\b
 \x03
 //・・・まぁ色々とあったんですよ。
 ...Well, it's a long story.

@@ -1,6 +1,10 @@
-ユキ
+//ユキ
+Yuki
 32_05
-あれ？また負けた？\b
+//あれ？また負けた？\b
+What? I lost again?\b
 \x04
-まだまだ修行が足りないのかな。\b
-・・・またマイに任せちゃおうかな。
+//まだまだ修行が足りないのかな。\b
+I'm still not enough training.\b
+//・・・またマイに任せちゃおうかな。
+I guess I leave this for Mai.

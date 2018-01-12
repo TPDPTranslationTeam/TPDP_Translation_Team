@@ -1,3 +1,5 @@
-魔理沙
+//魔理沙
+Marisa
 2_04
-お やっと起きたか。
+//お やっと起きたか。
+Oh, you finally woke up.

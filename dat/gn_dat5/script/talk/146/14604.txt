@@ -1,18 +1,28 @@
-紫
+Yukari
 955_03
 ふふ いつも寝ているところを起こしてしまって ごめんなさいね？\b
+Fufu sorry for waking you up from your usual sleep okay?\b
 \x00
 お久しぶりですわ。\b
+It's been a while.\b
 活躍はしっかりと見ていました。\b
+I watched you playing an active role.\b
 \x03
 やっぱりあなたを連れて来てよかったですわ。\b
+Bringing you along was a good thing.\b
 \x01
 でも幻想郷は とても広く普遍的な場所。\b
+However, Gensokyo is a very wide and expansive place.\b
 あなたの訪れていないところもたくさんありますし これまでと違うところもあるかもしれませんわ。\b
+There are many places you've not visited and places that have changed too.\b
 \x00
 目覚めたら また歩き回ってみるのもいいかもしれませんわね。\b
+When you wake, maybe it'd be a good idea to travel around more.\b
 \x03
 帰れるまでには時間も掛かることですし いずれ あなたと直接お会いできる機会もあるでしょう。\b
+While it'll be some time before you can go home, eventually a chance for you to meet with me personally will happen.\b
 \x00
 さぁ目が覚めるまでは深く眠りなさい。\b
+Now before you wake up, go into a deep sleep.\b
 夢を見続けられるように・・・。
+May you continue gazing into a dream...

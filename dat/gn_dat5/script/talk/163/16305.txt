@@ -1,3 +1,5 @@
-パチュリー
+//パチュリー
+Patchouli
 
-転生させたい人形は手持ちに持つこと。
+//転生させたい人形は手持ちに持つこと。
+Make sure to have the puppet you want to reincarnate in your party.

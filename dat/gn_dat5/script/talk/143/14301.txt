@@ -1,8 +1,13 @@
-ユキ
+Yuki
 32_01
 ぐっ この侵入者なかなかの実力ね・・・。\b
+Gu... this intruder has some real power.\b
 \x04
 不意を取られて不完全燃焼気味だけど あとはマイがどうにかしてくれるはずだわ。\b
+I wasn't able to light a spark, but hopefully Mai can do something about this somehow.
+#I know it's supposed to be talking about her 'being off her game', but since improper combustion was another meaning I kind of feel that was what she was saying.
 \x03
 この先 私みたいに易々いけると思わないでよね。\b
+Don't think you got it easy just because you got through me.
 その慢心が命取りになるのよ。
+That pride will be the end of you.

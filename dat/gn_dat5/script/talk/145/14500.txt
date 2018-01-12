@@ -1,11 +1,18 @@
-夢子
+Yumeko
 35
 人間でここまでたどり着ける者がいたとはね・・・。\b
+So a human finally managed to arrive here...\b
 正直驚いたわ。\b
+I'm honestly surprised.\b
 \x01
 人形？\b
+Puppet?\b
 あなたに話す必要があって？\b
+You have something important to speak with me about?\b
 何の義理もないあなたに。\b
+Don't have any kind of obligation do you?\b
 \x00
 まぁ いいわ。これ以上 好き勝手させないから。\b
+So be it then. I won't allow you do as you please any longer.\b
 あの方の手を煩わせなくとも 私の力であなたに退場して頂くわ。
+I won't allow you to cause anymore trouble for the lady, so with my power I will make you leave.
