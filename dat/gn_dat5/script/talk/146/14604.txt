@@ -1,18 +1,18 @@
 Yukari
 955_03
-Fufu sorry for waking you up from your usual sleep okay?\b
+Fufufu~ Sorry for waking you from your usual sleep.\b
 \x00
 It's been a while.\b
-I watched you playing an active role.\b
+I watched you play an active role in everything.\b
 \x03
-Bringing you along was a good thing.\b
+I'm glad I brought you along.\b
 \x01
-However, Gensokyo is a very wide and expansive place.\b
-There are many places you've not visited and places that have changed too.\b
+However, Gensokyo is very wide and expansive.\b
+There are many places you haven't visited and areas that have changed as well.\b
 \x00
-When you wake, maybe it'd be a good idea to travel around more.\b
+When you wake up, it might be a good idea to travel around some more.\b
 \x03
-While it'll be some time before you can go home, eventually a chance for you to meet with me personally will happen.\b
+It'll be some time before you can go home, but a chance for you to meet with me personally will happen eventually.\b
 \x00
-Now before you wake up, go into a deep sleep.\b
+Now, go into a deep sleep.\b
 May you continue gazing into a dream...

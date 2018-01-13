@@ -1,15 +1,15 @@
 Shinki
 36_04
-Looks like I lost.\b
+Seems like I lost.\b
 \x00
-Looks like I really got to deepen my relationship with my dolls.\b
+I guess I need to deepen my relationship with my dolls.\b
 \x03
-Fufufu I'm glad it was so fun for you.\b
-I too had a lot of fun.\b
+Fufufu~ I'm glad it was so fun for you.\b
+I, too, had a lot of fun.\b
 \cThough I hate to part with you, I'm gonna do as you say.\b
 \x05
-A lot of energy is need, so it'll take some time for everything to be done you know?\b
-So it'll take a little while so please be patient.\b
+A lot of energy is needed, so it'll take some time.\b
+Please be patient.\b
 \x00
-Now then, human from the outsider world, it's time for you to go home.\b
-Yes, just slowly close your eyes.
+Now then, human from the outside world, it's time for you to go home.\b
+Just close your eyes...
