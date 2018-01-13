@@ -1,6 +1,4 @@
 
 
-\dを 雛に預けた・・・\b
-You handed \d to Hina...\b
-バイバイ \d・・・。
+You hand \d over to Hina...\b
 Farewell, \d...

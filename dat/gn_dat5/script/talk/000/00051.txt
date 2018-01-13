@@ -1,38 +1,31 @@
 霊夢
+~~Needs translation
 73_1
-*Yボタン(Cキー)で 自転車に乗ることができます。\b
 Press Y button(or C on keyboard) to
 ride on bike. \b
 \x2
-*\c左のキャラクターは エモーションテストができます。\b
 \cThe character on the left is for
 emotion tests.\b
 \x3
-*左上から 【びっくり はてな にっこり 汗 電球\b
 From bottom left, you may test
 "Surprised QuestionMark Smile Sweet Bulb\b
 \s31_1
-*音符 ハート 照れ 寝る … もじゃ 怒る】 のテストが出来ます。\b
 MusicNote Heart Shy Sleepy ... annoyed angry" \b
 \x0
-*\c下の2つは オブジェクト破壊のテストが出来ます。\b
 \cThose two at the bottom are made for
 destruction tests.\b
 \x2
-*左が【木を切る】右が【岩を砕く】です。\b
 The left one is for wood cut and the right one
 is for rock break. \b
 \s37
-*\c右の建物や洞窟は マップ切り替えのテストができます。\b
 \cBuilds and caves on the right are made for
 map switching tests.\b
 \x1
-*\cその他にも 水上や草むらを 歩いたり\b
 \cThe rest are water tiles and grass tiles for
 walking test\b
 \s37_2
-*段差を 飛び越えたり\b
 and gaps for jumping tests.\b
 \x1
-*水上でボートに乗ることが出来るようになっています。
 You may also ride boat on water tiles.
+
+~~Did not correct anything because I haven't come across this dialogue; most of it needs context to understand. I only deleted the Japanese, so please come back to this later.

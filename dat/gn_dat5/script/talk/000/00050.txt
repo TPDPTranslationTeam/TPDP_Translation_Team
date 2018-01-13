@@ -1,8 +1,5 @@
 Reimu
 1
-*サウンドテストプログラムへようこそ。\b
 Welcome to the Sound Testing Room.\b
-*私は 会話テスト兼 このプログラムの簡単な説明をします。\b
-I'm here to explain how to use this room.\b
-*\c説明を聞きますか？
-\cWould you like some explanations?
+I'm here to tell you how it works.\b
+\cWould you like me to explain?
