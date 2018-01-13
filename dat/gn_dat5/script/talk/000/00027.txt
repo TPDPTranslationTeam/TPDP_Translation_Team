@@ -1,9 +1,9 @@
 Hina
 82_02
 *・・・本気なのね。\b
-You are serious then.
+You are serious, then.
 *とりあえず \dは私が預かるわ。\b
-Please hand \d to me.
+Please hand \d over to me.
 \x01
 *後で 泣きつかれても もう二度と会えないからね。
 They will never come back, no matter how 

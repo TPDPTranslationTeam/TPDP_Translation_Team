@@ -4,27 +4,29 @@ Hina
 A human? It's quite rare to see your kind
 hanging around here.
 *迷い込んじゃったのかしら？\b
-Did you lost your way?
+Did you lose your way?
 \x03
 *へぇ \pさん というのね。\b
 So you are \p,
 *人形の異変を解決するために 各地を巡っていると。\b
 who is traveling all over the world 
-to find clues of the Puppet Incident.\b
+to find clues about the Puppet Incident.\b
 ~original scripts says "to solve," but "to find clues" seems more adequate to me.
 \x
 *それなら・・・\b
-Well then.\b
+Well, then.\b
 *\c私は 人形の封印の解除ができるの。\b
-I can break the seal of the Puppet for you.\b
+I can break the seal of a puppet for you.\b
+~~"a puppet" might make the player think that they can only do it once. Could be "puppets" instead. Need second opinions/testing.
 \x02
 *封印を解除した人形とは 二度と会えなくなってしまうけど・・・\b
 They will no longer be with you once you
 break the their seal.\b
 \x00
 *もし どうしても人形の封印を解除したくなったら 私のところへいらっしゃい。\b
-If you really wish to break their seals,
-please come to me.
+If you really wish to break them,
+you can come to me.\b
+~~Since she's reluctant to do it, her saying "please" seems odd.
 \x01
 *あまり 頼ってほしくはないのだけどね。
 However, just because I can,
