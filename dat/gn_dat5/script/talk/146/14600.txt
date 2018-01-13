@@ -3,26 +3,26 @@ Shinki
 Welcome.
 Looks like you're finally here.\b
 \x00
-Oh you didn't think I knew?\b
+Oh, you didn't think I knew?\b
 I can see everything in this world.\b
-Anyway what is your purpose for being here?\b
+Anyway, what is your purpose for being here?\b
 \x04
 ...The Puppet Incident?\b
 \x05
-Ah, so they went over there too huh?\b
+Ah, so they went over there too, huh?\b
 \x00
-Recently my world hasn't been cute enough, so I just made some dolls.\b
+My world wasn't cute enough, so I made some dolls.\b
 \x05
-However I kinda made too much.\b
-Moreover before anyone noticed, they all started moving on their own...\b
+However... I kinda made too much.\b
+Then, before anyone realized, they all started moving on their own...\b
 \x03
-But hey, they're cute so it's fine the way it is.\b
+But hey, they're cute, so it's fine the way it is.\b
 \x00
-It's troublesome you say?\b
+...It's troublesome, you say?\b
 Even though they're so cute?\b
 \x04
 And since the barrier is loose, it's causing problems?\b
 \x02
-Hm... Well I can stop it, but that depends solely on you.\b
+Hm... Well, I can stop it, but that depends solely on you.\b
 \x03
-Come on, you know what that means?
+You know what that means, right?
