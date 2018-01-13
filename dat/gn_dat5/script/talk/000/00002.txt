@@ -2,5 +2,5 @@
 
 *水面は静かに揺らめいている・・・\b
 *\cボートに乗りますか？
-Waters are waving, slowly and gently...\b
-\cWould you like toride in the boat?
+The water is calm...\b
+\cWould you like to get on the boat?

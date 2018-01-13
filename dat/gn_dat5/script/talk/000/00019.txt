@@ -1,5 +1,6 @@
 
 
 *\p‚½‚¿‚Í ‹x‚ñ‚ÅŒ³‹C‚É‚È‚Á‚½I
-You and your friends have fully recovered!
+Your puppets have fully recovered!
 ~Consider player can be either male or female, I intentionally rephrased it to avoid third-person pronoun.
+~~Seems unnecessary to have "you" at all; since you're resting, it's already assumed that the player is recovered or "rested". It's not assumed for puppets (as they aren't the ones resting). Revert if my logic is flawed.
