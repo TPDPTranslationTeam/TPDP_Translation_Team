@@ -1,4 +1,4 @@
 
 
-The water is waving, slowly and gently...\b
-\cWould you like to ride in the boat?
+The water is calm...\b
+\cWould you like to get on the boat?

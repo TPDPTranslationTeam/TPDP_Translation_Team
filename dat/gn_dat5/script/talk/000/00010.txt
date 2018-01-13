@@ -1,4 +1,4 @@
 
 
-Gotcha! You caught a wild \t!
-\cWould you give \t a nickname?
+You've sealed a wild \t!
+\cWould you like to give \t a nickname?

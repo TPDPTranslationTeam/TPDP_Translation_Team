@@ -1,3 +1,4 @@
 
 
-You and your friends have fully recovered!
+Your puppets have fully recovered!
+~~Seems unnecessary to have "you" at all; since you're resting, it's already assumed that the player is recovered or "rested". It's not assumed for puppets (as they aren't the ones resting). Revert if my logic is flawed.

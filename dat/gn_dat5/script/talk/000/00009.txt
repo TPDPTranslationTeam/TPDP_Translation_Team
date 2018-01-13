@@ -1,4 +1,4 @@
 
 
-Here you can open you Puppet Box!\b
-Would you like to open your Puppet Box?
+There's a Puppet Box!\b
+Would you like to open it?
