@@ -3,7 +3,7 @@ Reimu
 \|Ahem!\b\|
 \x05
 I heard the circumstances from Yukari.\b
-The creator of Makai made puppets for fun and they started moving on their own.\b
+The creator of Makai made Puppets for fun and they started moving on their own.\b
 What a troublesome story, huh?\b
 \x00
 But you punished her.\b
@@ -13,7 +13,7 @@ Great job.\b
 \j85_03
 Good for you, \p!\b
 \x00
-We haven't yet noticed the puppets' numbers decreasing, but someday they will.\b
+We haven't yet noticed the Puppets' numbers decreasing, but someday they will.\b
 \x06
 You can return home soon!
 Great job indeed!\b
