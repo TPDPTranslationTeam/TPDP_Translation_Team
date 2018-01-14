@@ -2,14 +2,14 @@
 Yuki
 32
 //また来たのね 侵入者さん。\b
-Nice to see you again, the interloper.\b
+Nice to see you again, interloper.\b
 \x03
 //そんなにここが気に入ったの？
-It seems you really liked here.
+It seems you really like it here.\b
 //変わった人間ね。\b
-What a strange person.
+What a strange person.\b
 \x01
 //さあ こんどこそ私が華麗に退治してあげるわ！\b
-I will repel you this time!
+I will repel you this time!\b
 //特訓の成果 思い知りなさい！
-I did a special training for this!
+I've been training for this!

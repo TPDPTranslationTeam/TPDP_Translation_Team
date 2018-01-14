@@ -2,17 +2,17 @@
 Sanae
 85_08
 //・・・また 追い出されてしまいましたね。\b
-We're forced out here again.\b
+We got kicked out again.\b
 //魔理沙さんは魔理沙さんで 気づけばいなくなってますし・・・。\b
-Marisa is gone already too...\b
+Marisa is already gone, too...\b
 \x00
 //どうせなんです \pさんもまだ行ったことのないところなど回ってみてはいかがでしょう。\b
-You should explore you're never gone before.\b
+/p, you should explore places you haven't been.\b
 //新しい出会いもあるかもしれないですよ。\b
-There might be discoveries!\b
+You might discover something new!\b
 \x06
 //ああ もちろん守矢神社への参拝もお待ちしてますねっ！\b
-Of course, don't forget visiting Moriya Shrine!\b
+Of course, don't forget to visit Moriya Shrine!\b
 \x03
 //では そろそろ私も帰りますね。
-Well, I'm better get going!
+Well, I better get going!
