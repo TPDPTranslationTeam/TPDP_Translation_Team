@@ -16,7 +16,7 @@ to find clues about the Puppet Incident.\b
 *それなら・・・\b
 Well, then.\b
 *\c私は 人形の封印の解除ができるの。\b
-I can break the seal of a puppet for you.\b
+I can break the seal of a Puppet for you.\b
 ~~"a puppet" might make the player think that they can only do it once. Could be "puppets" instead. Need second opinions/testing.
 \x02
 *封印を解除した人形とは 二度と会えなくなってしまうけど・・・\b

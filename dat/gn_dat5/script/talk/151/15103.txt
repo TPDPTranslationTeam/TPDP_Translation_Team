@@ -7,7 +7,7 @@ Reimu
 //・・・紫から聞いたわ。\b
 I heard the circumstances from Yukari.\b
 //魔界神が お遊びで作った人形が勝手に動き始めたって 迷惑な話よね。\b
-The creator of Makai made puppets for fun and they started moving on their own.\b
+The creator of Makai made Puppets for fun and they started moving on their own.\b
 What a troublesome story, huh?\b
 \x00
 それで あんたが あの魔界神を懲らしめたんでしょ。\b
@@ -22,7 +22,7 @@ Great job.\b
 Good for you, \p!\b
 \x00
 //まだ人形の数が減ったなどの報告はないみたいですが そのうち減り始めるんでしょうね。\b
-We haven't yet noticed the puppets' numbers decreasing, but someday they will.\b
+We haven't yet noticed the Puppets' numbers decreasing, but someday they will.\b
 \x06
 //しばらくしたら 無事に帰れるようになりますね！
 You can return home soon!
