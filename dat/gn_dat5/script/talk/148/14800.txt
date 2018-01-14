@@ -1,7 +1,7 @@
-神綺
+Shinki
 36_04
-あら また来たのね。\b
-ここがそんなに気に入ったのかしら？\b
+Oh, you're back.\b
+You must like being here.\b
 \x03
-やることは・・・対戦でしょう？\b
-私も暇してたし お付き合いしてあげるわっ。
+You want to battle me, right?\b
+Good, I was bored.

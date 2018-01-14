@@ -1,11 +1,13 @@
-神綺
+Shinki
 36_05
-あら また負けちゃった。\b
+I lost again.\b
 \x03
-でもやっぱりあなたとの対戦は楽しいわね。\b
+Battling with you is always fun, though.\b
 \x00
-またいらっしゃい。\b
-何度だってお相手をしてあげるわっ。\b
+Please come again sometime.\b
+I would like to have more duels with you.\b
 \x03
-じゃあ またね。外の世界の人間さん。\b
-今度も私の期待を裏切らないでちょうだいね？
+See you then, outsider.\b
+Don't disappoint me, okay?
+
+~~It seems like she's asking the player to come back, rather than just suggesting it, so I added the please part to make it flow better. Also, her saying "once" was odd, as it seems that the player battles her multiple times; and has already battled her once before (which would make it "twice").

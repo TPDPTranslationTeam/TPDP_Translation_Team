@@ -1,7 +1,9 @@
-霊夢
+Reimu
 1_05
-あんたは迷惑にも神社の境内でぶっ倒れてたのよ。\b
-お賽銭を入れる参拝者の邪魔だから ここに移動したの。\b
-\o早苗
+I found you laying in front of the shrine.\b
+You were blocking the worshippers' way, so I brought you here.\b
+Sanae
 \s85_06
-霊夢さんはぶっきら棒にあんなこと言ってますが\b実は献身的にあなたのお世話をしていたりしたんですよ？
+She's rude, but she actually took good care of you.
+
+~~She doesn't seem to be rude in English?

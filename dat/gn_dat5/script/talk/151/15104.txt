@@ -1,11 +1,11 @@
-早苗
+Sanae
 85_08
-・・・また 追い出されてしまいましたね。\b
-魔理沙さんは魔理沙さんで 気づけばいなくなってますし・・・。\b
+We got kicked out again.\b
+Marisa is already gone, too...\b
 \x00
-どうせなんです \pさんもまだ行ったことのないところなど回ってみてはいかがでしょう。\b
-新しい出会いもあるかもしれないですよ。\b
+/p, you should explore places you haven't been.\b
+You might discover something new!\b
 \x06
-ああ もちろん守矢神社への参拝もお待ちしてますねっ！\b
+Of course, don't forget to visit Moriya Shrine!\b
 \x03
-では そろそろ私も帰りますね。
+Well, I better get going!
