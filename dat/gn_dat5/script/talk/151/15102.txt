@@ -2,10 +2,13 @@
 Reimu
 1_05
 //あんたは迷惑にも神社の境内でぶっ倒れてたのよ。\b
-You were laying at the middle of the shrine.\b
+I found you laying in front of the shrine.\b
 //お賽銭を入れる参拝者の邪魔だから ここに移動したの。\b
-It was blocking worshippers' way so I moved you.\b
+You were blocking the worshippers' way, so I brought you here.\b
 \o早苗
+Sanae
 \s85_06
 //霊夢さんはぶっきら棒にあんなこと言ってますが\b実は献身的にあなたのお世話をしていたりしたんですよ？
-She's rude but actually she cared you so much.
+She's rude, but she actually took good care of you.
+
+~~She doesn't seem to be rude in English?

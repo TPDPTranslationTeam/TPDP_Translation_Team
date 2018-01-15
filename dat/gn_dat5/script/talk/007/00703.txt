@@ -5,8 +5,8 @@ Marisa
 I have no idea what to make of this.
 \x02
 *まぁ わからないことをグダグダと考えていてもしょうがない。\b
-And there's no use just standing here and thinking about it.
+Well, there's no use just standing here and thinking about it.
 \x00
 *とりあえず博麗神社で色々と教えてやるから私についてきな！
 Let's make our way to Hakurei Shrine and
-see if they'll be able to help you!
+see if they can help you!

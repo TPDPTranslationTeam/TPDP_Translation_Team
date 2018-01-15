@@ -7,7 +7,7 @@ Reimu
 //・・・紫から聞いたわ。\b
 I heard the circumstances from Yukari.\b
 //魔界神が お遊びで作った人形が勝手に動き始めたって 迷惑な話よね。\b
-The creator of Makai made puppets for fun and started moving on their own?\b
+The creator of Makai made Puppets for fun and they started moving on their own.\b
 What a troublesome story, huh?\b
 \x00
 それで あんたが あの魔界神を懲らしめたんでしょ。\b
@@ -19,31 +19,31 @@ Great job.\b
 \oSanae
 \j85_03
 //さすが \pさんですね！\b
-Great for you, \p!\b
+Good for you, \p!\b
 \x00
 //まだ人形の数が減ったなどの報告はないみたいですが そのうち減り始めるんでしょうね。\b
-We haven't heard puppets' number is decreasing but someday they will.\b
+We haven't yet noticed the Puppets' numbers decreasing, but someday they will.\b
 \x06
 //しばらくしたら 無事に帰れるようになりますね！
-You can return home after a while!
+You can return home soon!
 //お手柄ですよ！\b
 Great job indeed!\b
 //\o魔理沙
 \oMarisa
 \j2_03
 //ほう。すぐに帰れるわけでもないのか。\b
-Huh, you're not going home anytime soon.\b
+Ha! You're not going home anytime soon.\b
 \x00
 //ならもう少しくらいはこっちにいれるんだな？\b
-You're staying here for a while, right\b
+You're staying here for a little longer, right?\b
 \x07
 //よーし もう少し腕を磨いて \pを負かしてやらないとなっ！\b
-Yeah, I gotta train more and beat \p!\b
+Then I gotta train more to beat you!\b
 //\o霊夢
 \oReimu
 \j1_05
 //はいはい。勝負するのはいいけど うちには迷惑かけないでよね。\b
-Battling is okay but please don't bother me.\b
+Battling is okay, but please not inside.\b
 \x01
 //さぁ 出てった出てった！
 Now go away!

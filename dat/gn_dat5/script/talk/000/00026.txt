@@ -7,6 +7,6 @@ right?\b
 *••ˆó‚ğ‰ğœ‚·‚é‚Æ ‚«‚Á‚Æ“ñ“x‚Æ‰ï‚¦‚È‚­‚È‚é‚íB\b
 *‚â‚Á‚Ï‚è ‚â‚ß‚É‚µ‚È‚¢H
 You will never see this Puppet again
-once you break the seal.\b
-I suggest you giving up on this.
-~here I wonder what the UI is saying. In this case, "yes" would be cancel while "no" would be negation.
+once the seal is broken.\b
+You want to stop, don't you?
+~~I have confirmed yes = cancel, no = confirm.

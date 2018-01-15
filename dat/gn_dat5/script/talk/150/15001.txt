@@ -2,6 +2,6 @@
 Mai
 33_02
 //・・・ほら 勝ったら先に進むんでしょう？
-Hey, you're going through, right?
+...Okay, you win. Are you going or what?
 //ジロジロ見ないでよね。
-Don't stare at me already.
+Stop staring and go!
