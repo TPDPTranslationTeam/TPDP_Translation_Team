@@ -1,6 +1,10 @@
 阿求？
+Akyuu?
 947_04
 何を呆けておるのじゃ。\b
+What are you so surprised by?\b
 \x03
 儂じゃよ儂。\b
+I am me.\b
 そういえば名乗ってなかったのう。
+Isn't that what I've always called myself?

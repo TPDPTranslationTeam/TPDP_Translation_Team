@@ -1,23 +1,38 @@
 小鈴
+Kosuzu
 114_00
 私も古い文献を漁って 人形について調べてみたんです。\b
+I've also been researching the dolls by checking old literature.
 \x05
 けど 今まで人形みたいなものが現れたことがないようで・・・\b
+But I haven't seen anything like them...
 ほとんど情報を得られなかったんですよね。\b
+So I haven't really been able to find anything.
 \x04
 でもこの前 人形に関する情報が書かれてる本を１冊見つけたんです！\b
+But there was one book that had something in it about dolls!
 \x00
 新しく入荷したものなんですが どうやら最近書かれたもののようですね。\b
+It must be somewhat new, as it just arrived recently.
 その壱でしたし 他に何巻かあるようです。\b
+That one, and there seems to be one more.
 \x01
 前代未聞の人形大発生・・・
+An unprecedented doll outbreak...
 人形に関わる文献・・・
+Books written about the dolls...
 しかも最近のもので 複数ある・・・\b
+Moreover, multiple recently...
 \x04
 とても興味を惹かれませんか！？\b
+Wouldn't there be more interest generated?
 \s114_05
 ・・・ただ出所も著者もわからないんです。\b
+...I just don't know the source or the author.
 書いてある文字から妖魔本だという事は分かりましたが・・・。\b
+From what I understand, this could be some sort of ghost book...
 \o？？？
+\o???
 \s
 ふむ・・・実に面白い話をしておるな。
+Hmm...Don't joke about that.

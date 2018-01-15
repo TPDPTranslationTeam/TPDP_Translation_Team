@@ -1,7 +1,11 @@
 小鈴
+Kosuzu
 114
 いらっしゃいませ。何かご入用ですか？\b
+Welcome. Do you need anything?
 \x04
 ほう！人形についての情報が欲しくて いらっしゃったと。\b
+Oh! You wanted information about the dolls.
 \x00
 ・・・え？阿求から うちの話を聞いたんですか？
+...Eh? Did you hear about me from Akyuu?

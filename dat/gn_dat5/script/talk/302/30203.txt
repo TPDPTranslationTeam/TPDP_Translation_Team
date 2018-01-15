@@ -1,6 +1,10 @@
 青娥
+Seiga
 109_01
 ここまで通してしまうなんて あの子じゃ止められなかったのかしら。\b
+If you've made this far, I guess that child couldn't stop you. \b
 \x00
 私は青娥娘々。\b
+I am Seiga. \b
 あなたに何の恨みもないけど お引き取り願うわ。
+I have nothing against you, but take this.

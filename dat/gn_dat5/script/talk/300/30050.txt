@@ -1,4 +1,7 @@
 小鈴
+Kosuzu
 114
 あ \pさん。いらっしゃいませ！\b
+Ah, \p! Welcome!
 妖魔本を読みに来たんですか？
+Did you come to read a demon book?

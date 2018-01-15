@@ -1,10 +1,17 @@
 屠自古
+Tojiko
 110
 ここに何の用？\b
+Why are you here? \b
 私や布都が出されたってことは 好意的なやつではないわよね？\b
+Are you not someone here to get my and Futo's favor?
 \x02
 まぁ あんたの意見は言わなくていいわ。\b
+Well then, it's probably best for you not to say your opinions.
 来た者全て追い返せって話だし。\b
+Us turning away all who come is just a story. \b
 \x01
 ほら ここを通りたければかかってきな！\b
+Here, if you want to pass through, come on!
 伸してやんよ！
+I'll knock you out!

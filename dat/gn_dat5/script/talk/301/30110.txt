@@ -1,9 +1,15 @@
 小鈴
+Kosuzu
 114_00
 あ \pさん。いらっしゃいませ。\b
+Ah, \p. Welcome.
 \c・・・妖魔本を見つけたんですね！\b
+\c... You found a demon book!
 \x04
 では 早速読みましょう・・・\b
+Well then, let's read it at once...
 \x05
 と言いたいところですが 今は本の整理をしなきゃいけないんです。\b
+Is what I would like to say, but right now I some arrangements to make.
 家人が帰ってくるまでに 済ませないと・・・
+I need to finish before my family returns...

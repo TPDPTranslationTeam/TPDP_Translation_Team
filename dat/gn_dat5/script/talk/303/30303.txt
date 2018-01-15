@@ -1,10 +1,16 @@
 布都
+Futo
 111
 我が名は物部布都と申す。\b
+I am Mononobe Futo. \b
 我が呼ばれたということは・・・\b
+I am called... \b
 \x01
 お主だな 太子様の大事な物を盗みに来たという盗人は。\b
+The thief who stole the important thing from our crown princess!
 \x05
 残念だが 我が来てしまった故にお主の作戦は失敗しよう。\b
+It's unfortunate, but the lord's strategy will fail because I have come.
 \x03
 さぁ 物部の秘術と道教の融合 その身で味わうとよい。
+Well then, taste the fusion of Taoism and the Mononobe secret arts!

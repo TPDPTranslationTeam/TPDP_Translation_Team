@@ -1,8 +1,13 @@
 青娥
+Seiga
 109_02
 あら お見事。腕のたつ人形遣いさんだったのね。\b
+Oh, splendid. Quite the amazing puppet user. \b
 \x01
 ここまで来たということは 入門しに来たのかしら？\b
+Was your coming here just to get to this point, I wonder. \b
 でしたら 止める意味もなかったわね。\b
+Was it meaningless to try to stop you? \b
 \x03
 どうぞ お好きに通りなさいな♪
+Please do as you like♪

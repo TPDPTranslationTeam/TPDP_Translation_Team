@@ -1,8 +1,13 @@
 布都
+Futo
 111_02
 こうもあっさりと負けてしまうものなのか・・・。\b
+This is a loss too... \b
 \x00
 ふむ やはりここは太子様の活躍を見せる場。
+Hmm... Of course this is a place to show the activity of the crown princess.
 我が出過ぎるのもよくない。\b
+It's no good that I've gone too far. \b
 \x04
 ならば我が太子様を応援せねばならぬな！
+Well then I'll just have to show the crown princess my support by cheering!

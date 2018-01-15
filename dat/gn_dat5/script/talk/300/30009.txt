@@ -1,8 +1,13 @@
 小鈴
+Kosuzu
 114
 妖魔本ですか？\b
+A demon book?
 妖怪が記した本で 人間には読むことのできない文字で書かれているんです。\b
+It's a book written by youkai using characters humans can't read.
 \x03
 私なら読むことができるので 見つけたら持ってきてくださいね！\b
+I can read it, so if you find one please bring it here!
 \x04
 あ！それとも今 読みますか？
+Ah! Or did you want me to read one now?

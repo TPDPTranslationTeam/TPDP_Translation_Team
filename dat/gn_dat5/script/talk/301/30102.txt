@@ -1,8 +1,14 @@
 ？？？
+???
 957_03
 儂は二ツ岩マミゾウ。\b
+I am Mamizou Futatsuiwa.
 少しばかり変装が得意でな。\b
+Disguises are my specialty.
 \oマミゾウ
+\oMamizou
 \x00
 ほれ 神霊廟に向かうのじゃろう？\b
+Hey are you headed to the diving spirit mausoleum?\b
 それには里の南の警備を解かねばなるまいて。
+To do that, you'll have to deal with the defenses placed to the south of the village.
