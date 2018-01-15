@@ -5,6 +5,5 @@ right?\b
 \x02
 You will never see this Puppet again
 once the seal is broken.\b
-Are you sure you want to do this?
-~here I wonder what the UI is saying. In this case, "yes" would be cancel while "no" would be negation.
-~~Needs testing??
+You want to stop, don't you?
+~~I have confirmed yes = cancel, no = confirm.
