@@ -1,9 +1,15 @@
 神子
+Miko
 944
 ふふ 図星ですね。\b
+Fufufu, bullseye. \b
 \x01
 噂になっているのか はたまた誰かの入れ知恵か・・・。\b
+Is it something you heard rumors about? or someone's suggestions... \b
 真意はわかりませんが 簡単に譲ることはできません。\b
+I don't know your intentions, but I can't hand it over that easily. \b
 \s112_03
 ということで一つ勝負といきましょうか。\b
+Shall we have a battle then? \b
 出遭ったら勝負 それが幻想郷での決まり事でしょう？
+To decide it with a game, that's Gensokyo's way, isn't it?
