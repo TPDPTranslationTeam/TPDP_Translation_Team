@@ -1,7 +1,11 @@
-依姫
+Yorihime
 77_00
 あなたね。地上からの侵入者というのは。\b
+It's you. The so called Earthling intruder.\b
 \c見たところ 特別な力はなさそうだけど。\b
+\cLooking at you, you don't seem to have anything special about you.\b
 \x01
 \cなんにせよ ここに穢を持ち込むなど言語道断。\b
+\cIn any case, to come here with your filth is inexecusable.\b
 \c早急に お引き取り願おうか！
+I'll make you leave post-haste!

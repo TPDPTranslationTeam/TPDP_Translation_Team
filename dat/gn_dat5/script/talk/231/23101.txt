@@ -1,6 +1,9 @@
-レティ
+Letty
 46_02
 こんだけ待たされたのに こんな結果なのね。\b
+This is result I get despite how I've waited. 
 待ちすぎて 私まで身体が鈍っちゃったのかしら。\b
+Waiting so much has even left my body dull it seems.
 \x01
 ・・・何？冬太りしてるなんて 言わせないわよ？
+What? Can you not say I'm fattening up for winter?

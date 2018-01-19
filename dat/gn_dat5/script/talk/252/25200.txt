@@ -1,6 +1,9 @@
-ドレミー
+Doremy
 127_00
 はい おしま～い。\b
+Time's up.\b
 \x03
 これ以上の滞在は許可できないわ。
+I can't allow you to stay any longer.
 さぁ戻ってらっしゃい。
+Come back now.

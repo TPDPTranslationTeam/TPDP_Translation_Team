@@ -1,5 +1,7 @@
-小町
+Komachi
 74_02
 あちゃーお前さん強いね。\b
+Yowch, aren't you a strong one.\b
 \x00
 負けるなんて思ってなかったから驚かされたよ。
+That really surprised me when I lost.\b

@@ -1,6 +1,9 @@
-鈴瑚
+Ringo
 126_01
 侵入者 発見！\b
+Intruder spotted!
 ここが前線基地だと知ってやってきたのね！\b
+You knowingly came to a military frontline did you?\b
 \x00
 さぁさぁ！大人しく私に成敗されなさい！！
+Now sit quietly and let me punish you!!

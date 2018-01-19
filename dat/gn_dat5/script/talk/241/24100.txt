@@ -1,12 +1,19 @@
-小町
+Komachi
 74_00
 観光にしては ちょいと場所がよくないんじゃないのか？\b
+Don't you think this place is kinda bad for sightseeing?
 ここは三途の川。生きた奴が来る場所じゃない。\b
+This here is the Sanzu River. Not a place for living people to come to.
 \x01
 なんだい？\b
+Huh?
 そう言うお前はどうなんだって顔をしてるね。\b
+Now that you're saying it, you face does look kinda famliar.\b
 \x00
 あたいは死神さ。
+I'm a shinigami you see.
 一緒にしてもらっちゃ困るってもんだ。\b
+If you're with me you'll be in a lot of trouble.\b
 \x03
 ちょうど今暇してるところなんだ。ちょいと付き合っておくれよ。
+Right now I'm feeling bored. So why not tag along with me for a bit?
