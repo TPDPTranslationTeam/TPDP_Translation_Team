@@ -1,5 +1,5 @@
-ドレミー
+Doremy
 127_02
-あら また来たの？\b
+So you decided to come back?
 \x01
-・・・やっぱり先に進みたいってことかしら？
+You wish to go to the Lunar Capital again?

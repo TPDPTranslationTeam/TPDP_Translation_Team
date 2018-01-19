@@ -1,9 +1,9 @@
-映姫
+Eiki
 75_02
-また霊が来なくなったと思って見に来てみれば 案の定。\b
-いつまでもそんなんだから 後々大変になるのよ。\b
+I knew I'd see this again when the spirits stopped crossing over.\b
+Continuing along this course will cause something horrible to happen later.\b
 \x01
-そのうち本当に首にするわよ？\b
-\o小町
+In that case, I'll really fire you, you know?\b
+\oKomachi
 \j74_02
-すみません すみません！
+I'm sorry! I'm sorry!

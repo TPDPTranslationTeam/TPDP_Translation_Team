@@ -1,6 +1,6 @@
-サグメ
+Sagume
 128_00
-・・・ほう 人間。\b
+... Huh, a human.\b
 \x01
-・・・また 何者かの謀略かしら？\b
-\c・・・・・・。
+...Is this another person's scheme?\b
+\c.......

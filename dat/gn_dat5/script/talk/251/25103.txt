@@ -1,8 +1,8 @@
-ドレミー
+Doremy
 127
-それはそうよね。\b
+That is so.
 \x02
-自ら狂気の道を行くなんて そんなの愚か者のすることよ。\b
+Going down the path of insanity is what a foolish person would do.\b
 \x03
-さぁ 早く退散しなさい。
-今ならまだ 夢だった で済みますから。
+You should leave while you can.
+This is all a dream; don't make a big deal out of it.

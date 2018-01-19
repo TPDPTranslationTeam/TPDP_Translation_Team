@@ -1,5 +1,5 @@
-ドレミー
+Doremy
 127_04
-ちょっと ちょっと！見つかっちゃダメって言ったでしょう！？\b
+Hey hey! I told you not to get caught didn't I!?\b
 \x02
-あなたが勝てる相手じゃないってことを忘れないでよね！
+Don't forget that these are foes that you can never win against!

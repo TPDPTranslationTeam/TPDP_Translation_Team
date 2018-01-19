@@ -1,7 +1,7 @@
-ドレミー
+Doremy
 127_02
-眠る気はないのね・・・。\b
+Don't feel like sleeping huh...\b
 \x01
-いいですか？
-この先は月の都 常人には長居できない狂夢。\b
-それでも 進むつもりですか？
+Is that alright?
+Up ahead is the Lunar Capital; A maddening dream that no ordinary person can remain in for too long.\b
+Even then, do you still intend to move ahead?

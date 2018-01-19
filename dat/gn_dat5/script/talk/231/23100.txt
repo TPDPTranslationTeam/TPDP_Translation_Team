@@ -1,11 +1,11 @@
-レティ
+Letty
 46_01
-くろまくー。\b
+It is the mastermind.\b
 \x02
-・・・来るのが遅いんじゃない？待ちくたびれちゃったわ。\b
+...Weren't you moving too slow? You've kept me waiting here.\b
 \x00
-“雪のみや降りぬとは思ふ山里に われも多くの年ぞ積もれる”\b
+"Do I think only the snow piled up year after year in my mountain village? I have also accumulated old age."\b
 \x02
-そんな歌があるけど 冬眠もほどほどにしなきゃ 身体が鈍っちゃうのよ。\b
+Such a song (tells) that you must hiberate in moderatation else your body will become dull.\b
 \x03
-さあ 健康的に私と遊んで運動しましょ。
+Now let us move our limbs heartily. 

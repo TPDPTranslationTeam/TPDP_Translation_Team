@@ -1,12 +1,12 @@
-ドレミー
+Doremy
 127_04
-あなた もしかして生身っ！？\b
+Aren't you flesh and blood!?\b
 \x02
-・・・あぁ違うか。
-前にそういう人間がいたのよね。\b
+...Aah that's not right.\b
+That was that human from before.\b
 \x01
-こんなところに迷い込んではダメですよ？
-このまま進めば きっと あなたは狂ってしまう。\b
+You musn't get lost here now?
+Continuing on this path will surely lead you to insanity.\b
 \x00
-そうなる前に 眠りなさい。
-その悪夢 私が処理してあげましょう。
+Before that happens, just sleep.
+I'll be sure to get rid of that nightmare for you.

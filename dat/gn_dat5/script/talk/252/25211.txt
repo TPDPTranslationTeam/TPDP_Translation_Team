@@ -1,5 +1,5 @@
-レイセン
+Rei'sen
 79_01
-地上人がなんでここにいるの？\b
-\c夢？ よくわからないけど帰ったほうがいいわよ。\b
-ここの者は穢を嫌うから。
+Why is an Earthling here?\b
+\cA dream? I don't really understand, but you should leave.\b
+The people here really hate kegare after all.
