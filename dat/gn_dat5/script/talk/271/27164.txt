@@ -1,4 +1,6 @@
 
 
-今日も遊びに来るだなんて ツいてないわねー！\b
-\cなんだか 今日は負ける気がしないのよ！
+//今日も遊びに来るだなんて ツいてないわねー！\b
+You came again? How unfortunate of you!\b
+//\cなんだか 今日は負ける気がしないのよ！
+\cSomehow I'm not feeling losing today!

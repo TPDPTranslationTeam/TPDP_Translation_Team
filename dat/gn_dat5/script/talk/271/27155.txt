@@ -1,4 +1,6 @@
 
 
-きひひ・・・強いじゃないか。\b
-その強さ 狂ったらもっと楽しくなりそうね。
+//きひひ・・・強いじゃないか。\b
+Keehehe... You're formidable.\b
+//その強さ 狂ったらもっと楽しくなりそうね。
+If you're that strong, it would be so fun to see you in madness.

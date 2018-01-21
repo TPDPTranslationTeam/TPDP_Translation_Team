@@ -1,4 +1,6 @@
 
 
-ふっふっふ 楽しかったよ。\b
-また今度遊んでやろう。
+//ふっふっふ 楽しかったよ。\b
+Huhuhu, that was fun.\b
+//また今度遊んでやろう。
+I'll let you play again sometime.

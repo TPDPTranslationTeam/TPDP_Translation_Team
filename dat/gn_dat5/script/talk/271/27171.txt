@@ -1,4 +1,6 @@
 
 
-下の方にある 光ってなんだろ？\b
-触ると ホカホカ眠くなるのよね。
+//下の方にある 光ってなんだろ？\b
+What's that light down there?\b
+//触ると ホカホカ眠くなるのよね。
+You'll get warm and sleepy if you touch it.
