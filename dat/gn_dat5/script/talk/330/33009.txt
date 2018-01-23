@@ -1,6 +1,10 @@
 
 
-・・・え？
-もっと役に立つものが欲しかったって？\b
-\cちっ ちっ ちっ。\b
-そんな予算があるわけないじゃないか。
+//・・・え？
+...What?
+//もっと役に立つものが欲しかったって？\b
+You want something more useful?\b
+//\cちっ ちっ ちっ。\b
+\cTsk tsk tsk.\b
+//そんな予算があるわけないじゃないか。
+There's no way we have such a budget.

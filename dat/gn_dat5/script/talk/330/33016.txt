@@ -1,3 +1,5 @@
 
 
-ここから先は会場だぜ。舞闘会に参加したければ受付をすませな。
+//ここから先は会場だぜ。舞闘会に参加したければ受付をすませな。
+The tournament ground is ahead from here.
+Entry first if you want to challenge the tournament.

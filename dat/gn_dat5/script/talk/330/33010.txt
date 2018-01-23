@@ -1,3 +1,5 @@
 
 
-今は祭り中だから 地霊殿に続く道は規制しているよ。
+//今は祭り中だから 地霊殿に続く道は規制しているよ。
+The festival is under way.
+We're controlling the traffic the way to the Palace of the Earth Spirits.
