@@ -1,6 +1,10 @@
-幽々子
+//幽々子
+Yuyuko
 53
-あら 桜は春妖精の人形のおかげだったのね。\b
+//あら 桜は春妖精の人形のおかげだったのね。\b
+Oh, the cherries blooming was from the Springcaller Fairy Puppet.\b
 \x03
-残念だわ。
-また封印を解くチャンスが得られると思ったのに。
+//残念だわ。
+Too bad.
+//また封印を解くチャンスが得られると思ったのに。
+I thought it was a chance to release the seal.

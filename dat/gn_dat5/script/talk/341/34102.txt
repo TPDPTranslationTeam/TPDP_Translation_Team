@@ -1,6 +1,10 @@
-妖夢
+//妖夢
+Youmu
 52_04
-魔理沙？\b
-またあの泥棒が 変なことを吹き込んだのね。\b
+//魔理沙？\b
+Marisa?\b
+//またあの泥棒が 変なことを吹き込んだのね。\b
+That burglar told you about here?\b
 \x02
-まったく生きた人間は ろくなことをしないわ。
+//まったく生きた人間は ろくなことをしないわ。
+Nothing goes well with living humans.
