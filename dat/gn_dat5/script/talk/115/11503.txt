@@ -1,8 +1,8 @@
 Rin
 95
-You really gotta be strange if you're coming to this hot place.\b
+You're pretty strange to come to a place this hot.\b
 \x01
-I'll carry you if you end up collapsing, so there's no worries.\b
-Where will I carry you you say?\b
+I'll carry you if you end up collapsing, so there's no need to worry.\b
+Where will I carry you, you ask?\b
 \x03
 Nyahaha.

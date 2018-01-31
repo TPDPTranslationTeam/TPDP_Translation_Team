@@ -1,6 +1,6 @@
 Utsuho
 096_02
-Oh I got beat.\b
-Awww...\b
+Oh, I got beat.\b
+Darn...\b
 \x03
-Oh well, since you fought so well it's alright if you go through!
+I guess since you fought so well, it's alright if you go through!
