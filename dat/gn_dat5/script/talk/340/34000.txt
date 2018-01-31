@@ -1,15 +1,24 @@
-魔理沙
+//魔理沙
+Marisa
 2
-お \pか。\b
-・・・死んだのか？\b
+//お \pか。\b
+Oh, it's you.\b
+//・・・死んだのか？\b
+Are you dead?\b
 \x05
-なんだ 死んでないじゃないか。\b
+//なんだ 死んでないじゃないか。\b
+...No, it's not.\b
 \x00
-私？\b
+//私？\b
+Me?\b
 \x03
-前に来たことあるから 私はいいんだよ。\b
+//前に来たことあるから 私はいいんだよ。\b
+I'm okay, I've been here before.\b
 \x07
-そうだ！
-これも何かの縁だ また対戦しようぜ！\b
+//そうだ！
+Hey!
+//これも何かの縁だ また対戦しようぜ！\b
+It's a good timing. Let's battle again!\b
 \x08
-ほら 準備はいいだろ？
+//ほら 準備はいいだろ？
+Hey, are you ready?

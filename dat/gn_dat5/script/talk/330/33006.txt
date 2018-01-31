@@ -1,26 +1,43 @@
-魅魔
+//魅魔
+Mima
 7_03
-ふふ・・・油断しすぎたかしら。\b
-勝てると思ったんだけどねぇ。\b
+//ふふ・・・油断しすぎたかしら。\b
+Huh... I guess I was too relaxed.\b
+//勝てると思ったんだけどねぇ。\b
+I thought I could win this.\b
 \x00
-で？あなたは人形異変を解決させたいのかい？\b
+//で？あなたは人形異変を解決させたいのかい？\b
+So, you want to solve the Puppet Incident?\b
 \x02
-こんなに楽しいのに 終わらせちゃうのは勿体ないと私は思うんだけど。\b
+//こんなに楽しいのに 終わらせちゃうのは勿体ないと私は思うんだけど。\b
+I think it's too fun for ending it.\b
 \x00
-まぁ私に勝てたご褒美にヒントをやろうじゃないか。\b
+//まぁ私に勝てたご褒美にヒントをやろうじゃないか。\b
+Well, I'm giving you a hint of the incident as a spoil of war.\b
 \x04
-一つのことに執着しないことさ。\b
-人形から感じられるのも一つの力じゃないみたいだからね。\b
+//一つのことに執着しないことさ。\b
+Don't insist too much on a single thing.\b
+//人形から感じられるのも一つの力じゃないみたいだからね。\b
+Apparently, Puppets have more than a single energy.\b
 \x03
-ふふふ・・・気になるかい？\b
-気になるだろうねぇ。\b
-でも私はここまでしか言わないよ。\b
+//ふふふ・・・気になるかい？\b
+Fufufu... Are you intrigued?\b
+//気になるだろうねぇ。\b
+Quite intriguing, isn't it?
+//でも私はここまでしか言わないよ。\b
+But I don't spoil too much for you.\b
 \x00
-さぁこの祭りもこれで終わり。
-私はまた私のいるべき場所に戻ろう。\b
+//さぁこの祭りもこれで終わり。
+The party's over.
+//私はまた私のいるべき場所に戻ろう。\b
+I'm going back for where I should be.\b
 \x03
-靈魔殿って知ってるかい？\b
-そこが私の家みたいなものさ。\b
+//靈魔殿って知ってるかい？\b
+Have you ever heard of Reimaden?\b
+//そこが私の家みたいなものさ。\b
+That's like my home.\b
 \x00
-時が来ればまた会うこともできるだろうね。\b
-その時を楽しみにしているよ。
+//時が来ればまた会うこともできるだろうね。\b
+We might will see us again sometime.\b
+//その時を楽しみにしているよ。
+I'm looking forward for then.

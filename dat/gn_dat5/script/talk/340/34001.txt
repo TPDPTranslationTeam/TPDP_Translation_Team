@@ -1,13 +1,21 @@
-魔理沙
+//魔理沙
+Marisa
 2_06
-あちゃー今回も負けるか。\b
-なかなか勝てないなぁ。\b
+//あちゃー今回も負けるか。\b
+Oops, I lost again.\b
+//なかなか勝てないなぁ。\b
+I can't win so easily.\b
 \x05
-ん？ここで何してたかって？\b
+//ん？ここで何してたかって？\b
+Why am I here?\b
 \x00
-いや 天狗から冥界の桜がまた咲き始めたっていう情報を得てな。\b
-これは何かあるって踏んで 来てみたんだよ。\b
+//いや 天狗から冥界の桜がまた咲き始めたっていう情報を得てな。\b
+I heard that the Netherworld cherries are blooming again from a tengu.\b
+//これは何かあるって踏んで 来てみたんだよ。\b
+I thought something's going on and I came here.\b
 \x03
-ほら それを証明するように そこらじゅうに桜が舞ってるだろ？\b
+//ほら それを証明するように そこらじゅうに桜が舞ってるだろ？\b
+See, the cherry petals are storming all around here.\b
 \x05
-・・・。
+//・・・。
+...

@@ -1,4 +1,6 @@
 
 
-次の参加者は地底には珍しい人間！\b
-さぁ我々にどんな戦いを見せてくれるのかっ！？
+//次の参加者は地底には珍しい人間！\b
+Rare for the underground, the next challenger is a human!\b
+//さぁ我々にどんな戦いを見せてくれるのかっ！？
+What kind of tricks up in the challenger's sleeve?

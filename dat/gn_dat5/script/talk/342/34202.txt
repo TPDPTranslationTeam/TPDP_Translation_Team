@@ -1,13 +1,21 @@
-幽々子
+//幽々子
+Yuyuko
 53_04
-あら 本当に退屈しなかったわ。\b
+//あら 本当に退屈しなかったわ。\b
+Oh, that was really exciting.\b
 \x00
-強い子は好きよ。
-彩を与えてくれるもの。\b
+//強い子は好きよ。
+I love strong people.
+//彩を与えてくれるもの。\b
+They color the life up.\b
 \x03
-ふふ 私もこの桜を楽しまなくっちゃ。\b
+//ふふ 私もこの桜を楽しまなくっちゃ。\b
+I must have fun with this blossoms while I can.\b
 \x00
-せっかくだから お団子なんてどう？\b
-ほら 花には団子。お決まりでしょう？\b
+//せっかくだから お団子なんてどう？\b
+How about dumplings?\b
+//ほら 花には団子。お決まりでしょう？\b
+Dumplings for flower viewing, it's a staple.\b
 \x03
-あなたにも 分けてあげるわ。
+//あなたにも 分けてあげるわ。
+I give you some.

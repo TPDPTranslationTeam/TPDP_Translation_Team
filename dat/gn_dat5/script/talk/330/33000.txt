@@ -1,7 +1,13 @@
 
 
-おや？キミも舞闘会に興味があるのかい？\b
-\c地下一舞闘会は地底の最強の人形遣いを決めるお祭りさっ！\b
-優勝者には もちろん褒美も用意してある。\b
-\c飛び入り参加は大歓迎っ！\b
-さぁさぁ キミも参加するかい？
+//おや？キミも舞闘会に興味があるのかい？\b
+Huh? Are you interested in the tournament?\b
+//\c地下一舞闘会は地底の最強の人形遣いを決めるお祭りさっ！\b
+\cThe Best of Underground Tournament is the festival
+to decide the number one Puppeteers in the whole underground!\b
+//優勝者には もちろん褒美も用意してある。\b
+Of course we have a prize for the champion.\b
+//\c飛び入り参加は大歓迎っ！\b
+\cWe're accepting unofficial participants too!\b
+//さぁさぁ キミも参加するかい？
+Hey, you wanna join?

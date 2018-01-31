@@ -1,9 +1,15 @@
-魅魔
+//魅魔
+Mima
 7
-あら 最後は人間と戦うのかい。\b
-こういうのは久しぶりだから 何だか滾るわねぇ。\b
+//あら 最後は人間と戦うのかい。\b
+Oh, am I fighting a human?\b
+//こういうのは久しぶりだから 何だか滾るわねぇ。\b
+It's been a while since last time I fought a human.\b
 \x03
-もしかして巷で有名になっている 霊夢以外の強い人間ってのはあなたのことかしら？\b
+//もしかして巷で有名になっている 霊夢以外の強い人間ってのはあなたのことかしら？\b
+Aren't you the recently rumored the strong human which is not Reimu?\b
 \x00
-なんでも人形異変について嗅ぎまわってるって話じゃないか。\b
-あなたの実力 ちょいと見せてくれないかい？
+//なんでも人形異変について嗅ぎまわってるって話じゃないか。\b
+I heard you're nosing around the Puppet Incident.\b
+//あなたの実力 ちょいと見せてくれないかい？
+Let me see what you've got!
