@@ -1,14 +1,14 @@
 Utsuho
 096
 あら こんな場所になんの用？\b
-Oh, what are you doing here in a place like this?\b
+Oh, what are you doing in a place like this?\b
 観光か何か？\b
-You sightseeing?\b
+You're sightseeing?\b
 \x01
 残念ね 今はこれ以上進めないわよ。\b
-Too bad though, I can't let you through here.
+Unfortunately, I can't let you through here.
 いいって言うまで 誰も通しちゃだめって さとり様が言ってたって言われた気がするもの。\b
-No, I'm pretty sure Lady Satori said no one is allowed through here.\b
+I'm pretty sure Lady Satori said that no one is allowed through here.\b
 \x00
 無理にでも通るって言うなら あたしが相手してあげる。
-If you say I'm being unreasonable about passing through, then you'll have to fight me.
+If you think I'm being unreasonable, then you'll have to fight me.

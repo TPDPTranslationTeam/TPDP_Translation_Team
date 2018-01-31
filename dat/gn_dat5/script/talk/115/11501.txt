@@ -1,9 +1,9 @@
 Utsuho
 096_02
 あら 負けちゃった。\b
-Oh I got beat.\b
+Oh, I got beat.\b
 うーん・・・\b
-Awww...\b
+Darn...\b
 \x03
 ま ちゃんと戦ったし通しても大丈夫よね！
-Oh well, since you fought so well it's alright if you go through!
+I guess since you fought so well, it's alright if you go through!
