@@ -1,13 +1,15 @@
 Medicine
 072
-A Human villager huh.\b
-I didn't wanna run into you though.\b
+A human villager, huh?\b
+I didn't wanna run into you.\b
 \x01
-Humans are supposed to stay quietly in one spot and yet here you are always getting in my way!\b
-You wanna get in our way that badly do you?\b
+Humans are supposed to live quietly, yet here you are!\b
+You wanna get in our way that badly?\b
 \x03
-In that case, fight all the members with me here right now.\b
-Won't this be good thing for either us?\b
+In that case, fight all of the members that are here with me.\b
+Wouldn't that be a good thing for both of us?\b
 \o???
 \s
-Haven't you people played around enough already?\b
+Haven't you people played around enough?
+
+~~I figured she didn't need to say we were getting in her way twice.
