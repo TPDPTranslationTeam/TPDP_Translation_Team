@@ -1,8 +1,8 @@
 Reimu
 001_07
 私はこっちに行くわ。\b
-I'll head this way.
+I'll head this way.\b
 確か道は合流してたから またそこで落ち合えばいいでしょ。\b
-Since these routes will converage we'll meet again on the other side.\b
+Since these routes will converage, we'll meet again on the other side.\b
 \cせいぜい私の足を引っ張らないようにしなさい。
-\cTry not to hold me back.\b
+\cTry not to hold me back.
