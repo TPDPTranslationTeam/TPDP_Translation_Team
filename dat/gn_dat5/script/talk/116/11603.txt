@@ -4,9 +4,9 @@ Reimu
 She's pretty good at running away.\b
 \x05
 ‚Ü‚Ÿ‚¢‚¢‚íB\b
-Oh well.
+Oh, well.\b
 \s1_07
 ‚Ù‚ç\p ‚ ‚ñ‚½‚àñ‚ğ“Ë‚Á‚ñ‚¾‚ñ‚¾‚©‚ç è“`‚¢‚È‚³‚¢B\b
-Hey \p, since you decided to poke your nose into this, you have to help me out.\b
+Hey, \p, since you decided to poke your nose into this, you're gonna help me out.\b
 è•ª‚¯‚µ‚Ä‚³‚Á‚³‚Æ‚±‚ÌˆÙ•Ï ‰ğŒˆ‚·‚é‚í‚æB
-Let's split up and quickly resolve this incident.
+Let's split up and resolve this incident as soon as possible.

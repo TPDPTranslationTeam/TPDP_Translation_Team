@@ -1,10 +1,16 @@
-ドレミー
+Doremy
 127_02
 進みたいのね。
+Still wish to move forward I see.
 この先に 望むものは何もないと思うけど・・・。\b
+Well I don't think you'll find anything you'll want there...\b
 \x01
 進むなら監視は させてもらいますよ。
+I'll be monitoring you as you go on ahead.\b
 あまり長居するようなら 連れ戻します。\b
+If you're there too long, I'll bring you back.\b
 \x02
 長い夢は精神を犯しやすいですからね。
+Being in a dream for too long will violate your mind.
 月の民に見つかってもダメですよ。
+Also don't get caught by the Lunarians either. 

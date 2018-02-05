@@ -1,7 +1,14 @@
 
 
-この最狂の僕らに挑む バカが居るとはねぇ。\b
-\cクラウンピースに会いに来た って顔だな。\b
-こんなとこまでご苦労さん。\b
-\cま あんたみたいに弱そうな奴
-会わせる気はさらさらないけどね！
+//この最狂の僕らに挑む バカが居るとはねぇ。\b
+You're stupid person challenging the maddest fairies.\b
+//\cクラウンピースに会いに来た って顔だな。\b
+\cYou're seeing Clownpiece, right?\b
+//こんなとこまでご苦労さん。\b
+\bIt's nice of you to come such a place.
+//\cま あんたみたいに弱そうな奴
+//会わせる気はさらさらないけどね！
+\cWell, I guess I'm not letting through a wimpy-looking person like you so easily!
+
+//kinda sarcastic?
+//ご苦労さん is like お疲れ様です, it's case dependent

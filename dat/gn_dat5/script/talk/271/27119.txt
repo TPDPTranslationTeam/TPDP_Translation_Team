@@ -1,16 +1,28 @@
-クラウンピース
+//クラウンピース
+Clownpiece
 129_02
-ご主人様に 叱られてしまった・・・。\b
-あたいは お人形と遊んでいただけなのにー。\b
+//ご主人様に 叱られてしまった・・・。\b
+I've scolded by the master...\b
+//あたいは お人形と遊んでいただけなのにー。\b
+I just wanted to play with puppets!\b
 \x00
-・・・そういえば あの塔に居た妖精達だけど
-あいつらは まだまだ遊び足りてないみたい。\b
-\c暇だったらまた遊びに行ってね。\b
-物足りないのなら あたいが松明の光浴びせてあげるからさー。\b
-\c・・・え？あたいはもういいのかって？\b
-\oヘカーティア
+//・・・そういえば あの塔に居た妖精達だけど
+...By the way, speaking of that fairys,
+//あいつらは まだまだ遊び足りてないみたい。\b
+they're not enough playing with you.\b
+//\c暇だったらまた遊びに行ってね。\b
+\Play them again if you have some time to spare.\b
+//物足りないのなら あたいが松明の光浴びせてあげるからさー。\b
+I'll give my torch's light if you're not satisfied.\b
+//\c・・・え？あたいはもういいのかって？\b
+\c...How about me?\b
+//\oヘカーティア
+\oHecatia
 \s131_01
-・・・・・・。\b
-\oクラウンピース
+//・・・・・・。\b
+......\b
+//\oクラウンピース
+\oClownpiece
 \s129_02
-・・・うん。あたいはもう当分お人形遊びはいいかな。
+//・・・うん。あたいはもう当分お人形遊びはいいかな。
+...I'm enough for puppets a while.

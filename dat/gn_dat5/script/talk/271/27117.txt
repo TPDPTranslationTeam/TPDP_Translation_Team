@@ -1,15 +1,25 @@
-クラウンピース
+//クラウンピース
+Clownpiece
 129_02
-はあはあはあ。\b
-\cとてもお強いのですね・・・。\b
-あたいでは敵いません。\b
+//はあはあはあ。\b
+[panting]\b
+//\cとてもお強いのですね・・・。\b
+\cYou're strong....\b
+//あたいでは敵いません。\b
+I was outmatched.\b
 \x00
-ところで あなた様は ここに一体何をしにきたの？\b
-\c・・・え？ご主人様が呼んでる？\b
-友人様も居るって？\b
+//ところで あなた様は ここに一体何をしにきたの？\b
+By the way, what are you doing here?\b
+//\c・・・え？ご主人様が呼んでる？\b
+\c...The master is calling?
+//友人様も居るって？\b
+Junko's here too?\b
 \x02
-や やば。\b
+//や やば。\b
+Oops.\b
 \x00
-教えてくれてありがとう！\b
+//教えてくれてありがとう！\b
+Thank you for telling me!\b
 \x03
-あたいは逃げるね！
+//あたいは逃げるね！
+I guess I'm outta here!

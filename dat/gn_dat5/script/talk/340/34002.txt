@@ -1,11 +1,18 @@
-魔理沙
+//魔理沙
+Marisa
 2_07
-決めた！\b
-私と\p どっちが先に桜の正体を見破られるか勝負しようぜ。\b
+//決めた！\b
+I have an idea!\b
+//私と\p どっちが先に桜の正体を見破られるか勝負しようぜ。\b
+Let's have a race to the cause of this cherries!\b
 \x00
-ほら こういうの\pは得意なんだろ？\b
+//ほら こういうの\pは得意なんだろ？\b
+You're good at this kind of stuff, right?\b
 \x07
-おっと 返事は聞いてないぜ！
-こういう勝負事は先手必勝だからな！\b
+//おっと 返事は聞いてないぜ！
+I'm not listening to your response!
+//こういう勝負事は先手必勝だからな！\b
+Victory goes to the one who makes the first move!\b
 \x03
-じゃあ私は先に行くぜ！
+//じゃあ私は先に行くぜ！
+Peace out!

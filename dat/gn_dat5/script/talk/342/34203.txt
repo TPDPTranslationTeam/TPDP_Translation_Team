@@ -1,5 +1,8 @@
-幽々子
+//幽々子
+Yuyuko
 53_04
-あら またお団子が欲しいの？\b
+//あら またお団子が欲しいの？\b
+Oh, you want more dumplings?\b
 \x00
-まだまだたくさんあるから 分けてあげるわ。
+//まだまだたくさんあるから 分けてあげるわ。
+I still have more, here you are.

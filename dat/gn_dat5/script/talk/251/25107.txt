@@ -1,10 +1,15 @@
-清蘭
+Seiran
 125_01
 月の兎を相手に なかなかやるわね！\b
+You're pretty good to be fighting against a moon rabbit!\b
 \x00
 残念でした。私はただの下っ端兎よ。
+Too bad. I'm but a simple underling rabbit.
 月にいる兎はもっと強いわ。\b
+The rabbits on the moon are much stronger.\b
 \x01
 でも月に行くことは難しいわよ？\b
+But going to the moon is difficult you know?\b
 \x03
 槐安通路っていう 月とこちらの世界を繋ぐ通路を通れば別な話だけど。
+The Kaian Passage that connects the moon to here makes that a different story though.

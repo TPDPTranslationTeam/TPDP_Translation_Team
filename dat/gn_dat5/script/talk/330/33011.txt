@@ -1,4 +1,6 @@
 
 
-ん？先に進めなくて暇してるって？\b
-大会とかで時間を潰すといいんじゃないかな？
+//ん？先に進めなくて暇してるって？\b
+You're having too much time on your hand?\b
+//大会とかで時間を潰すといいんじゃないかな？
+I guess you can kill some time at the puppet battle tournament.

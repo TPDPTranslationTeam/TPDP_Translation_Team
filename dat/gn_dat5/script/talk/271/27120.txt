@@ -1,18 +1,29 @@
-純狐
+//純狐
+Junko
 130_03
-お疲れ様です。\b
+//お疲れ様です。\b
+Great job.\b
 \x00
-無事クラウンピースを 連れてこれたみたいですね。\b
+//無事クラウンピースを 連れてこれたみたいですね。\b
+You've done bringing Clownpiece back safe and sound.\b
 \x03
-あなたを見ていたら 私も人形遊びをしたくなってきましたねぇ。\b
-\oヘカーティア
+//あなたを見ていたら 私も人形遊びをしたくなってきましたねぇ。\b
+I'm getting interested to puppets looking you.\b
+//\oヘカーティア
+\oHecatia
 \s131_00
-あー私も私も。\b面白そうよね。\b
-\o純狐
+//あー私も私も。\b面白そうよね。\b
+Yeah, me too.\bLooks fun, isn't it?\b
+//\o純狐
+\oJunko
 \s130_02
-ヘカーティア。\b
-あなたクラウンピースを あれほど叱っておいて・・・。\b
+//ヘカーティア。\b
+Hecatia,\b
+//あなたクラウンピースを あれほど叱っておいて・・・。\b
+you scold Clownpiece that much and now this?\b
 \x00
-まぁ 流石に今からという訳にもいきませんし\b
+//まぁ 流石に今からという訳にもいきませんし\b
+Well, I guess we're not starting right now.\b
 \x03
-また機会があればその時は宜しくお願いしますね。
+//また機会があればその時は宜しくお願いしますね。
+We'll see again.

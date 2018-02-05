@@ -1,9 +1,15 @@
-妖夢
+//妖夢
+Youmu
 52_04
-・・・生きた人間？\b
-まだここに来るべきでないんだけど どうしてここにいる？\b
+//・・・生きた人間？\b
+...Living human?\b
+//まだここに来るべきでないんだけど どうしてここにいる？\b
+Why are you here?You're not supposed to be now. \b
 \x02
-桜・・・また邪魔しに来たのね。\b
-今度はそちらには迷惑をかけてないというのに。\b
+//桜・・・また邪魔しに来たのね。\b
+Cherries... You're messing with us again.\b
+//今度はそちらには迷惑をかけてないというのに。\b
+We didn't bother your side this time.\b
 \x01
-どうしても お嬢様の邪魔をするなら 私が直々に地獄に送ってあげるわ！
+//どうしても お嬢様の邪魔をするなら 私が直々に地獄に送ってあげるわ！
+I'll send you to hell if you're messing with my lady!

@@ -1,7 +1,11 @@
-豊姫
+Toyohime
 78_00
 あら 人間がここに何用かしら？\b
+Oh, what business does a human have here?\b
 \cどういう方法で入り込んだのか 知らないけれど\b
+\cI'm not really sure how you ended up here.\b
 ここはあなたが居ていい場所ではありません。\b
+However, this is not a good place for you to be in.\b
 \x01
 今すぐ帰ったほうが あなたの身のためよ。
+It is in your best interest if you leave right now.

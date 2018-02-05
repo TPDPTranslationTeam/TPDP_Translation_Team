@@ -1,5 +1,8 @@
 
 
-なんだい 張り合いがないね。\b
-\cまだまだ参加者は募集中だからね。\b
-気になったらまた声をかけてくれ。
+//なんだい 張り合いがないね。\b
+Come on.\b
+//\cまだまだ参加者は募集中だからね。\b
+\cWe're still looking for challengers.\b
+//気になったらまた声をかけてくれ。
+Ask me again if you're interested.

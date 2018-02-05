@@ -1,4 +1,6 @@
 
 
 あー人間見つけちゃった。\b
+Oh, a human appeared.\b
 仕事だから恨まないでね？
+This is my job, so please don't take it personally?

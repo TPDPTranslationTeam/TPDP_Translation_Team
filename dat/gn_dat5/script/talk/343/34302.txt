@@ -1,15 +1,25 @@
-魔理沙
+//魔理沙
+Marisa
 2
-お \pか。\b
-桜の正体はわかったか？\b
+//お \pか。\b
+Oh, it's you.\b
+//桜の正体はわかったか？\b
+Did you find the culprit?\b
 \x04
-え？春妖精の人形がいたから追い払った？\b
+//え？春妖精の人形がいたから追い払った？\b
+You found a Puppet of the Springcaller Fairy and you repelled?\b
 \x05
-あー・・・だから桜が咲いたのか。\b
-ったく お騒がせな妖精だぜ。\b
+//あー・・・だから桜が咲いたのか。\b
+Oh... That's why cherries were blooming everywhere.\b
+//ったく お騒がせな妖精だぜ。\b
+What a troublesome fairy, isn't she?\b
 \x00
-それじゃあ 私は一度帰るとするか。\b
-用も済んで やることもないからな！\b
+//それじゃあ 私は一度帰るとするか。\b
+I guess I'm heading back.\b
+//用も済んで やることもないからな！\b
+I have nothing to do after this!\b
 \x07
-今度 戦うときは負けないぜ！\b
-じゃあな \p！
+//今度 戦うときは負けないぜ！\b
+I'll win when I battle you next time \b
+//じゃあな \p！
+Bye, \p!

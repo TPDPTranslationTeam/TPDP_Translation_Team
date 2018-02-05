@@ -1,9 +1,14 @@
-ドレミー
+Doremy
 127
 先に進むなら もう止めません。\b
+I won't stop you if you decide to move ahead.\b
 \x01
 でも監視は させてもらいますよ。
+However, I'll be monitoring you.\b
 あまり長居するようなら 連れ戻します。\b
+If you're there too long, I'll bring you back.
 \x02
 長い夢は精神を犯しやすいですからね。
+Being in a dream for too long will violate your mind.
 月の民に見つかってもダメですよ。
+Also don't get caught by the Lunarians either. 

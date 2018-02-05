@@ -3,20 +3,24 @@ Medicine
 博麗の巫女？\b
 Hakurei Shrine Maiden?\b
 ・・・なんで そっちから来れるのよ！？\b
-Why the heck are you here!?\b
+Where the heck did you come from!?\b
 \oReimu
 \s001_05
 やっぱり人形は頭が回らないのね。\b
-So a doll can't turn its head back after all.\b
+So, a doll can't turn its head, after all.\b
 ここに全員いて出口に誰もいないんじゃ 入れるに決まってるわ。\b
-Since all of the members are here there was no one guarding the exit, so I decided to enter in.\b
+Since all of your members are here, there was no one guarding the exit.\b
 \oMedicine
 \j072_04
 ...\b
 なんで人間って こうも邪魔ばかり・・・。\b
-Why are you humans always getting in the way...\b
+Why do you humans always get in the way...?\b
 \x01
 いいわ。あんた達の挑戦 受けてやろうじゃない。\b
-Fine then. I'll accept your challenge.\b
+Fine, then. I accept your challenge.\b
 ほら みんな散らばるよ！
-Hey, everyone spread out!
+Hey, everyone, spread out!
+
+~~"Where did you come from" makes more sense with what Reimu says.
+
+~~"accept your challenge" seems odd, as no one really challenged her, but I'm not sure what it could be changed to.
