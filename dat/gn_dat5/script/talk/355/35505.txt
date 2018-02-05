@@ -1,7 +1,11 @@
 フランドール
+Flandre
 45_00
 また 来てくれたのね！\b
+You came again! \b
 \x05
 \cもう小細工はしないわ。\b
+\cI won't pull any tricks. \b
 \x07
 純粋に 人形対戦で遊びましょ！
+Let's just have some pure puppet battles!

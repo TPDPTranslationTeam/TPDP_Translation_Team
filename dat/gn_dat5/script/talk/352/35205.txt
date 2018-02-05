@@ -1,5 +1,8 @@
 パチュリー
+Patchouli
 42
 妹様の相手を頼まれたんでしょ？\b
+They asked you to be the sister's opponent? \b
 \x03
 あなたも色々と大変ね。
+You always make all kinds of difficulties.

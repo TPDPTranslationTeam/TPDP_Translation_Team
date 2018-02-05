@@ -1,5 +1,8 @@
 小悪魔
+Koakuma
 41
 あの方の相手に来たんでしょ？\b
+You came to be that persons opponent, haven't you? \b
 \x03
 大変ね 人間なんて 適うはずもないのに。
+How difficult...It's not suitable for a human being.

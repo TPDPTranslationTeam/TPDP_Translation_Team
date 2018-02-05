@@ -1,13 +1,21 @@
 レミリア
+Remilia
 44
 ま さっきフランが話したとおりよ。\b
+Huh, just like Flan said.
 あの子 人形遣いのあなたに興味を持ったらしいの。\b
+That child, she's grown to have an interest in a puppet user like you.\b
 \x03
 だから フランの相手をしてくれない？\b
+Therefor, would you be Flan's opponent?
 \x05
 そうそう 地下の鍵は閉めたままだったわね。\b
+Yes, yes, the basement had been locked.\b
 開けさせるから そのまま向かって頂戴。\b
+I will open it up.\b
 \x00
 それじゃあ よろしく頼むわね！\b
+Well then, allow me to ask this of you! \b
 \x03
 あの子の相手は大変だろうけど \pなら大丈夫だと思うわ。
+Being that child's opponent will be very difficult, but if it's you, \p, I think it will be alright.

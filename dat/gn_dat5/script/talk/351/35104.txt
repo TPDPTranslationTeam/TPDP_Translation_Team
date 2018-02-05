@@ -1,5 +1,7 @@
 咲夜
 43_03
 あら 自ら食卓に並びに来たの？\b
+Oh, did you come here to line the dining room tables up yourself? \b
 \x01
 違うなら さっさとお嬢様のところへ行くことね！
+If that's not the case, then go quickly to see m'lady!

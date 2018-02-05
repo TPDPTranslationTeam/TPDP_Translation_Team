@@ -1,11 +1,18 @@
 フランドール
+Flandre
 45
 待ってたわ 人間。
+I was waiting, human.
 あなたと遊ぶのをずっとね。\b
+I definitely wanted to play with you.\b
 \x05
 さぁ 私と一緒に遊びましょ。\b
+Well, let's play together!\b
 \x01
 もちろん楽しんでくれるでしょ？\b
+Of course you'll have fun with me, right?\b
 \x00
 それじゃあ 私は先に行ってるわ。\b
+Well then, I'll go ahead.\b
 絶対に来てくれなきゃ 嫌よ？
+You'll have to come then, right sister?

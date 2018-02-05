@@ -1,9 +1,15 @@
 レミリア
+Remilia
 44_05
 やっと来たのね。\b
+You finally came! \b
 ほら フラン これで満足でしょう？\b
+Hey, Flan, this is satisfactory, isn't it?
 \oフランドール
+\oFlandre
 \s45
 ええ お姉さま！\b
+Ehh, big sister!\b
 \x03
 ありがとうっ これで遊べるわっ！
+Thank you, you came to play!

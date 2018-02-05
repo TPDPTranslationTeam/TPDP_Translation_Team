@@ -1,4 +1,6 @@
 
 
 あなたが\p様ですね。\b
+You're \p, right? \b
 さ フラン様がお待ちですわ！
+Well, Flan is waiting!

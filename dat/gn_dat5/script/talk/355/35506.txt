@@ -1,7 +1,12 @@
 フランドール
+Flandre
 45_03
 また負けたー！\b
+I lost agaaain! \b
 \x00
 人形遊びだと \pには かなわないわね。\b
+If it's just playing with dolls, I won't hurt you, \p. \b
 \c私は ずっとここにいるから
+\cI will definitely be here
 また遊びに来てね！
+So come play again!

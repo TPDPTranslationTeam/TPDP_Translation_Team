@@ -1,5 +1,9 @@
 フランドール
+Flandre
 45_00
 人形遊びだと \pには かなわないわ。\b
+If it's just playing with dolls, I won't hurt you, \p. \b
 \c私は ずっとここにいるから
+\cI will definitely be here
 また遊びに来てね！
+So come play again!

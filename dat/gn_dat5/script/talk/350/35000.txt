@@ -1,8 +1,12 @@
 咲夜
 43
 あら ちょうどいいところに来たわね。\b
+Oh my, you've come at just the right time. \b
 お嬢様があなたをご所望よ。\b
+My lady requests you. \b
 \x01
 あなたに力を借りるのは非常に気に食わないけど \bせっかくお嬢様に頼ってもらってるんだから 早く行きなさい。\b
+I can't stomach the idea of asking for your aid, \bbut m'lady is relying on you, so go quickly.
 \x03
 グズグズ時間を取るようなら 食卓に並べられるわよ？
+And if you're going to take a lot of time, could you at least line up the dining room tables?

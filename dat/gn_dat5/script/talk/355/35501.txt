@@ -1,16 +1,26 @@
 フランドール
+Flandre
 45_02
 ・・・また負けた。\b
+...I still lost. \b
 \x05
 負けるのは あなたじゃないと
+Isn't the one who's supposed to lose you?
 エンディングが 出来ないじゃない。\b
+This can't be the ending. \b
 \x01
 ・・・・・・。\b
+...... \b
 \x00
 ふふ 首は 吊らないわよ。\b
+Fufu, but I am not hanging my neck. \b
 本当の歌どおりにするもの！\b
+This will be the real song! \b
 \c内容は忘れちゃったけどね。\b
+\cBut I forgot the content. \b
 \x06
 \pと遊ぶのは やっぱり楽しかったわ！\b
+\p, playing together was fun as expected! \b
 \x00
 また 遊びに来てね！
+Come play again!

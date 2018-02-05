@@ -1,7 +1,11 @@
 美鈴
+Meiling
 40_03
 雨はパチュリー様が降らせているんです。\b
+Patchouli made it rain. \b
 \x01
 何故かって？\b
+How and why? \b
 \x00
 妹様を 外に出さないためですよ。
+It's not so that the sisters can go outside...
