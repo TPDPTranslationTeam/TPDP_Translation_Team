@@ -1,5 +1,7 @@
-神子
+Miko
 112
 差し上げた書物は役に立ちましたか？\b
+Were the books I gave you of use to you?\b
 \x03
 本とやらもいいですが 巻物も巻物で味があるものよ。
+A book can be great, but a sushi scroll sates my tastes.
