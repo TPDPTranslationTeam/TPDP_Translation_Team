@@ -1,12 +1,12 @@
-にとり
+Nitori
 83
-お \pじゃないかい。\b
-光学迷彩を取り返してくれたのかい？\b
+Oh, if it isn't \p.\b
+Were you able to get the Optical Camo back?\b
 \x01
-あぁ・・・取り返せなかったけど使えなくはなったのか。\b
+Aah... so you didn't get it back but it's unusable too huh.\b
 \x03
-たぶんバッテリーが切れたんだろうね。\b
-妖精ならバッテリーが関係してるなんて気が付かないから そのままでいいだろう。\b
+It's probably because the battery is dead.\b
+Since those fairies didn't know anything about the battery it's for the best.\b
 \x00
-戻ってはこなかったけどイタズラに使われることもないし 約束どおりお礼しないとね。\b
-さぁ これを受け取ってくれ！
+While you didn't bring it back you also stopped their pranks so a deal is a deal.\b
+Now, take this!

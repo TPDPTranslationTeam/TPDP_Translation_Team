@@ -1,7 +1,7 @@
-阿求
+Akyuu
 76
-それは人形図鑑。\b
-出会った人形を 不思議な力で自動的に記録してくれる 優れものです。\b
+That's the Puppet Book.\b
+It excels in recording Puppets you meet using a mysterious power.\b
 \x03
-戦力を強化しながら 人形を記録する・・・\b
-\pさんなら きっと活用出来ると思いますわ。
+It will record Puppets even as battles get more intense.\b
+I believe you'll be able to make great use of it.

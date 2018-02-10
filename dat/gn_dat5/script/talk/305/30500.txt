@@ -1,18 +1,18 @@
-？？？
+???
 113_03
-うまく妖魔本を手に入れたようじゃな。\b
+Did a good job gettin' those youma books.\b
 \x00
-おおっと この姿では初めてじゃったな。\b
-先ほど案内した人間・・・もとい妖怪 マミゾウじゃよ。\b
+Oh my, seems this is yer first time seein' me in this form.\b
+The human that gave you some guidance some time ago... Was this here youkai, Mamizou.\b
 \x03
-これが本来の姿なんじゃ。騙して悪かったのう。\b
-\oマミゾウ
+This is who I am really am. My bad for trickin' ya.\b
+\oMamizou
 \s113_04
-さて。
-これからはお主一人で妖魔本を探さねばならぬぞい。\b
-\cどこにあるか 誰が持っておるかは儂にも不明じゃからな。\b
+Now then.
+You gotta look for these youma books on yer own after this.\b
+\cI have no idea where anymore could be either.\b
 \x00
-さ 儂のお小言はここまでじゃ。\b
-お主は一度里へ戻り 稗田の所でまた話を聞いてみるといいじゃろうて。\b
+I guess that's the end of our little chat.\b
+Seems like that Hieda has got somethin to say to you when you get back to the village.\b
 \x03
-また出遭うたときには 主と対戦がしてみたいもんじゃな。
+If we run into each other again, maybe we'll have a battle.

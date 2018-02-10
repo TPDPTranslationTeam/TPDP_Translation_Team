@@ -1,9 +1,9 @@
-ルナ
+Luna Child
 70_02
-負けちゃったじゃない。\b
-\oスター
+We lost.\b
+\oStar Sapphire
 \s71_01
-こういうときにする行動は決まっているわ。\b
+Well you know what we have to do now.\b
 \oサニー
 \s69_03
-逃げるが勝ちってね！
+Whoever escapes wins!

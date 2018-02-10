@@ -1,6 +1,6 @@
-布都
+Futo
 111_02
-お皿が78枚・・・ お皿が79枚・・・\b
+78 plates... 79 plates...\b
 \x01
-あぁ！
-お主が話しかけるから どこまで数えてたか忘れてしまったではないか！
+Aah!
+Due to thy addressing me, I did forget whither I wast counting!
