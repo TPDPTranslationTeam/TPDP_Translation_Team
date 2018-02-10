@@ -3,12 +3,12 @@ Mai
 あぁ やっぱりユキに侵入者を止めることはできないのね。\b
 Aah, of course Yuki wasn't able to the stop the intruder.\b
 \cこうなるとは思っていたけど もう少しは頑張って欲しいわ。\b
-\cThough this was an expected result, I was hoping she tried a little harder.\b
+\cThough this was an expected result, I was hoping she'd try a little harder.\b
 私だっていつも暇じゃないんだから。\b
-I'm also sooo bored you know.\b
+I'm sooo~ bored you know.\b
 \x00
 あんた如き人間 私の足元にも及ばないのよ。\b
-A human like you can't hold a candle to someone like me.\b
+A human like you couldn't hold a candle to someone like me.\b
 \x03
 本気は出してあげるから 少しくらい楽しませてよね。
-I'm gonna be serious, so try to be a little amusing.
+I'm going to fight seriously, so try to at least amuse me before it's over.

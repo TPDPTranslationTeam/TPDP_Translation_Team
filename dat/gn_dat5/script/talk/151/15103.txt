@@ -22,12 +22,12 @@ Great job.\b
 Good for you, \p!\b
 \x00
 //まだ人形の数が減ったなどの報告はないみたいですが そのうち減り始めるんでしょうね。\b
-We haven't yet noticed the Puppets' numbers decreasing, but someday they will.\b
+We haven't noticed any decrease in the Puppets' numbers but someday they will.\b
 \x06
 //しばらくしたら 無事に帰れるようになりますね！
-You can return home soon!
+You should be able to return home soon!
 //お手柄ですよ！\b
-Great job indeed!\b
+Great job!\b
 //\o魔理沙
 \oMarisa
 \j2_03

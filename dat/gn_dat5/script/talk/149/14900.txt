@@ -7,9 +7,9 @@ Nice to see you again, interloper.\b
 //そんなにここが気に入ったの？
 It seems you really like it here.\b
 //変わった人間ね。\b
-What a strange person.\b
+You're a very strange person.\b
 \x01
 //さあ こんどこそ私が華麗に退治してあげるわ！\b
-I will repel you this time!\b
+I will dispel you this time!\b
 //特訓の成果 思い知りなさい！
 I've been training for this!

@@ -1,7 +1,7 @@
 Gengetsu
 27_03
 あら 人間ね。珍しい。\b
-Oh a human, how rare.\b
+Oh, a human. How rare.\b
 \oMugetsu
 \j26
 ちょっとこっちの様子を見に来てみたのに もっと面白いものに出会っちゃったわね 姉さん。\b

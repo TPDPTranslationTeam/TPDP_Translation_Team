@@ -3,7 +3,7 @@ Sara
 ちょっと待って。\b
 Hold it.\b
 この先に何があるのか あなたは知ってるの？\b
-Do you have any idea what's up ahead here?\b
+Do you have any idea what's up ahead?\b
 \x00
 魔界よ。\b
 It's Makai.\b
@@ -18,4 +18,4 @@ You wanna pass through here?\b
 残念 この先に進もうとすることは許さないわ。\b
 Sorry, but no one is permitted to pass through here.\b
 通りたいなら 私と勝負よ。
-If you wish to pass, challenge me to a battle.
+If you really want to pass, you must beat me in a duel.

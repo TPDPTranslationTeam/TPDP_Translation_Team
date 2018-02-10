@@ -4,7 +4,7 @@ Reimu
 //‚ ‚ñ‚½‚Í–À˜f‚É‚à_Ğ‚Ì‹«“à‚Å‚Ô‚Á“|‚ê‚Ä‚½‚Ì‚æB\b
 I found you laying in front of the shrine.\b
 //‚¨æÎ‘K‚ğ“ü‚ê‚éQ”qÒ‚Ì×–‚‚¾‚©‚ç ‚±‚±‚ÉˆÚ“®‚µ‚½‚ÌB\b
-You were blocking the worshippers' way, so I brought you here.\b
+Leaving you out there would bother the worshippers, so I had no choice but to bring you inside.\b
 \o‘•c
 Sanae
 \s85_06

@@ -5,6 +5,6 @@ Yuki
 What? I lost again?\b
 \x04
 //まだまだ修行が足りないのかな。\b
-I still need more training.\b
+I... I still need more training.\b
 //・・・またマイに任せちゃおうかな。
 I guess I'll let Mai deal with you.

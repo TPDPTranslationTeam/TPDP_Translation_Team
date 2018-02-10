@@ -7,7 +7,7 @@ We got kicked out again.\b
 Marisa is already gone, too...\b
 \x00
 //どうせなんです \pさんもまだ行ったことのないところなど回ってみてはいかがでしょう。\b
-/p, you should explore places you haven't been.\b
+/p, you should explore places you haven't been yet.\b
 //新しい出会いもあるかもしれないですよ。\b
 You might discover something new!\b
 \x06

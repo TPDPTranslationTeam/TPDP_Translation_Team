@@ -8,7 +8,7 @@ I lost again.\b
 Battling with you is always fun, though.\b
 \x00
 //‚Ü‚½‚¢‚ç‚Á‚µ‚á‚¢B\b
-Please come again sometime.\b
+Please come back again sometime.\b
 //‰½“x‚¾‚Á‚Ä‚¨‘Šè‚ğ‚µ‚Ä‚ ‚°‚é‚í‚ÁB\b
 I would like to have more duels with you.\b
 \x03

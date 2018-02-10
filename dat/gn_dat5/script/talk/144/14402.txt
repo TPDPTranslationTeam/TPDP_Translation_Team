@@ -1,4 +1,6 @@
 Mai
-33_04
+33_01
 ‚Ç‚±‚És‚­‚Ì‚©‚µ‚çH
-Where are you going?
+Where are you going? \b
+\x02
+Eh? What do you mean you didn't see me?

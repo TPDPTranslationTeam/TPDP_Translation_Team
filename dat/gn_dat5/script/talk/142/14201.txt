@@ -1,10 +1,12 @@
 Sara
 29_02
 はぁ なんでいつもこう。\b
-Why is always like this?\b
-\x01
+Why is it always like this?\b
+\x04
 ・・・何よ 憐れな目を向けないで頂戴っ！\b
-Don't look at me with those pitable eyes!\b
+... \b
+\x01
+Don't look at me with such pity like I'm a lost puppy or something!\b
 ほら 先に進めばいいでしょ。
-Come on, just go through already.
+Just... go on through already.
 #This isn't exactly what she said, but it feels right.

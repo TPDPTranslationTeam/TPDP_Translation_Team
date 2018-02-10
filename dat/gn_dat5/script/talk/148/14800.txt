@@ -4,7 +4,7 @@ Shinki
 //あら また来たのね。\b
 Oh, you're back.\b
 //ここがそんなに気に入ったのかしら？\b
-You must like being here.\b
+You must really like it here.\b
 \x03
 //やることは・・・対戦でしょう？\b
 You want to battle me, right?\b

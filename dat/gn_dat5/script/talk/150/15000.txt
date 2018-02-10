@@ -2,7 +2,7 @@
 Mai
 33_04
 //はぁ・・・こうも易々と通すなんて ユキは何のために修行したのかしら。\b
-Sigh... What's the point of training if she let's you through so easily?\b
+Sigh... What's the point of her training if she's just gonna lose so easily again?\b
 \x01
 //対応しなくちゃいけない私の苦労も考えて欲しいわ。\b
 Yuki, why do you have to make things harder for me?\b

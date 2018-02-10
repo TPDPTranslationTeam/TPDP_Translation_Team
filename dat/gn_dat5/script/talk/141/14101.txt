@@ -1,7 +1,7 @@
 Mugetsu
 26_02
 この人間 意外と強いのね。\b
-This human is stronger than expected.\b
+This human is stronger than I expected.\b
 \oGengetsu
 \j27
 あら人形が強い の間違いじゃない？\b
@@ -9,13 +9,13 @@ So their doll's strength was no mistake?\b
 \oMugetsu
 \j26_03
 そうよね。
-That is right.
+Seems like it.
 お人形さんが強いに決まっているわ。\b
-The Puppet's strength has been decided.\b
+Their Puppet's are really strong.\b
 #Switching back to Puppet makes things feel more serious
 \oGengetsu
 \j27_03
 これだからお人形遊びはやめられないのよね。\b
-Because of this, our Puppet game will not end.
+Now I have to see this power for myself.
 じゃあね お強い人間さん。
-Now, Powerful Human.
+Now, Powerful Human!
