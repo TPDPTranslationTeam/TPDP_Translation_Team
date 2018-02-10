@@ -1,6 +1,9 @@
-文
+Aya
 942
 おや \pさん。\b
+Oh, it's \p.\b
 三妖精の件は進んでいます？\b
+You're still looking for the Three Fairies?\b
 \x03
 無事に盗まれたものが見つかったら 声を掛けてくださいね。
+Please call me once you take back the stolen brush.

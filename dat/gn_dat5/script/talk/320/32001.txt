@@ -1,15 +1,23 @@
-文
+Aya
 942_02
 タイミングが悪いですね \pさん。\b
+Your timing is bad, \p.\b
 本当なら歓迎したいのですが 今それどころではないんですよ。\b
+I would love to welcome you, but right now isn't the time.\b
 \x01
 というのも 少し前から里内での盗難騒ぎが続いていましてですね。\b
+The reason being is that we're in the wake of a robbery that took place in the village.\b
 \cみんなピリピリしていて 話しかけただけで疑われて 人形対戦を吹っかけられたりするんですよ。\b
+\cEveryone is on edge, and just talking to someone will arouse suspicion and start a Puppet Battle.\b
 \x02
 犯人探しも進まず 私も取材に必要な筆を取られてしまいました。\b
+Even if I don't search for the criminal, my important brush for news coverage was taken.\b
 \x01
 ・・・まさかとは思いますが \pさんは関係してませんよね？\b
+While I hate to say this, but you don't have any relationship to this crime do you?\b
 \x02
 疑うのは失礼だとはわかっているんですが 私も筆がないと取材もできませんからね。\b
+I understand that it is rude to suspect you like this but without my brush I won't be able to do news coverage.\b
 \x00
 念のために隅々まで調べさせていただきますね！
+I will investigate every nook and cranny!

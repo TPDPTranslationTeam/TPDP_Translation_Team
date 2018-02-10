@@ -1,17 +1,25 @@
-メディスン
+Medicine
 72_08
 いい？ちゃんと監視してるのよ？\b
+So, is the monitoring going well?\b
 地下間欠泉センターが近いんだから 気を緩めないこと！\b
+The Underground Geyser Center is nearby, so don't let your guard down!\b
 \o
 \j354
 わかってるわ！通せんぼすればいいのよねっ！\b
-\o幽香
+I get it! If we have to use force so be it!\B
+\oYuuka
 \s25
 リーダーらしくなったわね。
+You've become like a leader.\b
 そろそろ私の出番はおしまいかしら？\b
-\oメディスン
+I shall make my departure soon yes?\b
+\oMedicine
 \j72_06
 だから らしい じゃなくて ちゃんとしたリーダーよっ！\b
+I keep telling you I'm not leader-like, I'm a leader!\b
 \x08
 ほら まだすることがたくさん残っているのよ。
+Look, we still have a lot to do.
 こんなところでグズグズしてられないわっ！
+You fairies quit playing around here!

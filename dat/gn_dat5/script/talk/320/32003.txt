@@ -1,8 +1,12 @@
-文
+Aya
 943_00
 おや \pさんも欲しいんですか？\b
+Oh? So you want this too?\b
 \x03
 ではあなたの力で 三妖精をどうにかしてもらえませんかね？\b
+Then will you deal with those Three Fairies?\b
 \x00
 彼女たちを懲らしめてくれれば この妖魔本は\pさんに差し上げてもいいですよ。\b
+If you go give those little girls a good scolding, I'll give this youma book to you.\b
 どうです？
+How about it?

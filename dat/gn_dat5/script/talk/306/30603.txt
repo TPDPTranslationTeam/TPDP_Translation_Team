@@ -1,9 +1,14 @@
-阿求
+Akyuu
 76_03
 これからどこに行くか決まっていなければ 香霖堂さんに行くことをお勧めします。\b
+Since you haven't decided where to go, I recommend you go to Kourindou.\b
 \c聞けば 便利な道具が揃えてあって 旅に出かける時に 何かと便利とか。\b
+\cIf you ask, he'll prepare some tools which may somehow be useful to you on your journey.\b
 \x00
 人間の里から西へまっすぐ進んでいくと やがて魔法の森が見えてきます。\b
+When you head west from the human village, eventually you'll come upon the Forest of Magic.\b
 その手前に 香霖堂さんはありますわ。\b
+In front of that is Kourndou.\b
 \x03
 道中お気を付けくださいね。
+Please be careful on your travels.

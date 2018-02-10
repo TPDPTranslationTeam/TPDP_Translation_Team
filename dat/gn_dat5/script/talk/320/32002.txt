@@ -1,12 +1,18 @@
-文
+Aya
 942_02
 あやや やっぱり\pさんには敵いませんでしたか。\b
+Ayaya, I knew you wouldn't cooperate.\b
 \x00
 でも最初の反応を見た限り 犯人はあなたではなさそうですね。\b
+Based on your initial reaction though, you don't seem like the criminal though.\b
 \x04
 おや 犯人を知っているのですか？\b
+Huh? You know who the criminal is?\b
 \x01
 三妖精・・・あぁイタズラの好きな妖精たちのことですね。\b
+Three Fairies of Light... Oh those fairies that love pulling pranks huh.\b
 彼女たちが原因でしたか。\b
+Those girls are the cause of this you say.\b
 \j943
 珍しいものを探してるとは もしかしてこの妖魔本のことでしょうか？
+Was the funny thing they were looking for this youma book?

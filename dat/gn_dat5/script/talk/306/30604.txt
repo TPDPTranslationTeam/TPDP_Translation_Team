@@ -1,7 +1,11 @@
-阿求
+Akyuu
 76
 そうですか・・・\b
+Is that so...\b
 では 私もまた調査を続けます。\b
+Well then, I shall continue my investigation.\b
 \x03
 \pさんも気が変わったら 声を掛けてくださいね。\b
+Well if you ever change your mind, please feel free to call me.\b
 できることがあれば 私も協力しますので。
+I will do whatever that can be done.

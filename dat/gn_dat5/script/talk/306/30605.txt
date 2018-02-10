@@ -1,5 +1,7 @@
-阿求
+Akyuu
 76_02
 人形について お話した以上のことはまだわかっていません・・・\b
+We still do not understand much about Puppets from what was said before.\b
 \x00
 それとも \pさんも 人形について調べることにしたんですか？
+In that case \p, how about investigating the Puppets?

@@ -1,6 +1,9 @@
-文
+Aya
 943_02
 本当にいいんですか？
+Is that really okay though?
 妖魔本は手に入らなくなってしまいますよ？\b
+You won't be able to get the youma book after all you know?\b
 \x00
 ほら 困るでしょう？
+Isn't that a problem?

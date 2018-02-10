@@ -1,10 +1,16 @@
-文
+Aya
 942_03
 交渉成立ですね。\b
+We've come to an agreement then.\b
 いやぁ \pさんは話のわかる方で助かりますね！\b
+Your understandingness is really helping us out!\b
 \x01
 では三妖精のことは頼みました！\b
+I shall leave the Three Fairies to you.\b
 私も色々と忙しいですからね。\b
+I have some important business I must handle.\b
 \x00
 無事に盗まれたものが見つかったら また声を掛けてください！\b
+Please call me after you take the stolen brush back!\b
 里の中には いますからね！
+I'll be inside the village!

@@ -1,4 +1,6 @@
 
 
 ・・・あなたも犯人探ししてるの？\b
+...You're looking for the culprit too?\b
 物を隠すとなると壺とか植木とか樽とかじゃないかしら。
+Maybe they're hiding in a vase, or the shrubs, or in a barrel.

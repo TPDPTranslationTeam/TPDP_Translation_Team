@@ -1,7 +1,10 @@
-文
+Aya
 942
 おぉ！ちゃんとありますね！\b
+Ooh! I got it!\b
 \s73_03
 これで私も無事に取材を再開できそうです。\b
+With this I can now resume my news coverage work.\b
 \j943_00
 それでは約束していた この妖魔本は\pさんにお譲りしますね。
+As promised, I will hand this youma book over to you.

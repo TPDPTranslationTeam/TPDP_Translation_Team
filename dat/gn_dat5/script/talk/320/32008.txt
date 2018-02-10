@@ -1,5 +1,7 @@
-椛
+Momiji
 84_01
 負けてしまったのなら ここは通すしかない。\b
+Since I've lost, I have no choice but to let you through.\b
 \x02
 ・・・仕方なくね。
+Unfortunately.

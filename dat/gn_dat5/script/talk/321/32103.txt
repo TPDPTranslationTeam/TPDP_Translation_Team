@@ -1,26 +1,38 @@
-スター
+Star Sapphire
 71_01
 もうしつこいわね。誰もいないって・・・\b
-\oルナ
+So annoying. I keep saying there's no one here...\b
+\oLuna Child
 \s70_04
 ちょ ちょっとスター！
+W-Wait Star!
 姿 見えちゃってるわよ！\b
-\oサニー
+They'll see you!
+\oSunny Milk
 \j69_04
 そういうルナも丸見えになってるけど・・・\b
+They can see you too though Luna...\b
 もしかして 迷彩なんちゃらの効果切れちゃった？\b
-\oスター
+Maybe the camo thingy stopped working?\b
+\oStar Sapphire
 \j71_02
 壊れちゃったのかしら。\b
+It's broken.\b
 \x01
 もう せっかくイタズラが楽しくなってきたのに。\b
-\oルナ
+And I was starting to have fun pulling pranks with this thing.\b
+\oLuna Child
 \s70_01
 え？盗んだものを返せですって？\b
+Eh? Return the thing we stole?\b
 嫌よ 私たちが一生懸命集めたんだから！\b
-\oサニー
+No way! We worked really hard to get that!\b
+\oSunny Milk
 \s69_01
 もしかして あんたが来たせいで姿が消せなくなっちゃったんじゃないの？\b
+Maybe if you hadn't have come you wouldn't be able to see us right now!\b
 楽しんでたんだから 邪魔しないでよね！\b
+It was fun so don't get in our way!\b
 \x03
 こうなったら あんたに八つ当たりしてやるわっ！
+We're gonna make you pay for this!
