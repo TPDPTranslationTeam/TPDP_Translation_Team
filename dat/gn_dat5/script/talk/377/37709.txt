@@ -1,6 +1,12 @@
-メディスン
+//メディスン
+Medicine
 72_08
-見てなさい \pっ！
-あたしだって うまくやってみせるわ！\b
+//見てなさい \pっ！
+Watch us, \p!\b
+//あたしだって うまくやってみせるわ！\b
+I'll make it too!\b
 \x03
-今度 あんたに悪戯してあげるわよっ。
+//今度 あんたに悪戯してあげるわよっ。
+We're gonna pull a prank on you someday.
+
+//words are too ambiguous

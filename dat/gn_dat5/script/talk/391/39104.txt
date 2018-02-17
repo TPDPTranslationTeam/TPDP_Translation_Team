@@ -1,4 +1,7 @@
-くるみ
+//くるみ
+Kurumi
 022_02
-うぅ～くやし～！\b
-今回は通っていいわよ。次はこうはいかないんだから～。
+//うぅ～くやし～！\b
+Uh, how frustrating!\b
+//今回は通っていいわよ。次はこうはいかないんだから～。
+You can pass now, but not next time!

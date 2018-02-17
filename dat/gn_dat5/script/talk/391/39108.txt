@@ -1,5 +1,8 @@
-エリー
+//エリー
+Elly
 023
-もう少し頻繁に帰ってきてくれてもいいのに・・・\b
+//もう少し頻繁に帰ってきてくれてもいいのに・・・\b
+Master should come back more often...\b
 \x02
-主のいない館の見張りって寂しいわね・・・
+//主のいない館の見張りって寂しいわね・・・
+It's sad to guard a mansion without the master...

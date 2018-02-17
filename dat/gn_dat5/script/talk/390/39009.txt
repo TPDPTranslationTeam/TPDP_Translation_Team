@@ -1,5 +1,8 @@
-小鈴
+//小鈴
+Kosuzu
 114
-\pさん。いらっしゃいませ！\b
+//\pさん。いらっしゃいませ！\b
+Welcome \p!\b
 \x03
-このあいだの妖魔本の最終巻 読まれますか？
+//このあいだの妖魔本の最終巻 読まれますか？
+Do you want to read the final volume you brought before?

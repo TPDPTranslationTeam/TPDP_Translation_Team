@@ -1,5 +1,8 @@
-藍
+//藍
+Ran
 54
-おや 紫様に何か用かな。\b
+//おや 紫様に何か用かな。\b
+Oh, any business with master Yukari?\b
 \x02
-残念だけど 今は留守中だから会わせられないよ。
+//残念だけど 今は留守中だから会わせられないよ。
+Unfortunately, she's out now.

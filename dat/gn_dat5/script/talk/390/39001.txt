@@ -1,20 +1,35 @@
-紫
+//紫
+Yukari
 55_00
-ふふっ お待ちしてましたわ。\b
-どうやら すべての日記を読んでいただけたみたいですわね。\b
+//ふふっ お待ちしてましたわ。\b
+Huhu, I was waiting for you.\b
+//どうやら すべての日記を読んでいただけたみたいですわね。\b
+Looks like you've read all of the diary.\b
 \x03
-目を通してみて どうだったかしら。\b
-あなた自身の物語と違いもあったでしょう？\b
+//目を通してみて どうだったかしら。\b
+How was it?\b
+//あなた自身の物語と違いもあったでしょう？\b
+You should've noticed some difference with your own story.\b
 \x02
-・・・あら よくわかってないって顔ですわね。\b
+//・・・あら よくわかってないって顔ですわね。\b
+...You looks like couldn't get it.\b
 \x01
-\p あなたは 他の時間軸を生きる自分が存在するって言われたら信じるかしら？\b
-\cあなたとは別時空を生きるあなたがいたとして。\b
-そこで 天邪鬼を懲らしめたのは誰？\b
-月の狐は 穢を見た？\b
+//\p あなたは 他の時間軸を生きる自分が存在するって言われたら信じるかしら？\b
+Do you believe what if I say there's another yourself in the different timeline?\b
+//\cあなたとは別時空を生きるあなたがいたとして。\b
+\cIf so, 
+//そこで 天邪鬼を懲らしめたのは誰？\b
+who did punish the contrarian?\b
+//月の狐は 穢を見た？\b
+Did the lunar fox see the impurity?\b
 \x00
-・・・そこのあなたは ここのあなたなのかしら？\b
+//・・・そこのあなたは ここのあなたなのかしら？\b
+...Are "you" here is really you?\b
 \x03
-ふふ 日記は そういった多岐にわたる 可能性の一つですわ。\b
+//ふふ 日記は そういった多岐にわたる 可能性の一つですわ。\b
+The diary is just one of these possibilities.\b
 \x00
-さて 日記の最終巻をお渡しします。
+//さて 日記の最終巻をお渡しします。
+Well, here is the final chapter of the diary.
+
+//I want to discuss about the 10th line ("you" line)

@@ -1,20 +1,34 @@
-幽香
+//幽香
+Yuuka
 25_05
-ふふ また負けちゃったわ。\b
+//ふふ また負けちゃったわ。\b
+Huhu, I lost again.\b
 \x00
-そうそう これだけは言っておかないといけないわね。\b
+//そうそう これだけは言っておかないといけないわね。\b
+By the way, I need to tell you about this.\b
+\b
 \x03
-何度も繰り返すけど 私は異変と何も関係ないわ。\b
-私は楽しそうなことを眺めているのが一番好きなのよ。\b
+//何度も繰り返すけど 私は異変と何も関係ないわ。\b
+Repeating it but I'm not related with the incident.\b
+//私は楽しそうなことを眺めているのが一番好きなのよ。\b
+I just like watching something fun.\b
 \x05
-でも そうね。\b
-せっかくここまで来たのだから いいことを教えてあげるわ。\b
+//でも そうね。\b
+But then.\b
+\b
+//せっかくここまで来たのだから いいことを教えてあげるわ。\b
+Since you came this far, I will tell you something.\b
 \x00
-人形には魔界神以外の魔力も通っているのよ。\b
-本当に悪いやつらは別にいる。\b
+//人形には魔界神以外の魔力も通っているのよ。\b
+Puppets is also empowered by magic that is not of the god of Makai.\b
+//本当に悪いやつらは別にいる。\b
+There's another culprits.\b
 \x03
-気になるかしら？\b
+//気になるかしら？\b
+Interested?\b
 \x00
-この館の奥の扉を 開けてあげるわ。\b
+//この館の奥の扉を 開けてあげるわ。\b
+I will open the door too the backyard.\b
 \x05
-この先は自分で確かめなさい。
+//この先は自分で確かめなさい。
+Now find out yourself.

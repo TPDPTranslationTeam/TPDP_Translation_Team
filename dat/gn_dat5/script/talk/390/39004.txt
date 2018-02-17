@@ -1,3 +1,4 @@
 
 
-見えない壁のようなものがあって進めない。
+//見えない壁のようなものがあって進めない。
+There's something like a wall in here and I can't pass.

@@ -1,5 +1,10 @@
-くるみ
+//くるみ
+Kurumi
 22
-ここってほとんど人が来ないから退屈なのよ。\b
+//ここってほとんど人が来ないから退屈なのよ。\b
+Not many people coming here, it's boring.\b
 \x03
-あなたが来るだけでも楽しめるわ。
+//あなたが来るだけでも楽しめるわ。
+It's fun to see just you.
+
+//low brain performance

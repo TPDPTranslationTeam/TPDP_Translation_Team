@@ -1,7 +1,11 @@
-くるみ
+//くるみ
+Kurumi
 022_03
-はじめまして。私はここの門番をやってるくるみ。\b
+//はじめまして。私はここの門番をやってるくるみ。\b
+Nice to meet you. I'm Kurumi, th gatekeeper.\b
 \x00
-残念だけど通すわけにはいかないの。\b
+//残念だけど通すわけにはいかないの。\b
+I'm sorry, I can't let through here.\b
 \x01
-どうしても通るというのであれば容赦しないわ！
+//どうしても通るというのであれば容赦しないわ！
+If you do anyway, no mercy for you!

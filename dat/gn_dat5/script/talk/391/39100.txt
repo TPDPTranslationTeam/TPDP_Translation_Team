@@ -1,24 +1,40 @@
-霊夢
+//霊夢
+Reimu
 1_02
-はぁ・・・このパターン何回目かしら。\b
-行く先々であんたと会うのね。\b
+//はぁ・・・このパターン何回目かしら。\b
+Huh, how many time did I meet you like this?\b
+//行く先々であんたと会うのね。\b
+I'm seeing you everywhere I go.\b
 \x05
-気づいていると思うけど この異変は終わってなんかいないわ。\b
-元凶を断たなきゃいけないの。\b
+//気づいていると思うけど この異変は終わってなんかいないわ。\b
+The incident was never over, you know.\b
+//元凶を断たなきゃいけないの。\b
+We must cut down the source.\b
 \x02
-あんたも旅をしたなら知ってるでしょ？\b
-同じ種類の人形なら 限られた範囲でしか行動していないのよ。\b
+//あんたも旅をしたなら知ってるでしょ？\b
+You should've know it.\b
+//同じ種類の人形なら 限られた範囲でしか行動していないのよ。\b
+Each kind of Puppets never move widely.\b
 \x05
-本来あいつらの行動範囲は狭いの。\b
-人形が魔界で生まれてこっちに来たとしても 広く分布することはないわ。\b
+//本来あいつらの行動範囲は狭いの。\b
+They're supposed to have small habitat.\b
+//人形が魔界で生まれてこっちに来たとしても 広く分布することはないわ。\b
+If they're born in Makai and came here, they won't spread wide.\b
 \x10
-だけど あいつらは広域でほぼ同時に現れた。\b
-幻想郷だけでなく 冥界にも天界にも。\b
+//だけど あいつらは広域でほぼ同時に現れた。\b
+Though they appeared widely at the same time.\b
+//幻想郷だけでなく 冥界にも天界にも。\b
+Not only Gensokyo, but Netherworld or Heaven.\b
 \x05
-・・・本当に 人形が勝手に動き始めたのかしら？\b
-私には 誰かが面白がって こんなことを始めたようにしか思えないわ。\b
+//・・・本当に 人形が勝手に動き始めたのかしら？\b
+Is the Puppets really started moving on their own.\b
+//私には 誰かが面白がって こんなことを始めたようにしか思えないわ。\b
+I can only think someone started this for their fun.\b
 \s1_09
-さてと これからあんたの尻拭いに行くつもりだったんだけど やっぱり こうやってかち合ってしまったわね。\b
+//さてと これからあんたの尻拭いに行くつもりだったんだけど やっぱり こうやってかち合ってしまったわね。\b
+I was about to cover your consequences but no surprise I met you.\b
 \x07
-だけど 簡単に譲らないわ。\b
-異変解決は 私の仕事よ。
+//だけど 簡単に譲らないわ。\b
+I won't give up this.\b
+//異変解決は 私の仕事よ。
+Solving incidents is MY job.

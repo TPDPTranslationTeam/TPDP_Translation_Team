@@ -1,12 +1,20 @@
-幽香
+//幽香
+Yuuka
 25_00
-あらあら やっとここまでたどり着けたのね。\b
-待ちくたびれてしまうところだったわ。\b
-\cここ？\b
+//あらあら やっとここまでたどり着けたのね。\b
+Finally you made it here.\b
+//待ちくたびれてしまうところだったわ。\b
+It's getting tired of waiting you.\b
+//\cここ？\b
+\cHere?\b
 \x05
-とある姉妹に譲ってもらったのよ。\b
-今は私の物だわ。\b
+//とある姉妹に譲ってもらったのよ。\b
+A sisters gave this mansion to me.\b
+//今は私の物だわ。\b
+It's mine now.\b
 \x03
-折角訪ねてもらったのだから おもてなししなくてわね。\b
+//折角訪ねてもらったのだから おもてなししなくてわね。\b
+Since you came all the way here, I should treat you.\b
 \x05
-あなたは 花の夢に溺れるといいわ。
+//あなたは 花の夢に溺れるといいわ。
+You shall drown in the flowering dream.

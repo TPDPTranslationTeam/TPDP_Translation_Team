@@ -1,5 +1,8 @@
-ルナ
+//ルナ
+Luna
 70
-ここが私たち三人の本来のアジトよ。\b
+//ここが私たち三人の本来のアジトよ。\b
+This is our real hideout.\b
 \x03
-どう素敵でしょ？
+//どう素敵でしょ？
+Nice place, isn't it?
