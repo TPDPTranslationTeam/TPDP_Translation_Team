@@ -1,12 +1,21 @@
-夢月
+//夢月
+Mugetsu
 26_00
-人形はいなくならない。\b
-だって 止める気もなかったし その手段も用意していないもの。\b
-\o幻月
+//人形はいなくならない。\b
+Puppets will never be gone.\b
+//だって 止める気もなかったし その手段も用意していないもの。\b
+Because we didn't wanted to and didn't have the way to do so.\b
+//\o幻月
+\oGengetsu
 \j27_00
-よかったわね！\b
-あなたも何だかんだ お人形遊びを気に入ってたんでしょ？\b
+//よかったわね！\b
+That's nice!\b
+//あなたも何だかんだ お人形遊びを気に入ってたんでしょ？\b
+You somehow liked the Puppet plays, right?\b
 \x03
-なら ちょうどいいじゃない！
-何事も楽しまなきゃ損なのよ。\b
-たとえ それが夢であっても。
+//なら ちょうどいいじゃない！
+Then's it's perfect for you!
+//何事も楽しまなきゃ損なのよ。\b
+You must enjoy everything,
+//たとえ それが夢であっても。
+ even if it's a dream.

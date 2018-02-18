@@ -1,8 +1,14 @@
-ドレミー
+//ドレミー
+Doremy
 127_00
-あら また来たのね。\b
-\c迷夢は覚めましたか？\b
-それともまだ迷ってるのかな。\b
+//あら また来たのね。\b
+Oh, you came again.\b
+//\c迷夢は覚めましたか？\b
+\cDid you snap out from confusion,\b
+//それともまだ迷ってるのかな。\b
+ or still missing your way?
 \x03
-\cいずれにせよ ここに来たということは
-預かりものを返さないといけませんね。
+//\cいずれにせよ ここに来たということは
+\cAnyway, since you're here
+//預かりものを返さないといけませんね。
+ I must return what I kept for you

@@ -1,6 +1,12 @@
-夢月
+//夢月
+Mugetsu
 26_00
-・・・つまらない現実を見るなら\b
-\o幻月
+//・・・つまらない現実を見るなら\b
+...Say bye to the boring reality,\b
+//\o幻月
+\oGengetsu
 \j27_00
-醒めることのない夢幻を。
+//醒めることのない夢幻を。
+ stay in the never-ending dream.
+
+//Super cool line, needs discussion

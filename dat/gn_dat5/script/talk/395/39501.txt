@@ -1,5 +1,8 @@
-ドレミー
+//ドレミー
+Doremy
 127_03
-今のあなたなら それを持っていても 問題無いでしょう。\b
+//今のあなたなら それを持っていても 問題無いでしょう。\b
+You will be no problem having it with current yourself.\b
 \x00
-それでは また夢の中で・・・
+//それでは また夢の中で・・・
+Well then, see you again in the dream...

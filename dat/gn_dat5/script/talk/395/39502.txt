@@ -1,3 +1,4 @@
 
 
-ドレミーから 人形箱を返してもらった。
+//ドレミーから 人形箱を返してもらった。
+Retrieved the Puppet Box from Doremy.

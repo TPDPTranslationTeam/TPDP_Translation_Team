@@ -1,9 +1,15 @@
-夢月
+//夢月
+Mugetsu
 26_01
-結局は気づかれてしまったみたいね。\b
+//結局は気づかれてしまったみたいね。\b
+We're found in the end.\b
 \x00
-でも 姉さんは嬉しそう。\b
-\o幻月
+//でも 姉さんは嬉しそう。\b
+But Gengetsu looks so happy.\b
+//\o幻月
+\oGengetsu
 \j27_03
-あったり前よ！\b
-この異変だって 私たちが手を出さなければ 起きなかったんだもの。
+//あったり前よ！\b
+Of course!\b
+//この異変だって 私たちが手を出さなければ 起きなかったんだもの。
+The incident never happened unless we start it.

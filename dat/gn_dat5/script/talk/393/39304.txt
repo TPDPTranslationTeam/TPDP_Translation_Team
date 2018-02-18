@@ -1,16 +1,28 @@
-幻月
+//幻月
+Gengetsu
 27_01
-あーあ 負けちゃった。\b
-結構 惜しいところまで いけたんだけどなぁ。\b
-\o夢月
+//あーあ 負けちゃった。\b
+Sigh... We lost.\b
+\b
+//結構 惜しいところまで いけたんだけどなぁ。\b
+That was close, though.\b
+//\o夢月
+\oMugetsu
 \j26_01
-それだけお人形さん遊びに浸ってきたってことかもしれないわ。\b
+//それだけお人形さん遊びに浸ってきたってことかもしれないわ。\b
+That means you devoted yourself to Puppet plays that much.\b 
+\b
 \x00
-お人形さん遊びをしながら 人形異変の解決。\b
+//お人形さん遊びをしながら 人形異変の解決。\b
+Solving the Puppet incident, while playing Puppets.\p
 \x03
-何とも不可思議ね。\b
-\o幻月
+//何とも不可思議ね。\b
+How strange.\b
+//\o幻月
 \j27_03
-でも残念だったわね。
-この世界の異変は解決しないわ。\b
-いや 残念でもないかしら？
+//でも残念だったわね。
+But unfortunately,
+//この世界の異変は解決しないわ。\b
+ the incident will never be solved.\b
+//いや 残念でもないかしら？
+Or is it not unfortunate for you?
