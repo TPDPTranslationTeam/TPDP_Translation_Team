@@ -1,4 +1,5 @@
-カナ
+Kana
 16_03
-やったわ 何か落としてったわ！\b
-けど・・・ なんだろう これ？
+
+Oh, I dropped something.\b
+But... What is this?

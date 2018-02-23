@@ -1,4 +1,7 @@
-‰Øî
+Kasen
 106
-‚»‚¤‚Å‚·‚©B\b
-‚Å‚Í‚Ü‚½‚¨è“`‚¢’¸‚¯‚é‚Æ‚«‚É‚Å‚à º‚ğŠ|‚¯‚Ä‚­‚¾‚³‚¢‚ËB
+
+Is that so?\b
+Please speak to me again when you've found everything.
+
+~~Not sure what the first line is referring to. Should be okay, but might need tweaking.

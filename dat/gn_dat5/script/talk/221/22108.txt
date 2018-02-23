@@ -1,5 +1,8 @@
-カナ
+Kana
 16
-あなたはだれです？\b
+
+Who are you?\b
 \x04
-これが欲しいんですか？ん～ これが何なのかわからないからあげてもいいんだけど。
+Do you want this? Hm... I don't know what it is, so I'll give it to you.
+
+~~Nothing seems to indicate that there's a battle after this dialogue, but the next dialogue shows that there was???

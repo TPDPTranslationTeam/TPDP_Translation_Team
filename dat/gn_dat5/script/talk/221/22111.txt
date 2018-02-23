@@ -1,10 +1,11 @@
-針妙丸
+Shinmyoumaru
 122
-なかなかやるわね。それで私に何か用かしら？\b
+
+That was easy, huh. Did you need something from me?\b
 \x02
-・・・探し物？\b
+...You're looking for something?\b
 \x00
-そういえば神社裏の井戸のところに何か落ちてたわね。\b
-そのあたりを探してみればいいんじゃないかな。\b
+Well, now that you mention it, something fell into the well behind the shrine.\b
+It would be a good idea to look there, I think.\b
 \x03
-それよりもう一度 私と人形バトルしましょうよ！さあ！
+Let's have one more doll battle! Here we go!
