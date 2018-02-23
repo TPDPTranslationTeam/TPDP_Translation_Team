@@ -2,7 +2,7 @@
 Kasen
 106_04
 ‚Ü‚½—ˆ‚ç‚ê‚½‚Ì‚Å‚·‚©H\b
-You've come again?
+You came back?\b
 \x00
 c”O‚È‚ª‚ç åp‚Í‹³‚¦‚Ä‚ ‚°‚ç‚ê‚Ü‚¹‚ñ‚æH
-Unfortunately, I can't teach you any magic, huh?
+It's too bad that I can't teach you any magic, huh?

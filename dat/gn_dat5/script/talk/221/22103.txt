@@ -2,7 +2,7 @@
 Kasen
 106
 ’T‚µ•¨‚ÍŒ©‚Â‚©‚è‚»‚¤‚Å‚·‚©H\b
-Have you found all the things you were looking for?
+Have you found everything I asked for?\b
 \x03
 ‚·‚×‚ÄW‚Ü‚Á‚½‚ç ‹³‚¦‚Ä‚­‚¾‚³‚¢‚ËI
-Let me know when you've found them all!
+Let me know once you've found them all!

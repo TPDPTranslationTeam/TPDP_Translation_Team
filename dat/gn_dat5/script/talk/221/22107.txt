@@ -2,6 +2,6 @@
 Kana
 16_03
 やったわ 何か落としてったわ！\b
-Oh, I did it. I dropped something.
+Oh, I dropped something.\b
 けど・・・ なんだろう これ？
 But... What is this?

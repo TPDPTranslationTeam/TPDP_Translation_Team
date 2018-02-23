@@ -2,4 +2,6 @@
 Kana
 16
 ‚ ‚È‚½‹­‚¢‚í‚ËI–ñ‘©‚¾‚©‚ç‚±‚ê‚ ‚°‚é‚íB
-You're strong! Well, I promised so I'll give it to you.
+You're strong! Well, I promised, so I'll give it to you.
+
+~~Nothing indicates that she promised something, either??

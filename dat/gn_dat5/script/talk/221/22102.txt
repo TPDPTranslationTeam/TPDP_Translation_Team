@@ -2,6 +2,8 @@
 Kasen
 106
 ‚»‚¤‚Å‚·‚©B\b
-Is that so?
+Is that so?\b
 ‚Å‚Í‚Ü‚½‚¨è“`‚¢’¸‚¯‚é‚Æ‚«‚É‚Å‚à º‚ğŠ|‚¯‚Ä‚­‚¾‚³‚¢‚ËB
-But please speak to me again when you've finished helping.
+Please speak to me again when you've found everything.
+
+~~Not sure what the first line is referring to. Should be okay, but might need tweaking.
