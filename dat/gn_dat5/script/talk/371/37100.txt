@@ -1,5 +1,5 @@
-リグル
+Wriggle
 60_01
-あ！やっぱり ここにいた！\b
+Ah! They're here!\b
 \x03
-ニゲロ ニゲロー！！
+Run away, run away!

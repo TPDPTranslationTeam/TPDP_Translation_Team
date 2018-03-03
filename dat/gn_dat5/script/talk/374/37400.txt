@@ -1,8 +1,8 @@
-文
+Aya
 73_04
-あやや 誰かと思ったら\pさんではないですか。\b
-また妖怪の山観光ですか？\b
+Ayaya, wasn't sure who it was, but it was you \p.\b
+Sightseeing at Youkai Mountain again?\b
 \x02
-おや そうでもないみたいですね。\b
+Ooh, looks like you're not doing that.\b
 \x00
-もしやあの浮いてる輝針城が興味があったりして・・・
+I guess you're interested in that floating Shining Needle Castle...

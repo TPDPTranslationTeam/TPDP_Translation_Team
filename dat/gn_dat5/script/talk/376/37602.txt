@@ -1,5 +1,5 @@
-チルノ
+Cirno
 39_01
-ここはどこだ！\b
+Where am I?
 \x03
-あたいはチルノっ！
+I am Cirno!

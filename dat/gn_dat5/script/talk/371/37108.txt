@@ -1,8 +1,8 @@
-ミスティア
+Mystia
 61_00
-あら まだイケるのね。\b
+You're still doing good it seems.\b
 \x03
-ここで 嬉しいお知らせ！\b
-なんと 次が最後のテストよ。\b
+That's pleasant news!\b
+However, the next battle will be your final test.\b
 \x00
-ほら ルーミアが待っているわ！
+Go on, Rumia is waiting for you!

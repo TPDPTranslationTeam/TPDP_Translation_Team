@@ -1,5 +1,5 @@
-ルーミア
+Rumia
 37_03
-妖精に紛れて人間発見よ！\b
+A human has been found among the fairies!\b
 \x05
-・・・なんだ \pじゃないかぁ。
+...Oh it's just you.

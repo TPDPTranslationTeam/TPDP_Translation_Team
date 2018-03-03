@@ -1,21 +1,21 @@
-サニー
+Sunny Milk
 69_01
-・・・めんどくさいの 押しつけて先に行ったわね。\b
-\oスター
+Rumia is forcing us to do something troublesome.\b
+\oStar Sapphire
 \s71_01
-でも本当に仲間になったのね。\b
-解放戦線を壊した奴だったのに 変な感じがするわ。\b
-\oルナ
+But they really did become our comrade huh.\b
+It feels weird having the person that destroyed the Liberation Front join us.\b
+\oLuna Child
 \j70_00
-まぁ手伝ってくれるならいいけど。\b
+Well if they're willing to help it's fine.\b
 \x03
-仲間になったんだから 今度は助けてくれるんでしょ？\b
-\oサニー
+Since they're our comrade now, this time they'll help us right?\b
+\oSunny Milk
 \j69_03
-じゃあ 早速 私が説明を\b
-\oルナ
+Fine I guess I'll get explainin-\b
+\oLuna Child
 \s70_01
-\pは 解散した解放戦線が復活したっていう話は知っているの？\b
-\oサニー
+Do you know about the new Liberation Front that spawned after the old one disbanded?\b
+\oSunny Milk
 \s69_02
-ま また・・・
+A-Again...

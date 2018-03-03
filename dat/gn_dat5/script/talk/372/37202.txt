@@ -1,45 +1,45 @@
-スター
+Star Sapphire
 71_01
-あぁ やっぱり知っているのね。\b
-解放戦線が復活して 色んな所で暴れてるって。\b
-\oサニー
+Oh so you do know about it.\b
+The Neo Liberation Front has been running wild in many places.\b
+\oSunny Milk
 \j69_04
-ホ ホント困るわよね！\b
+A-And that's really bad!\b
 \x01
-あれ 私たち何も関係ないのよ？\b
-どっかの誰かが勝手に名前使って 暴れてるの。\b
-しかも悪いことまでしちゃって！！\b
-\oルナ
+That has nothing to do with us you know?\b
+That person is just using our name to do whatever they want!\b
+Most of all, they're doing really bad things too!!\b
+\oLuna Child
 \j70_01
-だから私たち解放戦線が その悪い奴をこらしめてやろうと思ったのよ！\b
+That's why we thought to punish that bad person!\b
 \x04
-え・・・？
-同じようなことしてたじゃないかって？\b
+Huh...?
+They're doing the same thing as we did?\b
 \x01
-失礼ね！他のやつの人形まで盗んだりしてないわよ！\b
-\oスター
+That's rude! We weren't stealing those other people's Puppets!\b
+\oStar Sapphire
 \s71_02
-でもね 肝心のリーダーのメディスンが見当たらないの。\b
-これじゃあ活動を再開できないわ。\b
+But our important leader, Medicine is no where to be found.\b
+We can't restart our activities without her.\b
 \x01
-解放戦線はメディスンがリーダーだもの。\b
-彼女がいないと始まらないの！\b
-\oサニー
+Medicine is our leader after all.\b
+Without her, we can't do anything!\b
+\oSunny Milk
 \j69_01
-だから \pにはメディスンを探し出してもらうわ！\b
-それが 代理リーダーである私からの指令よ！\b
-\oルナ
+That's why we want you to look for her!\b
+This is an order from your substitute leader!\b
+\oLuna Child
 \j70_00
-サニーが代理リーダーなんて不安だけど \pに任せるんだから大丈夫よね？\b
-\oスター
+The idea of Sunny being the leader makes me uneasy, but is it alright if we leave this to you?\b
+\oStar Sapphire
 \j71_03
-ええ 私たちのイタズラを止めた\pだもの。\b
-きっとうまくいくわ。\b
+\p is the one who put a stop to our pranks after all.\b
+It should go smoothly.\b
 \x00
-そうそう。
-メディスンのことだから おそらく鈴蘭畑から離れていないはずよ。\b
+Yup yup.
+Since this is Medicine, she should hopefully not be away from Suzuran Field.\b
 \x03
-先にルーミア達が探しに行ってるから合流してちょうだい。\b
-\oサニー
+We want you go to help Rumia and co. look for her there.\b
+\oSunny Milk
 \j69_00
-それじゃあ 任せたわよ！
+We'll leave this to you now!

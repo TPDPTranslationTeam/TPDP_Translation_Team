@@ -1,8 +1,8 @@
-文
+Aya
 942_03
-さぁ 着きましたよ。\b
+We've arrived.\b
 \s73_00
-ついでだから 私も少し取材もしていきましょうか。\b
+Since we're here, I may as well do some coverage on this place.\b
 \x03
-あ 帰るときは自力でどうにかしてくださいね！\b
-それでは！
+Oh, and if you want to go home please try to find a way back on your own!\b
+Until then!

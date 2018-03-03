@@ -1,11 +1,11 @@
-ルーミア
+Rumia
 37_05
-・・・悔しいけど 負けたのだから合格にしてあげる。\b
+...Though it pains me to do this, I have to give you a pass.\b
 \x03
-喜ぶといいわ！\b
-あんたは人形解放戦線のメンバーに選ばれたのよ！\b
+Rejoice!
+You've been selected to be a member of the Puppet Liberation Front!\b
 \x00
-とっても嬉しいでしょ？\b
-さぁ 仲間になったんだから 早速 私たちの手伝いをしてもらうわ！\b
+Aren't you so happy?\b
+Since you're our comrade now, you should assist us at once!
 \x01
-ほら 詳しい話はアジトに着いてからよ！
+Come on, you can get the full story at the hideout!

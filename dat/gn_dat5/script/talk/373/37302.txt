@@ -1,30 +1,30 @@
-ルーミア
+Rumia
 37_04
-メディスン やっと見つけた。\b
-ずっと探してたんだから！\b
+We found you Medicine.\b
+We've been searching for you everywhere!\b
 \x01
-聞いて！どっかの誰かに解放戦線が乗っ取られちゃったの！\b
-\oメディスン
+Please listen! Someone has taken over the Liberation Front!\b
+\oMedicine
 \j72_06
-だからどういうことって聞いてるじゃない！\b
-誰がそんなことしたのよ？\b
-\oチルノ
+Didn't you hear me say I don't know the meaning of this!\b
+Who did this?\b
+\oCirno
 \j39_02
-あたい達も知らないよ。\b
+We dunno.\b
 \x01
-でも聞いたんだ。
-逆さまのでっかい城を乗っ取った解放戦線が また暴れだしたって。\b
+But we heard this.
+The Neo Liberation Front is running wild at this gigantic inverted castle.\b
 \x02
-言っておくけど あたい達は何もしてないからなっ！\b
-\oメディスン
+Just so you know, we didn't do anything at all!\b
+\oMedicine
 \j72_01
-・・・勝手なことをしてくれる奴もいるものね。\b
-いいわ その挑戦のってやろうじゃない！\b
+...Some person just decided to do whatever they wanted huh.\b
+Fine then, I'll take on that challenge!\b
 \x08
-人形解放戦線 活動再開するわ！\b
-何も許可なしに乗っ取って あたしに喧嘩売ってきたやつをコテンパンにしてやるのよ！\b
-\oルーミア
+The Puppet Liberation Front shall resume operation!\b
+This punk thief is gonna get what they deserve when I'm through beating the crap outta them!\b
+\oRumia
 \j37_03
-おーっ！流石はリーダー！\b
+Ooooh! That's our leader!\b
 \x05
-・・・で その逆さまの城って どこにあるんだ？
+So, where is that Inverted Castle anyway?

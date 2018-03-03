@@ -1,6 +1,6 @@
-ルーミア
+Rumia
 37_00
-やっぱり私のところまでやってきたわね。\b
+Looks like you've finally come here.\b
 \x03
-ならば私が最終テストをしてやる！\b
-負けて私たちをガッカリさせないでよね！
+In that case, allow me to give you the final test!\b
+Don't you dare disappoint us!

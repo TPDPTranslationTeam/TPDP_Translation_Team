@@ -1,11 +1,11 @@
-文
+Aya
 73_03
-やはり当たってましたか。\b
+So I was right then.\b
 \x01
-人形解放戦線も復活し 輝針城を根城にしてるという噂もありますしね。\b
-\pさんとしては 放っておけないでしょう。\b
+Rumor says the Neo Puppet Liberation Front has their stronghold at the Shining Needle Castle.\b
+Of course you can't ignore that.\b
 \s942_00
-ではでは 私が連れて行ってあげましょう！\b
-あなたは飛べないでしょうから 特別大サービスですよ。\b
+In that case, let me take you there!\b
+This is a special service for you since you can't fly.\b
 \x03
-それでは つかまっていて下さいね！
+Well then, please hold on!
