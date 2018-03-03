@@ -1,6 +1,9 @@
-リグル
+Wriggle
 60_03
 あはは 仕留めるなんて冗談よ。\b
+Ahaha, the taking you down thing was a joke.\b
 これはテストなんだからね！\b
+This is test after all!\b
 \x01
 終わったんだから ちゃんとミスティアのところに向かうのよ？
+Since we're done, how about heading over to Mystia?

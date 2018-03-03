@@ -1,6 +1,9 @@
-メディスン
+Medicine
 72_00
 そういうことよ。\b
+If that's what you say.\b
 認めてはいないけど あんたも仲間に入ったからには手伝ってもらうわ。\b
+While I won't accept you, as a comrade you must lend up help.\b
 \x01
 いい？必ず来なさいよ！！
+Understand? You must come with us!!

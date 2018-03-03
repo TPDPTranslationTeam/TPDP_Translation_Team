@@ -1,7 +1,10 @@
-メディスン
+Medicine
 72_04
 ・・・次はその逆さまの城って奴を探すわ！\b
-\oチルノ
+...Next we will search for the Inverted Castle!
+\oCirno
 \j39_03
 あ！それならあたいが知ってるよ。\b
+Ah! Then I know about it!\b
 妖怪の山近くに浮いてたから 山からなら行けると思う。
+It's floating near Youkai Mountain. Should be able to get there from the mountain I think.

@@ -1,5 +1,7 @@
-スター
+Star Sapphire
 71
 私たちはアジトを守るためにお留守番よ。\b
+We're standing by to protect the hideout.\b
 \x03
 遊びながらしっかり守ってみせるわっ！
+We're gonna play while also protecting this place too!

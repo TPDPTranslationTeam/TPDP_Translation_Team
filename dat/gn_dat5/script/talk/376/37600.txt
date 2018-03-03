@@ -1,15 +1,24 @@
-メディスン
+Medicine
 72_01
 あ！やっと来たのね！
+Aah! You're finally here!
 遅いじゃないっ！\b
+You're late!\b
 \x04
 まったく ここは何なのよ！\b
+Geez, what's up with this place!\b
 逆さになったり 元に戻ったり意味がわからないわ。\b
+This place is so backwards and trying to go back makes no sense.\b
 \x02
 おかげでみんなとはぐれちゃうし・・・。\b
+Thanks to that everyone got lost...\b
 \s72_05
 ま 迷ってなんかないわよ！？\b
+I-I'm not lost at all!?\b
 みんなが勝手にどこかに行っちゃったのよ！\b
+Everyone just decided to go wherever they pleased!\b
 \x08
 仕方がないから それぞれで進んでいくしかないわ。\b
+Since it couldn't be helped, we just gotta progress on our own.\b
 あんたもきちんと頑張んなさいよ！
+You better preserve through this as well!

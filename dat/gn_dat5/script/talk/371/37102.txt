@@ -1,6 +1,9 @@
-チルノ
+Cirno
 39_04
 ・・・。\b
+...\b
 \x01
 よし 次のテストに進ませてあげる！\b
+Well then, you can continue on with the test!\b
 さぁ 次は大妖精のところよ。
+Your next opponent is Daiyousei.

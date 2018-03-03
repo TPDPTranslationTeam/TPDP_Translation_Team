@@ -1,6 +1,9 @@
-リグル
+Wriggle
 60_00
 さぁて 私の番だよ！\b
+Now it's my turn!\b
 だんだんとバテてきたでしょ？\b
+You starting to feel worn out?\b
 \x03
 きっちり仕留めてあげるわっ！
+I'm gonna take you down easy!

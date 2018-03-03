@@ -1,5 +1,7 @@
-ミスティア
+Mystia
 61_00
 なんでメディスンは隠れちゃったのかしら。\b
+Why was Medicine hiding away anyway?\b
 \x01
 何か変なことしたんじゃないでしょうね？
+Did something weird happen?

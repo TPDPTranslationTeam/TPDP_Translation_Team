@@ -1,6 +1,9 @@
-ミスティア
+Mystia
 61_00
 あら 疲れてきたって顔してるわね。\b
+Don't you have a tired face.\b
 ふふ だからって止めてあげないけど。\b
+Fufu, and that's why I'm not gonna let you back out.\b
 \x03
 ちゃんと私とも戦ってよね！
+Now battle with me!

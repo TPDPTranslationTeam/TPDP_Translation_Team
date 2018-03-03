@@ -1,5 +1,7 @@
-サニー
+Sunny Milk
 69_00
 代理リーダーの決め方？\b
+What was it that decided the substitute leader?\b
 \x03
 そりゃ じゃんけんに決まっているじゃない。
+It was Rock, Papper, Scissors of course.

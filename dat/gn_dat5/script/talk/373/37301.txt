@@ -1,10 +1,15 @@
-メディスン
+Medicine
 72_05
 本当気に食わないやつ！\b
+You disgust me!\b
 認めないわよ あんたが仲間だなんて！\b
+I will never recognize you as a comrade, never!\b
 \s72_06
 ・・・えっ？\b
+...Huh?\b
 解放戦線が乗っ取られた？どういうこと？\b
-\o？？？
+The Liberation Front has been taken over? What does that mean?\b
+\o???
 \s
 あっ！リーダー発見！
+Aah! We found our leader!

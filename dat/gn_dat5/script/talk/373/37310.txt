@@ -1,5 +1,7 @@
-サニー
+Sunny Milk
 69
 ちゃんとメディスンを見つけられたみたいね。\b
+Looks like you were able to find Medicine.\b
 \x03
 ふふん 私が代理をしていたおかげだわっ！
+Heh heh, it's all thanks to me being the subtitute leader!
