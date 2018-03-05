@@ -3,4 +3,4 @@ Marisa
 Achichi.\b
 \x05
 ...I exerted myself a little too much.
-Feels like I'm just going in circles trying to win.
+It feels like I'm just going in circles trying to win.
