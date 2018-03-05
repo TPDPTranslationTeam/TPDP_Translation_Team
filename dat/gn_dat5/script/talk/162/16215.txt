@@ -4,14 +4,14 @@ Sunny
 さぁ 私たちの準備は整ってるわよ！\b
 Well then, our preparations are ready!\b
 \oルナ
-Luna
+\oLuna
 \s70_04
 何がって 再戦するのよ？
 What are you rematching for?
 決まっているじゃない。\b
 It's already decided, isn't it?\b
 \oスター
-Star
+\oStar
 \s71_03
 どうせ暇でもしてたでしょ？
 Anyway, you came back on your own time.
