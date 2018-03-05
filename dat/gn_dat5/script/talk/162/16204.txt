@@ -1,6 +1,10 @@
 魔理沙
+Marisa
 2
 お \pだな！腕を磨いて待ってたんだ。\b
+Ah, sorry, \p! I was polishing up my skills and waiting for you.\b
 \x08
 今度はそう簡単に負けてやらないぜ。
+I won't lose so easily this time!
 火力全開でぶっ放してやるよ！
+I'm gonna unleash my full firepower!
