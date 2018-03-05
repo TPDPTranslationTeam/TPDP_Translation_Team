@@ -1,9 +1,9 @@
-チルノ
+Cirno
 39_01
-きたな \p！\b
-こんどは あたいのテリトリーで・・・\b
+You're here, \p!\b
+This time in my territory...\b
 \x04
-あれ ヤキトリーだっけ？\b
+Huh? Is it yakitori?\b
 \x00
-うん そうそう ヤキトリーで勝負だ！\b
-最強のあたいをなめないでよね！
+Uh huh, yeah yeah, a game for yakitori!\b
+Don't you dare underestimate the strongest!
