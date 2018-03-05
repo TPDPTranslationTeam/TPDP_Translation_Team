@@ -2,13 +2,14 @@
 Cirno
 39_01
 きたな \p！\b
+You're here, \p!\b
 こんどは あたいのテリトリーで・・・\b
-This time in my territory...
+This time in my territory...\b
 \x04
 あれ ヤキトリーだっけ？\b
-Huh? Is it yakitori
+Huh? Is it yakitori?\b
 \x00
 うん そうそう ヤキトリーで勝負だ！\b
-Uh huh, yeah yeah, a game for yakitori!
+Uh huh, yeah yeah, a game for yakitori!\b
 最強のあたいをなめないでよね！
-Don't like the strongest!
+Don't you dare underestimate the strongest!
