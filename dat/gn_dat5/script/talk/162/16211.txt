@@ -2,10 +2,10 @@
 Daiyousei
 38
 今は チルノちゃんを探しているの。\b
-I'm looking for Cirno right now.
+I'm looking for Cirno right now.\b
 \x01
 ・・・イタズラ？\b
-...a prank?
+...A prank?\b
 \x03
 楽しいことがなくなったら 怒られない程度にしちゃおうかしらっ！
-Let's try not to get angry if the fun goes away!
+Let's try not to get angry if the fun goes awry!
