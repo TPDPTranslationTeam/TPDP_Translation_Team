@@ -2,7 +2,7 @@
 Reimu
 1_02
 ・・・なかなか勝てないわね。\b
-...I just couldn't win.
+...I just couldn't win.\b
 \x05
 あんたが帰るまでに 完勝できる方法見つけなきゃなぁ。
 I have to find a way to win before you go back...
