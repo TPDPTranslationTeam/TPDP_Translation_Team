@@ -1,7 +1,7 @@
-メディスン
+Medicine
 72_04
-またやってきたの？
-\p あんたも飽きないわね。\b
+You've come again?
+You don't get bored, huh, \p.\b
 \x08
-暇してるなら 私の挑戦受けてみなさい！
-復活した解放戦線リーダーの力 思い知らせてやるわっ！
+If you're free, take my challenge!
+I'll make you realize the power of the revived Puppet Liberation Front's leader!
