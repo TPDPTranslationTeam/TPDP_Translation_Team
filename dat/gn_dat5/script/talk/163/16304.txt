@@ -1,8 +1,8 @@
-パチュリー
+Patchouli
 
-まず 人形の個体ランクが人形の能力値に影響を与えるのは勿論知ってるわよね。\b
-\c転生は 人形のレベルを１に戻して人形に割り振ったＰＰを全てリセットする事によって 個体ランクを再設定する方法。\b
-\cそして継承は 継承元の人形の個体ランクを転生する人形に引き継ぐ方法ね。\b
-順を追って説明してあげるわ。\b
-\c魔力の欠片は持ってる？
-転生するには魔力の欠片が１個必要になるわ。
+First of all, you must know that individual stat ranks influence the stats of Puppets, right?\b
+\cYou can reset the Puppet's level, PPs, and stat ranks with Reincarnation.\b
+\cAnd with Inheritance, you can impart stat ranks from Succession Sources to the reincarnating Puppet.\b
+I'll explain in order.\b
+\cDo you have Magical Fragments?
+You need one in order to reincarnate a Puppet.
