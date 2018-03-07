@@ -6,10 +6,10 @@ First of all, you must know that individual stat ranks influence the stats of Pu
 //\c転生は 人形のレベルを１に戻して人形に割り振ったＰＰを全てリセットする事によって 個体ランクを再設定する方法。\b
 \cYou can reset the Puppet's level, PPs, and stat ranks with Reincarnation.\b
 //\cそして継承は 継承元の人形の個体ランクを転生する人形に引き継ぐ方法ね。\b
-\cAnd with Inheritance, you can impart stat ranks from Succession Sources to the Reincarnating puppet.\b
+\cAnd with Inheritance, you can impart stat ranks from Succession Sources to the reincarnating Puppet.\b
 //順を追って説明してあげるわ。\b
 I'll explain in order.\b
 //\c魔力の欠片は持ってる？
 \cDo you have Magical Fragments?
 //転生するには魔力の欠片が１個必要になるわ。
-You need one in order to reincarnate a puppet.
+You need one in order to reincarnate a Puppet.
