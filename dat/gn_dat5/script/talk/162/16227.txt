@@ -2,12 +2,12 @@
 Utsuho
 96_02
 えーっと・・・見たことあるんだけど誰だったかしら。\b
-Umm... I've seen you before, but who are you?
+Umm... I've seen you before, but who are you?\b
 \x00
 あ！そうよ。
 Ah! That's it.
 さとり様が通すなって言ってたときに来た人間ね。\b
-You're the human Miss Satori said not to let pass when they come.
+You're the human Miss Satori said to not let pass when they come.\b
 \x01
 さあ ここを通りたいなら私と戦いなさい！
 Well then, fight me if you want to pass!
