@@ -4,7 +4,7 @@ Parsee
 何度も話しかけてくる人間ね。
 It's the human who talked to me so many times.
 そんなにここが面白い？\b
-Is this place really that interesting??\b
+Is this place really that interesting?\b
 \x03
 甘く見てると いつの間にか食べられてしまうかもしれないわよ。
 You might get eaten if you don't take things seriously.
