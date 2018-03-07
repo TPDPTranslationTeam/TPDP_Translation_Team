@@ -2,7 +2,7 @@
 Kanako
 86
 おや ここがそんなに気に入ったのかい？\b
-Wow, this place has become this popular?
+Wow, this place has become this popular?\b
 \x03
 信徒が増えるのは心地いいものよねぇ。
 It feels great to gather more faith!
