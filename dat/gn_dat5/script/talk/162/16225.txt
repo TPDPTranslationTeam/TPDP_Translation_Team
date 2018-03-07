@@ -2,9 +2,9 @@
 Yuugi
 93_02
 負けちまったか。\b
-I lost!\b
+I lost.\b
 \x00
 いや でも楽しいな やっぱり。
-Yeah, well, at least it was as fun as I expected.
+Well, at least it was as fun as I expected.
 待っていて正解だったよ。
 I was right to wait for you.
