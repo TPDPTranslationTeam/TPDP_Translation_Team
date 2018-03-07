@@ -2,9 +2,9 @@
 Chen
 047
 //‚ ‚ç ‚Ü‚½—ˆ‚½‚ÌH
-Oh, you came here gain?
+Oh, you came again?
 //‚ ‚È‚½‚à‰É‚µ‚Ä‚é‚Ì‚ËB\b
-You have time to spare, isn't it?\b
+You have time to spare, don't you?\b
 \x03
 //‚Ë‚¥‚Ë‚¥ ÜŠp‚¾‚©‚ç‚¿‚å‚Á‚Æ„‚Æ—V‚Ñ‚Ü‚µ‚åB
-Since you came here all along, let's play.
+Since you returned here after all, let's play.
