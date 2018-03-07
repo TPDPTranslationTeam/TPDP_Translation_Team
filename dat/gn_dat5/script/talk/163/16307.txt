@@ -10,7 +10,8 @@ Did you get it?\b
 //個体ランクは完全にランダムで決定されること。\b
 //\cこの二つが転生の注意点ね。
 Please notice the following when you reincarnate your Puppets:\b
-\cthe Puppet's PP returns to 0,
+\b
+\cthe Puppet's PP returns to 0,\b
 \cand the Individual Rank is determined randomly.
 
 //I need to swap lines
