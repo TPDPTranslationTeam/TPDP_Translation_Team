@@ -4,4 +4,4 @@ Kosuzu
 あ \pさん。いらっしゃいませ！\b
 Ah, \p! Welcome!
 妖魔本を読みに来たんですか？
-Did you come to read a demon book?
+Do you want me to read a demon book?

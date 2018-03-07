@@ -2,11 +2,12 @@
 Kosuzu
 114
 ・・・\pさんでしたよね。\b
-...It was \p, huh?
+...\p, right?
 もしよければ その妖魔本 探してきてもらえませんか？\b
-If it's ok, could I get you to look for that demon book?
+Could you search for these demon books?
 \c人形についての情報が欲しいとのことですし どうでしょう？\b
-\cIf you wanna find out more about the puppets, how about it?
+\cYou said you want more information about the puppets.
+How about it?
 \x04
 私のところに持ってきていただければ 私が解読しますので！
-If you bring it here to me, I'll decipher it all for you!
+If you bring it here to me, I'll decipher them all for you!

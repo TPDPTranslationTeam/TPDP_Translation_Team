@@ -1,7 +1,7 @@
 
 
 この先は 危険な妖怪が出るんだ。危ないから 通るのは・・・\b
-Up ahead a dangerous youkai pops out.  It's dangerous so take... \b
+Up ahead a dangerous youkai pops out. It's dangerous to go... \b
 \cあ！ひ 稗田の当主！？\b
 \cAh! M-Master Hieda?
 \oマミゾウ
@@ -10,7 +10,7 @@ Up ahead a dangerous youkai pops out.  It's dangerous so take... \b
 この方は私の護衛です。\b
 This person is my escort.
 人形を使うのが達者な方なので心配はいりませんよ。\b
-They're a skillful user of puppets, so do not worry.
+A skillful user of puppets, so do not worry.
 \x00
 ここを通してあげなさい。\b
 Please let us pass.

@@ -2,9 +2,9 @@
 Akyuu?
 947_04
 ‰½‚ğ•ğ‚¯‚Ä‚¨‚é‚Ì‚¶‚áB\b
-What are you so surprised by?\b
+What are you so surprised?\b
 \x03
 ™N‚¶‚á‚æ™NB\b
-I am me.\b
+It's me.\b
 ‚»‚¤‚¢‚¦‚Î–¼æ‚Á‚Ä‚È‚©‚Á‚½‚Ì‚¤B
-Isn't that what I've always called myself?
+Oh, I didn't introduce myself.

@@ -7,8 +7,9 @@ Ah, it's you.
 \o???
 \s957
 ちょいと失礼するぞい。\b
-Sorry, how rude of me.
+Excuse me.\b
 何やら中から面白い話が聞こえてのう 入らずにおられまいて。\b
+I heard something interesting. I couldn't help myself\b
 \x03
 人形の情報が書かれた妖魔本といっておったな？\b
 Did you say there's information about the puppets written in that demon book?

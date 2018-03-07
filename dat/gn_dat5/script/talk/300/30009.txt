@@ -2,7 +2,7 @@
 Kosuzu
 114
 妖魔本ですか？\b
-A demon book?
+Demon books?
 妖怪が記した本で 人間には読むことのできない文字で書かれているんです。\b
 It's a book written by youkai using characters humans can't read.
 \x03
@@ -10,4 +10,4 @@ It's a book written by youkai using characters humans can't read.
 I can read it, so if you find one please bring it here!
 \x04
 あ！それとも今 読みますか？
-Ah! Or did you want me to read one now?
+Oh, or do you want me to read one now?
