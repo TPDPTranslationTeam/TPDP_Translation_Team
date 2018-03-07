@@ -1,5 +1,5 @@
-パチュリー
+Patchouli
 42
-そう。なら別にいいわ。\b
+Well then.\b
 \x03
-興味がでたら またいらっしゃい。
+Come again if you're interested.
