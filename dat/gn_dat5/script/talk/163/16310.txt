@@ -1,8 +1,8 @@
-パチュリー
+Patchouli
 
-他に伝えることは・・・んー 道具の事かしらね。\b
-印や特定の道具を持たせることによって 色々と転生後の能力も変わるんだけど・・・。\b
-\c・・・そろそろ喋りつかれたわね。
-後は自分で勝手に調べなさい。\b
-\cま 色々と試してみるといいんじゃないかしら。
-失敗は成功の元 ね。
+The other thing I should tell you is... about items.\b
+You can change the stats of reincarnated Puppets using Emblems and by holding certain items...\b
+\c... I'm tired of talking.\b
+Research it yourself now.\b
+\cYou should try everything.
+Failure is the mother of success, as they say.
