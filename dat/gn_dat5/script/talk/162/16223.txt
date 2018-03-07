@@ -1,6 +1,6 @@
-パルスィ
+Parsee
 92
-何度も話しかけてくる人間ね。
-そんなにここが面白い？\b
+It's the human who talked to me so many times.
+Is this place really that interesting?\b
 \x03
-甘く見てると いつの間にか食べられてしまうかもしれないわよ。
+You might get eaten if you don't take things seriously.
