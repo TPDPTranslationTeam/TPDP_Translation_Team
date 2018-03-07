@@ -19,4 +19,4 @@ Alright, first thing's first, I finally established the methods.\b
 I call them "Reincarnation" and "Inheritance."\b
 \x05
 //それなりに複雑な話になるけど・・・興味ある？
-They're complicated, are you still interested in them?
+They're complicated...  Are you still interested in them?
