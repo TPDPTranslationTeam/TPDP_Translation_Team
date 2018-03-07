@@ -2,12 +2,12 @@
 Lunasa
 51_00
 イスが浮くだけだと 少しつまらなかったかしら。\b
-I wonder if the chair floating is a little too boring.
+I wonder if making the chair float is a little too boring.\b
 \x01
 久しぶりに館から音が聞こえてきて出てみたけど 反応がいまいちで期待はずれね。\b
-After a long time, noise can be heard from this mansion, but the reaction is disappointing.
+After a long time, noise can be heard from this mansion, but the reaction is disappointing.\b
 楽しくない音ほど つまらないものはないわ。\b
-Nothing is as boring as a joyless sound.
+Nothing is as dull as a joyless sound.\b
 \x00
 耳障りになる音は排除しなくちゃ。
 I need to get rid of these painful noises.
