@@ -1,7 +1,8 @@
-パチュリー
+Patchouli
 
-これで転生の一連の流れは終了よ。
-理解できてるかしら？\b
-\c転生する前に持っていた人形のPPは全て０になること。\b
-個体ランクは完全にランダムで決定されること。\b
-\cこの二つが転生の注意点ね。
+Now this is how Reincarnation is done.
+Did you get it?\b
+Please notice the following when you reincarnate your puppets:\b
+\b
+\cthe Puppet's PP returns to 0,\b
+\cand the Individual Rank is determined randomly.
