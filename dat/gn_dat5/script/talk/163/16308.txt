@@ -6,4 +6,4 @@ Next is Inheritance.\b
 //\cただ転生するだけだと個体ランクは完全にランダムで決まる・・・ってのはさっき教えたわね。\b
 \cAs I said before, reincarnating without Inheritance determines stat ranks randomly.\b
 //\c継承は 継承元人形を設定することによって その人形のランクを一部だけ転生人形に引き継ぐ事が出来るわ。
-\cYou can impart stat ranks from Succession Sources to the reincarnating Puppet with Inheritance.\b
+\cYou can impart stat ranks from Succession Sources to the reincarnating Puppet with Inheritance.
