@@ -2,9 +2,9 @@
 Chen
 047_01
 //聞いたとおりの実力なのね。\b
-You're strong as I hear.\b
+You're as strong as I heard.\b
 \x00
 //そういえば 藍様や紫様に挑戦してみた？\b
-However, did you challenge my master Ran and Yukari?\b
+However, did you challenge my masters Ran and Yukari?\b
 //スキマップで行けるようになってるって 紫様が言っていたわよ。
-You can go there now, as Yukari said.
+You can go there now, as Yukari promised.
