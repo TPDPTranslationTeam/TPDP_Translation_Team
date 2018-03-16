@@ -2,7 +2,7 @@
 Merlin
 50_01
 遅れちゃったのかなぁ。\b
-I'm laaate!
+Was I late?
 \x00
 もったいないし 勝手に演奏始めちゃダメかしらっ。
-What a waste. It's no good to start a performance arbitrarily...
+What a waste. Can I start a performance arbitrarily...?

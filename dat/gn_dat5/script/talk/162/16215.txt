@@ -2,18 +2,18 @@
 Sunny
 69_03
 さぁ 私たちの準備は整ってるわよ！\b
-Well then, our preparations are ready!\b
+Well then, we're ready!\b
 \oルナ
 \oLuna
 \s70_04
 何がって 再戦するのよ？
-What are you rematching for?
+For what? It's rematch, of course!
 決まっているじゃない。\b
 It's already decided, isn't it?\b
 \oスター
 \oStar
 \s71_03
 どうせ暇でもしてたでしょ？
-Anyway, you came back on your own time.
+Anyway, you have some time to spare, right?
 せっかくだから 私たちと遊びましょ！
-Since it was so much effort, let's play together!
+Let's play together!

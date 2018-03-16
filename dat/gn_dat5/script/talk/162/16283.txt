@@ -5,7 +5,7 @@ Yukari
 Where are you watching from?
 \x00
 ‚±‚ÌŒ¶‘z‹½‚É“ü‚Á‚½‚©‚ç‚Á‚Ä‚¢‚é‚à‚Ì‚ª‚ ‚é‚Å‚µ‚å‚¤H\b
-Is there something you've been carrying since you entered Gensokyo?
+You've been carrying a thing since you entered Gensokyo.
 \x03
 ‚Ó‚Ó ‚à‚¿‚ë‚ñŒ©‚é‚¾‚¯‚Å‚È‚­ ‚¨è“`‚¢‚à‚³‚¹‚Ä‚à‚ç‚¢‚Ü‚µ‚½‚íB\b
 Fufu, I wasn't just watching, I also helped out.

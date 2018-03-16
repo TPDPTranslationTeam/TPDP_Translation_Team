@@ -7,9 +7,11 @@ You're here, \p!\b
 This time in my territory...\b
 \x04
 あれ ヤキトリーだっけ？\b
-Huh? Is it yakitori?\b
+Huh? Is it "yakkitory"?\b
 \x00
 うん そうそう ヤキトリーで勝負だ！\b
-Uh huh, yeah yeah, a game for yakitori!\b
+Uh huh, yeah yeah, let's fight in my yakkitory!\b
 最強のあたいをなめないでよね！
 Don't you dare underestimate the strongest!
+
+//I think we can change "yakkitory" into any vaguely similar word that sounds like "territory" but ridiculous.

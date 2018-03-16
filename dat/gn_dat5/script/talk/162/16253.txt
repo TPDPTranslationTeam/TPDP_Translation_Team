@@ -2,9 +2,9 @@
 Suika
 68
 いやぁ 鬼のあたしに勝つなんてやるね。
-Noo! You beat me, an oni?
+Wow, you beat me, an oni?
 おかげで目が覚めたよ。\b
 I woke up thanks to you.
 \x03
 気分が乗ったら また対戦してみてもいいねぇ。
-When I'm more awake we should fight again!
+When I'm in mood again we should fight again!

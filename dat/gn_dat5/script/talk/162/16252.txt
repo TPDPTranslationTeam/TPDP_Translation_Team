@@ -2,7 +2,7 @@
 Suika
 68_03
 やぁ いい天気だね。ちょっと寝すぎちゃったわ。\b
-Yaa, what great weather! I slept too much.
+Hey, what a great weather! I slept too much.
 \x00
 ちょいと寝覚めに私と一戦しようじゃないか。\b
 I just woke up but wont you have a battle with me?

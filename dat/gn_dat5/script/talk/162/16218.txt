@@ -7,4 +7,6 @@ You are pretty free, unlike me.
 You must be really brave to interrupt my work.\b
 \x01
 相手をしてあげるから 満足したらキチンと帰りなさい。
-If me being your opponent will satisfy you, would you please leave the kitchen?
+I'll battle you, go home if you're satisfied.
+
+//キチンと is not a kitchen

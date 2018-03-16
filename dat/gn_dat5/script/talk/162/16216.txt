@@ -2,7 +2,7 @@
 Luna
 70_01
 で いつもどおりにやられちゃったんだけど サニー？\b
-S-so is this how it's always done, Sunny?\b
+S-so we're done as always, Sunny?\b
 \oサニー
 \oSunny
 \s69_05

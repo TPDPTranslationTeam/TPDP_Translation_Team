@@ -2,9 +2,9 @@
 Reimu
 001_04
 あら \p。あんた暇そうね。\b
-Huh. Don't you look leisurely, \p.\b
+Huh. \p, you look have some time to spare\b
 \x00
 ちょうどすることもないし 私の対戦相手をしてみない？\b
-You're not really doing anything, so why not be my opponent?\b
+Neither do I, so how about a quick puppet match?\b
 あんたの力には興味があるのよ。
-I've got an interest in your power.
+I'm interested in your skills.

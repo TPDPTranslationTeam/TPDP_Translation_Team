@@ -5,6 +5,6 @@ Rumia
 Are you a human I can eat?\b
 \x03
 \cなーんて。
-\cWhy not?
+\cJust kidding.
 人間が夜道を歩くときは 気をつけるのよ。
-Humans should be careful when walking around at night.
+Be careful when walking around at night, human.

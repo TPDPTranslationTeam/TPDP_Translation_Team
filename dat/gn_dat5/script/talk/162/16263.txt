@@ -4,15 +4,15 @@ Reimu
 ・・・そう。
 ...so.
 人形はいなくならないってわけね。\b
-The dolls won't go away.
+The puppets won't go away.
 \x00
 まぁ でもいいんじゃない？
 Well, that's ok isn't it?
 人形という存在を ここにいる者が受け入れ始めているわ。\b
-People are beginning to accept the existence of these dolls.
+People are beginning to accept the existence of these puppets.
 \x05
 何をやっても人形の発生を止められないのであれば 私はこれ以上の手出しはしない。\b
-If nothing I do is gonna stop the puppet generation, I won't go any further.
+If nothing I do is gonna stop the puppets appearing, I won't go any further.
 \x03
 それが幻想郷のやり方よ。
 That's how Gensokyo works.

@@ -2,9 +2,9 @@
 Yukari
 55
 いらっしゃい \p。\b
-Welcome, \p
+Welcome, \p.
 悪魔の世界に行ったようですわね。\b
-It seems you went to hell.
+It seems you went to the demonic realm.
 \x03
 全て見ていました。\b
 I was watching it all.

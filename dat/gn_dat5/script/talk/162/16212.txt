@@ -2,7 +2,7 @@
 Mystia
 61_01
 ヤツメウナギが欲しいの？\b
-Do you want some lamprey unagi?\b
+Do you want some lamprey?\b
 \x00
 残念 今切らしてるから ドジョウしかないよ。
 Unfortunately, it's still being cut, so I only have loach.

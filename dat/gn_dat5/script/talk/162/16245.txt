@@ -1,7 +1,7 @@
 アリス
 31_02
 \pに手を抜くのは さすがに良くなかったわね。\b
-Fittingly, it wasn't good to go easy on you, \p
+Fittingly, it wasn't good to go easy on you, \p.
 \x00
 でもあなたとちゃんと対戦できて良かったわ。
 But it was great to battle you properly.

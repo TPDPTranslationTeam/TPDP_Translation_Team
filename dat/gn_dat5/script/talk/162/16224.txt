@@ -2,7 +2,7 @@
 Yuugi
 93_03
 ‚¨ —ˆ‚½—ˆ‚½‚ÁI‘Ò‚Á‚Ä‚½‚ñ‚¾‚æI\b
-Oh, you came! You came! I was waiting!\b
+Oh, you came! I was waiting!\b
 \x00
 —Í‚µ‚µ‚½‚­‚Ä‚µ‚å‚¤‚ª‚È‚©‚Á‚½‚ñ‚¾B\b
 I couldn't help but want to test your strength.\b
