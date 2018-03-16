@@ -1,3 +1,4 @@
 
 
-・・・何か落としたようだ。
+//・・・何か落としたようだ。
+Something is dropped from her.

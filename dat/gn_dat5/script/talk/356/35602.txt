@@ -1,4 +1,7 @@
 
 
-・・・！こ これ全部食べていいのね！？ありがとう！
-いっただっきまーーーす！！
+//・・・！こ これ全部食べていいのね！？ありがとう！
+Really? Can I eat this all!? Thank you!
+//いっただっきまーーーす！！
+
+//"いただきます" is untranslatable, I think I leave this blank

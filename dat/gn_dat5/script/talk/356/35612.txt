@@ -1,3 +1,4 @@
 
 
-ショートケーキを手に入れた！
+//ショートケーキを手に入れた！
+You obtained a shortcake.

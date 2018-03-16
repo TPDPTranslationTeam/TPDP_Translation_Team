@@ -1,3 +1,4 @@
 
 
-ホールケーキを手に入れた！
+//ホールケーキを手に入れた！
+You obtained a whole cake.

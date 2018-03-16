@@ -1,4 +1,6 @@
 
 
-ふっふっふ あなたの負けね！\bこれで私と二人旅！楽しみだわー！\b
-\cまずは そうねぇ。\b人形バトルで従僕を決めちゃいましょ！
+//ふっふっふ あなたの負けね！\bこれで私と二人旅！楽しみだわー！\b
+Fufufu, you lost!\b I can't wait for the journey with you!
+//\cまずは そうねぇ。\b人形バトルで従僕を決めちゃいましょ！
+\cFirst, let's decide who's the master with a puppet battle!

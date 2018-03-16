@@ -1,3 +1,4 @@
 
 
-幸せそうな顔で気絶している。
+//幸せそうな顔で気絶している。
+She is fainted with a happy face.

@@ -1,5 +1,8 @@
 
 
-・・・少ないわ。こんな小さいのじゃお腹膨れない！\b
-もっといっぱいあったのに・・・。\b
-まさか あなた食べたでしょ！
+//・・・少ないわ。こんな小さいのじゃお腹膨れない！\b
+...It's not enough. It's too small to stuff myself!\b
+//もっといっぱいあったのに・・・。\b
+I remember there was more...\b
+//まさか あなた食べたでしょ！
+Did you eat them!?

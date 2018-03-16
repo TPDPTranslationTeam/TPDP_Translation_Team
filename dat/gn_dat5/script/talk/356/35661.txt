@@ -1,6 +1,10 @@
 
 
-答えはどっちだって良いわ。あなたは私と遊ぶのは決定事項なの！\b
-じゃあ始めましょうか かくれんぼ。あなたが鬼ね！\b
-私が木の中に隠れるから 私が飽きないうちに見つけれたらあなたの勝ち！\b
-\cじゃ 鬼のあなたは目をつむっててね。
+//答えはどっちだって良いわ。あなたは私と遊ぶのは決定事項なの！\b
+Your answer is meaningless. You're decided to play with me!\b
+//じゃあ始めましょうか かくれんぼ。あなたが鬼ね！\b
+Now let's start playing. You're it!\b
+//私が木の中に隠れるから 私が飽きないうちに見つけれたらあなたの勝ち！\b
+I'll hide inside a tree and if you can find me before I get tired of this, you win!\b
+//\cじゃ 鬼のあなたは目をつむっててね。
+\cThen, close your eyes...

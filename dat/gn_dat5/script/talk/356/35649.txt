@@ -1,5 +1,8 @@
 
 
-弱いわねー。\b
-あなたについていってもつまらなそうだからやめとくわ。\b
-少しは暇もつぶせたし これあげるから行っていいよ。
+//弱いわねー。\b
+You're weak.\b
+//あなたについていってもつまらなそうだからやめとくわ。\b
+I'm out, I don't think it's fun to be with you.\b
+//少しは暇もつぶせたし これあげるから行っていいよ。
+Well, that was fun, take this and go on.

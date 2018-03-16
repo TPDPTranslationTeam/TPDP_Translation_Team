@@ -1,4 +1,6 @@
 
 
-丁度いいところに来たわね。私 凄くかくれんぼがしたいのよ。\b
-今ここで出会ったということは私と遊んでくれるということだよね？ね?
+//丁度いいところに来たわね。私 凄くかくれんぼがしたいのよ。\b
+You came in for a good timing. I really want to play hide-and seek right now.\b
+//今ここで出会ったということは私と遊んでくれるということだよね？ね?
+Since you're here, you'll play with me, right?

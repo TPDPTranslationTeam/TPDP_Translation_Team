@@ -1,5 +1,8 @@
 
 
-あなた ここから出たいの？鍵なら私が持ってるけど・・・。\b
-・・・\bうん 決めた。\b
-\c私と遊びましょ？そしたら鍵を渡してあげるわ。
+//あなた ここから出たいの？鍵なら私が持ってるけど・・・。\b
+You want to get out from here? I have the key...\b
+//・・・\bうん 決めた。\b
+...\b Okay.\b
+//\c私と遊びましょ？そしたら鍵を渡してあげるわ。
+\cI'll give you the key if you play with me.

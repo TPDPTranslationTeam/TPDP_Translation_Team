@@ -1,3 +1,6 @@
 
 
-ドン！
+//ドン！
+
+//This is an onomatopoeia: literally "DON!".
+//What's this sound? I want the testing team check it and what was it.

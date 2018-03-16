@@ -1,7 +1,12 @@
 
 
-よし 鬼ごっこしましょ！私が逃げるから あなたが鬼ね！\b
-制限時間以内に捕まえたら鍵を渡してあげる。\b
-\c・・・もし捕まえれなかったら？\b
-そうねぇ。\b・・・決めた！私も一緒にあなたと旅するわ！\b
-\cじゃあ よーい・・・
+//よし 鬼ごっこしましょ！私が逃げるから あなたが鬼ね！\b
+Okay, let's play Tag, you're  it!\b
+//制限時間以内に捕まえたら鍵を渡してあげる。\b
+If you caught me within a set time, I'll give you a key.\b
+//\c・・・もし捕まえれなかったら？\b
+\c...or else?\b
+//そうねぇ。\b・・・決めた！私も一緒にあなたと旅するわ！\b
+Well...\b How about joining your journey with you?\b
+//\cじゃあ よーい・・・
+\cThen, ready...
