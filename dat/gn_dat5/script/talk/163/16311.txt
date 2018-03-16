@@ -2,9 +2,9 @@
 Patchouli
 42_04
 //・・・あぁ 重要な事を言い忘れてた。\b
-I forgot to tell you one thing.\b
+... I forgot to tell you one thing.\b
 \x00
 //転生と継承はそこの私の人形から行えるわよ。\b
-You can Reincarnate and Success from my puppet over there.\b
+You can Reincarnate and Inherit from my Puppet over there.\b
 //もし また詳しいこと聞きたくなったら いつでもいらっしゃい。
-If you want the explanation again, ask me again.
+If you want the explanation again, ask me any time.

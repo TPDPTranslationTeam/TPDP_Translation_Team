@@ -2,14 +2,14 @@
 Patchouli
 
 //他に伝えることは・・・んー 道具の事かしらね。\b
-Other things tell are... about items.\b
+The other thing I should tell you is... about items.\b
 //印や特定の道具を持たせることによって 色々と転生後の能力も変わるんだけど・・・。\b
-You can change the stats of reincarnated puppets with Emblems and holding certain items...\b
+You can change the stats of reincarnated Puppets using Emblems and by holding certain items...\b
 //\c・・・そろそろ喋りつかれたわね。
-\cI'm tired of talking.
+\c... I'm tired of talking.\b
 //後は自分で勝手に調べなさい。\b
 Research it yourself now.\b
 //\cま 色々と試してみるといいんじゃないかしら。
 \cYou should try everything.
 //失敗は成功の元 ね。
-Mistake is the mother of success, as they say.
+Failure is the mother of success, as they say.
