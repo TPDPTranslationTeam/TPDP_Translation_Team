@@ -1,3 +1,4 @@
 
 
-侵入者発見！全力で排除！
+//侵入者発見！全力で排除！
+Intruder alert! Eliminating at all cost!

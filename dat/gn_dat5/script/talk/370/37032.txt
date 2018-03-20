@@ -1,3 +1,4 @@
 
 
-眠れるお茶はお嫌いでしたかー。
+//眠れるお茶はお嫌いでしたかー。
+You don't like sleeping tea, huh.

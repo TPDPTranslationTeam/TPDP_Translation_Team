@@ -1,16 +1,28 @@
-阿求
+//阿求
+Akyuu
 76_00
-あ \pさん！\b
-いきなりお呼び立てしてしまってすみません。\b
+//あ \pさん！\b
+Oh, \p!\b
+//いきなりお呼び立てしてしまってすみません。\b
+Sorry for calling you all of sudden.\b
 \x02
-どうやら最近 また人形解放戦線が暴れているようなのです。\b
-\cしかも今度は単なる悪戯だけでなく 実害も出ているらしく・・・\b
-これ以上 放っておけば被害は増すばかりでしょう。\b
+//どうやら最近 また人形解放戦線が暴れているようなのです。\b
+Apparently, Puppet Liberation Front is running wild again.\b
+\b
+//\cしかも今度は単なる悪戯だけでなく 実害も出ているらしく・・・\b
+\cMoreover, not only a prank, they're actually harming others this time.\b 
+//これ以上 放っておけば被害は増すばかりでしょう。\b
+The damage will spread even more if we leave them.\b
 \x01
-一度 解放戦線を解散された\pさんなら 適任だと思うのです。\b
-彼女らにお灸を添えていただけないでしょうか。\b
+//一度 解放戦線を解散された\pさんなら 適任だと思うのです。\b
+You've disbanded the Front before. You should be the one.\b
+//彼女らにお灸を添えていただけないでしょうか。\b
+Please punish them.\b
 \s76_00
-解放戦線は 里周辺によく出没すると聞きました。\b
+//解放戦線は 里周辺によく出没すると聞きました。\b
+I heard the Front often appears around the village.\b
 \x01
-もし対処に向かわれるのでしたら 十分に準備していくことをお勧めします。\b
-悪戯も厄介なものになっているらしいですわ。
+//もし対処に向かわれるのでしたら 十分に準備していくことをお勧めします。\b
+If you're going out dealing with them, I suggest you to prepare well.\b
+//悪戯も厄介なものになっているらしいですわ。
+Their prank is getting more meaner than before.

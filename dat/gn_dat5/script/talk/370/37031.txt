@@ -1,3 +1,4 @@
 
 
-あらあらお急ぎですか？まあまあお茶をどうぞ。
+//あらあらお急ぎですか？まあまあお茶をどうぞ。
+Are you hurrying along your way? Well, have a cup of tea.

@@ -1,3 +1,4 @@
 
 
-私じゃこの役目は重すぎるわ！
+//私じゃこの役目は重すぎるわ！
+This mission is too heavy for me!

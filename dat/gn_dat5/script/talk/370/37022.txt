@@ -1,3 +1,4 @@
 
 
-人形も奪えずお金も失くすっていうね・・・。
+//人形も奪えずお金も失くすっていうね・・・。
+Failing stealing puppets on top of losing my money...

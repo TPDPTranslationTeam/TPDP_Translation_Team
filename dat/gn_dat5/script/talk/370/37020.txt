@@ -1,3 +1,4 @@
 
 
-あっこれ駄目だコレ 服汚れちゃう！
+//あっこれ駄目だコレ 服汚れちゃう！
+Oops, this is bad! I'm getting dirty!

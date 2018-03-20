@@ -1,4 +1,7 @@
-阿求
+//阿求
+Akyuu
 76_02
-それにしても 何故 解放戦線はまた活動を始めたのでしょう？\b
-何か目的でもあるんでしょうか？
+//それにしても 何故 解放戦線はまた活動を始めたのでしょう？\b
+Why is Puppet Liberation Front became active again?\b
+//何か目的でもあるんでしょうか？
+Is there any goal for them?

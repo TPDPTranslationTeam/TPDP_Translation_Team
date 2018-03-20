@@ -1,4 +1,6 @@
 
 
-あなたが\p様ですね。\b
-主人がお呼びです。至急 屋敷へ来ていただけませんか。
+//あなたが\p様ですね。\b
+You're \p.\b
+//主人がお呼びです。至急 屋敷へ来ていただけませんか。
+My master is calling you. Can you come to the mansion ASAP?

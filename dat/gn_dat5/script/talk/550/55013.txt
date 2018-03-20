@@ -1,4 +1,7 @@
-魅魔
+//魅魔
+Mima
 007_02
-また負けてしまったわ。\b
-私もまだまだ修行が必要みたいねぇ。
+//また負けてしまったわ。\b
+I lost again to you.\b
+//私もまだまだ修行が必要みたいねぇ。
+Looks like I still need more practice.

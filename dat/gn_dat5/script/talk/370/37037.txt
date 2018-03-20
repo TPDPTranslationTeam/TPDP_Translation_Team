@@ -1,3 +1,4 @@
 
 
-ここから先は上官しか通れない場所よ！ここから先は行かせないわ！
+//ここから先は上官しか通れない場所よ！ここから先は行かせないわ！
+This place is only for senior officers! I won't let you through here!
