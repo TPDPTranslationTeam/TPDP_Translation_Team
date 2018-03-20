@@ -1,13 +1,24 @@
-フランドール
+//フランドール
+Flandre
 45
-あ やっと来たのね。\b
-\cようこそ。\b
-・・・そうそう \pって名前だったわね。\b
+//あ やっと来たのね。\b
+Oh, you finally came.\b
+//\cようこそ。\b
+\cWelcome.\b
+//・・・そうそう \pって名前だったわね。\b
+...You're \p, right?\b
 \x05
-私の名前はフランドール・スカーレット。\b
-あいつ・・・レミリアお姉さまの妹よ。\b
+//私の名前はフランドール・スカーレット。\b
+I'm Flandre Scarlet.\b
+//あいつ・・・レミリアお姉さまの妹よ。\b
+I'm... a youger sister of Remilia.\b
 \x04
-私 495年間ずっと ここにいたの。\b
-一人で遊ぶのも楽しいけど みんなすぐに壊れちゃうの。\b
+//私 495年間ずっと ここにいたの。\b
+I was here alone, for 495 years.\b
+//一人で遊ぶのも楽しいけど みんなすぐに壊れちゃうの。\b
+Everyone who play with me break down so easily. I like playing alone, though.\b
 \x00
-お姉さまは \pはなかなかに遊べる って教えてくれたわ。
+//お姉さまは \pはなかなかに遊べる って教えてくれたわ。
+Sister told me \p is somewhat durable.
+
+//Flan doesn't want to admit she's a sister of Remilia?

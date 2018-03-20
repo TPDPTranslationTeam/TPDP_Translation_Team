@@ -1,5 +1,9 @@
-フランドール
+//フランドール
+Flandre
 45_05
-さぁ 人間さん。
-私と一緒に遊びましょう？\b
-あなたは 壊れないよね？
+//さぁ 人間さん。
+Now, human.
+//私と一緒に遊びましょう？\b
+Can you play with me?\b
+//あなたは 壊れないよね？
+You won't be broken, right?

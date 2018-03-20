@@ -1,12 +1,20 @@
-フランドール
+//フランドール
+Flandre
 45_01
-・・・負けちゃった。\b
-うふふ 私 負けたのね。\b
+//・・・負けちゃった。\b
+...I lost.\b
+//うふふ 私 負けたのね。\b
+Ufufu, I lost.\b
 \x03
-\pと遊ぶの とっても楽しかったわ！\b
-本当に強いのね！\b
+//\pと遊ぶの とっても楽しかったわ！\b
+\p, it was so fun playing with you!
+//本当に強いのね！\b
+You're really strong!\b
 \x04
-・・・。\b
-あなたが帰っちゃうと一人になるけど また遊びに来てくれるんでしょう？\b
+//・・・。\b
+...\b
+//あなたが帰っちゃうと一人になるけど また遊びに来てくれるんでしょう？\b
+If you're going home, I'll be alone again. Will you come play with me again?\b 
 \x00
-それなら寂しくないもの。
+//それなら寂しくないもの。
+If so, that won't make me lonely.
