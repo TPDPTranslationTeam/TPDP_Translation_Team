@@ -4,14 +4,14 @@ Rumia
 ...Though it pains me to do this, I have to give you a pass.\b
 \x03
 喜ぶといいわ！\b
-Rejoice!
+Rejoice!\b
 あんたは人形解放戦線のメンバーに選ばれたのよ！\b
 You've been selected to be a member of the Puppet Liberation Front!\b
 \x00
 とっても嬉しいでしょ？\b
 Aren't you very happy?\b
 さぁ 仲間になったんだから 早速 私たちの手伝いをしてもらうわ！\b
-Since you're our comrade now, you should assist us at once!
+Since you're our comrade now, you should assist us at once!\b
 \x01
 ほら 詳しい話はアジトに着いてからよ！
 Come on, you can get the full story at the hideout!
