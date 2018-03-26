@@ -1,7 +1,7 @@
 Cirno
 39_01
 ‚±‚±‚Í‚Ç‚±‚¾I\b
-Where am I?
+Where am I?\b
 \x03
 ‚ ‚½‚¢‚Íƒ`ƒ‹ƒm‚ÁI
 I am Cirno!
