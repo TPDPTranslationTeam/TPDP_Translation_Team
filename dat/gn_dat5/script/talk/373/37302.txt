@@ -1,7 +1,7 @@
 Rumia
 37_04
 メディスン やっと見つけた。\b
-We found you Medicine.\b
+We found you, Medicine.\b
 ずっと探してたんだから！\b
 We've been searching for you everywhere!\b
 \x01
@@ -10,7 +10,7 @@ Please listen! Someone has taken over the Liberation Front!\b
 \oMedicine
 \j72_06
 だからどういうことって聞いてるじゃない！\b
-Didn't you hear me say I don't know the meaning of this!\b
+Didn't you hear me say that I don't know the meaning of this!\b
 誰がそんなことしたのよ？\b
 Who did this?\b
 \oCirno
@@ -21,14 +21,14 @@ We dunno.\b
 でも聞いたんだ。
 But we heard this.
 逆さまのでっかい城を乗っ取った解放戦線が また暴れだしたって。\b
-The taken over Liberation Front is running wild at this gigantic inverted castle.\b
+The taken-over Liberation Front is running wild at this gigantic inverted castle.\b
 \x02
 言っておくけど あたい達は何もしてないからなっ！\b
 Just so you know, we didn't do anything at all!\b
 \oMedicine
 \j72_01
 ・・・勝手なことをしてくれる奴もいるものね。\b
-...Some person just decided to do whatever they wanted huh.\b
+...Some person just decided to do whatever they wanted, huh.\b
 いいわ その挑戦のってやろうじゃない！\b
 Fine then, I'll take on that challenge!\b
 \x08
@@ -42,4 +42,4 @@ This punk thief is gonna get what they deserve when I'm through beating the crap
 Ooooh! That's our leader!\b
 \x05
 ・・・で その逆さまの城って どこにあるんだ？
-So, where is that Inverted Castle anyway?
+...So, where is that inverted castle anyway?
