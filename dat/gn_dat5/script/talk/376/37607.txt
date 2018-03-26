@@ -1,5 +1,5 @@
 Aya
 73_03
-Wow... There's so many scoops around here!\b
+Wow... There are so many scoops around here!\b
 \x00
 This is definitely gonna be some rousing news.
