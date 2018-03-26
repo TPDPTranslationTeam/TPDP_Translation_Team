@@ -1,21 +1,21 @@
 Sunny Milk
 69_01
-Rumia is forcing us to do something troublesome.\b
+...Rumia is forcing us to do something troublesome.\b
 \oStar Sapphire
 \s71_01
-But they really did become our comrade huh.\b
+But they really did become our comrade, huh.\b
 It feels weird having the person that destroyed the Liberation Front join us.\b
 \oLuna Child
 \j70_00
-Well if they're willing to help it's fine.\b
+Well, if they're willing to help it's fine.\b
 \x03
-Since they're our comrade now, this time they'll help us right?\b
+Since they're our comrade now, this time they'll help us, right?\b
 \oSunny Milk
 \j69_03
-Fine I guess I'll get explainin-\b
+Fine, I guess I'll get explainin'.\b
 \oLuna Child
 \s70_01
-Do you know about the new Liberation Front that spawned after the old one disbanded?\b
+Do you know about the new Liberation Front that spawned after the old one disbanded, \p?\b
 \oSunny Milk
 \s69_02
 A-Again...
