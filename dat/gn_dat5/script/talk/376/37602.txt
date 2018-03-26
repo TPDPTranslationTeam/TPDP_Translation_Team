@@ -1,5 +1,5 @@
 Cirno
 39_01
-Where am I?
+Where am I?\b
 \x03
 I am Cirno!
