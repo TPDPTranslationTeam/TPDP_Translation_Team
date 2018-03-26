@@ -1,14 +1,14 @@
 Medicine
 72_04
-So it just so happens to be a human like you that's wandering astray around here.\b
-What's up, here to kill some time by bullying me?\b
+So, it just so happens to be a human like you that's wandering astray around here.\b
+What's up; here to kill some time by bullying me?\b
 \x06
 What?\b
 You got into the Liberation Front and you were looking for me?\b
-\cStop lying why don't you.\b
+\cStop lying, why don't you.\b
 There's no way something so stupid would happen!\b
 \x01
-I'm the one who disbanded the Liberation Front you know!\b
+I'm the one who disbanded the Liberation Front, you know!\b
 You were a foe, and now you're an ally?\b
 I told you to leave me alone!\b
 \s72_08
