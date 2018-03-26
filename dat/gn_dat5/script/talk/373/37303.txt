@@ -7,4 +7,4 @@ Medicine
 あ！それならあたいが知ってるよ。\b
 Ah! Then I know about it!\b
 妖怪の山近くに浮いてたから 山からなら行けると思う。
-It's floating near Youkai Mountain. Should be able to get there from the mountain I think.
+It's floating near Youkai Mountain. Should be able to get there from the mountain, I think.
