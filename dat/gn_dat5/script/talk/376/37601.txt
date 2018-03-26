@@ -1,7 +1,7 @@
 Medicine
 72_06
 ‹t‚³‚É‚È‚Á‚½‚è Œ³‚É–ß‚Á‚½‚èˆÓ–¡‚ª‚í‚©‚ç‚È‚¢‚íB\b
-This place is so backwards and trying to go back makes no sense.
+This place is so backwards, and trying to go back makes no sense.\b
 \x08
 d•û‚ª‚È‚¢‚©‚ç ‚±‚¤‚È‚Á‚½‚ç‘“–‚è‚ËB
 We have no choice but to brute force through this.
