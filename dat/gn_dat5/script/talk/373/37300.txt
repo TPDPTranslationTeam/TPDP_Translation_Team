@@ -1,21 +1,21 @@
 Medicine
 72_04
 こんな所にわざわざ迷い込む人間がいると思ったら あんただったのね。\b
-So it just so happens to be a human like you that's wandering astray around here.\b
+So, it just so happens to be a human like you that's wandering astray around here.\b
 なぁに暇つぶしに また私をいじめにでも来たの？\b
-What's up, here to kill some time by bullying me?\b
+What's up; here to kill some time by bullying me?\b
 \x06
 ・・・はぁ？\b
 What?\b
 あんたが解放戦線に入って あたしを探してた？\b
 You got into the Liberation Front and you were looking for me?\b
 \c嘘はやめてちょうだい。
-\cStop lying why don't you.\b
+\cStop lying, why don't you.\b
 そんなバカなことあるわけないわ！\b
 There's no way something so stupid would happen!\b
 \x01
 解放戦線を解散させたのは あんたでしょ！\b
-I'm the one who disbanded the Liberation Front you know!\b
+I'm the one who disbanded the Liberation Front, you know!\b
 敵だったのに 今度は仲間づら？\b
 You were a foe, and now you're an ally?\b
 放っておいてって言ったでしょ！\b
