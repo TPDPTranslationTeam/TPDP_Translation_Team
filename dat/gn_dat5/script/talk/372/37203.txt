@@ -2,4 +2,4 @@ Sunny Milk
 69_00
 What was it that decided the substitute leader?\b
 \x03
-It was Rock, Papper, Scissors of course.
+It was Rock, Paper, Scissors, of course.
