@@ -4,7 +4,7 @@ Aah! You're finally here!
 You're late!\b
 \x04
 Geez, what's up with this place!\b
-This place is so backwards and trying to go back makes no sense.\b
+This place is so backwards, and trying to go back makes no sense.\b
 \x02
 Thanks to that everyone got lost...\b
 \s72_05
