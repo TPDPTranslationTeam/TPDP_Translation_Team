@@ -4,4 +4,4 @@ Rumia
 A human has been found among the fairies!\b
 \x05
 ・・・なんだ \pじゃないかぁ。
-...Oh it's just you.
+...Oh it's just you, /p.
