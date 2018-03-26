@@ -18,7 +18,7 @@ Since they're our comrade now, this time they'll help us, right?\b
 \oSunny Milk
 \j69_03
 ‚¶‚á‚  ‘‘¬ „‚ªà–¾‚ğ\b
-Fine, I guess I'll get explainin-.\b
+Fine, I guess I'll get explainin'.\b
 \oLuna Child
 \s70_01
 \p‚Í ‰ğU‚µ‚½‰ğ•úíü‚ª•œŠˆ‚µ‚½‚Á‚Ä‚¢‚¤˜b‚Í’m‚Á‚Ä‚¢‚é‚ÌH\b
