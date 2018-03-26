@@ -1,7 +1,7 @@
 Star Sapphire
 71_01
 あぁ やっぱり知っているのね。\b
-Oh so you do know about it.\b
+Oh, so you do know about it.\b
 解放戦線が復活して 色んな所で暴れてるって。\b
 The revived Liberation Front has been running wild in many places.\b
 \oSunny Milk
@@ -10,7 +10,7 @@ The revived Liberation Front has been running wild in many places.\b
 A-And that's really bad!\b
 \x01
 あれ 私たち何も関係ないのよ？\b
-That has nothing to do with us you know?\b
+That has nothing to do with us, you know?\b
 どっかの誰かが勝手に名前使って 暴れてるの。\b
 That person is just using our name to do whatever they want!\b
 しかも悪いことまでしちゃって！！\b
@@ -23,14 +23,14 @@ That's why we thought to punish that bad person!\b
 え・・・？
 Huh...?
 同じようなことしてたじゃないかって？\b
-They're doing the same thing as we did?\b
+They're doing the same thing that we did?\b
 \x01
 失礼ね！他のやつの人形まで盗んだりしてないわよ！\b
 That's rude! We weren't stealing those other people's Puppets!\b
 \oStar Sapphire
 \s71_02
 でもね 肝心のリーダーのメディスンが見当たらないの。\b
-But our important leader, Medicine is no where to be found.\b
+But our important leader, Medicine, is nowhere to be found.\b
 これじゃあ活動を再開できないわ。\b
 We can't restart our activities without her.\b
 \x01
