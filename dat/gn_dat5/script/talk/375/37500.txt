@@ -7,6 +7,6 @@ We've arrived.\b
 Since we're here, I may as well do some coverage on this place.\b
 \x03
 ‚  ‹A‚é‚Æ‚«‚Í©—Í‚Å‚Ç‚¤‚É‚©‚µ‚Ä‚­‚¾‚³‚¢‚ËI\b
-Oh, and if you want to go home please try to find a way back on your own!\b
+Oh, and if you want to go home, please try to find a way back on your own!\b
 ‚»‚ê‚Å‚ÍI
 Until then!
