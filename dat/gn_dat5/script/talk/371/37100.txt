@@ -2,4 +2,4 @@ Wriggle
 60_01
 Ah! They're here!\b
 \x03
-Run away, run away!
+Run away; run away!!
