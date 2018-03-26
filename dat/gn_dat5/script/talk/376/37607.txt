@@ -1,7 +1,7 @@
 Aya
 73_03
 いやぁ・・・スクープが盛りだくさんですね！\b
-Wow... There's so many scoops around here!\b
+Wow... There are so many scoops around here!\b
 \x00
 これは記事が盛り上がること間違いなしですよぉ。
 This is definitely gonna be some rousing news.
