@@ -1,7 +1,7 @@
 Mystia
 61_01
 みんなはいなくなるし 勝手に天井と地面がひっくり返るし！\b
-Since everyone is gone I guess I'll flip this area around!\b
+Since everyone is gone, I guess I'll flip this area around!\b
 \x02
 本当 飛べなかったら大惨事よっ！
 Seriously, if I couldn't fly that'd be a disaster!
