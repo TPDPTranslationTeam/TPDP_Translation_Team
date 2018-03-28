@@ -1,3 +1,4 @@
 
 
-本当にこれ調べるのー？
+//本当にこれ調べるのー？
+Do you really want to investigate?

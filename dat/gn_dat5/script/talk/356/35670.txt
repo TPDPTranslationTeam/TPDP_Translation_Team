@@ -1,3 +1,5 @@
 
 
-あなた 見つけるの上手なのね。ご褒美にこれあげるわ。
+//あなた 見つけるの上手なのね。ご褒美にこれあげるわ。
+You're good at finding me, so you get a prize.
+//assuming "me" is implied in the context of finding

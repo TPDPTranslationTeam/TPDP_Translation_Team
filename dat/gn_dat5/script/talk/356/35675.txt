@@ -1,3 +1,5 @@
 
 
-—£‚ê‚½‚Æ‚±‚ë‚©‚çº‚ª•·‚±‚¦‚½B
+//—£‚ê‚½‚Æ‚±‚ë‚©‚çº‚ª•·‚±‚¦‚½B
+You heard a voice in the distance.
+//assuming this is a player-based thing, and not a dialogue, if it's a dialogue, replace "You" with "I"

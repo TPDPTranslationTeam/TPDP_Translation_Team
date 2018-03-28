@@ -1,4 +1,6 @@
 
 
-そこらへんで拾ったの。嬉しいでしょ？\b
-\cまた遊びましょーね。
+//そこらへんで拾ったの。嬉しいでしょ？\b
+I found it around there. Aren't you glad?\b
+//\cまた遊びましょーね。
+\cLet's play again.

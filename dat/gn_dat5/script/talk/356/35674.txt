@@ -1,4 +1,7 @@
 
 
-妖精が隠れやすそうな木がある。
-木こり人形で調べてみますか？
+//妖精が隠れやすそうな木がある。
+A fairy seems to be hidden in this shrub.
+//potted plant? tree? unsure where this is triggered
+//木こり人形で調べてみますか？
+Would you like to check using the Woodcutter Doll?
