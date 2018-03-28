@@ -3,6 +3,6 @@
 //・・負けちゃった。\b
 ...I lost.\b
 //下っ端の旅なんて面白くないし やっぱ私ついていかなーい。\b
-It's not fun to be an underling, I'm out.\b
+It's not fun being an underling. I'm out.\b
 //\cこれあげるからさっさと行っていいよ。
 \cTake this and go on.

@@ -1,10 +1,9 @@
-霊夢
 Reimu
 001_04
 あら \p。あんた暇そうね。\b
-Huh. \p, you look have some time to spare\b
+Huh. \p, you look have some time to spare.\b
 \x00
 ちょうどすることもないし 私の対戦相手をしてみない？\b
-Neither do I, so how about a quick puppet match?\b
+Though it might not be a good time, how about a quick match?\b
 あんたの力には興味があるのよ。
-I'm interested in your skills.
+I wanna see how strong you are.

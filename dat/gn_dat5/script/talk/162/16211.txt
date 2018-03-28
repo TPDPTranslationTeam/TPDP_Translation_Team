@@ -1,4 +1,3 @@
-大妖精
 Daiyousei
 38
 今は チルノちゃんを探しているの。\b
@@ -8,5 +7,4 @@ I'm looking for Cirno right now.\b
 ...A prank?\b
 \x03
 楽しいことがなくなったら 怒られない程度にしちゃおうかしらっ！
-I'm not doing it until I'm out of something fun.\b
-Even if I do it, I'm not doing it too much that will not be scolded.
+Until there's nothing fun to do, they can get as mad as they want!

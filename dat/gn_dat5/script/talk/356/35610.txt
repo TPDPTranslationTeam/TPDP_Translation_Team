@@ -1,4 +1,4 @@
 
 
 //・・・何か落としたようだ。
-Something is dropped from her.
+She dropped something. 
