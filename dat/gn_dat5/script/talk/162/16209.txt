@@ -3,7 +3,9 @@ Cirno
 You're here, \p!\b
 This time in my territory...\b
 \x04
-Huh? Is it yakitori?\b
+Huh? Is it "yakkitory"?\b
 \x00
-Uh huh, yeah yeah, a game for yakitori!\b
+Uh huh, yeah yeah, let's fight in my yakkitory!\b
 Don't you dare underestimate the strongest!
+
+//I think we can change "yakkitory" into any vaguely similar word that sounds like "territory" but ridiculous.

@@ -1,6 +1,6 @@
 Yuugi
 93_02
-I lost.\b
+Looks like I lost.\b
 \x00
 Well, at least it was as fun as I expected.
 I was right to wait for you.

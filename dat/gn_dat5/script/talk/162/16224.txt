@@ -1,6 +1,6 @@
 Yuugi
 93_03
-Oh, you came! You came! I was waiting!\b
+Oh, you came! I was waiting!\b
 \x00
 I couldn't help but want to test your strength.\b
 Well then, will you enjoy a battle with me?

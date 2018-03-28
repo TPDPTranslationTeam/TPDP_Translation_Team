@@ -1,5 +1,5 @@
 Mystia
 61_01
-Do you want some lamprey unagi?\b
+Do you want some lamprey?\b
 \x00
 Unfortunately, it's still being cut, so I only have loach.

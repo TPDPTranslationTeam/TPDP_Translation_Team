@@ -1,7 +1,7 @@
 Medicine
 72_04
 You've come again?
-You don't get bored, huh, \p.\b
+You don't get bored, huh.\b
 \x08
-If you're free, take my challenge!
+Since you're here, take my challenge!
 I'll make you realize the power of the revived Puppet Liberation Front's leader!

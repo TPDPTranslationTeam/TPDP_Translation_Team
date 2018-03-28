@@ -2,5 +2,5 @@ Rumia
 37_00
 Are you a human I can eat?\b
 \x03
-\cWhy not?
-Humans should be careful when walking around at night.
+\cJust kidding.
+Be careful when walking around at night, human.

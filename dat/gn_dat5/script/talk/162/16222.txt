@@ -1,5 +1,5 @@
 Kanako
 86
-Wow, this place has become this popular?\b
+Wow, so you really did like this place huh?\b
 \x03
-It feels great to gather more faith!
+It feels great to gather more faith.

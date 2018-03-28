@@ -2,7 +2,6 @@ Utsuho
 96_02
 Umm... I've seen you before, but who are you?\b
 \x00
-Ç†ÅIÇªÇ§ÇÊÅB
 Ah! That's it.
 You're the human Miss Satori said to not let pass when they come.\b
 \x01

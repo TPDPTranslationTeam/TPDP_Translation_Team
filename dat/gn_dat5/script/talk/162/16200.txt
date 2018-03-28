@@ -1,6 +1,6 @@
 Reimu
 001_04
-Huh. Don't you look leisurely, \p.\b
+Huh. \p, you look have some time to spare.\b
 \x00
-You're not really doing anything, so why not be my opponent?\b
-I've got an interest in your power.
+Though it might not be a good time, how about a quick match?\b
+I wanna see how strong you are.

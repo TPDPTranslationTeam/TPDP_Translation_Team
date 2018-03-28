@@ -1,7 +1,5 @@
 Sakuya
 43_02
-まったく ここまで手を煩わされるとは思わなかったわ。\b
 Seriously, I did not think you would be such a nuisance for so long.\b
 \x03
-ほら お客様はお帰りの時間ですわ。
-Okay, it is time for guests to leave.
+Alright, it is time for the guests to leave.

@@ -1,9 +1,6 @@
 Nitori
 83
-お \pじゃないか。元気にやってるみたいだね。\b
 Oh. Aren't you \p? You seem to be doing well.\b
-どうだい？また私と勝負してみないかい？\b
 How about it? Would you like another match with me?\b
 \x03
-存分に河童の技術を見せてあげるよ！
-I'll show you the skill of the Kappa as often as you'd like!
+I'll show you the technology of the Kappa as often as you'd like!
