@@ -1,6 +1,6 @@
-メディスン
+Medicine
 72_02
-いたた・・・\b
+Ouch...\b
 \x05
-さっきの奴なんなのよ！\b
-人にぶつかっておいて 謝りもしなかったわ。
+How rude!\b
+She didn't apologize to me for crushing me!
