@@ -2,9 +2,9 @@
 Medicine
 72_01
 //アイツが乗っ取ってた奴だったの！？\b
-She was the one who overtook the Front?\b
+She was the one who took over the Front!?\b
 //逃げるなんて 本当卑怯なやつね。\b
-She ran away, that's not fair.\b
+She ran away; that's not fair.\b
 \b
 \s72_04
 //・・・ ・・・。\b
@@ -13,7 +13,7 @@ She ran away, that's not fair.\b
 //世話になったわ。\b
 Thank you.\b
 //一応お礼だけは言っておかなきゃね。\b
-I say my thanks though not quite satisfactorily.\b
+I say my thanks, though perhaps not quite satisfactorily.\b
 \b
 \x07
 //それと これ あんたに渡しておくわ。\b
