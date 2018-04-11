@@ -2,9 +2,9 @@
 Yukari
 55_00
 //それを読んで この人形異変の可能性について じっくりと考えてみなさいな。\b
-Read it and think yourself about the possibility of this incindent.\b
+Read it and reflect within yourself about the possibility of this incindent.\b
 //\cそして あなたにとっての 始めの場所に向かえば きっと答えが見られますわ。\b
-\cThen you'll see the answer at the place of your beginning.\b
+\cThen you'll see the answer at the place of your origin.\b
 \x03
 //それでは ごきげんよう。
 See you.
