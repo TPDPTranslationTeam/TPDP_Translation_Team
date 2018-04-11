@@ -2,7 +2,7 @@
 Elly
 023_03
 //この館になにか御用かしら？\b
-What you bring to here?\b
+What did you bring here?\b
 \x00
 //私？私はここを見張ってるエリーよ。\b
 Me? I'm the guardian here, Elly. \b
@@ -13,7 +13,7 @@ Me? I'm the guardian here, Elly. \b
 You're an intruder, right?\b
 \x01
 //さぁ久々の来客だから頑張ってみようかな！
-It's been a long time since the last time we had a visitor.
-Let's get [頑張る]ing!
+It's been a long time since the last time we've had a visitor.
+Let's try our best in this fight!
 
 //requires disussion
