@@ -5,6 +5,6 @@ Sunny
 Oh, \p.\b
 \x02
 //あーあ かくれんぼする前に見つかっちゃったわ。
-I got caught before the hide-and-seek is beginning.
+I got caught before the hide-and-seek began.
 //ここなら見つからないと思ったのに。
-I though they can't catch me here.
+I thought they wouldn't catch me here.
