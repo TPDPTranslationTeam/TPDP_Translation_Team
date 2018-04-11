@@ -7,4 +7,4 @@ Ouch...\b
 //‚³‚Á‚«‚Ì“z‚È‚ñ‚È‚Ì‚æI\b
 How rude!\b
 //l‚É‚Ô‚Â‚©‚Á‚Ä‚¨‚¢‚Ä Ó‚è‚à‚µ‚È‚©‚Á‚½‚íB
-She didn't apologize me of crushing to me!
+She didn't apologize to me for crushing me!
