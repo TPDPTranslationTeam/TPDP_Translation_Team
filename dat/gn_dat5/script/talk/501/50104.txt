@@ -1,4 +1,9 @@
-小鈴
+//小鈴
+Kosuzu
 114
-いらっしゃいませ ようこそ鈴奈庵へ！
-古書本がメインですが 面白いものがそろってますよ。
+//いらっしゃいませ ようこそ鈴奈庵へ！
+Welcome to Suzunaan!
+//古書本がメインですが 面白いものがそろってますよ。
+We have old used books but they should be interesting.
+
+//needs discussion

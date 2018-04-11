@@ -1,4 +1,6 @@
 
 
-古い神社ねぇ・・・
-地震でも来たらすぐ壊れちゃいそうだわ
+//古い神社ねぇ・・・
+It's an old shrine...
+//地震でも来たらすぐ壊れちゃいそうだわ
+One earthquake could easily destroy it.

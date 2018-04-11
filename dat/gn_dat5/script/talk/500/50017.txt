@@ -1,4 +1,6 @@
 
 
-↑博麗神社
-←人間の里
+//↑博麗神社
+↑ Hakurei Shrine
+//←人間の里
+← Human Village

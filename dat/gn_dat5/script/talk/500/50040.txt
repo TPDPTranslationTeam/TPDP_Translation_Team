@@ -1,4 +1,6 @@
 
 
-おっと 畑を歩く時は注意してくれよ。
-夏の収穫まであと少しなんだ。
+//おっと 畑を歩く時は注意してくれよ。
+Hey, watch out when you walk the farm.
+//夏の収穫まであと少しなんだ。
+It's nearing the summer harvest.

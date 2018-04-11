@@ -1,3 +1,4 @@
 
 
-扉は固くて開かない・・・。
+//扉は固くて開かない・・・。
+The door is closed tightly...

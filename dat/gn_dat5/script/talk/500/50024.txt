@@ -1,4 +1,8 @@
 
 
-あなた 人形遣いになったばかり？
-初心者同士 お手合わせしましょ！
+//あなた 人形遣いになったばかり？
+Did you just become a puppeteer?
+//初心者同士 お手合わせしましょ！
+Let's have a friendly match each other by newbies!
+
+//please change this heavily

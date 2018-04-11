@@ -1,4 +1,6 @@
 
 
-今日の文々。新聞の人形遣い番付・・・。\b
-新しい名前が増えてるな。
+//今日の文々。新聞の人形遣い番付・・・。\b
+Today's Bunbunmaru Newspaper's puppeteers ranking...\b
+//新しい名前が増えてるな。
+There's a new name on it.

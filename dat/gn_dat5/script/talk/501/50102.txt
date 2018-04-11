@@ -1,5 +1,6 @@
 
 
-博麗神社から来たの？
-妖怪が占拠してるって噂あったけど大丈夫だった？
-
+//博麗神社から来たの？
+You came from Hakurei Shrine?
+//妖怪が占拠してるって噂あったけど大丈夫だった？
+I heard it's taken over by youkai, was it okay?

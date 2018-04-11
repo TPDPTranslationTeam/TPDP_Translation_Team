@@ -1,5 +1,8 @@
 
 
-お人形かわいいよウェヒ ウェヒヒヒヒ・・・。\b
-\cちょっと何見てるのよ！
-私のお人形愛でタイムを邪魔しないでくれる！？
+//お人形かわいいよウェヒ ウェヒヒヒヒ・・・。\b
+My puppets, so cute... Weehee, Weehehehehe...\b 
+//\cちょっと何見てるのよ！
+\cHey, don't look at me!
+//私のお人形愛でタイムを邪魔しないでくれる！？
+Don't disturb my puppet admiring time, please!?
