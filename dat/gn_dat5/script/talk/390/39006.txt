@@ -15,7 +15,7 @@ met the residents of fantasies, and then left the fantasy.\b
 //今は あの子たちがいないのを寂しく感じる。\b
 I feel lonely without them.\b
 //\cしかし これもいずれ忘れるのだろう。\b
-But I will never forget them either.\b
+\cBut I will never forget them either.\b
 //そうだとしても また あの子たちに会いたいと想う。\b
 Even though I wish I could meet them again...\b
 //\c・・・願わくば 覚めることのない 幻想で。\b
