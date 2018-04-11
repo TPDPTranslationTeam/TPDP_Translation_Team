@@ -2,9 +2,9 @@
 Yukari
 55_03
 //ここへ来たということは 可能性について考えていただけたみたいですわね。\b
-You're here, so you're done thinking with the possibility.\b
+You're here, so that means you're done thinking about the possibility.\b
 \x01
 //ではもう一度 質問します。\b
 Here's another question for you.\b
 //\cこの世界で あなたはどんな結末を望むのかしら？
-\cWhat ending you desire for this world?
+\cWhat ending do you desire for this world?
