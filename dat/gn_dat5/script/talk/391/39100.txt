@@ -12,7 +12,7 @@ The incident isn't over, you know.\b
 We must cut it down at the source.\b
 \x02
 //あんたも旅をしたなら知ってるでしょ？\b
-You noticed from traveling about, haven't you?\b
+You've noticed from traveling about, haven't you?\b
 //同じ種類の人形なら 限られた範囲でしか行動していないのよ。\b
 Each kind of Puppet doesn't move widely.\b
 \x05
@@ -32,7 +32,7 @@ Not only Gensokyo, but in the Netherworld and in Heaven.\b
 I can only think that someone started this for their own amusement.\b
 \s1_09
 //さてと これからあんたの尻拭いに行くつもりだったんだけど やっぱり こうやってかち合ってしまったわね。\b
-I was about to cover your consequences but to no surprise I met you.\b
+I was about to cover up your consequences but to no surprise I met you.\b
 \x07
 //だけど 簡単に譲らないわ。\b
 I won't give up on this.\b
