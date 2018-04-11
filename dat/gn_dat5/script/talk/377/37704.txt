@@ -5,7 +5,7 @@ Medicine
 I decided to lead the Liberation Front again.\b
 \x04
 //‚Å‚à•Ï‚ÈŠ¨ˆá‚¢‚Í‚µ‚È‚¢‚ÅI\b
-Don't misunderstand us.\b
+Don't misunderstand us!\b
 //‚İ‚ñ‚È‚Å—V‚Ô‚¾‚¯‚æB\b
 We're just playing around.\b
 \x06
