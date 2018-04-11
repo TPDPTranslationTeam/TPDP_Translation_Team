@@ -1,10 +1,11 @@
-エリー
+Elly
 023_03
-この館になにか御用かしら？\b
+What did you bring here?\b
 \x00
-私？私はここを見張ってるエリーよ。\b
-\cそしてあなたは・・・\b
+Me? I'm the guardian here, Elly. \b
+\cAnd you...\b
 \x03
-館に入ろうとしてる侵入者ってところかな？\b
+You're an intruder, right?\b
 \x01
-さぁ久々の来客だから頑張ってみようかな！
+It's been a long time since the last time we've had a visitor.
+Let's try our best in this fight!
