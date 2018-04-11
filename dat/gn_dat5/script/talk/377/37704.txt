@@ -1,13 +1,13 @@
-メディスン
+Medicine
 72_01
-解放戦線は あたしがまた引っ張っていくことにしたわ。\b
+I decided to lead the Liberation Front again.\b
 \x04
-でも変な勘違いはしないで！\b
-みんなで遊ぶだけよ。\b
+Don't misunderstand us!\b
+We're just playing around.\b
 \x06
-また勝手に乗っ取られても嫌だし このまま潰されるのも嫌だもの。\b
+I just don't want them taken over nor disbandend.\b
 \s72_00
-見てなさい \pっ！\b
-あたしだって うまくやってみせるわ！\b
+Watch us, \p!\b
+I'll make it too!\b
 \x03
-今度 あんたに悪戯してあげるんだからっ。
+We're gonna pull a prank on you someday.
