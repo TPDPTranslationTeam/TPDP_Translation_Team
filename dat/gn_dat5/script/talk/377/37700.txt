@@ -1,11 +1,11 @@
-正邪
+Seija
 121_01
-なんだ なんだ？\b
-我が解放戦線のアジトに人間が何のようだぁ？\b
-\c全てを引っくり返してやろうと 手始めに人形を盗んでたのにさ。\b
-それを邪魔しようっていうんだな？\b
+What is this?\b
+What are you doing in our hideout?\b
+\cWe were stealing Puppets as the first step of the plan to turn everything in Gensokyo over.\b
+You say you're gonna stop us?\b
 \x00
-ふふふ いいじゃないか！\b
-その挑戦受けてやるよ。\b
+Nice try!\b
+I accept your challenge.\b
 \x03
-お前を倒して もう一度のし上がるためにな！
+I'll defeat you and rise up again!
