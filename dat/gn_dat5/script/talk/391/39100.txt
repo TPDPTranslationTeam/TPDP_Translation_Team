@@ -1,24 +1,24 @@
-霊夢
+Reimu
 1_02
-はぁ・・・このパターン何回目かしら。\b
-行く先々であんたと会うのね。\b
+Huh... How many times have I met you like this?\b
+I'm seeing you everywhere I go.\b
 \x05
-気づいていると思うけど この異変は終わってなんかいないわ。\b
-元凶を断たなきゃいけないの。\b
+The incident isn't over, you know.\b
+We must cut it down at the source.\b
 \x02
-あんたも旅をしたなら知ってるでしょ？\b
-同じ種類の人形なら 限られた範囲でしか行動していないのよ。\b
+You've noticed from traveling about, haven't you?\b
+Each kind of Puppet doesn't move widely.\b
 \x05
-本来あいつらの行動範囲は狭いの。\b
-人形が魔界で生まれてこっちに来たとしても 広く分布することはないわ。\b
+They're supposed to have small habitats.\b
+If they're born in Makai and came here, they shouldn't spread so much.\b
 \x10
-だけど あいつらは広域でほぼ同時に現れた。\b
-幻想郷だけでなく 冥界にも天界にも。\b
+But they all appeared everywhere at the same time.\b
+Not only Gensokyo, but in the Netherworld and in Heaven.\b
 \x05
-・・・本当に 人形が勝手に動き始めたのかしら？\b
-私には 誰かが面白がって こんなことを始めたようにしか思えないわ。\b
+...Did the Puppets really started moving on their own?\b
+I can only think that someone started this for their own amusement.\b
 \s1_09
-さてと これからあんたの尻拭いに行くつもりだったんだけど やっぱり こうやってかち合ってしまったわね。\b
+I was about to cover up your consequences but to no surprise I met you.\b
 \x07
-だけど 簡単に譲らないわ。\b
-異変解決は 私の仕事よ。
+I won't give up on this.\b
+Solving incidents is MY job.
