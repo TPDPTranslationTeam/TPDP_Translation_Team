@@ -1,7 +1,7 @@
-小鈴
+Kosuzu
 114
-\pさん。いらっしゃいませ！\b
+Welcome, \p!\b
 \x04
-・・・え これが妖魔本の最終巻ですか？\b
+...Is this the final volume of the book?\b
 \x03
-どうします？すぐ読まれますか？
+Would you like to read it here?
