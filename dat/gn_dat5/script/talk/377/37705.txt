@@ -1,7 +1,7 @@
-阿求
+Akyuu
 76_04
-解放戦線は乗っ取られていたのですね。\b
+I see; the Liberation Front was taken over.\b
 \x00
-今後は悪戯は控えるとのことですし 安心しましたわ。\b
+I heard they're quitting pranks. I was relieved.\b
 \x03
-また暴れるようなら \pさんが対処してくださるでしょうしね。
+Also, if there's something wrong again, I'm glad you will help us.
