@@ -1,8 +1,8 @@
-正邪
+Seija
 121_04
-くそぉ・・・頑張ってもこれかよ。\b
+Damn... Is this the end?\b
 \x01
-解放戦線なんて これ以上やってられるか。\b
-下克上が成せないんなら 意味がないんだよ！\b
+Liberation Front? Screw this.\b
+They were all I got for this domination!\b
 \x04
-おら邪魔だ！そこ どきな！
+Hey, stay away!
