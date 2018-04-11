@@ -6,20 +6,20 @@ Alright. I'll read it.\b
 \o
 \s
 //長い夢を見ていたようだ。\b
-Looks like I was in a long, long dream.\b
+Seems like I was in a long, long dream.\b
 //幻想の郷で 幻想の人形と旅をし 幻想の住民と出会い 別れた。\b
-At the land of fantasies, I had a journey with the puppet of fantasies, 
-met and left residents of fantasies.\b
+In the land of fantasies, I had a journey with the puppet of fantasies, 
+met the residents of fantasies, and then left the fantasy.\b
 //\c初めは不安で恐ろしくもあったが 思い返して見れば楽しい旅だった。\b
-\cAt first I was insecure and scared but it was a fun journey to call back.\b
+\cAt first I was insecure and scared, but it was a fun journey to recall.\b
 //今は あの子たちがいないのを寂しく感じる。\b
-I feel lonely with them.\b
+I feel lonely without them.\b
 //\cしかし これもいずれ忘れるのだろう。\b
-But I will forget it either.\b
+But I will never forget them either.\b
 //そうだとしても また あの子たちに会いたいと想う。\b
-Even though, I wish I can meet them again,\b
+Even though I wish I could meet them again...\b
 //\c・・・願わくば 覚めることのない 幻想で。\b
-at the fantasies never end.\b
+\c...in the fantasies that will never end.\b
 //\o小鈴
 \oKosuzu
 \s114
@@ -27,7 +27,7 @@ at the fantasies never end.\b
 The end.\b
 \x03
 //これが最終巻ですか。
-So this is the final volume.
+So, this is the final volume.
 //やっと完成しましたね！\b
 We finally completed it!\b
 \x04
@@ -35,4 +35,4 @@ We finally completed it!\b
 It was like one big story and very exciting!\b
 \x03
 //そうだ！集めてくださったお礼をしなければならないですね。
-Oh, I want to thank you with this.
+Oh, and I want to thank you for this.
