@@ -2,7 +2,7 @@
 Ran
 54
 //おや 紫様に何か用かな。\b
-Oh, any business with master Yukari?\b
+Oh, any business with Master Yukari?\b
 \x02
 //残念だけど 今は留守中だから会わせられないよ。
 Unfortunately, she's out now.
