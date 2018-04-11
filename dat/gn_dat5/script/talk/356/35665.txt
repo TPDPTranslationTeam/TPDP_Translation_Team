@@ -1,4 +1,7 @@
 
 
-あら 人形の使い方は上手なのね。\b
-遊んでくれたし これをあげるわ。さっき拾ったの！
+//あら 人形の使い方は上手なのね。\b
+Ah, you're really good with puppets, aren't you?
+//遊んでくれたし これをあげるわ。さっき拾ったの！
+As thanks for playing with me, take this. I found it a while ago!
+//found instead of "picked up" due to personal preference

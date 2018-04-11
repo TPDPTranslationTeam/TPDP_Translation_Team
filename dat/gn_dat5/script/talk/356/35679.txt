@@ -1,4 +1,7 @@
 
 
-人形の使い方も下手なのね。\b
-遊んでくれたし これをあげるわ。さっき拾ったの！
+//人形の使い方も下手なのね。\b
+I'm not very good with puppets.\b
+//遊んでくれたし これをあげるわ。さっき拾ったの！
+As thanks for playing with me, take this. I found it a while ago!
+//literally copypasted from 35665, make change as appropriate if needed

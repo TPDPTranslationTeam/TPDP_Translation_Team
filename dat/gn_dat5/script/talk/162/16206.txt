@@ -1,4 +1,3 @@
-阿求
 Akyuu
 76
 あら \pさんではないですか。
@@ -7,4 +6,4 @@ Oh, if it isn't \p.
 You're working vigorously today, aren't you.\b
 \x03
 たまには休むことも必要ですよ。
-Resting from time to time is necessary, you know.
+Resting from time to time is necessary after all.

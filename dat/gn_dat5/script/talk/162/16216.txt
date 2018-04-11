@@ -1,15 +1,12 @@
-ルナ
-Luna
+Luna Child
 70_01
 で いつもどおりにやられちゃったんだけど サニー？\b
-S-so we're done as always, Sunny?\b
-\oサニー
-\oSunny
+So, is this how it will always end up Sunny?\b
+\oSunny Milk
 \s69_05
 こ これはスターの作戦だから 私のせいじゃないわよ！\b
-Th-this is Star's plan, so it's not my fault!\b
-\oスター
-\oStar
+Th-this was Star's plan, so it's not my fault!\b
+\oStar Sapphire
 \s71_01
 でも作戦を決行したのはサニーじゃない。
 But wasn't Sunny the one who was carrying it out?

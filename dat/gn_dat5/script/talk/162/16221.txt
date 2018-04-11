@@ -1,8 +1,8 @@
-にとり
 Nitori
 83
 はは やっぱり強いね。\b
 Haha, as strong as I expected.\b
 \x03
 いやぁ 腕の試しがいがあって ワクワクさせられるよ。
-Well, that was exciting that I got to test my skill.
+Well, I'm glad I was able to test my tech. 
+//Though it isn't explicitly said, her tech can be inferred from the pre-battle text

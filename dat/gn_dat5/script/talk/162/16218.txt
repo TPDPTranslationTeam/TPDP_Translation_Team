@@ -1,12 +1,11 @@
-咲夜
 Sakuya
 43_02
 あなた 相当暇なのね 私と違って。
-You are pretty free, unlike me.
+You have a lot of free time unlike me.
 仕事を邪魔するなんて 本当いい度胸しているわ。\b
-You must be really brave to interrupt my work.\b
+You certainly are brave to interrupt my work.\b
 \x01
 相手をしてあげるから 満足したらキチンと帰りなさい。
-I'll battle you, go home if you're satisfied.
+I'll battle you, so go home when you're satisfied.
 
 //キチンと is not a kitchen

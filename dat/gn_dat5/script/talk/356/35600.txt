@@ -1,8 +1,8 @@
 
 
 //うぅ・・・お腹が空いたよう・・・。\b
-Uh... I'm starving...\b
+Ooo... I'm starving...\b
 //あ あなた誰だか知らないけれど そこにあるケーキ持ってきて。\b
-I, I don't know who are you but bring that cake to me.\b
+I-I don't know who are you but bring that cake to me.\b
 //お腹空き過ぎてもう一歩も動けないの・・・。
 I'm so hungry that I can't move...

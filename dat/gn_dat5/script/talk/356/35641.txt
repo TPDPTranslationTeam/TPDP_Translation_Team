@@ -1,7 +1,7 @@
 
 
 //あなた ここから出たいの？鍵なら私が持ってるけど・・・。\b
-You want to get out from here? I have the key...\b
+You want to get out of here? I have the key...\b
 //・・・\bうん 決めた。\b
 ...\b Okay.\b
 //\c私と遊びましょ？そしたら鍵を渡してあげるわ。
