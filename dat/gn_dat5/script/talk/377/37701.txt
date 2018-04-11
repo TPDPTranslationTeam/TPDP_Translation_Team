@@ -2,12 +2,12 @@
 Seija
 121_04
 //くそぉ・・・頑張ってもこれかよ。\b
-Damn, is this the end?\b
+Damn... Is this the end?\b
 \x01
 //解放戦線なんて これ以上やってられるか。\b
 Liberation Front? Screw this.\b
 //下克上が成せないんなら 意味がないんだよ！\b
-They were everything I got for the domination!\b
+They were all I got for this domination!\b
 \x04
 //おら邪魔だ！そこ どきな！
 Hey, stay away!
