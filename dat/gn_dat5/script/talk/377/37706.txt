@@ -1,6 +1,6 @@
-サニー
+Sunny
 69_04
-あ \p。\b
+Oh, \p.\b
 \x02
-あーあ かくれんぼする前に見つかっちゃったわ。
-ここなら見つからないと思ったのに。
+I got caught before the hide-and-seek began.
+I thought they wouldn't catch me here.
