@@ -1,5 +1,5 @@
-スター
+Star
 71
-暇してそうね。\b
+Looks like you have some time to spare.\b
 \x01
-私たちはアジトの掃除中で忙しいのに。
+We're busy cleaning up here.
