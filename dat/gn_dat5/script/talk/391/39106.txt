@@ -2,9 +2,9 @@
 Elly
 023_02
 //しかたないじゃない しかたないじゃない！\b
-I couldn't help it, I couldn't help it!\b
+I couldn't help it; I couldn't help it!\b
 //人形バトルなれてないんだから。\b
-I'm not used to Puppet battle!\b
+I'm not used to Puppet battles!\b
 \x01
 //今度やるときは負けないんだから！
 I won't lose next time!
