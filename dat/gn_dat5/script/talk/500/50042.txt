@@ -1,4 +1,6 @@
 
 
-ん？稗田亭に用事があるのかい？
-失礼の無いようにするんだよ。
+//ん？稗田亭に用事があるのかい？
+You have some business at Hieda's?
+//失礼の無いようにするんだよ。
+Don't be rude.

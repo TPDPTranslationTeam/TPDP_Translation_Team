@@ -1,3 +1,4 @@
 
 
-一面に絵馬が飾ってある。
+//一面に絵馬が飾ってある。
+The corner is filled with ema.
