@@ -2,6 +2,6 @@
 Kurumi
 022_02
 //‚¤‚£`‚­‚â‚µ`I\b
-Uh, how frustrating!\b
+Ooh, how frustrating!\b
 //¡‰ñ‚Í’Ê‚Á‚Ä‚¢‚¢‚í‚æBŸ‚Í‚±‚¤‚Í‚¢‚©‚È‚¢‚ñ‚¾‚©‚ç`B
-You can pass now, but not next time!
+You can pass now, but not next time.
