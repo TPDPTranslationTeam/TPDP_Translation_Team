@@ -1,11 +1,11 @@
-霊夢
+Reimu
 1_08
-どうしても自分で解決したいっていうのね。\b
+You really want to solve it on your own, huh.\b
 \x05
-・・・わかったわ。
-その気持ち 分からないわけでもないもの。\b
+...So be it.
+I won't say I can't understand you at all.\b
 \x00
-さ 通りなさい。\b
-ここを進めば あんたが行きたいとこに いずれは着くわ。\b
+Now go.\b
+You leave here and you will reach where you want to go.\b
 \x05
-ただし 前も言ったけど 一度足を突っ込んだのなら 責任を持つことね。
+But as I said before, take all resposibility once you get there.
