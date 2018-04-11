@@ -1,6 +1,6 @@
-メディスン
+Medicine
 72_08
-見てなさい \pっ！
-あたしだって うまくやってみせるわ！\b
+Watch us, \p!\b
+I'll make it too!\b
 \x03
-今度 あんたに悪戯してあげるわよっ。
+We're gonna pull a prank on you someday.
