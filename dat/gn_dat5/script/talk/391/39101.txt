@@ -2,7 +2,7 @@
 Reimu
 1_08
 //どうしても自分で解決したいっていうのね。\b
-You really want to solve it on your own.\b
+You really want to solve it on your own, huh.\b
 \x05
 //・・・わかったわ。
 ...So be it.
@@ -12,7 +12,7 @@ I won't say I can't understand you at all.\b
 //さ 通りなさい。\b
 Now go.\b
 //ここを進めば あんたが行きたいとこに いずれは着くわ。\b
-You go here and you will reach where you want to go.\b
+You leave here and you will reach where you want to go.\b
 \x05
 //ただし 前も言ったけど 一度足を突っ込んだのなら 責任を持つことね。
-But as I said before, take all resposibility once you step on there.
+But as I said before, take all resposibility once you get there.
