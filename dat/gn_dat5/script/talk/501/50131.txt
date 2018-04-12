@@ -1,4 +1,6 @@
 
 
-この頃お空での弾幕ごっこ見なくなったなぁ。\b
-ちょっとさびしいな・・・。
+//この頃お空での弾幕ごっこ見なくなったなぁ。\b
+I don't see aerial danmaku plays recently.\b
+//ちょっとさびしいな・・・。
+I miss them a bit...

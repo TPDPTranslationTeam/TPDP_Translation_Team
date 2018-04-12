@@ -1,3 +1,4 @@
 
 
-わぁ！人間さんだ！どこ行くの？ねぇどこ行くの？
+//わぁ！人間さんだ！どこ行くの？ねぇどこ行くの？
+Wow! A human! Where are you going? Where are you going?

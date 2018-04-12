@@ -1,4 +1,4 @@
 
 
-この前 樽の中から人形が出てきたことがあってねぇ。あの時はびっくりしたね。
-
+//この前 樽の中から人形が出てきたことがあってねぇ。あの時はびっくりしたね。
+I've seen a puppet coming out from a barrel. That was surprising.

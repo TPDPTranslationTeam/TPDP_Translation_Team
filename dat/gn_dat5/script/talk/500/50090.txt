@@ -1,4 +1,8 @@
 
 
-あっ 負けちゃった・・・あ 違う違う！\b
-\cこ これ以上は我が封印が解けてしまう！今日はここまでにしてやる！
+//あっ 負けちゃった・・・あ 違う違う！\b
+Oh no, I lost... No, no!\b
+//\cこ これ以上は我が封印が解けてしまう！今日はここまでにしてやる！
+\cMy seal will be broken if I fight anymore! I'll call it for today!
+
+//Edgy things
