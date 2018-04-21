@@ -1,5 +1,9 @@
 
 
-なんでも経歴が特殊な人形遣いらしいぜ。
-来てからすぐにこの異変に順応してるとか。\b
-どんなやつだろうな？
+//なんでも経歴が特殊な人形遣いらしいぜ。
+//来てからすぐにこの異変に順応してるとか。\b
+I heard the puppeteer has special background and quickly adapted to the puppet incident after coming to Gensokyo.\b
+//どんなやつだろうな？
+I wonder how that person look like?
+
+//Avoiding He/She

@@ -1,5 +1,8 @@
 
 
-ここは夜になると出るんだってよ・・・。\b
-何がかって？\b
-\c・・・野暮なこと聞くなよ。
+//ここは夜になると出るんだってよ・・・。\b
+"It" appears in the night here...\b
+//何がかって？\b
+What's "it"?
+//\c・・・野暮なこと聞くなよ。
+\c ...Don't ask me like that, you know what's it, right?

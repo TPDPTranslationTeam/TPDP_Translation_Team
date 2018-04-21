@@ -1,4 +1,6 @@
 
 
-あら？あなたの人形 疲れてないでしょうか？\b
+//あら？あなたの人形 疲れてないでしょうか？\b
+Oh? Your puppets look tired.\b
 \c人里までもう少しあるから ここの休憩所で休むといいと思います！
+\cThere's a little more to Human Village. You should take a break at this resting place.

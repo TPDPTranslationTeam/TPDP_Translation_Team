@@ -1,5 +1,8 @@
 
 
-呉服屋
-申し訳ありませんが ただ今臨時休業中です。
-またのお越しをお待ちしております。
+//呉服屋
+Boutique
+//申し訳ありませんが ただ今臨時休業中です。
+Unfortunately, we are in a special holiday now.
+//またのお越しをお待ちしております。
+We look forward to your next visit.
