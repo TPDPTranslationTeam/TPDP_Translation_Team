@@ -1,5 +1,8 @@
 
 
-『役立ち情報！』\b
-\c人形は印によって 能力が強化されています。\b
-印の種類によって 強化される能力が違うので 注意して見てみましょう！
+//『役立ち情報！』\b
+Useful Tips:\b
+//\c人形は印によって 能力が強化されています。\b
+\cPuppets are enhanced by their Marks.
+//印の種類によって 強化される能力が違うので 注意して見てみましょう！
+Each kind of mark enhance different stats. Pay attention to it!

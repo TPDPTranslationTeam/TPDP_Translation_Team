@@ -1,3 +1,4 @@
 
 
-・・・どこかで見たことのあるような本が並んでいる。
+//・・・どこかで見たことのあるような本が並んでいる。
+...I might have seen these books somewhere.

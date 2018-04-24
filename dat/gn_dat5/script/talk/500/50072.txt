@@ -1,3 +1,4 @@
 
 
-妖怪の事について詳しく書かれている本が並んでいる。
+//妖怪の事について詳しく書かれている本が並んでいる。
+There's a lot of detailed book about youkai.

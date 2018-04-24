@@ -1,5 +1,8 @@
 
 
-・・・ほう 見ない顔じゃのう 人形を持っているのかい。\b
-\c休憩所は有意義につかうんじゃよ？\b
-体力があっても スキルが出せなくなってしまうからの。
+//・・・ほう 見ない顔じゃのう 人形を持っているのかい。\b
+...Hm, I haven't seen you around. You have puppets?\b
+//\c休憩所は有意義につかうんじゃよ？\b
+\cUse the rest area wisely.\b
+//体力があっても スキルが出せなくなってしまうからの。
+Even if your puppets have HP, you can't use their skills without SP.

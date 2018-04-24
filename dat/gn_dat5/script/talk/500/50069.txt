@@ -1,4 +1,6 @@
 
 
-アビリティって知ってる？
-人形一人一人が固有で持ってて 戦闘を有利にするものなんだ！
+//アビリティって知ってる？
+Have you ever heard of Abilities?
+//人形一人一人が固有で持ってて 戦闘を有利にするものなんだ！
+Each puppets have their own and they take advantage of it in battles!
