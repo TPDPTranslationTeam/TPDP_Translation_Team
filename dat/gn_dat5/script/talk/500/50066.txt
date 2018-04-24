@@ -1,4 +1,9 @@
 
 
-結界貫通って知ってるか？属性相性によってはダメージが2倍になったりするんだぜ！\b
-\c例えば炎属性の人形に 水属性のスキルは結界貫通！
+//結界貫通って知ってるか？属性相性によってはダメージが2倍になったりするんだぜ！\b
+Have you ever heard of piercing elemental barriers?
+It will make the damage doubled depending on their compatibility!\b
+//\c例えば炎属性の人形に 水属性のスキルは結界貫通！
+\cFor example, Water skill pierces Fire puppet's barrier and it's super effective!
+
+//please change it accordingly to the actual game message

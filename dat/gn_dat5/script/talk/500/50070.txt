@@ -1,4 +1,6 @@
 
 
-人形を捕まえる糸は多めに買っておいた方が良いかも。\b
-\cせっかく出た欲しい人形の時に糸切れ・・・なんてことにはならないようにね！
+//人形を捕まえる糸は多めに買っておいた方が良いかも。\b
+You should buy strings to catch puppets more than you think it's enough.\b
+//\cせっかく出た欲しい人形の時に糸切れ・・・なんてことにはならないようにね！
+\cDon't be out of strings when you see a puppet you want!

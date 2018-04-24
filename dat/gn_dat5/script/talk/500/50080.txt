@@ -1,4 +1,6 @@
 
 
-孫が人形遣いになりたいって言い始めてのう・・・。
-あんまり危険な事はさせたくないんじゃが・・・。
+//孫が人形遣いになりたいって言い始めてのう・・・。
+My grandson says "I want to be a puppeteer!"
+//あんまり危険な事はさせたくないんじゃが・・・。
+I don't want him to do something dangerous...

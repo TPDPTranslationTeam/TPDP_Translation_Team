@@ -1,4 +1,6 @@
 
 
-お掃除お掃除楽しいな～♪\b
-\cあら お客様。阿求お嬢様なら隣の部屋ですわよ。
+//お掃除お掃除楽しいな～♪\b
+Cleaning, cleaning, so fun~♪\b
+//\cあら お客様。阿求お嬢様なら隣の部屋ですわよ。
+\cOh, a visitor. Miss Akyuu is in the room next to here.
