@@ -23,6 +23,6 @@ How strange.\b
 //でも残念だったわね。
 But unfortunately,
 //この世界の異変は解決しないわ。\b
- The incident cannot be solved.\b
+the incident cannot be solved.\b
 //いや 残念でもないかしら？
 Or is it fortunate for you?

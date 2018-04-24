@@ -17,7 +17,7 @@ I'm just enjoying the show.\b
 But then,\b
 \b
 //せっかくここまで来たのだから いいことを教えてあげるわ。\b
-Since you came this far, I will tell you what I know.\b
+since you came this far, I will tell you what I know.\b
 \x00
 //人形には魔界神以外の魔力も通っているのよ。\b
 The Puppets are also being powered by magic that does not belong to the god of Makai.\b

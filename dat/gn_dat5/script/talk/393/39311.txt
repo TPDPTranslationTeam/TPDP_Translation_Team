@@ -4,7 +4,7 @@ Mugetsu
 //そもそも 魔界の魔力が途切れた時点で
 //いずれ人形は力を失うことが 決まっているもの。\b
 The Puppets were eventually supposed to lose their power anyway,
-since they no longer hold Makai's magic anymore.\b
+since they no longer hold Makai's magic.\b
 //\o幻月
 \oGengetsu
 \j27_00
