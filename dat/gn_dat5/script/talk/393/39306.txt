@@ -2,11 +2,11 @@
 Mugetsu
 26_00
 //・・・つまらない現実を見るなら\b
-...Say bye to the boring reality,\b
+...Say goodbye to the boring reality,\b
 //\o幻月
 \oGengetsu
 \j27_00
 //醒めることのない夢幻を。
- stay in the never-ending dream.
+ And remain eternally in a never-ending dream.
 
 //Super cool line, needs discussion

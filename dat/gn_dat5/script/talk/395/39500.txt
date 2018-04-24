@@ -2,13 +2,13 @@
 Doremy
 127_00
 //あら また来たのね。\b
-Oh, you came again.\b
+Oh, you're back.\b
 //\c迷夢は覚めましたか？\b
-\cDid you snap out from confusion,\b
+\cDid you escape from your labyrinth of confusion,\b
 //それともまだ迷ってるのかな。\b
- or still missing your way?
+ or have you still lost your way?
 \x03
 //\cいずれにせよ ここに来たということは
-\cAnyway, since you're here
+\cIn any case, since you're here
 //預かりものを返さないといけませんね。
- I must return what I kept for you
+ I will return what I kept for you.

@@ -5,16 +5,16 @@ Gengetsu
 Sigh... We lost.\b
 \b
 //結構 惜しいところまで いけたんだけどなぁ。\b
-That was close, though.\b
+It was pretty close, though.\b
 //\o夢月
 \oMugetsu
 \j26_01
 //それだけお人形さん遊びに浸ってきたってことかもしれないわ。\b
-That means you devoted yourself to Puppet plays that much.\b 
+That just shows how devoted you are to these Puppet plays.\b 
 \b
 \x00
 //お人形さん遊びをしながら 人形異変の解決。\b
-Solving the Puppet incident, while playing Puppets.\p
+Solving the Puppet incident, while playing Puppeteer in a grand Puppet Dance Performance.\p
 \x03
 //何とも不可思議ね。\b
 How strange.\b
@@ -23,6 +23,6 @@ How strange.\b
 //でも残念だったわね。
 But unfortunately,
 //この世界の異変は解決しないわ。\b
- the incident will never be solved.\b
+ The incident cannot be solved.\b
 //いや 残念でもないかしら？
-Or is it not unfortunate for you?
+Or is it fortunate for you?

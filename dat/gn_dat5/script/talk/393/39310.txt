@@ -5,16 +5,16 @@ Gengetsu
 Sigh... We lost.\b
 \b
 //結構 惜しいところまで いけたんだけどなぁ。\b
-That was close, though.\b
+It was pretty close, though.\b
 //\o夢月
 \oMugetsu
 \j26_01
 //それだけお人形さん遊びに浸ってきたってことかもしれないわ。\b
-That means you devoted yourself to Puppet plays that much.\b 
+That just shows how devoted you are to these Puppet plays.\b 
 \b
 \x00
 //お人形さん遊びをしながら 人形異変の解決。\b
-Solving the Puppet incident, while playing Puppets.\p
+Solving the Puppet incident, while playing Puppeteer in a grand Puppet Dance Performance.\p
 \x03
 //何とも不可思議ね。\b
 How strange.\b
@@ -22,12 +22,12 @@ How strange.\b
 \oGengetsu
 \j27_03
 //でも負けてしまったのだし 約束するわ。\b
-Because we lost, we promise.\b
+Since we lost, we promise to stop.\b
 \b
 \x00
 //お遊びはここまで。\b
-The play time is over.\b
+It seems our play time is over.\b
 //もう お人形さんにいたずらしたりしないわ。
-We'll never do something like pranking on Puppets.
+We won't play pranks with the Puppets anymore.
 
 //Can we do the "Puppet Play" or "Puppet Dance Performance" title drop?

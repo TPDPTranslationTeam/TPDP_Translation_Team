@@ -2,19 +2,19 @@
 Yuuka
 25_00
 //あらあら やっとここまでたどり着けたのね。\b
-Finally you made it here.\b
+Finally, you made it here.\b
 //待ちくたびれてしまうところだったわ。\b
-It's getting tired of waiting you.\b
+I've gotten tired of waiting for you.\b
 //\cここ？\b
-\cHere?\b
+\cWhere are we?\b
 \x05
 //とある姉妹に譲ってもらったのよ。\b
-A sisters gave this mansion to me.\b
+Two sisters gave me this mansion, Mugenkan.\b
 //今は私の物だわ。\b
-It's mine now.\b
+And now I've made it mine.\b
 \x03
 //折角訪ねてもらったのだから おもてなししなくてわね。\b
 Since you came all the way here, I should treat you.\b
 \x05
 //あなたは 花の夢に溺れるといいわ。
-You shall drown in the flowering dream.
+You shall drown in this flowering dream.

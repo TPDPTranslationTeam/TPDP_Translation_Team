@@ -2,7 +2,9 @@
 Doremy
 127_03
 //今のあなたなら それを持っていても 問題無いでしょう。\b
-You will be no problem having it with current yourself.\b
+You should have no problem with it as you are now.\b
 \x00
 //それでは また夢の中で・・・
-Well then, see you again in the dream...
+Well then, I'll see you again next dream...
+
+//"See you next dream" is one variation of the line that appears at the very end of the credits in most Touhou games.

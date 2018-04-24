@@ -5,30 +5,30 @@ Yuuka
 Huhu, I lost again.\b
 \x00
 //そうそう これだけは言っておかないといけないわね。\b
-By the way, I need to tell you about this.\b
+By the way, I have some important information for you.\b
 \b
 \x03
 //何度も繰り返すけど 私は異変と何も関係ないわ。\b
-Repeating it but I'm not related with the incident.\b
+I'm sure you've heard it enough times by now, but I don't have anything to do with the incident.\b
 //私は楽しそうなことを眺めているのが一番好きなのよ。\b
-I just like watching something fun.\b
+I'm just enjoying the show.\b
 \x05
 //でも そうね。\b
-But then.\b
+But then,\b
 \b
 //せっかくここまで来たのだから いいことを教えてあげるわ。\b
-Since you came this far, I will tell you something.\b
+Since you came this far, I will tell you what I know.\b
 \x00
 //人形には魔界神以外の魔力も通っているのよ。\b
-Puppets is also empowered by magic that is not of the god of Makai.\b
+The Puppets are also being powered by magic that does not belong to the god of Makai.\b
 //本当に悪いやつらは別にいる。\b
-There's another culprits.\b
+There are two more culprits.\b
 \x03
 //気になるかしら？\b
 Interested?\b
 \x00
 //この館の奥の扉を 開けてあげるわ。\b
-I will open the door too the backyard.\b
+Then I will open the door to the backyard.\b
 \x05
 //この先は自分で確かめなさい。
-Now find out yourself.
+Now, find out for yourself.
