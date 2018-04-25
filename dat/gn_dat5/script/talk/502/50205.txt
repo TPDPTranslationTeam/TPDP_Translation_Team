@@ -1,4 +1,9 @@
 
 
-あぁ 君あれだろ？射命丸さんの新聞に載ってた人だろ。\b
-僕も今度取材させてくれよ。
+Ah, you there! You were the one in the Bunbunmaru!
+Please let me interview you this time.
+//revise the first sentence as needed if this is inadequate
+//also unsure if newspaper should be added (i believe it's implied that aya's newspaper is the bunbunmaru)
+
+//あぁ 君あれだろ？射命丸さんの新聞に載ってた人だろ。\b
+//僕も今度取材させてくれよ。

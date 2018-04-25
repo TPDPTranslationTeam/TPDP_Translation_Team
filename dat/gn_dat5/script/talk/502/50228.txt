@@ -1,4 +1,7 @@
 
 
-悪魔の棲む館 紅魔館とは言われていますが 量的に言えば妖精の棲む館ですね。\b
-質より量ですよ 量。
+This is said to be the Scarlet Devil's Mansion, but it's really more of the Fairy's Mansion.\b
+If you look at it as quantity instead of quality, that is.
+
+//悪魔の棲む館 紅魔館とは言われていますが 量的に言えば妖精の棲む館ですね。\b
+//質より量ですよ 量。

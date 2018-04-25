@@ -1,4 +1,7 @@
 
 
-旅人かな？旅っていいよね。自由気ままに歩き回ってさ。\b
-あなたの旅も きっといい思い出になると思うわ。
+Are you a traveler? Travelling is good. You can go basically anywhere.\b
+I'm sure you'll have fond memories of your journey.
+
+//旅人かな？旅っていいよね。自由気ままに歩き回ってさ。\b
+//あなたの旅も きっといい思い出になると思うわ。

@@ -1,4 +1,8 @@
 
 
-こ こんにちわです！挨拶はしっかりと大きな声で です！\b
-響子ちゃんがそう言ってたんです！
+HIHI! GREETINGS SHOULD ALWAYS BE LOUD!\b
+THAT'S WHAT KYOUKO TOLD ME!
+//shouting
+
+//こ こんにちわです！挨拶はしっかりと大きな声で です！\b
+//響子ちゃんがそう言ってたんです！

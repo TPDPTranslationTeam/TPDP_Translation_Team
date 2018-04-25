@@ -1,4 +1,9 @@
 
 
-人形の異変だかなんだか知らないけど あんまり廊下を汚すのはやめて下さいね。\b
-後片付けするメイド長が大変なんですから。
+If your puppet has an accident in the corridor, please don't make a mess.\b
+The chief maid really hates when those aren't cleaned up.
+//what, are puppets dogs now?
+//not exactly accurate as a lot of words/phrases got swapped out based on assumptions, clean up if needed (hue)
+
+//人形の異変だかなんだか知らないけど あんまり廊下を汚すのはやめて下さいね。\b
+//後片付けするメイド長が大変なんですから。

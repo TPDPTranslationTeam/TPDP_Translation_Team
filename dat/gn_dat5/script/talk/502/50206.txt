@@ -1,4 +1,7 @@
 
 
-あんた迷子さね！そうかい！私もさ！\b
-楽しいよね 迷子！どこへ行っても新発見！
+You're lost? Really? Me too!\b
+It's fun when you get lost! There's always new things no matter where you go!
+
+//あんた迷子さね！そうかい！私もさ！\b
+//楽しいよね 迷子！どこへ行っても新発見！

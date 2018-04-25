@@ -1,3 +1,5 @@
 
 
-倉庫整理大変だなぁ。あなた代わりにやってくれない？
+Arranging the warehouse is hard. Can you do it for me instead?
+
+//倉庫整理大変だなぁ。あなた代わりにやってくれない？

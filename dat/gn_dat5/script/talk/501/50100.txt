@@ -1,6 +1,6 @@
 
+I got a puppet earlier this year and it's making farming easy!
+\c...but it's not going that well, it keeps damaging the crops.
 
 //今年は人形に手伝ってもらっているから農作業が楽でいいよ。\b
-Our puppets are helping our farming works this year so it's easy. \b
 //\c･･･被害もあるから順調ってわけじゃないけどね。
-\c...Puppets do harm our farmland so things are not completely going well.

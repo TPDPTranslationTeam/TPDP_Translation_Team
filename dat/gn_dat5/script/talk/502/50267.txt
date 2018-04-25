@@ -1,4 +1,9 @@
 
 
-ここの温泉にゃあ幻想郷の名だたる方達も結構来たりするんよ。\b
-あんたもその一人だろう？地底にも知ってる奴は結構いるぜ？
+The hot springs down here are even famous up on the surface.\b
+Are you one of those people that live up there?
+//implication: Gensokyo in sentence 1 = surface
+//i picked "live up there" instead of "know up there really well" feel free to modify accordingly if needed
+
+//ここの温泉にゃあ幻想郷の名だたる方達も結構来たりするんよ。\b
+//あんたもその一人だろう？地底にも知ってる奴は結構いるぜ？
