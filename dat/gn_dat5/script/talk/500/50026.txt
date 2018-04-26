@@ -1,4 +1,6 @@
 
 
-人形を持っているってことは人形遣いだな！
-俺の人形達と勝負だ！
+//人形を持っているってことは人形遣いだな！
+You have puppets? So you're puppeteer!
+//俺の人形達と勝負だ！
+Fight with my puppets!

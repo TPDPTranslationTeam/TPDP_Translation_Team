@@ -1,4 +1,7 @@
 
 
-おこしやす旧都へ。\b
-暗くも明るい 静かでも騒がしい 地上にゃどこにも無い都さね。
+Welcome to the Former Capital.\b
+Bright yet dark, quiet yet loud, there's no place like it on the surface.
+
+//おこしやす旧都へ。\b
+//暗くも明るい 静かでも騒がしい 地上にゃどこにも無い都さね。

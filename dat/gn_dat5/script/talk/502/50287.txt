@@ -1,4 +1,9 @@
 
 
-人形を捕まえるのに躍起になりすぎて衰弱状態・・・。\b
-回復するには命蓮茶が一番！
+My puppet is too ill to help me catch other puppets...\b
+I know! Myouren tea is the best for healing stuff like this!
+//ill was chosen intentionally (like if you're poisoned you're obv ill)
+//if there's a better word though feel free to swap
+
+//人形を捕まえるのに躍起になりすぎて衰弱状態・・・。\b
+//回復するには命蓮茶が一番！

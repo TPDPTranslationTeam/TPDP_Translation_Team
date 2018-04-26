@@ -1,4 +1,7 @@
 
 
-地上のもんかい？\b
-わざわざここまで来るなんて よっぽど大事なもん抱えてんのかね。
+Is the surface a good place?\b
+I have too many important things to take care of down here to see for myself.
+
+//地上のもんかい？\b
+//わざわざここまで来るなんて よっぽど大事なもん抱えてんのかね。

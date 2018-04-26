@@ -1,4 +1,7 @@
 
 
-さっき変な本拾ったんだけど 訳の分からない文字ばかりで読めないから捨てちゃったわ。\b
-まだそこらへんにあるんじゃない？
+I picked up a strange book a while ago, but threw it away because I can't read.\b
+Maybe it's still around the corner?
+
+//さっき変な本拾ったんだけど 訳の分からない文字ばかりで読めないから捨てちゃったわ。\b
+//まだそこらへんにあるんじゃない？

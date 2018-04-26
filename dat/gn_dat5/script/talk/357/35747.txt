@@ -1,6 +1,10 @@
 
 
 あ ありがとう！	\b・・・ってこれ変わってないじゃないの！\b
+T-Thank you!  \b...Hey, something isn't right!\b
 道具だけあつめても縫わなきゃ直せないでしょ！\b
+You were supposed to gather the equipment and sew it up but you didn't do that!\b
 あなた 私をからかっているのね！\b
+You're trying to mock me huh!\b
 \c良いわ あなたを人形にして妹様に献上してやるわ！
+Fine, you go present this doll to the little sister!

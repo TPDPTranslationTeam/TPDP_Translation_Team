@@ -1,4 +1,6 @@
 
 
-一時期 奇妙な噂話が流行ったと思ったら次は人形が大量発生･･･。\b
-\cまあ被害が無ければ良いんだけどね。
+//一時期 奇妙な噂話が流行ったと思ったら次は人形が大量発生･･･。\b
+First strange rumors spread wide and now puppets swarming Gensokyo...\b
+//\cまあ被害が無ければ良いんだけどね。
+\cWell, I hope they won't harm us.

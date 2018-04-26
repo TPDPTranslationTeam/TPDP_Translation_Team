@@ -1,5 +1,8 @@
 
 
 あれ？あなたいつから居たの？
+Huh? When did you get here?
 え？これを持っていけって？\b
+Eh? You brought this for me?\b
 本当にこの人形でいいの？
+Is it really okay to have this doll?

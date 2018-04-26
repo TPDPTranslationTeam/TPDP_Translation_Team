@@ -1,4 +1,7 @@
 
 
-おう聞いたかい？人形舞闘会が開かれるんだってな。\b
-俺ぁ人形を持ってないから賭ける方で楽しもうかねぇ。
+Have you heard? A puppet battle tournament is going on.\b
+I don't have a puppet, so I'm just enjoying betting on who will win.
+
+//おう聞いたかい？人形舞闘会が開かれるんだってな。\b
+//俺ぁ人形を持ってないから賭ける方で楽しもうかねぇ。

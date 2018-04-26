@@ -1,4 +1,8 @@
 
 
-地底でも人形バトルの光景は見るよ。\b
-・・・まぁ 人形放って本人たちで殴り合ってること多いけど。
+You can see that puppet battles even happen underground!\b
+...well, it looks like people there are battling their own puppets quite often.
+//swap "there" with "here" if this line takes place in the underground
+
+//地底でも人形バトルの光景は見るよ。\b
+//・・・まぁ 人形放って本人たちで殴り合ってること多いけど。

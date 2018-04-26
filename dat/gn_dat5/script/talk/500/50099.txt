@@ -1,5 +1,8 @@
 
 
-そこは寺子屋よ。
-慧音先生が子供に勉強を教えてあげているの。\b
-\cたまにすごい音が聞こえるけど・・・なにかしらね？
+//そこは寺子屋よ。
+That building you see is terakoya.
+//慧音先生が子供に勉強を教えてあげているの。\b
+Keine teaches children there.\b
+//\cたまにすごい音が聞こえるけど・・・なにかしらね？
+\cSometimes I hear something terrific... I wonder what it is?

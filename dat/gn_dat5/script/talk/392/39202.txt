@@ -1,4 +1,7 @@
-幽香
+//幽香
+Yuuka
 25_00
-どう？\b
-あなたも惑わされてくれたかしら？
+//どう？\b
+How was it?\b
+//あなたも惑わされてくれたかしら？
+Did you find what you were looking for?

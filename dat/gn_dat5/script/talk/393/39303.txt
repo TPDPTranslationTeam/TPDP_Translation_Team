@@ -4,7 +4,7 @@ Gengetsu
 //‚³ ‘‘¬í‚¢‚Ü‚µ‚åB\b
 Hey, let's battle.\b
 //‚»‚Ì‚½‚ß‚É—ˆ‚½‚ñ‚Å‚µ‚åH\b
-You came for it, right?\b
+That's what you came for, right?\b
 //\oŒ¶Œ
 \Gengetsu
 \s965_00

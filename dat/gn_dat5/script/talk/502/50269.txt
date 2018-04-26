@@ -1,4 +1,7 @@
 
 
-おや地下センターから来たのかい？\b
-下は熱かったろう。上に行くと妖怪の山に出るよ。
+Did you come from the center of the underground?\b
+The bottom is too hot. Keep going up and you'll come out next to the Youkai Mountain.
+
+//おや地下センターから来たのかい？\b
+//下は熱かったろう。上に行くと妖怪の山に出るよ。

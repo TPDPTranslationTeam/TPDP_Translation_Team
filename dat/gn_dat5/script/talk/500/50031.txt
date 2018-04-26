@@ -1,3 +1,4 @@
 
 
-草むらに居ると急に人形が出てくるから なるべく避けて歩いてるんだ。
+//草むらに居ると急に人形が出てくるから なるべく避けて歩いてるんだ。
+I'm avoiding bushes because puppets suddenly jump out. 

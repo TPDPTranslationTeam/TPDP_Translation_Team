@@ -1,4 +1,8 @@
 
 
-近くに竹林あるだろ？そこの竹炭で焼かれた藤原煎餅は人形を回復できるよ。\b
-おやつにはちょうどいいね。
+Is it close to the bamboo forest? A rice cookie cooked with the bamboo from there can heal puppets.\b
+It's also pretty good as a snack.
+//first two words are context dependent pls change
+
+//近くに竹林あるだろ？そこの竹炭で焼かれた藤原煎餅は人形を回復できるよ。\b
+//おやつにはちょうどいいね。

@@ -1,5 +1,8 @@
 
 
-あなた知ってる？新聞の人形遣いの話。
-なんでも噂じゃ 外から来た人間らしいわよ。\b
-この異変に何かしら関係があるのかしらね？
+//あなた知ってる？新聞の人形遣いの話。
+Have you ever heard of the new puppeteer that showed up on the newspaper?
+//なんでも噂じゃ 外から来た人間らしいわよ。\b
+I heard the puppeteer is from the outside.\b
+//この異変に何かしら関係があるのかしらね？
+Is that person related with this incident?

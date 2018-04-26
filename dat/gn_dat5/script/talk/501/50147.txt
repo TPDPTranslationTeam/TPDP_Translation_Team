@@ -1,4 +1,6 @@
 
 
-夜じゃないと力が出ないのよ～・・・。\b
-夜は妖怪の世界！昼は・・・眠いよぉ。
+//夜じゃないと力が出ないのよ～・・・。\b
+I can only bring out full power in the night...\b
+//夜は妖怪の世界！昼は・・・眠いよぉ。
+The night is youkai's reign! Daytime... it makes me sleepy.

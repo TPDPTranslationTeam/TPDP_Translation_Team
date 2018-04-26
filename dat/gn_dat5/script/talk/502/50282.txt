@@ -1,3 +1,6 @@
 
 
-この休憩所 場所が場所だけに人より妖怪の方が利用者が多いのよねぇ・・・。
+There are more youkai than humans in this rest area...
+//puppets can be inferred?
+
+//この休憩所 場所が場所だけに人より妖怪の方が利用者が多いのよねぇ・・・。

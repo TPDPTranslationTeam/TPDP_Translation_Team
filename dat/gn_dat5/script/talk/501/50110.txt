@@ -1,4 +1,6 @@
 
 
-この先には 昔遺跡があったのよ。\b
-いつの間にか消えちゃったらしいけど。
+//この先には 昔遺跡があったのよ。\b
+Once there was a ruins up ahead.\b
+//いつの間にか消えちゃったらしいけど。
+I heard it disappeared suddenly, though.

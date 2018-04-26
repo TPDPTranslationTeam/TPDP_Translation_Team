@@ -1,4 +1,8 @@
 
 
-今日のお仕事は・・・いいや 明日やろっと。\b
-今日は遊ぼうっと！
+Today's work is... nah, I'll do all of this tomorrow.\b
+Today's work is to play!
+//no mention of work in the second line, but found it more amusing
+
+//今日のお仕事は・・・いいや 明日やろっと。\b
+//今日は遊ぼうっと！

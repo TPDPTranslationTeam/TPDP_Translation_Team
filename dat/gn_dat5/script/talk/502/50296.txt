@@ -1,5 +1,10 @@
 
 
-『役立ち情報！』
-見えないところにも 道具があることがあります。\b
-怪しいところを調べてみましょう。
+- Trainer Tips! -
+//press a to be gay today
+Sometimes, there's things lying around that you can't see.\b
+Why not look in suspicious places?
+
+//『役立ち情報！』
+//見えないところにも 道具があることがあります。\b
+//怪しいところを調べてみましょう。

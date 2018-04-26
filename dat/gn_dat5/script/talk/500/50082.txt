@@ -1,4 +1,6 @@
 
 
-人形といい座敷童といい 一人暮らしでも寂しくないよ。\b
-\cあんたも人形遣いかい？集めたり戦わせたり大変だろうけど 頑張りなさいな。
+//人形といい座敷童といい 一人暮らしでも寂しくないよ。\b
+Puppets, Zashiki-warashi... Living alone in Gensokyo is not lonely.\b
+//\cあんたも人形遣いかい？集めたり戦わせたり大変だろうけど 頑張りなさいな。
+\cAre you a puppeteer too? Collecting, fighting... It might be tough but do your best.

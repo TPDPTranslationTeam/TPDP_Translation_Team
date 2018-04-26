@@ -1,4 +1,6 @@
 
 
-ちょっと一息 休憩いかがでしょうか。
-お茶菓子も販売しております。
+//ちょっと一息 休憩いかがでしょうか。
+How about a little rest at here?
+//お茶菓子も販売しております。
+We have confectioneries too.

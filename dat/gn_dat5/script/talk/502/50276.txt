@@ -1,4 +1,7 @@
 
 
-どうやら人形の舞闘会が開かれるそうじゃねぇか！\b
-いっちょ参加しみるかねぇ。おめぇさんはどうするんだい？
+Apparently there's a puppet tournament being held!\b
+Do you want to join it? What will you do in it?
+
+//どうやら人形の舞闘会が開かれるそうじゃねぇか！\b
+//いっちょ参加しみるかねぇ。おめぇさんはどうするんだい？

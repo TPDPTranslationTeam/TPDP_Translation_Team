@@ -1,4 +1,8 @@
 
 
-ここの霧は居心地良いんだー。\b
-誰に話しかけられてるかよく分からないんだけどねー。
+The fog here is very comforting~.\b
+But... I'm not sure who exactly is talking to me~.
+//how do i represent ー.
+
+//ここの霧は居心地良いんだー。\b
+//誰に話しかけられてるかよく分からないんだけどねー。

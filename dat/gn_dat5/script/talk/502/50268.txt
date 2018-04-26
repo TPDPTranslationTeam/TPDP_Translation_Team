@@ -1,3 +1,6 @@
 
 
-なんか凄い勢いで誰か走っていったけど・・・。どこ行ったんだろ。
+Someone ran past here going really fast... Where are they going?
+//is the second sentence "Where are they going" or "Where did they come from?"
+
+//なんか凄い勢いで誰か走っていったけど・・・。どこ行ったんだろ。

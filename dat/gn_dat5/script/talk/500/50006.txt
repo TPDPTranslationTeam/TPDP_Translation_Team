@@ -1,4 +1,6 @@
 
 
-見た目は ただの廃神社だけど・・・\b
-ここには 昔から神隠しの噂があるのよ。
+//見た目は ただの廃神社だけど・・・\b
+Here looks like just an abandoned shrine...\b
+//ここには 昔から神隠しの噂があるのよ。
+This place have a rumor of people spirited away.

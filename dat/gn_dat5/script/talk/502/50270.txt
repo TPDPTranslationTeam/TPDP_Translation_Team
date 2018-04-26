@@ -1,4 +1,8 @@
 
 
-お空さんのお陰で仕事は楽なんだけど たまーに訪問者全てを異物と見なして攻撃し始めて怖いんだよね。\b
-\c一度東風谷さんを異物として排除しようとしてたし・・・。
+Thanks to Ms. Reiuji, my job is easy... but I'm afraid I attack the visitors too often because I think they're malicious.\b
+\cOne time I even tried to get rid of Sanae for that reason...
+//due to お preceeding the kanji I assumed they look up to okuu, so i used a formal thing here
+
+//お空さんのお陰で仕事は楽なんだけど たまーに訪問者全てを異物と見なして攻撃し始めて怖いんだよね。\b
+//\c一度東風谷さんを異物として排除しようとしてたし・・・。

@@ -1,5 +1,8 @@
 
 
-『龍神様』
-自然を司る創造神。\b
-\c他世界へ自由に移動できると云われる。
+//『龍神様』
+"The Dragon God"
+//自然を司る創造神。\b
+The creator which is the aspect of nature.\b
+//\c他世界へ自由に移動できると云われる。
+\cWhich is said to traverse through various worlds.

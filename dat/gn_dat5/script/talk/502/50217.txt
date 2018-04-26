@@ -1,4 +1,8 @@
 
 
-あら新人さんですか？\b
-新人なら最初は外回りからですよ！中に入るのはまだ早いです！
+Oh, are you new here?\b
+If so, you should go around！It's still too early to enter!
+//ehhhhh
+
+//あら新人さんですか？\b
+//新人なら最初は外回りからですよ！中に入るのはまだ早いです！

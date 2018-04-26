@@ -1,4 +1,10 @@
 
 
-おっさかな おっさかなー。
-このおじいちゃんお魚いっつも逃がしてるのなー。
+//おっさかな おっさかなー。
+Fishies, fishies~♪
+//このおじいちゃんお魚いっつも逃がしてるのなー。
+This old man always letting fishes escape.
+
+//Is it a reference? We can interpret this by 2 ways:
+//1: Catch-and-Release
+//2: missing fishes every time

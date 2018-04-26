@@ -1,3 +1,4 @@
 
 
-この先に休憩所があるから しっかりと人形を休ませてあげてね！
+//この先に休憩所があるから しっかりと人形を休ませてあげてね！
+There's a resting place ahead. Let your puppet rest well!

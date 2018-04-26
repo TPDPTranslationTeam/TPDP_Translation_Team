@@ -5,11 +5,11 @@ Mugetsu
 Got it?\b
 \x03
 //お人形さんを作ったのは魔界神かもしれないけど 増やして自由にさせたのは私達ってことよ。\b
-The god of Makai made the Puppets but we made more and freed them.\b
+The god of Makai created the Puppets, but we made more and let them loose.\b
 //\o幻月
 \oGengetsu
 \s27_03
 //このお人形さんが増えて 幻想郷に溢れたら おもしろそうじゃない。\b
-Sounds fun if they flood Gensokyo, right?\b
+Flooding Gensokyo with puppets sounds fun, doesn't it?\b
 //簡単な理由でしょ？
-Simple reason, isn't it?
+Isn't that enough of a reason?

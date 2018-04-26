@@ -1,4 +1,6 @@
 
 
-貴様も人形遣いか・・・？
-ふふ 我と手合せ願おうか！
+//貴様も人形遣いか・・・？
+You're a puppeteer too?
+//ふふ 我と手合せ願おうか！
+Huhu, shall we have a puppet battle?
