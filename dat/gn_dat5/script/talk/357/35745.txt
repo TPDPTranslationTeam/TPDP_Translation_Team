@@ -1,5 +1,5 @@
 
 
-裁縫のメモが書いてある。\b
-まずは道具を用意しましょう。はさみ・糸・針・布・綿が必要です。\b
-\c縫い方についても書いてある。
+The Sewing Memo was already written.\b
+Let's see how to use these tools. Scissors, Thread, Needle, Cloth, and Cotton are needed.\b
+\cThe sewing method was also written as well.
