@@ -1,5 +1,8 @@
 
 
-遠くに行く前に人形のおやつは持ったかい？
-人形も疲れるからのぅ。\b
-\c遠くに行くときは持っておいた方がいいぞい。
+//遠くに行く前に人形のおやつは持ったかい？
+Did you prepare confectioneries for puppets before you go long way? 
+//人形も疲れるからのぅ。\b
+Puppets gets tired too.\b
+//\c遠くに行くときは持っておいた方がいいぞい。
+\cYou should have them before you going out for long.

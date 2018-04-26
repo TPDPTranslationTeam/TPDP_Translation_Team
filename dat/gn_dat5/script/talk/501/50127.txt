@@ -1,4 +1,6 @@
 
 
-おや人形遣いさんかえ？どこか目指してるのかい？\b
-この辺りは迷いやすいから 気を付けてなぁ。
+//おや人形遣いさんかえ？どこか目指してるのかい？\b
+Oh, a puppeteer? Where are you going?\b
+//この辺りは迷いやすいから 気を付けてなぁ。
+You can get lost easily around here, be careful.

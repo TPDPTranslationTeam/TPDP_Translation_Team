@@ -1,3 +1,6 @@
 
 
-人形遣いかい？最近じゃあ人形のある風景も見慣れてきたねぇ。
+//人形遣いかい？最近じゃあ人形のある風景も見慣れてきたねぇ。
+Are you a puppeteer? I'm getting used to see sceneries with puppets.
+
+//Reference: Scenery with Dolls from Touhou 12.3

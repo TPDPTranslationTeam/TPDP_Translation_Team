@@ -1,4 +1,6 @@
 
 
-あなたも随分遠くまで来たのね。\b
-人形の体調はしっかり管理してるかしら？戻るのも一つの道だったりするのよ？
+//あなたも随分遠くまで来たのね。\b
+You've come a long way too.\b
+//人形の体調はしっかり管理してるかしら？戻るのも一つの道だったりするのよ？
+Are you caring puppets' condition well? Remember you also can go back.
