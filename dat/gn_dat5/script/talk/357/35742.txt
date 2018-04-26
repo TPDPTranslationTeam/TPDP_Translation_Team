@@ -1,5 +1,8 @@
 
 
 あ ありがとう！	\b・・・ってこれ変わってないじゃないの！\b
+T-Thank you! \b ... Oi, this isn't right!\b
 あなた 私をからかっているのね！\b
+You're trying to mock me aren't you!\b
 \c良いわ あなたを人形にして妹様に献上してやるわ！
+Fine, you go and give this doll to the little sister!

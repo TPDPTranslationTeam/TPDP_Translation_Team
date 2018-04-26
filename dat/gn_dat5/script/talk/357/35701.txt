@@ -1,5 +1,8 @@
 
 
 私たちのおやつのドーナツがなくなって皆で犯人を捜しているところなの！\b
+Our donut snacks were stolen so everyone has been looking for the culprit!\b
 お前が怪しいから今から裁判にかけてやる！\b
+Since you're suspicious you will be put on trial!\b
 \c無実というならばアリバイを証明できるかな!
+\cIf you're innocent you can try proving your alibi!
