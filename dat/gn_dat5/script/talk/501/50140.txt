@@ -1,4 +1,6 @@
 
 
-人形を追いかけてたらここまで来ちゃった…。\b
-\c休憩所があったはずだから回復してから帰ろうかなぁ。
+//人形を追いかけてたらここまで来ちゃった…。\b
+I've came this far chasing a puppet...\b
+//\c休憩所があったはずだから回復してから帰ろうかなぁ。
+\cThere must be a rest area around here. I guess I gotta heal there and go back.

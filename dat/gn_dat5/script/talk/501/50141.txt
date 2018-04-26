@@ -1,4 +1,6 @@
 
 
-い 命拾いしたなぁ！\b
-\c今私の人形たちはちょっと元気が無くて･･･やめて人形をけしかけないで！
+//い 命拾いしたなぁ！\b
+You, you're saved now!\b
+//\c今私の人形たちはちょっと元気が無くて･･･やめて人形をけしかけないで！
+\cMy puppets are out of energy for a bit... Hey, stop attacking me with your puppets!

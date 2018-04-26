@@ -1,6 +1,12 @@
 
 
-人形異変を解決しに行くのかい？\b
-昔は冒険をしたかったけど 稼業を継がないといけなくてなぁ・・・。\b
-\cこれから君には多くの物語が待ち受けてるだろう。\b
-さぁ いってらっしゃい！
+//人形異変を解決しに行くのかい？\b
+You're solving the Puppet Incident?\b
+//昔は冒険をしたかったけど 稼業を継がないといけなくてなぁ・・・。\b
+I wanted to go on an adventure but I had to succeed my dad's job...\b
+//\cこれから君には多くの物語が待ち受けてるだろう。\b
+\cA lot of stories must be waiting for you.\b 
+//さぁ いってらっしゃい！
+Take care!
+
+//For proofreaders: make this cooler
