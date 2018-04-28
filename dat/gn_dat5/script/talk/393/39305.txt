@@ -4,7 +4,7 @@ Mugetsu
 //人形はいなくならない。\b
 The puppets will never disappear.\b
 //だって 止める気もなかったし その手段も用意していないもの。\b
-We can't get rid of them, and we didn't want to.\b
+We can't get rid of them, and we don't want to.\b
 //\o幻月
 \oGengetsu
 \j27_00
