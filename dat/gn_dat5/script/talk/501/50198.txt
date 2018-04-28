@@ -1,4 +1,6 @@
 
 
-・・・あぁ 新聞の。私は人形は持ってないよ。\b
-弾幕ごっこにしか興味ないんだ。
+//・・・あぁ 新聞の。私は人形は持ってないよ。\b
+...Ah, I saw you in the newspaper. I don't have any puppets.\b
+//弾幕ごっこにしか興味ないんだ。
+I'm only interested in danmaku.

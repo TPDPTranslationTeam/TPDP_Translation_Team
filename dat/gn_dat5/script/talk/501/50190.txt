@@ -1,4 +1,8 @@
 
 
-次の住処ここにしようかと思ったら 厄神様が住んでた･･･\b
-\cえんがちょえんがちょ。
+//次の住処ここにしようかと思ったら 厄神様が住んでた･･･\b
+I was about to live here but the Misfortune God was already there...\b
+//\cえんがちょえんがちょ。
+\cGo away, my bad luck.
+
+//Do we need to keep untranslated "えんがちょ/engacho"?

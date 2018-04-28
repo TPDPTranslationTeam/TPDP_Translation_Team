@@ -1,3 +1,4 @@
 
 
-あまりうろちょろしないでくれよー？後始末するのは我々なんだから。
+//あまりうろちょろしないでくれよー？後始末するのは我々なんだから。
+Don't mess around too much. We need to handle it later.

@@ -1,4 +1,6 @@
 
 
-あまりここらで騒がないでおくれ。\b
-玄武様に怒られたって知らないよ？
+//あまりここらで騒がないでおくれ。\b
+Don't make a fuss around too much around here.\b
+//玄武様に怒られたって知らないよ？
+I'm not responsible of it if you offend Lord Genbu.

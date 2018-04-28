@@ -1,4 +1,5 @@
 
 
-キスメ人形の紐ってどこからぶら下がってるのか\b
-\c調べようと思って探してるんだけど 見つからないなぁ。
+//キスメ人形の紐ってどこからぶら下がってるのか\b
+//\c調べようと思って探してるんだけど 見つからないなぁ。
+I'm looking for where Kisume puppet's strings comes from but I can't find it.
