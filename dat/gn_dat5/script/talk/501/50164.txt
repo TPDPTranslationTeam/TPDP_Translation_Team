@@ -1,4 +1,6 @@
 
 
-立派な御柱だなぁ・・・。\b
-見てるだけなのに なんかこう 怖気ついちゃうよね。
+//立派な御柱だなぁ・・・。\b
+What a majestic onbashira...\b
+//見てるだけなのに なんかこう 怖気ついちゃうよね。
+Just looking at it makes me frightened.

@@ -1,4 +1,6 @@
 
 
-そろそろバザーの時期かぁ。\b
-ちゃんとお金稼がないとなぁ。何をぼったくろうかなっと。
+//そろそろバザーの時期かぁ。\b
+Bazaar season is coming.\b
+//ちゃんとお金稼がないとなぁ。何をぼったくろうかなっと。
+I should make some money. How can I rip off this time?

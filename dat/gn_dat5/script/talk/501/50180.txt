@@ -1,4 +1,6 @@
 
 
-うーん。あまりこの先はお勧めしないなぁ。\b
-とりあえず遺言だけは書いておきな。
+//うーん。あまりこの先はお勧めしないなぁ。\b
+Um, I don't recommend you to go further.\b
+//とりあえず遺言だけは書いておきな。
+I suggest you to write your last will if you do.

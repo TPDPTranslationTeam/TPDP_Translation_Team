@@ -1,4 +1,8 @@
 
 
-・・・しっ！静かに！\b
-あいつのきゅうりをこののびーるアームでゲットするんだ。邪魔しないでくれ！
+//・・・しっ！静かに！\b
+...Sheesh! Quiet!\b
+//あいつのきゅうりをこののびーるアームでゲットするんだ。邪魔しないでくれ！
+I'm gonna get his cucumber with Extending Arm. Don't disturb me!
+
+//For testing branch: please change "his" into "her" if the text contradicts

@@ -1,4 +1,6 @@
 
 
-にとりは私たち河童の代表になる事が多いわね。\b
-\cとはいっても仕切ってるわけじゃなくて ただ面倒ごとに巻き込まれてるだけみたいだけど・・・。
+//にとりは私たち河童の代表になる事が多いわね。\b
+Nitori tends to represent us, kappa.\b
+//\cとはいっても仕切ってるわけじゃなくて ただ面倒ごとに巻き込まれてるだけみたいだけど・・・。
+\cBut she seems to be caught in troubles, not managing things...

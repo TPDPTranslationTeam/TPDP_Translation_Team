@@ -1,4 +1,6 @@
 
 
-知ってる？この神社と湖はまるごと外の世界から引っ越してきたんだよ。\b
-信じられないよねぇ。
+//知ってる？この神社と湖はまるごと外の世界から引っ越してきたんだよ。\b
+Did you know that this shrine and the lake moved from the outside as a whole.\b
+//信じられないよねぇ。
+Unbelievable, isn't it?

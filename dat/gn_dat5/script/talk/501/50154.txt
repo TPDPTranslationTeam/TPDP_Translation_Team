@@ -1,4 +1,6 @@
 
 
-ここは私たち河童の秘密基地だよ。\b
-秘密基地って良いよね。こう なんか 響きがさ。
+//ここは私たち河童の秘密基地だよ。\b
+This is the hideout of us, kappa.\b
+//秘密基地って良いよね。こう なんか 響きがさ。
+Hideouts, secret base, sounds cool, isn't it?

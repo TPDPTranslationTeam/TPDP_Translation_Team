@@ -1,3 +1,4 @@
 
 
-あー人形遣いか？私は人形には興味ないんだよ。残念だったな。
+//あー人形遣いか？私は人形には興味ないんだよ。残念だったな。
+Uh, are you a puppeteer? Unfortunately, I'm not interested in puppets.

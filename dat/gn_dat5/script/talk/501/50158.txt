@@ -1,5 +1,8 @@
 
 
-バザーは収入源だけじゃなく 我々の発明品を披露するイベントでもあるんだ。\b
-\c・・・あまり理解はされないけどね。\b
-尻子器 良いと思うんだけどなぁ。
+//バザーは収入源だけじゃなく 我々の発明品を披露するイベントでもあるんだ。\b
+Our bazzar is not only our source of income, also an event to show off our inventions.\b
+//\c・・・あまり理解はされないけどね。\b
+\c...Not many people doesn't understand us, though.\b
+//尻子器 良いと思うんだけどなぁ。
+I think Automatic Shirikodama Extractor is a good idea...

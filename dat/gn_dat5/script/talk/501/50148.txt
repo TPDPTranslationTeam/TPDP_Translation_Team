@@ -1,3 +1,4 @@
 
 
-わ 私は何も持ってないよぉ！あっち行けよぉ！
+//わ 私は何も持ってないよぉ！あっち行けよぉ！
+I, I don't have anything interesting! Go away!

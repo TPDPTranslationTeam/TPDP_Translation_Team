@@ -1,4 +1,6 @@
 
 
-聖様を慕う妖怪は多いですよ。\b
-ただ 最近は道教一派が増えてきているらしいですけどね。
+//聖様を慕う妖怪は多いですよ。\b
+There's many youkai follows Master Hijiri.\b
+//ただ 最近は道教一派が増えてきているらしいですけどね。
+But also Taoism is on the rise recently.

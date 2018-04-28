@@ -1,3 +1,4 @@
 
 
-何故人間がここに居るかは知らないが あまりうろちょろしないでくれよ。
+//何故人間がここに居るかは知らないが あまりうろちょろしないでくれよ。
+I don't know why a human is here but don't loiter around too much.

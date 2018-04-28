@@ -1,4 +1,6 @@
 
-
-アジトを占拠していた人形解放戦線 あれは何しに来たんだい？\b
-\cステルス迷彩が目的？何に使うんだろうね。
+//アジトを占拠していた人形解放戦線 あれは何しに来たんだい？\b
+Puppet Liberation Front had taken over the hideout.
+What did they want with it?\b
+//\cステルス迷彩が目的？何に使うんだろうね。
+\cThey wanted the optical camouflage? I wonder what they will use for. 
