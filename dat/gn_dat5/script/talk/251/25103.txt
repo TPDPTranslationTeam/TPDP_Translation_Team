@@ -1,7 +1,7 @@
 Doremy
 127
 それはそうよね。\b
-That is so.
+That is so.\b
 \x02
 自ら狂気の道を行くなんて そんなの愚か者のすることよ。\b
 Going down the path of insanity is what a foolish person would do.\b
