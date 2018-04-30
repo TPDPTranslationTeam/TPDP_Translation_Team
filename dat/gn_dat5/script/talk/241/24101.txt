@@ -2,7 +2,7 @@ Komachi
 74_02
 Yowch, aren't you a strong one.\b
 \x00
-It really surprised me that I lost.\b
+That really surprised me when I lost.\b
 \o???
 \s
 Komachi! I see you're goofing off again!!
