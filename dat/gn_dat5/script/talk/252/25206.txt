@@ -1,4 +1,4 @@
 
 
-Another Earthling is attacking huh!\b
+Another Earthling is attacking, huh!\b
 Eliminate!
