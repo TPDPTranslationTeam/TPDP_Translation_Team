@@ -2,9 +2,9 @@ Seiran
 125_01
 You're pretty good to be fighting against a moon rabbit!\b
 \x00
-Too bad. I'm but a simple underling rabbit.
-The rabbits on the moon are much stronger.\b
+Too bad I'm but a simple underling rabbit.
+The rabbits on the Moon are much stronger.\b
 \x01
-But going to the moon is difficult you know?\b
+But, going to the Moon is difficult, you know?\b
 \x03
-The Kaian Passage that connects the moon to here makes that a different story though.
+The Kaian Passage that connects the Moon to here makes that a different story, though.
