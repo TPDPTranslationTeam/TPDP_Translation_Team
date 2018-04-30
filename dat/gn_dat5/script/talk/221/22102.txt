@@ -1,7 +1,4 @@
 Kasen
 106
-
 Is that so?\b
 Please speak to me again when you've found everything.
-
-~~Not sure what the first line is referring to. Should be okay, but might need tweaking.
