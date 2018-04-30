@@ -1,3 +1,4 @@
 
 
-中に入りたい？ダメに決まっているわ。
+//中に入りたい？ダメに決まっているわ。
+Going inside? I won't allow of course.

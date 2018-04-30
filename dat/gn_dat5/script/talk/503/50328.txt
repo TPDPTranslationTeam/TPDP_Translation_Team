@@ -1,3 +1,4 @@
 
 
-あぁ・・・中から機械音が・・・
+//あぁ・・・中から機械音が・・・
+Ah... There's machine sound from inside...

@@ -1,3 +1,9 @@
 
 
-t ‰Ä “~ ’†
+//t ‰Ä “~ ’†
+"The shop is open."
+
+//Translator's note:
+//"t‰Ä“~’†" is a pun: 4 seasons (t‰ÄH“~) but without Autumn (H/aki), this means "Aki Nai (No Autumn)".
+//In Japanese "¤‚¢/akinai" means dealing, trading, or selling.
+//Combining with ’†, this can be deciphered into "The shop is open."

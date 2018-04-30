@@ -1,5 +1,10 @@
 
 
-『役立ち情報！』
-対戦用の消費アイテムは 対戦後には復活します。\b
-どんどん装備して対戦を優位に進めましょう。
+//『役立ち情報！』
+Useful Tips:
+//対戦用の消費アイテムは 対戦後には復活します。\b
+Consumable items for battle revives after the battle.\b
+//どんどん装備して対戦を優位に進めましょう。
+There's no reason to not taking advantage of them!b
+
+//This is about Oran Berry, Sitrus Berry kind of stuffs in Pokemon

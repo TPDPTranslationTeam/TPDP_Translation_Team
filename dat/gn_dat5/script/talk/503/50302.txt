@@ -1,3 +1,4 @@
 
 
-お供えものが置いてある・・・。
+//お供えものが置いてある・・・。
+There is something offered...

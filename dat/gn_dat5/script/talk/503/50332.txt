@@ -1,5 +1,8 @@
 
 
-キケン！
-有毒ガス充満につき
-死にたい奴だけ 近寄ってよし
+//キケン！
+DANGER
+//有毒ガス充満につき
+Full with poisnous gas 
+//死にたい奴だけ 近寄ってよし
+Approach if you have a deathwish

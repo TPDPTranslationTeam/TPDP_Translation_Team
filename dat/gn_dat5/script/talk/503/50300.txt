@@ -1,4 +1,6 @@
 
 
-中で男湯と女湯にわかれています。
-※弊社は浴場でのトラブルに一切責任を負いません。
+//中で男湯と女湯にわかれています。
+Separated inside into two rooms, each for male and female.
+//※弊社は浴場でのトラブルに一切責任を負いません。
+//Disclaimer: We are not responsible to any trouble caused here.

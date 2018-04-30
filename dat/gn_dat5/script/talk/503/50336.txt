@@ -1,3 +1,7 @@
 
 
-最近は人形の事を調べて記事にしているの！\nやっぱり旬は人形異変よね！
+//最近は人形の事を調べて記事にしているの！\nやっぱり旬は人形異変よね！
+I'm resarching and writing an article of puppets recently!\b
+The trend is Puppet Incident, isn't it?
+
+//Second line is really rough

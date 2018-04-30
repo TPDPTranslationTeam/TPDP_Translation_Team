@@ -1,4 +1,6 @@
 
 
-↑人間の里
-　　　　　　　　　→命蓮寺
+//↑人間の里
+//　　　　　　　　　→命蓮寺
+↑Human Village
+　　　　　　　　　→Myoren Temple

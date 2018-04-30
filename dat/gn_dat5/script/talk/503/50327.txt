@@ -1,3 +1,4 @@
 
 
-中に入りたいなら 合言葉が必要よ。
+//中に入りたいなら 合言葉が必要よ。
+You need the secret password to get in here.

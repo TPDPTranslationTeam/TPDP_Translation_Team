@@ -1,3 +1,4 @@
 
 
-正確さを取るか速さを取るかって言われると速さを取っちゃうよね。\n鉄は熱いうちにってやつよ。
+//正確さを取るか速さを取るかって言われると速さを取っちゃうよね。\n鉄は熱いうちにってやつよ。
+I'd take speed than accuracy for my articles.\n Strike while the iron is hot, as they say.
