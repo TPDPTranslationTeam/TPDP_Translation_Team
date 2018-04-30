@@ -1,6 +1,6 @@
 Ringo
 126_01
-Intruder spotted!
-You knowingly came to a military frontline did you?\b
+Intruder spotted!\b
+You knowingly came to a military frontline, did you?\b
 \x00
 Now sit quietly and let me punish you!!
