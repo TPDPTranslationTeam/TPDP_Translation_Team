@@ -2,9 +2,9 @@
 Shinmyoumaru
 122
 またやって来たわね！\b
-I've come again!
+I've come again!\b
 \x01
 さぁ仕切りなおしよ。\b
-Well, come on now!
+Well, come on now!\b
 今度は私がきちんと勝ってあげるんだから 覚悟しなさいっ！
 I'm gonna win this time, so get ready!
