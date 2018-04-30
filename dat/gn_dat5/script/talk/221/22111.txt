@@ -1,6 +1,5 @@
 Shinmyoumaru
 122
-
 That was easy, huh. Did you need something from me?\b
 \x02
 ...You're looking for something?\b
