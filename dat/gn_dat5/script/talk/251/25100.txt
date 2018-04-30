@@ -4,12 +4,12 @@ Doremy
 Aren't you flesh and blood!?\b
 \x02
 ・・・あぁ違うか。
-...Aah that's not right.\b
+...Aah, that's not right.\b
 前にそういう人間がいたのよね。\b
-That was that human from before.\b
+It is that human from before.\b
 \x01
 こんなところに迷い込んではダメですよ？
-You musn't get lost here now?
+You musn't get lost here now, okay?
 このまま進めば きっと あなたは狂ってしまう。\b
 Continuing on this path will surely lead you to insanity.\b
 \x00
