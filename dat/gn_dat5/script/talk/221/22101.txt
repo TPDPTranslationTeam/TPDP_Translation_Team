@@ -1,6 +1,5 @@
 Kasen
 106_03
-
 Really? I'm saved!\b
 \x01
 I need you to search for the Peach Hairpin, the Dog Whistle, the Monkey Seat, and the Way of the Knife.\b
