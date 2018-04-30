@@ -2,9 +2,9 @@
 Suwako
 87_02
 あーうー・・・結構強いのね。\b
-Aauu... Definitely strong.
+Aauu... Definitely strong.\b
 \x03
 まぁ楽しく戦えて 私は満足かな。\b
-Well, what a fun battle! I'm satisfied.
+Well, what a fun battle! I'm satisfied.\b
 遊びに付き合ってくれたし これをあげるよ。
 For coming to play with me, I'll give you this.
