@@ -5,12 +5,12 @@ Kasen
 Oh, someone's come to visit me...\b
 \x03
 でもちょうど良かった。少し私の手伝いをしてくれませんか？\b
-This is perfect.  Could you help me?\b
+This is perfect. Could you help me?\b
 \x01
 実は人形にイタズラされてしまって 集めていた物を隠されてしまったの。\b
 A puppet played a prank on me and hid some things I was collecting.\b
 結構たくさんあって 一人で探すのも大変なのです。\b
-There's a lot, so it would be hard to search for them alone.\b
+There are a lot, so it would be hard to search for them alone.\b
 \x02
 だから あなたにぜひ協力してもらいたいの！\b
 I would love your cooperation!\b
