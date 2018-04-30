@@ -5,5 +5,5 @@ Why is an Earthling here?\b
 \c夢？ よくわからないけど帰ったほうがいいわよ。\b
 \cA dream? I don't really understand, but you should leave.\b
 ここの者は穢を嫌うから。
-The people here really hate kegare after all.
+The people here really hate impurity after all.
 (I put kegare here because I'm not sure if we should put impurity instead.)
