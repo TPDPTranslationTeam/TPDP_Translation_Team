@@ -12,6 +12,6 @@ Hm? Wondering how us moon rabbits got here?\b
 That's a secret!\b
 \x00
 どうしても行きたいなら 他の月の兎に聞いてみたら？\b
-If you really wanna go, why don't you ask the other moon rabbit?\b
+If you really wanna go up there, why don't you ask the other moon rabbit?\b
 彼女なら使ったことがあるから知ってるわ。
 She should know how to use it.
