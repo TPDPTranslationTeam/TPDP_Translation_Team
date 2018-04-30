@@ -1,6 +1,6 @@
-針妙丸
+Shinmyoumaru
 122
-またやって来たわね！\b
+I've come again!\b
 \x01
-さぁ仕切りなおしよ。\b
-今度は私がきちんと勝ってあげるんだから 覚悟しなさいっ！
+Well, come on now!\b
+I'm gonna win this time, so get ready!
