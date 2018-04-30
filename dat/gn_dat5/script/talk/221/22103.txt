@@ -1,6 +1,5 @@
 Kasen
 106
-
 Have you found everything I asked for?\b
 \x03
 Let me know once you've found them all!
