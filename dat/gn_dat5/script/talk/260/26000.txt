@@ -1,12 +1,12 @@
-ドレミー
+Doremy
 127_00
-あら あなたは。\b
-\cどうやら迷夢を見ているようね。
-夢か現か判断のつかない様子。\b
-\c・・・なるほど この先が見たいのね。\b
+Oh, it's you.\b
+You're confused, aren't you?
+Seems like you can't tell if it's a dream or a reality.
+\c...I see. You want to see what awaits ahead?\b
 \x01
-\cならば その夢は私が一旦預かります。\b
-この先に持ち込むには 少し重すぎるでしょう。\b
+\cThen, let me keep your dream for a while.\b
+It's too heavy to bring ahead.\b
 \o
 \s00
-ドレミーに 人形箱を預けた。
+Left the Puppet Box to Doremy.
