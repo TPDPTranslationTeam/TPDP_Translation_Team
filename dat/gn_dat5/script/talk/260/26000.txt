@@ -4,9 +4,9 @@ Doremy
 //あら あなたは。\b
 Oh, it's you.\b
 //\cどうやら迷夢を見ているようね。
-You're confused, isn't it?
+You're confused, aren't you?
 //夢か現か判断のつかない様子。\b
-Seems like you can't tell it's a dream or a reality.
+Seems like you can't tell if it's a dream or a reality.
 //\c・・・なるほど この先が見たいのね。\b
 \c...I see. You want to see what awaits ahead?\b
 \x01
