@@ -2,9 +2,9 @@
 Suwako
 87
 おっ こんなところまで参拝だなんて 信仰心の厚い人間もいるものだねぇ。\b
-Oh, even this place has people of great faith!
+Oh, even this place has people of great faith!\b
 \x03
 ここまで来たってことは 早苗や神奈子とも遊んだんでしょ？\b
-You've already come to play with Sanae and Kanako, right?
+You've already come to play with Sanae and Kanako, right?\b
 なら私とも遊んでくれるのが流儀というものよ？
 So why not play with me?
