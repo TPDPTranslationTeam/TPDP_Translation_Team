@@ -4,7 +4,7 @@ Komachi
 Yowch, aren't you a strong one.\b
 \x00
 負けるなんて思ってなかったから驚かされたよ。\b
-That really surprised me when I lost.\b
+It really surprised me that I lost.\b
 \o???
 \s
 小町！またあなたはサボっているのね！！
