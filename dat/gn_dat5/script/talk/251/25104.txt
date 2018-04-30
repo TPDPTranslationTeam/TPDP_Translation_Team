@@ -1,5 +1,5 @@
 Doremy
 127_02
-So you decided to come back?
+So you decided to come back?\b
 \x01
-You wish to go to the Lunar Capital again?
+...You wish to go to the Lunar Capital again?
