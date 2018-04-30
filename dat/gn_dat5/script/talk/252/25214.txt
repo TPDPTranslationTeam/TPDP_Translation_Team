@@ -1,6 +1,6 @@
 Sagume
 128_00
-... Huh, a human.\b
+...Huh, a human.\b
 \x01
 ...Is this another person's scheme?\b
 \c.......
