@@ -2,10 +2,11 @@
 Doremy
 127_03
 //なになに 安心してください。
+Well, don't worry.
 //後でちゃんと返しますよ。\b
-Don't worry, I'll return you later.\b
+I'll return it to you later.\b
 \x00
 //それでは行ってらっしゃい。
 See you then.
 //あなたに吉夢が訪れん事を。
-May a good luck be with you.
+May good luck be with you.
