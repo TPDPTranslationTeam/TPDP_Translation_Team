@@ -4,14 +4,14 @@ Reimu
 ちょっと あんた達うるさいわよ！
 You guys are so noisy!
 騒ぐなら外でやりなさい！\b
-If you're gonna be loud, go outside!
+If you're gonna be loud, go outside!\b
 \o針妙丸
 \oShinmyoumaru
 \s122_02
 はーい。\b
-Oka~y
+Oka~y\b
 \x00
 騒ぎすぎると霊夢に怒られるからまたね。\b
-If I make too much noise, Reimu will get mad, so I'll try again later.
+If I make too much noise, Reimu will get mad, so I'll try again later.\b
 今度は負けないから！
 I won't lose next time!
