@@ -1,7 +1,7 @@
 Doremy
 127_02
 あら また来たの？\b
-So you decided to come back?
+So you decided to come back?\b
 \x01
 ・・・やっぱり先に進みたいってことかしら？
-You wish to go to the Lunar Capital again?
+...You wish to go to the Lunar Capital again?
