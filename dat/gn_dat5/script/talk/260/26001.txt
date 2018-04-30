@@ -1,7 +1,7 @@
-ドレミー
+Doremy
 127_03
-なになに 安心してください。
-後でちゃんと返しますよ。\b
+Well, don't worry.
+I'll return it to you later.\b
 \x00
-それでは行ってらっしゃい。
-あなたに吉夢が訪れん事を。
+See you then.
+May good luck be with you.
