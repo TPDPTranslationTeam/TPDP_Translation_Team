@@ -1,6 +1,6 @@
 Doremy
 127
-That is so.
+That is so.\b
 \x02
 Going down the path of insanity is what a foolish person would do.\b
 \x03
