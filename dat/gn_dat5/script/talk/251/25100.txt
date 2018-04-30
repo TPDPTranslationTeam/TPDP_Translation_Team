@@ -2,10 +2,10 @@ Doremy
 127_04
 Aren't you flesh and blood!?\b
 \x02
-...Aah that's not right.\b
-That was that human from before.\b
+...Aah, that's not right.\b
+It is that human from before.\b
 \x01
-You musn't get lost here now?
+You musn't get lost here now, okay?
 Continuing on this path will surely lead you to insanity.\b
 \x00
 Before that happens, just sleep.
