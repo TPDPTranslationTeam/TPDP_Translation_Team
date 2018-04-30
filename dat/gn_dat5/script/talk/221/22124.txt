@@ -2,14 +2,14 @@
 Suwako
 87
 それは試作のお守り。私が作ったんだから 効果絶大だよ。\b
-That's a prototype of my amulet. Because I made it, It'll be super effective!
+That's a prototype of my amulet. Because I made it, it'll be super effective!\b
 御利益は 自分で確かめてね。\b
-Check out the benefits yourself!
+Check out the benefits yourself!\b
 \x01
 そうそう。\b
-Yes yes.
+Yes, yes.\b
 この山に蛙の溜まり場みたいな場所があるんだけど そこの蛙が何か持ってたね。\b
-On this mountain there's a place where lots of frogs have collected.  They've got something there.
+On this mountain there's a place where lots of frogs have collected.  They've got something there.\b
 \x03
 面白そうなものだったけど いったい何に使えるんだろうねぇ。
 It looks interesting, but I don't quite know what it's used for.
