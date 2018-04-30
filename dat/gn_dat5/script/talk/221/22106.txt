@@ -1,6 +1,5 @@
 Kasen
 106_04
-
 You came back?\b
 \x00
 It's too bad that I can't teach you any magic, huh?
