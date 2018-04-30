@@ -4,12 +4,12 @@ Seiran
 You're pretty good to be fighting against a moon rabbit!\b
 \x00
 c”O‚Å‚µ‚½B„‚Í‚½‚¾‚Ì‰º‚Á’[“e‚æB
-Too bad. I'm but a simple underling rabbit.
+Too bad I'm but a simple underling rabbit.
 Œ‚É‚¢‚é“e‚Í‚à‚Á‚Æ‹­‚¢‚íB\b
-The rabbits on the moon are much stronger.\b
+The rabbits on the Moon are much stronger.\b
 \x01
 ‚Å‚àŒ‚És‚­‚±‚Æ‚Í“ï‚µ‚¢‚í‚æH\b
-But going to the moon is difficult you know?\b
+But, going to the Moon is difficult, you know?\b
 \x03
 ÅˆÀ’Ê˜H‚Á‚Ä‚¢‚¤ Œ‚Æ‚±‚¿‚ç‚Ì¢ŠE‚ğŒq‚®’Ê˜H‚ğ’Ê‚ê‚Î•Ê‚È˜b‚¾‚¯‚ÇB
-The Kaian Passage that connects the moon to here makes that a different story though.
+The Kaian Passage that connects the Moon to here makes that a different story, though.
