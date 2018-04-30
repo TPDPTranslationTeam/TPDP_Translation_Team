@@ -1,5 +1,4 @@
 Kana
 16_03
-
-Oh, I dropped something.\b
-But... What is this?
+Oh, I dropped something!\b
+But... what is this?
