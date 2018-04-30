@@ -1,12 +1,12 @@
 Komachi
 74_00
-Don't you think this place is kinda bad for sightseeing?
-This here is the Sanzu River. Not a place for living people to come to.
+Don't you think this place is kinda bad for sightseeing?\b
+This here is the Sanzu River. Not a place for living people to come to.\b
 \x01
 Huh?
-Now that you're saying it, you face does look kinda famliar.\b
+Now that you're saying it, your face does look kinda famliar.\b
 \x00
 I'm a shinigami you see.
 If you're with me you'll be in a lot of trouble.\b
 \x03
-Right now I'm feeling bored. So why not tag along with me for a bit?
+Right now I'm feeling bored, so why not tag along with me for a bit?
