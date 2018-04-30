@@ -1,10 +1,10 @@
-霊夢
+Reimu
 1_01
-ちょっと あんた達うるさいわよ！
-騒ぐなら外でやりなさい！\b
-\o針妙丸
+You guys are so noisy!
+If you're gonna be loud, go outside!\b
+\oShinmyoumaru
 \s122_02
-はーい。\b
+Oka~y\b
 \x00
-騒ぎすぎると霊夢に怒られるからまたね。\b
-今度は負けないから！
+If I make too much noise, Reimu will get mad, so I'll try again later.\b
+I won't lose next time!
