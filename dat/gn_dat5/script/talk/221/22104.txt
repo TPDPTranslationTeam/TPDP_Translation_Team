@@ -1,6 +1,5 @@
 Kasen
 106_04
-
 Oh, have you found everything?\b
 \x03
 Thank you so much!
