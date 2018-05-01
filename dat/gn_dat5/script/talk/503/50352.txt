@@ -1,3 +1,9 @@
 
 
-鴉天狗の新聞っていうのは取材から出版まで一人で行うから 記事に偏りや誤報が多くって・・・。\b\nその辺は笑って許して？
+//鴉天狗の新聞っていうのは取材から出版まで一人で行うから 記事に偏りや誤報が多くって・・・。\b\nその辺は笑って許して？
+There are many misreports or biased informations on our newspapers, because we do everything alone about them: from reporting to publishing.\b\nForgive us about it, please?
+
+//I think it's a bit mouthful
+
+//"その辺は笑って許して？" literally translates into "Forgive [us] with laugh/smile about it".
+//It can be more cool

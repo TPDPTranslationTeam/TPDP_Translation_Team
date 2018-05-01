@@ -1,3 +1,4 @@
 
 
-桜がきれいだなぁ。ずっと見ていたいな。\b\n・・・逝きたくないなぁ。
+//桜がきれいだなぁ。ずっと見ていたいな。\b\n・・・逝きたくないなぁ。
+Beautiful cherry blossoms. I can watch this forever. \b\n...I don't wanna die.

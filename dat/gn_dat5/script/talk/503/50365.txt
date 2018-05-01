@@ -1,3 +1,4 @@
 
 
-長い階段だなぁ。まさしく昇っていくって感じだね。
+//長い階段だなぁ。まさしく昇っていくって感じだね。
+It's a long staircase. It surely feels like we're ascending.

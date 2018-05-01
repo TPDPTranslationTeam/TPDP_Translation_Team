@@ -1,3 +1,6 @@
 
 
-いろんな幽霊がここで自分が呼ばれるのを待つんだ。\b\n人間はもちろん植物から虫までね。
+//いろんな幽霊がここで自分が呼ばれるのを待つんだ。\b\n人間はもちろん植物から虫までね。
+Many kinds of ghosts wait to be called here;\n not only humans, even plants or bugs are here.
+
+//Requried discussion: "spirits" or "ghosts"?

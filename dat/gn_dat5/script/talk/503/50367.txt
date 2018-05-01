@@ -1,3 +1,4 @@
 
 
-冥界の門は今は閉じてないのか現世に戻ることができる。\b\nといっても幽体のままで戻ってもやれることは少ないのだがな。
+//冥界の門は今は閉じてないのか現世に戻ることができる。\b\nといっても幽体のままで戻ってもやれることは少ないのだがな。
+Apparently, the Netherworld gate is not closed and we can go back to the mortal realm.\b\nThere's not much things to do there with being a ghost, though.

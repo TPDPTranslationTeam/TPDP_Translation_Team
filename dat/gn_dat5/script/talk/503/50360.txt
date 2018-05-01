@@ -1,3 +1,6 @@
 
 
-君も太子様に弟子入りしに来たのかい？一緒に頑張りましょう！
+//君も太子様に弟子入りしに来たのかい？一緒に頑張りましょう！
+Are you willing to be a new apprentice to the Crown Princess? Let's do our best together!
+
+//"一緒に頑張りましょう！"->"Let's do our best together!" Another 頑張る situation, needs better suggestion

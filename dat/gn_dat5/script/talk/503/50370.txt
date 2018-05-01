@@ -1,3 +1,4 @@
 
 
-あちらに見えるお屋敷は白玉楼。\b\n冥界を管理している西行寺幽々子様のお屋敷でございます。
+//あちらに見えるお屋敷は白玉楼。\b\n冥界を管理している西行寺幽々子様のお屋敷でございます。
+Mansion you see over there is Hakugyokurou,\n the residence of Yuyuko Saigyouji, manager of the Netherworld.
