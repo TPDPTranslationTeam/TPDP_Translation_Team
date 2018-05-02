@@ -1,4 +1,6 @@
 
 
-神奈子様の御粥食べたことある？\b
-す・・・っごく美味しいんだよ！
+//神奈子様の御粥食べたことある？\b
+Have you ever had Lady Kanako's rice porridge?\b
+//す・・・っごく美味しいんだよ！
+It's reeeally tasty!

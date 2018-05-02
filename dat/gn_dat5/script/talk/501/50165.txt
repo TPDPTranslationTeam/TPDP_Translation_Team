@@ -1,5 +1,8 @@
 
 
-ここの神様は産業革命に協力的でさ。
-我々も外の科学知識を貰ってるのさ。\b
-さらにそれを河童流アレンジさせる！完璧じゃないか！
+//ここの神様は産業革命に協力的でさ。
+The goddess resides here is encouraging industrial revolution.
+//我々も外の科学知識を貰ってるのさ。\b
+She provides us the outside's scientific knowledge.\b
+//さらにそれを河童流アレンジさせる！完璧じゃないか！
+Then we arrange them in kappa style! It's perfect!

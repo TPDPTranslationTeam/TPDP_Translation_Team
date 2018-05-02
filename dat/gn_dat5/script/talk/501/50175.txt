@@ -1,4 +1,8 @@
 
 
-ぎゃーてー！ぎゃーてー！はら！ぎゃーてー！\b
-\cん？夜通し読経ライブの振り付け練習中なんだ。君もやるかい？
+//ぎゃーてー！ぎゃーてー！はら！ぎゃーてー！\b
+Gyate, gyate! Hara gyate!\b
+//\cん？夜通し読経ライブの振り付け練習中なんだ。君もやるかい？
+\cUm? I'm practicing choreography for the all-night sutra chant live. Wanna join me?
+
+//Is "hara" or "hala" in Sanskrit?
