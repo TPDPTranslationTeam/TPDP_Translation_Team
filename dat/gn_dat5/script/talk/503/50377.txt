@@ -1,3 +1,4 @@
 
 
-ブルーハワイ メロン イチゴがあるよー。\b\nブルーハワイって具体的には何味って？うーん・・・？
+//ブルーハワイ メロン イチゴがあるよー。\b\nブルーハワイって具体的には何味って？うーん・・・？
+We have Blue Hawaii, melon or strawberry flavor.\b\nWhat exactly is Blue Hawaii, you say? Umm...?

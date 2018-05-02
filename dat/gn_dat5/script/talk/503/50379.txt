@@ -1,3 +1,4 @@
 
 
-焼きそばいかがっすかー？タコ焼きもあるよー。
+//焼きそばいかがっすかー？タコ焼きもあるよー。
+How about a yakisoba? We have takoyaki too.

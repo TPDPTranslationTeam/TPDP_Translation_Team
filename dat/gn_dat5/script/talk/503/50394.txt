@@ -1,3 +1,4 @@
 
 
-綿あめっておいしいけど 口の周りがべたつくのが問題よねー。
+//綿あめっておいしいけど 口の周りがべたつくのが問題よねー。
+I like cotton candy but it makes my mouth sticky. It's a problem.

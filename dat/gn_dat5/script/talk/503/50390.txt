@@ -1,3 +1,4 @@
 
 
-そっちからは釣れないよー。
+//そっちからは釣れないよー。
+You can't fish from that side.

@@ -1,3 +1,4 @@
 
 
-焼き鳥売ってるとさ・・・天狗とか鳥妖怪から苦情がくるんだよなぁ・・・。\b\nあ おひとついかが？
+//焼き鳥売ってるとさ・・・天狗とか鳥妖怪から苦情がくるんだよなぁ・・・。\b\nあ おひとついかが？
+Selling grilled chicken gives me complaining from tengu or bird youkai...\b\nOh, how about one?

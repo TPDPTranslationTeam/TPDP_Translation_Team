@@ -1,3 +1,4 @@
 
 
-射的で弾幕使うのはおやめください！おやめください！
+//射的で弾幕使うのはおやめください！おやめください！
+Please stop using danmaku for the shooting range! Please!

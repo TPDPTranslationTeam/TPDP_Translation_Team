@@ -1,3 +1,4 @@
 
 
-こちら側はあぶないよ。表にいってね。
+//こちら側はあぶないよ。表にいってね。
+This side is dangerous. Please go to the front side.
