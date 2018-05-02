@@ -1,3 +1,4 @@
 
 
-今までの旅路を取材して回ってるんです。\nどうです？あなたも。
+//今までの旅路を取材して回ってるんです。\nどうです？あなたも。
+I'm reporting my past journies.\n How about you too?

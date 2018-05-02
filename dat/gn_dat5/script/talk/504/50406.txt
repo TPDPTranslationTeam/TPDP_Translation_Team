@@ -1,3 +1,5 @@
 
 
-なんか河童のアジトであったっぽいね。\b\nん？もう終わったのかい？
+//なんか河童のアジトであったっぽいね。\b\nん？もう終わったのかい？
+It appears to be something is happening in kappa's hideout.\b
+\nUm? It's over already?

@@ -1,3 +1,6 @@
 
 
-どうだい天界は。\n住めば都 慣れれば天国だよ。ホントダヨ。
+//どうだい天界は。\n住めば都 慣れれば天国だよ。ホントダヨ。
+How's the Heaven for you? \nHome is where you make it, it's gonna feel like real heaven if you get used to. Trust me, it's true.
+
+//The last word ("ホントダヨ", which I translated into "Trust me, it's true.") feels like it's in suspicious tone.

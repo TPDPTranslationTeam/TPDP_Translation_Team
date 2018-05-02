@@ -1,3 +1,4 @@
 
 
-この先 三途の川 生物 皆 近寄るべからず。
+//この先 三途の川 生物 皆 近寄るべからず。
+Sanzu River ahead, any mortal shall not approach.

@@ -1,3 +1,4 @@
 
 
-いろんな人のお話を聞くのが楽しいんです。\b\n自分の身一つじゃそういう体験は中々できませんからね。
+//いろんな人のお話を聞くのが楽しいんです。\b\n自分の身一つじゃそういう体験は中々できませんからね。
+I like listening to many people's stories.\b\nMyself alone can't experience something like that so easily.
