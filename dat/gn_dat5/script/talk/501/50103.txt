@@ -2,6 +2,6 @@
 Keine
 62
 //最近 人形のトラブルが多いから 授業の内容を変えているんだ。\b
-We changed our lesson contents because puppet-related troubles are increasing.\b
+We changed the contents of our lessons because puppet-related troubles are increasing.\b
 //キミも 人形について学んでいくといい。
 You should learn about puppets here too.

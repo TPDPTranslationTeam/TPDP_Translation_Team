@@ -1,10 +1,10 @@
 
 
 //何をしているって？\b
-You say what are you doing?\b
+What am I doing, you ask?\b
 //きゅうりを水につけて冷やしているんだ。冷えたきゅうりは一段と美味しいからねぇ。大好物なんだ。\b
-I'm cooling cucumbers with water. Cool cucumbers are even more nice and I love it.
+I'm cooling cucumbers with water. Cool cucumbers are even better and I love it.
 //\c・・・盗ったら尻子玉取るからね。
-\c...I'll pull out your shirikodama from your ass if you take this.
+\c...I'll pull your shirikodama out your ass if you try taking this.
 
 //Check out "尻子玉/shirikodama" in case you don't know it

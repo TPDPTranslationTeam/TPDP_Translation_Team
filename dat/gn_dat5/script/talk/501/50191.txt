@@ -3,7 +3,7 @@
 //おーい聞こえるかー？\b
 Hey, can you hear me?\b
 //\c・・・ん？あぁ これ携帯電話って奴なんだけど。\b
-//\c...Um? Ah, this is called cellular phone.\b
+//\c...Um? Ah, this is called a cellular phone.\b
 //精度は正直糸電話の方が良いわね。
 I think two cans and a piece of string works better.
 

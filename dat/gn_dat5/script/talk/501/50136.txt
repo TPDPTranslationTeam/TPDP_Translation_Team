@@ -3,6 +3,6 @@
 //おっと号外に載ってた人じゃないか。\b
 Oh, you're the person I saw on the extra of Bunbunmaru.\b
 //\c人形解放戦線を解体させてさらに異変の真相解明に動いてるって？
-\cYou've disbanded the Puppet Liberation Front and acting for raveling the truth of the incident?
+\cYou've disbanded the Puppet Liberation Front and are trying to reveal the truth of the incident?
 //\c･･･その顔は本当みたいだねぇ。応援してるぜ。
 \c...Your face says it's true. I'm counting on you.

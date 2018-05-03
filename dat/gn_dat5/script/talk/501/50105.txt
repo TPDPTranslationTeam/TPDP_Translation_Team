@@ -5,6 +5,6 @@ Useful Tips:\b
 //\c戦闘で獲得したＰＰでスキルの習得ができます。\b
 \cYour puppets can learn Skills with PP gained from battles.\b
 //習得は人形メニューの「強化」からできます。
-You can do so from the Puppet Enhancing screen from it.
+You can do so from the Puppet Enhancing screen.
 //使えるスキルは習得しないと増えないので注意！
-Watch out, your puppet can't use Skills unless you make them learn it!
+Watch out, your puppets can't use a Skill unless you teach it to them first!

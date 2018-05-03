@@ -1,7 +1,7 @@
 
 
 //この神社が突如やってきてから 幻想郷は変わったんだ。\b
-After this shrine suddenly came, Gensokyo has changed.\b
+Ever since this shrine suddenly appeared, Gensokyo has changed.\b
 //\c地底の妖怪に核の力を与えたり封印された妖怪たちが出てきたり。\b
 \cGiving nuclear power to the subterranean youkai, sealed youkai came out...\b
 //賑やかで良いこったね。

@@ -3,4 +3,4 @@
 //墓場には気を付けなよー？\b
 Watch out for the graveyard.\b
 //同じ墓参りのエサ狙いだらけで競争率高いんさ。
-Many youkais are competing to prey people visiting there.
+Many youkai are competing to prey on the people visiting there.

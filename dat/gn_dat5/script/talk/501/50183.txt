@@ -3,4 +3,4 @@
 //山童の奴ら 山で遊んで何が楽しいんだか。\b
 I don't see what's fun about playing in mountains like yamawaro.\b
 //河童なら川辺で機械弄りよね！
-Messing with machine at the riverside, that's what kappa should do!
+Messing with machines at the riverside, that's what kappa should do!

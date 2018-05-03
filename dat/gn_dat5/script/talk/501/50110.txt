@@ -1,6 +1,6 @@
 
 
 //‚±‚Ìæ‚É‚Í ÌˆâÕ‚ª‚ ‚Á‚½‚Ì‚æB\b
-Once there was a ruins up ahead.\b
+Once there were some ruins up ahead.\b
 //‚¢‚Â‚ÌŠÔ‚É‚©Á‚¦‚¿‚á‚Á‚½‚ç‚µ‚¢‚¯‚ÇB
-I heard it disappeared suddenly, though.
+I heard it suddenly disappeared, though.

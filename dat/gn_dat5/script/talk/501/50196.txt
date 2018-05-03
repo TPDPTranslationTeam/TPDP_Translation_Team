@@ -2,4 +2,4 @@
 
 //キスメ人形の紐ってどこからぶら下がってるのか\b
 //\c調べようと思って探してるんだけど 見つからないなぁ。
-I'm looking for where Kisume puppet's strings comes from but I can't find it.
+I'm looking for where the Kisume puppet's strings come from, but I can't find it.

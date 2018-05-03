@@ -4,6 +4,6 @@ Kosuzu
 //いらっしゃいませ ようこそ鈴奈庵へ！
 Welcome to Suzunaan!
 //古書本がメインですが 面白いものがそろってますよ。
-We have old used books but they should be interesting.
+Many of our books are old and used, but they should still be interesting.
 
 //needs discussion

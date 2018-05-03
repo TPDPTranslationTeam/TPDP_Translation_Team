@@ -3,6 +3,6 @@
 //次の住処ここにしようかと思ったら 厄神様が住んでた･･･\b
 I was about to live here but the Misfortune God was already there...\b
 //\cえんがちょえんがちょ。
-\cGo away, my bad luck.
+\cI wish my bad luck would go away.
 
 //Do we need to keep untranslated "えんがちょ/engacho"?

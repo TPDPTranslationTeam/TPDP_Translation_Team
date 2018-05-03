@@ -1,6 +1,6 @@
 
 
 //ん？にとりの新しいメカかい？\b
-Um? Is it a new Nitori's mech?\b
+Um? Is this a new Nitori's mech?\b
 //・・・って生身の人間か。面白くない。
-...Oh, you're just a human in flesh. Not interesting.
+...Oh, you're just a fleshy human. Not interested.

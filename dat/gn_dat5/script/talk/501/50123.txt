@@ -1,6 +1,6 @@
 
 
 //か かくれんぼしてたんだけど・・・。\b
-I was playing hide-and-seek...\b
+I was playing hide-and-seek but I got lost...\b
 //ここ どこだろう・・・？
-Where this is...?
+Where am I...?

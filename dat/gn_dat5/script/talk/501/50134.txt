@@ -1,6 +1,6 @@
 
 
 //そこの店主にうんちくは語らせないようにね。\b
-Don't let the shopkeeper of that shop tell you trivias.\b
+Don't let the shopkeeper of that shop tell you any trivia.\b
 //\cもしうんちくが始まったら うまく切り上げないとずっと話が続くよ。
-\cIf he started so, you should find an excuse get out or he will talk forever.
+\cIf he starts, you should find an excuse to get out or he'll never stop talking.
