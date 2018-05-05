@@ -1,6 +1,6 @@
 
 
 //核エネルギーさえあれば我々の技術もぐっと水準が上がるんだが・・・。\b
-We can improve our technology with if we have nuclear energy...\b
+We can improve our technology if we could use nuclear energy...\b
 //人形のお空ちゃんじゃ駄目かね？
-Is puppet Utsuho not enough?
+Will an Utsuho puppet be enough to fuel a reactor?

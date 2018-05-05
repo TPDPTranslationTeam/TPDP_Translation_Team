@@ -1,6 +1,6 @@
 
 
 //同じ性能の人形でも 人形遣いによって強さを変える ねぇ。\b
-"Puppets with same capacity change their strength according to their master"?\b
+"Puppets with the same capacity change their strength according to their master"?\b
 //僕は信じないね。信じるもの程強くなるなんて 非科学的だよ。
 I don't believe that. Faith or trust giving strength? That's unscientific.

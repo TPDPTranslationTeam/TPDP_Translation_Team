@@ -3,7 +3,7 @@
 //外から来た人間だっけ？\b
 You're the human from outside, right?\b
 //妖怪にはちょっかいかけちゃ駄目だよ 危ないからね。\b
-Don't mess with youkais, they're dangerous.\b
+Don't mess with the youkai, they're dangerous.\b
 //\cちょっかいかけられたら？\b
 \cWhat if they mess with you?\b
 //・・・頑張れ。

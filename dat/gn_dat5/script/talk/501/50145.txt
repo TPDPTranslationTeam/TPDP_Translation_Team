@@ -3,4 +3,4 @@
 //見ぃひん顔やね。種族はなんや？\b
 Who are you? What's your race?\b
 //・・・人間？なんや 死にたがりか。
-...Human, oh, you should be having a deathwish.
+...A Human, oh, you must have a death wish.

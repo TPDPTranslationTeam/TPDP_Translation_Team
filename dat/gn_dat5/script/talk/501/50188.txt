@@ -1,6 +1,6 @@
 
 
 //妖怪の山だとは言うけど 実際仕切ってるのは天狗と河童なのよね。\b
-This is called "Youkai Mountain" but only tengu and kappa rules here.\b
+This is called "Youkai Mountain" but only the tengu and kappa rule here.\b
 //昔は鬼の天下だったらしいけど。
-It was under oni's rule in past, apparently.
+It was under the oni's rule in past, apparently.

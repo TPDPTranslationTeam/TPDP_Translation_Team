@@ -3,7 +3,7 @@
 //おっさかな おっさかなー。
 Fishies, fishies~♪
 //このおじいちゃんお魚いっつも逃がしてるのなー。
-This old man always letting fishes escape.
+This old man always lets the fishies escape.
 
 //Is it a reference? We can interpret this by 2 ways:
 //1: Catch-and-Release
