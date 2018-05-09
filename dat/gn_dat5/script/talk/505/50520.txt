@@ -1,4 +1,6 @@
 
 
 迷子の人間は妖怪に食べられる。\b
+Lost humans are eaten by youkai.
 これが伝統ってものよ！
+That is tradition after all!
