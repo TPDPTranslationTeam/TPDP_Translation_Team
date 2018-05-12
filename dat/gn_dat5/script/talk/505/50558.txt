@@ -1,4 +1,6 @@
 
 
 新しく捕まえた人形は使ってる？\b
+Should I use my newly captured Puppet?\b
 よければ一戦 試合をしましょう。
+If it is alright with you, let us have a single match.
