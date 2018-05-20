@@ -12,7 +12,7 @@ Excuse me.\b
 I heard something interesting. I couldn't help myself\b
 \x03
 人形の情報が書かれた妖魔本といっておったな？\b
-Did you say there's information about the puppets written in that demon book?
+Did you say there's information about the Puppets written in that youma book?
 それなら儂にも心当たりがあるぞい。\b
 If that's the case, I might know something too.
 \o小鈴
@@ -32,7 +32,7 @@ Don't panic.
 If you search, you might be able to find something else.
 \x02
 まぁ 儂がわかっておるのは その一つが 神霊廟におる仙人の元にあるということだけじゃがな。\b
-As far as I know, there might be one under the supervision of the hermit in the divine spirit mausoleum.
+As far as I know, there might be one under the supervision of the hermit in the Divine Spirit Mausoleum.
 \j957
 ・・・ところで
 ...By the way

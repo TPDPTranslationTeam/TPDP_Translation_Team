@@ -2,7 +2,7 @@
 Clownpiece
 129_02
 //はあはあはあ。\b
-[panting]\b
+Ha...Ha...\b
 //\cとてもお強いのですね・・・。\b
 \cYou're strong....\b
 //あたいでは敵いません。\b
@@ -11,7 +11,7 @@ I was outmatched.\b
 //ところで あなた様は ここに一体何をしにきたの？\b
 By the way, what are you doing here?\b
 //\c・・・え？ご主人様が呼んでる？\b
-\c...The master is calling?
+\c... Ah. My master is calling?
 //友人様も居るって？\b
 Junko's here too?\b
 \x02
@@ -19,7 +19,7 @@ Junko's here too?\b
 Oops.\b
 \x00
 //教えてくれてありがとう！\b
-Thank you for telling me!\b
+Thanks for telling me!\b
 \x03
 //あたいは逃げるね！
-I guess I'm outta here!
+Guess I'm outta here!

@@ -1,4 +1,4 @@
 
 
 //草むらに居ると急に人形が出てくるから なるべく避けて歩いてるんだ。
-I'm avoiding bushes because puppets suddenly jump out. 
+I'm avoiding bushes because Puppets suddenly jump out. 

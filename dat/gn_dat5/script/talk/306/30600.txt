@@ -11,15 +11,15 @@ Huh, so the Puppets are affected by youma books?\b
 里の外にも出たんですね。\b
 It isn't just coming from the village either.\b
 なるほど。それでしたら ちょうどいいかも知れません。\b
-I see. Well this might be just the right.\b
+I see. Well this might be just the right time.\b
 \c提案なんですけど 人形について調べる旅に出るというのはどうでしょうか？\b
 \cThis is only a suggestion, but how about going on an investigation?\b
 \x01
 人間の里で調べると言っても限界はありますし 外に情報を探しに行ったほうが早いと思うのです。\b
-Investigation in the Human Village is limited, and searching outside will give you information quicker I believe.\b
+Investigation in the Human Village is limited, and searching outside will get you information quicker I believe.\b
 \x03
 里の外には危険が付き物ですが そこは人形を持っている\pさんなら大丈夫でしょう。\b
-The danger outside of the village is unavoidable, but with your Puppets you should be fine.\b
+The danger outside of the village is unavoidable, but with your Puppets you should keep you safe.\b
 \x00
 どうです？行ってみませんか？
 How about it? Will you go?

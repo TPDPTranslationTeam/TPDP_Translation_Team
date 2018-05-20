@@ -5,4 +5,4 @@
 //何がかって？\b
 What's "it"?
 //\c・・・野暮なこと聞くなよ。
-\c ...Don't ask me like that, you know what's it, right?
+\c ...Don't ask me like that, you know what "it" is, right?

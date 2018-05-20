@@ -1,9 +1,9 @@
 
 
 //ここの貸本屋さんはよくおとぎ話を読んでくれるの！
-This rental book shop's shopkeeper often read us stories!
+The book shop's shopkeeper often read us stories!
 //妖怪から身を守る手段を教えてくれるんだ！\b
-It tells us how to protect ourselves from youkai!\b
+Stories of how to protect ourselves from youkai!\b
 //\c・・・たぬきさんはちょっと可哀想だったけど。
 \c...That tanuki from the story was pathetic.
 

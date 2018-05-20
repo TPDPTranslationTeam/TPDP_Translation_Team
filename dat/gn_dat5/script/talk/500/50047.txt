@@ -1,8 +1,8 @@
 
 
 //・・・お腹すいた なぁ。\b
-...I'm hungry...\b
+...so hungry...\b
 //\c・・・そこにある お供え物・・・。\b
 \c...That offering...\b
 //\c・・・！？ なんだよ！食べやしないよ！
-...!? Hey! I won't eat it!
+...!? Hey! I-It's not like I was thinking of eating it!

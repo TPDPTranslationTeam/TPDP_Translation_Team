@@ -2,12 +2,12 @@
 Mamizou
 957
 神霊廟はこの先にある命蓮寺の奥から行くことができる。\b
-The divine spirit mausoleum is just behind this buddhist temple. \b
+The Divine Spirit Mausoleum is just behind the buddhist temple. \b
 \x03
 妖魔本は そこにおる豊聡耳神子というものが持っておるという話じゃが・・・\b
-From what I've heard, the demon book is in that Toyosatomimi no Miko's possession in there.
+From what I've heard, the youma book is in that Toyosatomimi no Miko's possession in there.
 \x02
 儂は いろいろあって神霊廟まで連れてやることが できなくての。\b
 I've got a lot to do, so I can't take you all the way there. \b
 代わりに おぬしの人形を回復させてやるから この先は一人で向かってくれんか。
-Instead, I can at least heal your puppets before sending you off on your own.
+Instead, I can at least heal your Puppets before sending you off on your own.

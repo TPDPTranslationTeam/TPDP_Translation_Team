@@ -4,9 +4,9 @@ Kosuzu
 ・・・\pさんでしたよね。\b
 ...\p, right?
 もしよければ その妖魔本 探してきてもらえませんか？\b
-Could you search for these demon books?
+Could you search for these youma books?
 \c人形についての情報が欲しいとのことですし どうでしょう？\b
-\cYou said you want more information about the puppets.
+\cYou said you want more information about the Puppets.
 How about it?
 \x04
 私のところに持ってきていただければ 私が解読しますので！

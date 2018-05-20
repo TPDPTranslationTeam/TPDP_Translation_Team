@@ -2,10 +2,10 @@
 Tenshi
 089_00
 //人形が現れたと思ったら 巫女が来て 次は地上人ねぇ。\b
-Puppets appeared, and now a shrine maiden and an earthling?\b
+Puppets appeared, and now a shrine maiden and an earthling too?\b
 \x01
 //\cどうせ あなたも人形発生の原因がどうのって言うつもりでしょ？\b
-\cInterrogating me about the source of puppets too, aren't you?
+\cInterrogating me about the source of Puppets too, huh?
 \x03
 //\cいいわよ。
 \cOkay.

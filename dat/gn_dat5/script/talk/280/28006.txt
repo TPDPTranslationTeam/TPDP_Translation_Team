@@ -2,9 +2,9 @@
 Iku
 088_02
 //忠告はしましたよ。\b
-I did warn you.\b
+I tried to warn you.\b
 \x01
 //あまり奥へは 行ってはいけません。\b
-Don't go too deep.\b
+Don't go too far.\b
 //天人に見つかる前に 退散することですね。
-Run before the celestial find you.
+If the celestial finds you, run before she cathces you.

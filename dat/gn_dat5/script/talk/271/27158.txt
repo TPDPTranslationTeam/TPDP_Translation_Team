@@ -5,4 +5,4 @@ You came again!?\b
 //嬉しいわ！\b
 Sweet!\b
 //\cじゃあ早速始めましょー！
-\cLet's get started now!
+\cLet's do this!

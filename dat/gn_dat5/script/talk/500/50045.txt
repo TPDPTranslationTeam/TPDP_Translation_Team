@@ -1,6 +1,6 @@
 
 
 //ここの近くの人形はもう見慣れたもんだけど やっぱり各地に色んな人形がいるんだろうなぁ。\b
-I got used to see puppets around here, but there must be even more kinds of them.\b
+I got used to seeing Puppets around here, but there must be even more of them.\b
 //\c・・・ブルルッ 人里から出られる気なんてしないよ。
-\c...I'm too scared to get out from Human Village.
+\c...I'm too scared to leave the Human Village though.

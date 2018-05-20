@@ -5,6 +5,6 @@ Oh, you came again?\b
 //\cふふ 今度こそは 勝ってみせますわ！\b
 \cHuhu, I'm going to win this time!\b
 //この私様が二度も敗北するなんて ありえません！
-There's no way I'm losing against you twice!
+There's no way I'm losing against you again!
 
 //a bit classy

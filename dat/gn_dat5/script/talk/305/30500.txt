@@ -4,18 +4,18 @@
 Did a good job gettin' those youma books.\b
 \x00
 おおっと この姿では初めてじゃったな。\b
-Oh my, seems this is yer first time seein' me in this form.\b
+Oh my, seems this is your first time seeing me in this form.\b
 先ほど案内した人間・・・もとい妖怪 マミゾウじゃよ。\b
 The human that gave you some guidance some time ago... Was this here youkai, Mamizou.\b
 \x03
 これが本来の姿なんじゃ。騙して悪かったのう。\b
-This is who I am really am. My bad for trickin' ya.\b
+This is who I am really am. My bad for tricking you.\b
 \oMamizou
 \s113_04
 さて。
 Now then.
 これからはお主一人で妖魔本を探さねばならぬぞい。\b
-You gotta look for these youma books on yer own after this.\b
+You gotta look for these youma books on your own after this.\b
 \cどこにあるか 誰が持っておるかは儂にも不明じゃからな。\b
 \cI have no idea where anymore could be either.\b
 \x00

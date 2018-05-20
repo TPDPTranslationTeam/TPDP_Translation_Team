@@ -6,6 +6,6 @@ Oh, it's \p.
 How did it go with the Three Fairies?\b
 \x03
 ほう！無事に追い出し 盗まれたものを見つけてくれたんですか！\b
-Ooh! Looks like you were able to find where my brush is?\b
+Ooh! You know where my brush is?\b
 ぜひ その場所を教えてください！
 Please tell me where it is at once!

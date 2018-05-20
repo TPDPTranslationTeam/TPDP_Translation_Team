@@ -1,8 +1,8 @@
 
 
 //本日のオススメ！
-Today's Recommended:
+Today's Recommendation:
 //『封印の糸』\b
-"Sealing Strings"\b
+"Seal Threads"\b
 //\c持ってる分だけ人形捕まえ放題！
-Catch puppets as match as you have it!
+You can't catch your Puppets without some of these, so I recommend you buy about... 255 of them?

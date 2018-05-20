@@ -5,7 +5,8 @@ Kosuzu
 \p, welcome!
 \x04
 あ 新しい妖魔本を見つけたんですね。\b
-Ah, you found a new demon book.\b
+Ah, you found a new youma book.\b
 \x03
 新しいものも すぐ読めますけど どの本を読みますか？ 
-Which one would you like me to read? We have new one too. 
+I'll go ahead and add this one to the collection. \b
+Which one did you want me to read?

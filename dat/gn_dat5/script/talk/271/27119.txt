@@ -2,20 +2,20 @@
 Clownpiece
 129_02
 //ご主人様に 叱られてしまった・・・。\b
-I've scolded by the master...\b
+I was scolded by my master...\b
 //あたいは お人形と遊んでいただけなのにー。\b
-I just wanted to play with puppets!\b
+I just wanted to play with Puppets!\b
 \x00
 //・・・そういえば あの塔に居た妖精達だけど
-...By the way, speaking of that fairys,
+...By the way, about those fairies,
 //あいつらは まだまだ遊び足りてないみたい。\b
-they're not enough playing with you.\b
+they're not done playing with you.\b
 //\c暇だったらまた遊びに行ってね。\b
-\Play them again if you have some time to spare.\b
+\You should play with them again if you have some time to spare.\b
 //物足りないのなら あたいが松明の光浴びせてあげるからさー。\b
-I'll give my torch's light if you're not satisfied.\b
+I'll lend you my torch's light to help... 'persuade' them to play with you again if you're not satisfied.\b
 //\c・・・え？あたいはもういいのかって？\b
-\c...How about me?\b
+\c...Hm? What about me?\b
 //\oヘカーティア
 \oHecatia
 \s131_01
@@ -25,4 +25,4 @@ I'll give my torch's light if you're not satisfied.\b
 \oClownpiece
 \s129_02
 //・・・うん。あたいはもう当分お人形遊びはいいかな。
-...I'm enough for puppets a while.
+...I-I think I'm done with Puppets for a while.

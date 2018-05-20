@@ -5,18 +5,18 @@ Hecatia
 One of my henchman is in here.\b
 \x01
 //お人形遊びに夢中で 呼んでも来てくれないのよー。\b
-She's not coming out playing with her Puppets.\b
+She hasn't come out yet and is still probably playing with her Puppets.\b
 \x00
 //\cあなたも お人形遊びが得意なんでしょう？\b
-\cYou're good at some Puppet plays, right?\b
+\cYou're good with Puppets, right?\b
 //ちょっと あの子を呼んできてくれないかしら？\b
 Can you call her back?\b
 \x03
 //大丈夫よん。\b
 Don't worry.\b
 //地獄だけど 鬼じゃなくて妖精だから。\b
-This is Hell, but she is a fairy, not oni.\b
+This may be Hell, but she is just a fairy, not an oni.\b
 //\cじゃ あの子のことは よろしくねー
-\cWell then, I'll leave this to you.
+\cWell then, I'll leave you to it.
 
 //Hecatia speaks frankly

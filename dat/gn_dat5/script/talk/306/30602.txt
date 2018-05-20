@@ -6,7 +6,6 @@ That's the Puppet Book.\b
 It excels in recording Puppets you meet using a mysterious power.\b
 \x03
 戦力を強化しながら 人形を記録する・・・\b
-It will record Puppets even as battles get more intense.\b
-#Not exactly sure what Akyuu is meaning here, but I think it's this.
+Puppets will automatically be recorded once captured.\b
 \pさんなら きっと活用出来ると思いますわ。
 I believe you'll be able to make great use of it.

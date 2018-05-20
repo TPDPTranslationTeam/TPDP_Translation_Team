@@ -5,8 +5,8 @@ Useful Tips:\b
 //\c封印の糸は戦闘中の道具メニューから使用できます。\b
 \cYou can use Seal Threads from in-battle item menu.\b
 //\c使用すると野良人形を封印状態にすることができ
-\cYou can use it to seal wild puppets 
+\cYou can use it to seal wild Puppets 
 //封印状態の野良人形を倒すと仲間にすることができます。\b
 and if you defeat it, you can catch it.\b
 //人の持っている人形には効果がないので注意！
-Watch out, it does not work against already owned puppet!
+Watch out, it does not work against already owned Puppets!

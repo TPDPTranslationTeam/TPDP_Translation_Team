@@ -1,8 +1,8 @@
 
 
 //バトルを有効に進めるのは変化スキルも大事だよね。
-Not only attacking skills, status skills are also important to gain advantage in battle;
+Not only are attacking skills important, status skills are too to gain advantage in battle;
 //相手の命中を下げたり 自分の集弾力を上げたり！\b
-like lowering enemy Accuracy or raising your Focus Attack.
+such as: lowering enemy Accuracy or raising your Focus Attack.
 //\cただ殴りあうだけが人形バトルじゃないね！
-\cNot just being Rock 'em Sock 'em Robot is the puppet battle!
+\cBeing all "Rock 'em Sock 'em Robots" is not the proper way to Puppet battle at all!

@@ -1,6 +1,6 @@
 
 
 //人形を持っているってことは人形遣いだな！
-You have puppets? So you're puppeteer!
+You have Puppets? So you're puppeteer!?
 //俺の人形達と勝負だ！
-Fight with my puppets!
+Fight me with my Puppets!

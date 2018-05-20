@@ -7,7 +7,7 @@ Hecatia
 //呼んできてくれてありがと。\b
 Thanks for bringing her here.\b
 //しっかりとお灸をすえておいたわ。\b
-I surely scold her.\b
+I'll scold her for sure.\b
 //\cそういえば あなた 何をしに夢の世界に来たんだっけ。\b
 \cBy the way, why are you here?\b
 \x02
@@ -18,4 +18,4 @@ I surely scold her.\b
 Huh.\b
 \x03
 //じゃ 暇つぶしになって丁度良かったわね。
-That was good for killing your time then.
+That was a productive way to kill time, right?

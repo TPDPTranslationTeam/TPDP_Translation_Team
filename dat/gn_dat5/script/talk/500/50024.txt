@@ -1,8 +1,8 @@
 
 
 //あなた 人形遣いになったばかり？
-Did you just become a puppeteer?
+Did you just become a Puppeteer?
 //初心者同士 お手合わせしましょ！
-Let's have a friendly match each other by newbies!
+Let's have a friendly match against each other, fellow newbie!
 
 //please change this heavily

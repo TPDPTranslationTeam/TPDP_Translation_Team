@@ -4,6 +4,6 @@ Hecatia
 //・・・あら 人間？\b
 ...A human?\b
 //最近は夢の中で よく人間を見るわねぇ。\b
-I see humans a lot in dreams recently.\b
+I've been seeing humans a lot in dreams recently.\b
 //\cそれで 可愛いお人形さんを連れているあなたは どちら様かしら？
-\cThen, you have pretty puppets. Who are you?
+\cYou have pretty Puppets. Who are you?

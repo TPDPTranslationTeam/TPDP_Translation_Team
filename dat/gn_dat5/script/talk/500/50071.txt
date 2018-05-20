@@ -1,6 +1,6 @@
 
 
 //装飾品は 人形に持たせて使わせるんだ。\b
-You use accessories by giving them to your puppets.\b
+You use accessories by giving them to your Puppets.\b
 //自分で 使うことはできないから 気をつけろよ！
-Watch out, you can use them by yourself!
+You can't use them yourself, so be careful!

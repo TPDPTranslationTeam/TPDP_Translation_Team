@@ -7,19 +7,19 @@ The Underground Geyser Center is nearby, so don't let your guard down!\b
 \o
 \j354
 わかってるわ！通せんぼすればいいのよねっ！\b
-I get it! If we have to use force so be it!\B
+Got it! If we have to use force, so be it!\B
 \oYuuka
 \s25
 リーダーらしくなったわね。
-You've become like a leader.\b
+You've become just like a leader.\b
 そろそろ私の出番はおしまいかしら？\b
-I shall make my departure soon yes?\b
+I shall make my departure soon, yes?\b
 \oMedicine
 \j72_06
 だから らしい じゃなくて ちゃんとしたリーダーよっ！\b
-I keep telling you I'm not leader-like, I'm a leader!\b
+I keep telling you I'm not leader-like, I AM a leader!\b
 \x08
 ほら まだすることがたくさん残っているのよ。
 Look, we still have a lot to do.
 こんなところでグズグズしてられないわっ！
-You fairies quit playing around here!
+You fairies, quit playing around here!

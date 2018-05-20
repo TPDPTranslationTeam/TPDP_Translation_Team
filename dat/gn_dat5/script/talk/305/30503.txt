@@ -1,7 +1,7 @@
 Miko
 112
 ·‚µã‚°‚½‘•¨‚Í–ğ‚É—§‚¿‚Ü‚µ‚½‚©H\b
-Were the books I gave you of use to you?\b
+Were the books I gave you of any use?\b
 \x03
 –{‚Æ‚â‚ç‚à‚¢‚¢‚Å‚·‚ª Šª•¨‚àŠª•¨‚Å–¡‚ª‚ ‚é‚à‚Ì‚æB
 A book can be good, but scrolls have their own taste.

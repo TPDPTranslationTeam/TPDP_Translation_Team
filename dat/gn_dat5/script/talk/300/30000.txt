@@ -5,7 +5,7 @@ Kosuzu
 Welcome. Do you need anything?
 \x04
 ほう！人形についての情報が欲しくて いらっしゃったと。\b
-Oh! You wanted information about the puppets.
+Oh! You want information about the Puppets.
 \x00
 ・・・え？阿求から うちの話を聞いたんですか？
-...Eh? Did you hear about me from Akyuu?
+...Eh? You heard about me from Akyuu?

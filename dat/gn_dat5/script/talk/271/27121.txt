@@ -4,4 +4,4 @@ Hecatia
 //人形ねぇ。\b面白そうじゃない。\b
 Puppets?\b Sounds fun.\b
 //\c丁度計画も失敗に終わって暇だったし。
-\cIt was boring since the Moon invasion.
+\cIt's been quite dull since the moon invasion.

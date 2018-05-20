@@ -7,7 +7,7 @@ I am Mononobe Futo. \b
 I am called... \b
 \x01
 お主だな 太子様の大事な物を盗みに来たという盗人は。\b
-The thief who stole the important thing from our crown princess!
+The thief who stole the important thing from our Crown Princess!
 \x05
 残念だが 我が来てしまった故にお主の作戦は失敗しよう。\b
 It's unfortunate, but the lord's strategy will fail because I have come.

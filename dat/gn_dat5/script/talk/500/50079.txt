@@ -3,6 +3,6 @@
 //人形バトルが流行ってるみたいだねぇ・・・。\b
 Puppet battling is trending, huh...?\b
 //\c久しぶりに秦さんの『心綺楼』を見たいんだけど しばらくは無いのかなぁ？\b
-\cI want to see Hata's "Shinkirou" again for a while but I wonder when will be on the show?\b
+\cI want to see Hata's "Shinkirou" again, but I wonder when will it be on the show?\b
 //\c博麗の巫女も留守みたいだし。
 \cThe Hakurei Maiden is absent at the shrine too.

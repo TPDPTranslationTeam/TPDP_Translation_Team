@@ -4,4 +4,4 @@ Hecatia
 //ふぅん そうだったの。\b
 I see.\b
 //・・・なら 丁度良かったわ。
-...That's just right.
+... is that so?

@@ -14,10 +14,10 @@ The reason being is that we're in the wake of a robbery that took place in the v
 Even if I don't search for the criminal, my important brush for news coverage was taken.\b
 \x01
 ・・・まさかとは思いますが \pさんは関係してませんよね？\b
-While I hate to say this, but you don't have any relationship to this crime do you?\b
+While I hate to ask, but you don't have any involvement in this crime, do you?\b
 \x02
 疑うのは失礼だとはわかっているんですが 私も筆がないと取材もできませんからね。\b
-I understand that it is rude to suspect you like this but without my brush I won't be able to do news coverage.\b
+I understand that it is rude to suspect you like this so suddenly, but without my brush, I won't be able to do any news coverage.\b
 \x00
 念のために隅々まで調べさせていただきますね！
 I will investigate every nook and cranny!

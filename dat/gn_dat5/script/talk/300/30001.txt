@@ -2,23 +2,23 @@
 Kosuzu
 114_00
 私も古い文献を漁って 人形について調べてみたんです。\b
-I've also been researching the puppets by checking old documents.
+I've also been researching the Puppets by checking old documents,
 \x05
 けど 今まで人形みたいなものが現れたことがないようで・・・\b
-But I haven't seen anything like them...
+but I haven't seen anything like them...
 ほとんど情報を得られなかったんですよね。\b
-So I haven't really been able to find anything.
+so I haven't really been able to find anything.
 \x04
 でもこの前 人形に関する情報が書かれてる本を１冊見つけたんです！\b
 But there was one book that had something in it about dolls!
 \x00
 新しく入荷したものなんですが どうやら最近書かれたもののようですね。\b
-It must be somewhat new, as it just arrived recently.
+It must be somewhat new as it just arrived recently.
 その壱でしたし 他に何巻かあるようです。\b
-That was "Part One", and there must to be some more.
+It was called "Part One", so logically, there must be more.\b
 \x01
 前代未聞の人形大発生・・・
-An unprecedented puppet outbreak...
+An unprecedented Puppet outbreak...
 人形に関わる文献・・・
 Books written about them...
 しかも最近のもので 複数ある・・・\b
