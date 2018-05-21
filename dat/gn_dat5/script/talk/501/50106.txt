@@ -3,8 +3,8 @@
 //『役立ち情報！』\b
 Useful Tips:\b
 //\c戦闘で獲得したＰＰを 人形の能力に割り振ることができます。\b
-\cYou can allocate the PP your puppets have gained in battle to their stats.
+\cYou can allocate the PP your Puppets have gained in battle to their stats.
 //\c割り振ったPPとレベルに応じて 能力が強化されます。
-\cStats increases according to the puppet's level and how much PP you allocated.
+\cStats increases according to the Puppet's level and how much PP you allocated.
 //冒険が辛くなったら 試してみましょう！
 Try it if you feel your adventure is getting tough!

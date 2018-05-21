@@ -3,6 +3,6 @@
 //『役立ち情報！』\b
 Useful Tips:\b
 //\c人形は印によって 能力が強化されています。\b
-\c Each puppet has a Mark that enhances their abilities.
+\c Each Puppet has a Mark that enhances their abilities.
 //印の種類によって 強化される能力が違うので 注意して見てみましょう！
 Each kind of mark enhances different stats. Pay close attention to it!

@@ -1,6 +1,6 @@
 
 
 //人形を追いかけてたらここまで来ちゃった…。\b
-I've come this far chasing a puppet...\b
+I've come this far chasing a Puppet...\b
 //\c休憩所があったはずだから回復してから帰ろうかなぁ。
 \cThere must be a rest area around here. I guess I gotta heal there and head back.

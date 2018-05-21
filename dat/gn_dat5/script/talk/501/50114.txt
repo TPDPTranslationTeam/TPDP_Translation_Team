@@ -1,6 +1,6 @@
 
 
 //ん？僕は人形遣いじゃないよ？\b
-Um? I'm not a puppeteer.\b
+Um? I'm not a Puppeteer.\b
 //こんな可愛い人形を戦わせるなんて とんでもない！
-You're letting such cute puppets fight? Unbelievable!
+You're letting such cute Puppets fight? Unbelievable!

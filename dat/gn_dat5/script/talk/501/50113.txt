@@ -1,6 +1,6 @@
 
 
 //人里から離れれば離れるほど野生の人形も強くなるからね。\b
-As you go farther away from the Human Village, the wild puppets get stronger.\b
+As you go farther away from the Human Village, the wild Puppets get stronger.\b
 //備えあれば憂いなしともいうし 準備は万端に！
 Providing is preventing. Make sure you're well prepared!

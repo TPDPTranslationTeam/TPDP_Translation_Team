@@ -1,7 +1,7 @@
 
 
 //遠くに行く前に人形のおやつは持ったかい？
-Did you prepare any confectioneries for your puppets before you set out? 
+Did you prepare any confectioneries for your Puppets before you set out? 
 //人形も疲れるからのぅ。\b
 Puppets get tired too.\b
 //\c遠くに行くときは持っておいた方がいいぞい。

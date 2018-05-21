@@ -7,4 +7,4 @@ Useful Tips:\b
 //習得は人形メニューの「強化」からできます。
 You can do so from the Puppet Enhancing screen.
 //使えるスキルは習得しないと増えないので注意！
-Watch out, your puppets can't use a Skill unless you teach it to them first!
+Watch out, your Puppets can't use a Skill unless you teach it to them first!

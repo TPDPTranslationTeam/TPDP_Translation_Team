@@ -1,6 +1,6 @@
 
 
 //この前人形に襲われて大変な目にあったわ・・・。\b
-Some puppets attacked me before and I had a really hard time...\b
+Some Puppets attacked me before and I had a really hard time...\b
 //早くこの異変終わらないかなぁ。
 I hope this incident will end soon.
