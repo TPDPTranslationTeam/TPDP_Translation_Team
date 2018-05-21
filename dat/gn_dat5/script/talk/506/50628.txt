@@ -1,3 +1,5 @@
 
 
-ようこそおいでなさいました。それではいきますわ。
+Welcome, thank you for coming. Let's fight.
+
+//ようこそおいでなさいました。それではいきますわ。

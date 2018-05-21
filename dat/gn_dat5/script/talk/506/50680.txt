@@ -1,4 +1,7 @@
 
 
-うーん迷っちゃったぞー。\b
-迷った時は人頼み！
+Noo, I'm lost.\b
+I have to rely on others now!
+
+//うーん迷っちゃったぞー。\b
+//迷った時は人頼み！

@@ -1,4 +1,7 @@
 
 
-あらあらお迷い中かしら？\b
-私に勝ったら道を教えてあげるわ！
+Oh, are you confused?\b
+If you win I'll show you where to go!
+
+//あらあらお迷い中かしら？\b
+//私に勝ったら道を教えてあげるわ！

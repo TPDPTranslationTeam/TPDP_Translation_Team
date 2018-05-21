@@ -1,3 +1,5 @@
 
 
-やぁ！侵入者を発見！
+Hey! I found an intruder!
+
+//やぁ！侵入者を発見！

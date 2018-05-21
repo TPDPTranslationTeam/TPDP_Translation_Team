@@ -1,4 +1,11 @@
 
 
-へいゆー！\b
-人形を 解放しなサーイ！
+Nee!\b
+Liberate your puppets kudaplease!
+//i have the feeling that this fairy's japanese isn't the best, therefore, for the english translation, i made her english weebish
+//for a more serious translation, use the below lines:
+//Hey you!\b
+//Please liberate your puppets!
+
+//へいゆー！\b
+//人形を 解放しなサーイ！

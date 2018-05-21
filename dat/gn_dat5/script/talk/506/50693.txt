@@ -1,3 +1,6 @@
 
 
-君は大丈夫なのかい？体の強い子だね。
+Are you okay? Your lungs must be strong.
+//lungs instead of body as i think it makes more sense given 50692
+
+//君は大丈夫なのかい？体の強い子だね。

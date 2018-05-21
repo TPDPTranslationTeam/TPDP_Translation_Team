@@ -1,4 +1,8 @@
 
 
-お人形と一緒にお掃除してるのよ！\b
-あなたも掃除しなくちゃね？
+I'm cleaning together with my puppets!\b
+Won't you clean with your puppets too?
+//i think this is how it should be interpreted?
+
+//お人形と一緒にお掃除してるのよ！\b
+//あなたも掃除しなくちゃね？

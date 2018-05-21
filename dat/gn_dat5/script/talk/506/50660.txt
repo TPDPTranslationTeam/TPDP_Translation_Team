@@ -1,4 +1,7 @@
 
 
-どうした人間さん。\b
-なんでこんなところにいるんだい？
+Why is a human here?\b
+Why are you in a place like this?
+
+//どうした人間さん。\b
+//なんでこんなところにいるんだい？

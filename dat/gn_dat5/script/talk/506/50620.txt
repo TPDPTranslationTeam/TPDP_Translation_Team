@@ -1,4 +1,7 @@
 
 
-あらお客様ですか？\b
-人形バトルにておもてなし致します。
+Oh, are you a guest?\b
+We show our guests hospitality with puppet battles.
+
+//あらお客様ですか？\b
+//人形バトルにておもてなし致します。

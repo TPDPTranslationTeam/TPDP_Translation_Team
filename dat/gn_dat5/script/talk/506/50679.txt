@@ -1,4 +1,8 @@
 
 
-もう化けて出てるって？\b
-さらに上を求めるとか君も相当だね。
+You're checking if I've left already?\b
+You should look around more instead.
+//felt "seeing" would make more sense than "asking" here
+
+//もう化けて出てるって？\b
+//さらに上を求めるとか君も相当だね。

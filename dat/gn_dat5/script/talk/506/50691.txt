@@ -1,4 +1,8 @@
 
 
-私の帽子のひまわりひねっちゃだめぇ！\b
-・・・ほらー。とれちゃったじゃない。
+Hey, don't do it to the sunflower on my hat!\b
+...look, I'm not impressed.
+//If I picked the definition of "subdue" this wouldn't work
+
+//私の帽子のひまわりひねっちゃだめぇ！\b
+//・・・ほらー。とれちゃったじゃない。

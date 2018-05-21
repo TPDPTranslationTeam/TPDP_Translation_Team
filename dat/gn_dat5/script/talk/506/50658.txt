@@ -1,3 +1,6 @@
 
 
-君の人形バトルの戦略！僕の戦略とどっちが上かな？
+That puppet battling strategy! Is it better than my perfect one?
+//added perfect, see 50659 for context
+
+//君の人形バトルの戦略！僕の戦略とどっちが上かな？

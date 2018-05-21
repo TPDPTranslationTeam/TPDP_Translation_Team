@@ -1,3 +1,6 @@
 
 
-自動で掃除してる機械を河童が売ってるって聞いたけど・・・本当かしら？
+I heard the kappa sell machines that clean automatically... is that really true?
+//kappa as a race means lowercase
+
+//自動で掃除してる機械を河童が売ってるって聞いたけど・・・本当かしら？

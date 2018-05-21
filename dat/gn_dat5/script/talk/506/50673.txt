@@ -1,4 +1,7 @@
 
 
-いやあ流石だね。\b
-この対戦は大きな糧になりそうだよ。ありがとう。
+Well, it went as expected.\b
+This match was a good experience. Thank you.
+
+//いやあ流石だね。\b
+//この対戦は大きな糧になりそうだよ。ありがとう。

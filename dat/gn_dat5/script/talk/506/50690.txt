@@ -1,4 +1,8 @@
 
 
-あなた 人形遣いね？\b
-私の人形でひねりつぶしてあげるわ！
+Are you a... puppeteer?
+My puppets will twist and crush you like a bug!
+//See 50691 for why I picked this definition of ひねりつぶして
+
+//あなた 人形遣いね？\b
+//私の人形でひねりつぶしてあげるわ！
