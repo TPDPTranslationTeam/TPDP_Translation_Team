@@ -1,8 +1,4 @@
 
 
-//道に迷ってしまってのう・・・\b
-I'm lost...\b
-//対戦ついでに道を教えてもらえんかのう？
-Can you tell me the way out while battling you?
-
-//old man
+道に迷ってしまってのう・・・\b
+対戦ついでに道を教えてもらえんかのう？

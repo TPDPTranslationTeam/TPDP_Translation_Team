@@ -1,6 +1,3 @@
 
 
-//魔法の森は迷いの森だっぜ！
-The Magic Forest is the Lost Forest!
-
-//"it's easy to get lost" or something
+魔法の森は迷いの森だっぜ！

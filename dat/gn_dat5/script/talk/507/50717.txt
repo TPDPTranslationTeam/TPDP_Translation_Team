@@ -1,5 +1,4 @@
 
 
-//勝っても満足！負けても満足！\b
-//いやー勝負事は楽しいね！
-Sporting is fun, it satisfies me, win or lose!\b
+勝っても満足！負けても満足！\b
+いやー勝負事は楽しいね！

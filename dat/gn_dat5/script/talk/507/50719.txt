@@ -1,4 +1,3 @@
 
 
-//なるほど。変な人間だから変な場所にいるのか。
-I see, you're strange so you're in this strange place.
+なるほど。変な人間だから変な場所にいるのか。

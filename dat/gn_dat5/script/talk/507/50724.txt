@@ -1,8 +1,4 @@
 
 
-//“DÀ‘å•Ï‚»‚¤‚ËB\b
-You look having a tough time with all these muds here.\b
-//‚»‚±‚©‚ç‚ÌUŒ‚ ‚æ‚¯‚ç‚ê‚é‚©‚µ‚çH
-Can your Puppets dodge attacks from there?
-
-//Needs map for context
+“DÀ‘å•Ï‚»‚¤‚ËB\b
+‚»‚±‚©‚ç‚ÌUŒ‚ ‚æ‚¯‚ç‚ê‚é‚©‚µ‚çH

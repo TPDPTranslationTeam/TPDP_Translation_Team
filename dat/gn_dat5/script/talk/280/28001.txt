@@ -4,6 +4,6 @@ Tenshi
 //何よ。そんなにムキになって。\b
 Hey, why are you being so serious?\b
 //\cえ？ 人形の発生源はもう判明した？\b
-\cWhat? You already know where the Puppets came from?
+\cWhat? You already kow where the Puppets came from?
 //そういうことは もっと早く言いなさいよ。
 Why didn't you tell me before I challenged you?!

@@ -1,4 +1,3 @@
 
 
-//人形解放戦線 魔法の森支部へようこそ！
-Welcome to the Magic Forest branch of the Puppet Libration Front!
+人形解放戦線 魔法の森支部へようこそ！
