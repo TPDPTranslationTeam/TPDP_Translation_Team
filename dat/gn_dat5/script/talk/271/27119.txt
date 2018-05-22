@@ -13,7 +13,7 @@ they're not done playing with you.\b
 //\c暇だったらまた遊びに行ってね。\b
 \You should play with them again if you have some time to spare.\b
 //物足りないのなら あたいが松明の光浴びせてあげるからさー。\b
-I'll lend you my torch's light to help... 'persuade' them to play with you again if you're not satisfied.\b
+I'll lend you my torch's light if you're not satisfied with their strength.\b
 //\c・・・え？あたいはもういいのかって？\b
 \c...Hm? What about me?\b
 //\oヘカーティア
