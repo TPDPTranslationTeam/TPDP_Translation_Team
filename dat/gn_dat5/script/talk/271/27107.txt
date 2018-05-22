@@ -1,9 +1,14 @@
-ヘカーティア
+//ヘカーティア
+Hecatia
 131_00
-部下の名前はクラウンピースよん。\b
-可愛い子だからすぐ分かるわ。\b
+//部下の名前はクラウンピースよん。\b
+The henchman I mentioned is called Clownpiece.\b
+//可愛い子だからすぐ分かるわ。\b
+She's cute so you'll find her soon.\b
 \x02
-好奇心旺盛な奴だから
-襲い掛かってくるかもしれないけど・・・。\b
+//好奇心旺盛な奴だから
+//襲い掛かってくるかもしれないけど・・・。\b
+Since she's full of curiosity, she might attack you, though...\b
 \x03
-\cじゃ あの子の事はよろしくね。
+//\cじゃ あの子の事はよろしくね。
+\cWell, I leave this to you.
