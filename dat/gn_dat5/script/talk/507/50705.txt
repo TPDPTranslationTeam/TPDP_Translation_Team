@@ -1,3 +1,4 @@
 
 
-いえーい！対戦ありがとー！
+//いえーい！対戦ありがとー！
+Yay! Thanks for the battle!

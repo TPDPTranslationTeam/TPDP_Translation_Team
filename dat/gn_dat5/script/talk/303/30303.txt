@@ -2,7 +2,7 @@
 Futo
 111
 我が名は物部布都と申す。\b
-I am Mononobe Futo. \b
+I am Mononobe no Futo. \b
 我が呼ばれたということは・・・\b
 I am called... \b
 \x01

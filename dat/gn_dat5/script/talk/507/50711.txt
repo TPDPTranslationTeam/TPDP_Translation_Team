@@ -1,4 +1,6 @@
 
 
-無縁塚の方から来ました。\b
-絶賛迷い中です！
+//無縁塚の方から来ました。\b
+I came from Muenzuka.\b
+//絶賛迷い中です！
+I'm totally lost!
