@@ -1,3 +1,6 @@
 
 
-ねぇねぇしってる？教えてあげよっか！
+//ねぇねぇしってる？教えてあげよっか！
+Did you know? Let me tell you something!
+
+//this text doesn't work directly in English

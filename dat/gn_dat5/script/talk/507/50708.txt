@@ -1,3 +1,4 @@
 
 
-こんにちわ！地縛霊です！
+//こんにちわ！地縛霊です！
+Hello! I'm an earthbound spirit!

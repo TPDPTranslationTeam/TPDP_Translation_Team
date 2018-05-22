@@ -1,4 +1,6 @@
 
 
-ナイスバトル！
-あなたなら死んでも強者だわ！
+//ナイスバトル！
+Good game!
+//あなたなら死んでも強者だわ！
+You'll be the champion, even in death!

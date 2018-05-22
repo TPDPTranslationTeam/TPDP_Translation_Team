@@ -1,3 +1,4 @@
 
 
-ずいぶん変な場所に人間がいるのね？
+//ずいぶん変な場所に人間がいるのね？
+I see a human in such a strange place like here.

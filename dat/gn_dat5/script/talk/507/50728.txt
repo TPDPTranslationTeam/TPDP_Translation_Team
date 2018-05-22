@@ -1,4 +1,6 @@
 
 
-あたしら仲良し幽霊タッグ！\b
-さあさあいざ勝負！
+//あたしら仲良し幽霊タッグ！\b
+We're the best friends ghost duo!\b
+//さあさあいざ勝負！
+Come on, let's fight! 
