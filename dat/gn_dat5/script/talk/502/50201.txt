@@ -1,4 +1,5 @@
 
-Are you not afraid? Is that it? Well, what if you eat some mochi?
+Are you not afraid of me? Really? Well, would you like some mochi?
                                 //i don't understand this line... 
+//Assuming speaker is a youkai, change in testing if necessary
 //私が怖くないの？あれかい？なんなら餅食うかい？
