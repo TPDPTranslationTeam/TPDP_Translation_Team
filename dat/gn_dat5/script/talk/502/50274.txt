@@ -2,7 +2,7 @@
 
 Have you heard of Yamame?\b
 She's quite popular down here. Talk to her if you find her.\b
-\cちと好戦的だから勝負ふっかけてくる事も多いけどな。
+\cShe's kinda bloodthirsty so she might challenge you a battle, though.
 //help.
 
 //ヤマメさん知ってるか？\b

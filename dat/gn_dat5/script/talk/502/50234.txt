@@ -1,4 +1,6 @@
 
 
-魔理沙さんはいつの間にか侵入してるんですよね。\b
-私たちでは捕まえられるなんて思ってないので よく談笑していますよ。
+//魔理沙さんはいつの間にか侵入してるんですよね。\b
+Marisa sneaks in before we even knew it.\b
+//私たちでは捕まえられるなんて思ってないので よく談笑していますよ。
+We know we can't catch her so we enjoy talking with her.

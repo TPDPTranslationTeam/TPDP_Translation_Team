@@ -1,4 +1,6 @@
 
 
-一仕事終えた後は酒！\b
-こいつを守れねぇ奴が旧都にいる訳ねーよなぁ！
+//一仕事終えた後は酒！\b
+Sake after a work!\b
+//こいつを守れねぇ奴が旧都にいる訳ねーよなぁ！
+There's no way such a guy living without this rule in this Former Capital!

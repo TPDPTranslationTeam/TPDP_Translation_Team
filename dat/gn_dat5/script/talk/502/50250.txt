@@ -1,4 +1,6 @@
 
 
-古明地のもんならこの橋を渡った先だよ。\b
-あんたら人間からしたら気味悪ぃ場所かもしれんが 良い奴らだよ。怖がってあげなさんな。
+//古明地のもんならこの橋を渡った先だよ。\b
+Komeiji's residence is ahead, over that bridge.\b
+//あんたら人間からしたら気味悪ぃ場所かもしれんが 良い奴らだよ。怖がってあげなさんな。
+They might be scary for you, humans, but they're nice. Don't scare and be nice.

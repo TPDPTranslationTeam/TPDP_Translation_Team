@@ -1,4 +1,6 @@
 
 
-侵入者さんですか？気を付けて遊んでくださいね。\b
-あと私が見たって事は黙っといて下さい 怒られるの嫌なんで。
+//侵入者さんですか？気を付けて遊んでくださいね。\b
+Intruder? Be careful if you're playing.\b
+//あと私が見たって事は黙っといて下さい 怒られるの嫌なんで。
+Also, don't tell anyone that I saw you. I don't want to get scold.
