@@ -7,4 +7,4 @@ You're as strong as I heard.\b
 //そういえば 藍様や紫様に挑戦してみた？\b
 However, did you challenge my masters Ran and Yukari?\b
 //スキマップで行けるようになってるって 紫様が言っていたわよ。
-You can go there now, as Yukari promised.
+You can go there now with Gap Map, as Yukari promised.

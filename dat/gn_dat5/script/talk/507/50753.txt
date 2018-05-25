@@ -1,4 +1,6 @@
 
 
-あなたの人形も可愛いわね！\b
-でも 私の人形も可愛かったでしょ？
+//あなたの人形も可愛いわね！\b
+You're Puppets are cute!\b
+//でも 私の人形も可愛かったでしょ？
+But my Puppets are cute too, aren't they?

@@ -1,3 +1,4 @@
 
 
-„‚Á‚Ä•‰‚¯‚½‚±‚Æ‚ª‚È‚¢‚Ì‚æH
+//„‚Á‚Ä•‰‚¯‚½‚±‚Æ‚ª‚È‚¢‚Ì‚æH
+I have never lost in Puppet battles.

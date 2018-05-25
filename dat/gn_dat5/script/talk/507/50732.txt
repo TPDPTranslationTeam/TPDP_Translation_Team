@@ -1,3 +1,4 @@
 
 
-無縁塚に行くのかい？
+//無縁塚に行くのかい？
+Are you going Muenzuka?

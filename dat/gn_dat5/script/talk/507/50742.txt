@@ -1,4 +1,6 @@
 
 
-そんなにいやそうな顔しないで。\b
-一戦だけ ね？
+//そんなにいやそうな顔しないで。\b
+Don't make such a disgusted face.\b
+//一戦だけ ね？
+Just a match, okay?

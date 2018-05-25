@@ -1,4 +1,6 @@
 
 
-とりあえず今は迷子じゃないみたいね。\b
-迷ったら面倒だから さっさと帰ってよ。
+//とりあえず今は迷子じゃないみたいね。\b
+Okay, you're not lost for now.\b
+//迷ったら面倒だから さっさと帰ってよ。
+Go home ASAP, we're gonna be in trouble if you're lost.

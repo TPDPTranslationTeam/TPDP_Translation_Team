@@ -1,4 +1,8 @@
 
 
-腕も立つのね！
-あなたを私の運命のライバルにするわ！
+//腕も立つのね！
+You have Puppet battling skills too!
+//あなたを私の運命のライバルにするわ！
+You're my arch-nemesis for now on!
+
+//"nemesis" as in rival

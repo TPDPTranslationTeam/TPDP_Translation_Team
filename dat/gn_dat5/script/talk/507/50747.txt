@@ -1,3 +1,4 @@
 
 
-・・・どうなっても知らないからなー。
+//・・・どうなっても知らないからなー。
+... I don't care if anything happens to you.

@@ -1,4 +1,6 @@
 
 
-人形って可愛いわよね！\b
-ねぇ あなたの人形 見せてみて！
+//人形って可愛いわよね！\b
+Puppets are cute, isn't it?\b
+//ねぇ あなたの人形 見せてみて！
+Let me show your Puppets!
