@@ -3,6 +3,6 @@
 //こんな場所に来るなんて相当な物好きかい？\b
 You're such a curious person coming here!\b
 //はっは 良い目だ！気に入った！\b
-Haha, I see some fire in your eye! I like it!\b 
+Haha, I see some fire in your eyes! I like it!\b 
 //酒でも飲もうじゃねぇか！
-Let's drink some sake with me!
+Let's drink some sake together!

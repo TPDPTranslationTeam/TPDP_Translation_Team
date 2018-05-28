@@ -1,6 +1,6 @@
 
 
 //今年の酒虫は良い出来栄えだったよ。\b
-This year's sake bug-made sake was well done.\b
+This year's sake was made from a sake-bug, and it was pretty well done.\b
 //ただ やっぱり天然ものに比べると足りないものを感じるねぇ。
-But still feels something is missing compared to natural-made ones.
+But it still feels like something is missing, compared to naturally-made sake.

@@ -2,7 +2,7 @@
 
 Have you heard of Yamame?\b
 She's quite popular down here. Talk to her if you find her.\b
-\cShe's kinda bloodthirsty so she might challenge you a battle, though.
+\cShe's kinda bloodthirsty though, so she might challenge you a battle.
 //help.
 
 //ƒ„ƒ}ƒ‚³‚ñ’m‚Á‚Ä‚é‚©H\b
