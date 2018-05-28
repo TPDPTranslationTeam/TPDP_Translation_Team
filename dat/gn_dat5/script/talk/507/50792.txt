@@ -1,4 +1,6 @@
 
 
-私のミスティア 夜は子守唄歌ってくれるのよ！\b
-あなたも聞いてみる？
+//私のミスティア 夜は子守唄歌ってくれるのよ！\b
+//あなたも聞いてみる？
+My Mystia Puppet sings me a lullaby in the night!\b
+Do you wanna listen?

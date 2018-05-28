@@ -1,3 +1,4 @@
 
 
-あっ あなた人形遣いね！その人形を手放しなさい！
+//あっ あなた人形遣いね！その人形を手放しなさい！
+Hey, you're Puppeteer, right!? Release these Puppets!

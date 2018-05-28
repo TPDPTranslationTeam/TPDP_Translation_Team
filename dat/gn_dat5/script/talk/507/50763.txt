@@ -1,4 +1,6 @@
 
 
-まさか負けるなんてなぁ。\b
-今度取材してあげてもいいよ。
+//まさか負けるなんてなぁ。\b
+I didn't expect to be lost.\b
+//今度取材してあげてもいいよ。
+Let me interview you sometime later.

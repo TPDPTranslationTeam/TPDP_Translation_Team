@@ -1,3 +1,4 @@
 
 
-・・・あまりここには近寄らない方が良いよ。
+//・・・あまりここには近寄らない方が良いよ。
+...I suggest not to stay here too much.

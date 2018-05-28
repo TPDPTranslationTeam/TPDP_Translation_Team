@@ -1,4 +1,6 @@
 
 
-あ あなたも人形持ってるの？\b
-勝負しようよ 勝負！
+//あ あなたも人形持ってるの？\b
+Oh, you have Puppets too?\b
+//勝負しようよ 勝負！
+Let's battle! Let's battle!

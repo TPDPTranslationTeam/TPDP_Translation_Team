@@ -1,4 +1,6 @@
 
 
-僕の分析を上回る出力・・・！\b
-素晴らしい！改造させてくれないか！
+//僕の分析を上回る出力・・・！\b
+The power output was beyond my analysis...!\b
+//素晴らしい！改造させてくれないか！
+Splendid! Can I customize you?

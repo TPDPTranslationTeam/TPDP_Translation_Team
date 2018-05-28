@@ -1,4 +1,6 @@
 
 
-天狗に勝負を挑まれたんだ！
-気張って向かって来いよ！
+//天狗に勝負を挑まれたんだ！
+I'm a person who was just challenged by a tengu!
+//気張って向かって来いよ！
+Come at me!

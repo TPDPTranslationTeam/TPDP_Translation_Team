@@ -1,4 +1,7 @@
 
 
-『人間の人形遣い 山で暴れまわる！』\b
-次のタイトルはこれかな。
+//『人間の人形遣い 山で暴れまわる！』\b
+//次のタイトルはこれかな。
+The next article is... "Human Puppeteer, Causing Mayhem on the Mountain!"\b
+
+//Make the title more newspaper-like

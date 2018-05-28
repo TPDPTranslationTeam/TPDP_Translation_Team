@@ -1,4 +1,6 @@
 
 
-私の必殺技を教えたこの人形
-倒せるものなら倒してみろ！
+//私の必殺技を教えたこの人形
+//倒せるものなら倒してみろ！
+I've taught my Puppets my techniques!
+Beat them if you dare!

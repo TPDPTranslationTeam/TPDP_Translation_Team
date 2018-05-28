@@ -1,4 +1,6 @@
 
 
-君の分析はもう終了しているよ。\b
-さぁ 解体してあげよう。
+//君の分析はもう終了しているよ。\b
+My analysis is already complete.\b
+//さぁ 解体してあげよう。
+Now it's time to dismatle you.

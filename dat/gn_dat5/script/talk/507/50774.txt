@@ -1,3 +1,4 @@
 
 
-この餅いつもと味が違うの・・・。
+//この餅いつもと味が違うの・・・。
+This dumpling tastes different than usual...

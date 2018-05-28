@@ -1,4 +1,6 @@
 
 
-ううっ 負けたものは潔く人形を手放すのよ・・・\b
-やっぱやーだー！
+//ううっ 負けたものは潔く人形を手放すのよ・・・\b
+//やっぱやーだー！
+Losers must release their Puppets...\b
+But I don't want to!

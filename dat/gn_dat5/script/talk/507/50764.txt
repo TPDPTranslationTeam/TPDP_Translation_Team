@@ -1,3 +1,6 @@
 
 
-・・・立札に「いつまで経っても入山禁止」って書いてあったの 見なかったの？
+//・・・立札に「いつまで経っても入山禁止」って書いてあったの 見なかったの？
+...Didn't you see that "Do not enter. Forever." sign?
+
+//Where was that sign? I need to reference it

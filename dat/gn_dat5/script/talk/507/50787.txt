@@ -1,3 +1,4 @@
 
 
-あまり荒事起こさないでくださいね。
+//あまり荒事起こさないでくださいね。
+Please don't make things rough too much.
