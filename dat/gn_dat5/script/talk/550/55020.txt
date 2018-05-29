@@ -1,4 +1,7 @@
-コンガラ
+//コンガラ
+Konngara
 009_02
-ふーむ こんなものか。\b
-あの新聞の『妖怪じみた人間！』は嘘だったか。
+//ふーむ こんなものか。\b
+Hm, that's all.\b
+//あの新聞の『妖怪じみた人間！』は嘘だったか。
+Seems like that newspaper's "Human with Youkai-like Strength!" headline was hoax.

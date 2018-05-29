@@ -1,4 +1,7 @@
-カナ
+//カナ
+Kana
 016
-ここは変な人ばっかりねー。\b
-あなたもそうなのかしら？
+//ここは変な人ばっかりねー。\b
+There's so many weird people.\b
+//あなたもそうなのかしら？
+Are you so too?

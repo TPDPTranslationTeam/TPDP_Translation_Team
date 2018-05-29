@@ -1,4 +1,7 @@
-ちゆり
+//ちゆり
+Chiyuri
 018_02
-あちゃー負けちゃったかー・・・。\b
-うーん 怒られたくないし逃げようかな。
+//あちゃー負けちゃったかー・・・。\b
+Damn, I lost...\b
+//うーん 怒られたくないし逃げようかな。
+I don't wanna get scolded, I gotta run from here.

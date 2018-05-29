@@ -1,4 +1,7 @@
-理香子
+//理香子
+Rikako
 017
-さぁ 君も私のデータとなりたまえ。\b
-科学の素晴らしさを見せてあげよう。
+//さぁ 君も私のデータとなりたまえ。\b
+Now you'll be my data.\b
+//科学の素晴らしさを見せてあげよう。
+Let me show you the brilliance of science.

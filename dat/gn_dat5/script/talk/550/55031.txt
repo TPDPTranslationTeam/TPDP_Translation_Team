@@ -1,4 +1,7 @@
-小兎姫
+//小兎姫
+Kotohime
 015_01
-なるほど 私よりは強いのだな。\b
-ただ 強いだけで別に面白味は無さそうね。
+//なるほど 私よりは強いのだな。\b
+I see, at least you're better than me.\b
+//ただ 強いだけで別に面白味は無さそうね。
+But you're just strong, nothing special.

@@ -1,5 +1,8 @@
-コンガラ
+//コンガラ
+Konngara
 009
-なるほど 話は嘘ではなかったのだな。\b
+//なるほど 話は嘘ではなかったのだな。\b
+I see, the stories are not exaggerated.\b
 \x03
-あぁいや失敬 人間にしてはあまりにも面白い噂だったものでな。
+//あぁいや失敬 人間にしてはあまりにも面白い噂だったものでな。
+Oh, excuse me. The stories were too much for a human.

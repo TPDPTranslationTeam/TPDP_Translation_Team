@@ -1,7 +1,12 @@
-コンガラ
+//コンガラ
+Konngara
 009
-君が噂に聞く\pか。\b
-私はコンガラと申す。\b
+//君が噂に聞く\pか。\b
+You're \p, from stories I hear.\b
+//私はコンガラと申す。\b
+I am Konngara.\b
 \x01
-さぁ その噂に違わぬ力をお見せ願おう！
-いざ 尋常に！
+//さぁ その噂に違わぬ力をお見せ願おう！
+Let me show your might, as I hear.
+//いざ 尋常に！
+En garde!

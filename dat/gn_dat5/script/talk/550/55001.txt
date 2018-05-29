@@ -1,4 +1,7 @@
-シンギョク
+//シンギョク
+Shingyoku
 003_02
-あぁ 負けてしまったのだな。\b
-残念だけど 仕方ないわね。
+//あぁ 負けてしまったのだな。\b
+Ah, we've lost.\b
+//残念だけど 仕方ないわね。
+Unfortunate, but it can't be helped.

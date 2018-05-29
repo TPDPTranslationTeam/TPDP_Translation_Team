@@ -1,4 +1,7 @@
-エレン
+//エレン
+Ellen
 014_03
-やっぱりふわふわエレンさんがいっちばーん！\b
-ね～ソクラテス！
+//やっぱりふわふわエレンさんがいっちばーん！\b
+Of course Fluffy Ellen's number one!\b
+//ね～ソクラテス！
+Right, Socrates?

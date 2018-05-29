@@ -1,6 +1,12 @@
-キクリ
+//キクリ
+Kikuri
 008_03
-はぁい 人間さん。\b
+//はぁい 人間さん。\b
+Oh hi, human,\b
 \x01
-あら そんな豆鉄砲食らった顔しなくてもいいのに。\b
-像が動いてるだけじゃないの。
+//あら そんな豆鉄砲食らった顔しなくてもいいのに。\b
+Don't make such a surprised face.\b
+//像が動いてるだけじゃないの。
+I'm just a moving statue.
+
+//豆鉄砲食らった顔: an idiom for the surprised face

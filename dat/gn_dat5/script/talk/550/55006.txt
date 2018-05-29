@@ -1,5 +1,11 @@
-エリス
+//エリス
+Elis
 005
-可愛い可愛いエリスちゃんの次の相手はあなたかしら～？\b
+//可愛い可愛いエリスちゃんの次の相手はあなたかしら～？\b
+Hi, I'm cutie Elis. Are you the next challenger?
+\b
 \x03
-それじゃあ いっくよーっ！
+//それじゃあ いっくよーっ！
+Here I come!
+
+//Feels a bit short for English

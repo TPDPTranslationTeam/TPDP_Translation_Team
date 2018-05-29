@@ -1,5 +1,12 @@
-サリエル
+//サリエル
+Sariel
 006
-（さぁ 私に見せてください。\b
-鏡に映る花のように 水面に映える月のように。\b
-人の儚さを あなたの美しさを！）
+//（さぁ 私に見せてください。\b
+//鏡に映る花のように 水面に映える月のように。\b
+//人の儚さを あなたの美しさを！）
+(Now show me.\b
+Like a flower on mirror, or the Moon reflected on water:\b
+Human's ephemerality, your beauty!)
+
+//I couldn't get lines properly into English
+//This has epic and poetic feeling, rhyming might work

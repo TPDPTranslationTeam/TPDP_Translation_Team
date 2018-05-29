@@ -1,4 +1,9 @@
-サリエル
+//サリエル
+Sariel
 006_03
-（儚いからこそ美しい 美しいからこそ儚い。\b
-終わりがあるからこそ 私たちは始めることが出来たのです。）
+//（儚いからこそ美しい 美しいからこそ儚い。\b
+//終わりがあるからこそ 私たちは始めることが出来たのです。）
+(Ephemarality makes beauty, so does inverse.\b
+All things must end, thus we can begin something new.)
+
+//Sariel line, keep the poetic feeling going

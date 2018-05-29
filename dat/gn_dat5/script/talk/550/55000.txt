@@ -1,8 +1,13 @@
-シンギョク
+//シンギョク
+Shingyoku
 003
-我らはシンギョク。\b
+//我らはシンギョク。\b
+We are Shingyoku.\b
 \x03
-キミが僕らの相手だね。
-ふふ 表裏一体の私たちに勝てるかしら？\b
+//キミが僕らの相手だね。
+Seems like you're our opponent.
+//ふふ 表裏一体の私たちに勝てるかしら？\b
+Can you stand us, the master of duality?\b
 \x01
-我らのシンなる力はギョクの如く。勝負！
+//我らのシンなる力はギョクの如く。勝負！
+Behold our power as perfect as a sphere!

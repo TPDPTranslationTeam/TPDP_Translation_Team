@@ -1,4 +1,7 @@
-理香子
+//理香子
+Rikako
 017_01
-研究対象にもならなかったな。\b
-少し弱すぎる。
+//研究対象にもならなかったな。\b
+Not even a research material.\b
+//少し弱すぎる。
+You're a bit too weak.
