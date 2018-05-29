@@ -1,3 +1,5 @@
 
 
-ひまわりの向いた方向にアタック！
+Attack in the direction of the sunflowers!
+
+//ひまわりの向いた方向にアタック！

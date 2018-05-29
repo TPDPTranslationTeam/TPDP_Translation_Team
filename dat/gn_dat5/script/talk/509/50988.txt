@@ -1,3 +1,5 @@
 
 
-勝利の定石は先手必勝！
+If I strike first, I'll surely beat you!
+
+//勝利の定石は先手必勝！

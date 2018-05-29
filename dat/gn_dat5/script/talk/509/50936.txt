@@ -1,4 +1,7 @@
 
 
-この先は太陽の畑だよー。\b
-向日葵たくさんだよー！
+Past here is a sunny field.\b
+By that, I mean a big field of sunflowers!
+
+//この先は太陽の畑だよー。\b
+//向日葵たくさんだよー！

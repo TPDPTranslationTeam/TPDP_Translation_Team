@@ -1,3 +1,5 @@
 
 
-この先に何か御用かしら？人形遣いさん。
+Do you need to do something up ahead, puppeteer?
+
+//この先に何か御用かしら？人形遣いさん。

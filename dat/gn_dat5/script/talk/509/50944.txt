@@ -1,4 +1,7 @@
 
 
-人形解放戦線を潰した人間に勝つ！\b
-これで明日のヒーローは私ね！
+I will defeat you, the one that crushed the Liberation Front!\b
+I will become the hero of tomorrow!
+
+//人形解放戦線を潰した人間に勝つ！\b
+//これで明日のヒーローは私ね！

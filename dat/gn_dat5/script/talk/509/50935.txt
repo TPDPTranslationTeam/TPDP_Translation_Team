@@ -1,4 +1,9 @@
 
 
-GPSがなんの略かだって？\b
-ごっついポジショニングシステム・・・あれ？知ってたの？
+What does GPS stand for?\b
+Galling Positioning System. What? You didn't know?
+//the original joke: ごっつい = annoying
+//a synonym for annoying is "galling," so i used that to preserve the joke.
+
+//GPSがなんの略かだって？\b
+//ごっついポジショニングシステム・・・あれ？知ってたの？
