@@ -1,4 +1,8 @@
 
 
-自然の力を受けて元気満タン！\b
-さあ 私と勝負！
+Receiving the power of nature, I'm Ms. Energy!\b
+Here we go, let the battle start!
+//please verify if this is a girl, by the usage of -tan I'm positive she is, though
+
+//自然の力を受けて元気満タン！\b
+//さあ 私と勝負！
