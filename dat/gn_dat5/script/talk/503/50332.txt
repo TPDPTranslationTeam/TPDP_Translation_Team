@@ -1,8 +1,9 @@
 
 
 //キケン！
-DANGER
+DANGER!
 //有毒ガス充満につき
-Full with poisnous gas 
+Full of poisonous gases
 //死にたい奴だけ 近寄ってよし
 Approach if you have a deathwish
+It's painless    I swear

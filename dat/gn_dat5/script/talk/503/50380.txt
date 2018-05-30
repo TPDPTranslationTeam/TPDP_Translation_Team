@@ -1,4 +1,4 @@
 
 
 //後ろは危ないよー。店前に行ってね。
-It's dangerous to come behind. Please go to the front of the stand.
+It's dangerous to come from behind. Please go to the front of the stand.

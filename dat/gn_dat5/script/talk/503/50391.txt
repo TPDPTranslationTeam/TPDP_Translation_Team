@@ -1,6 +1,6 @@
 
 
 //屋台といえばやきそば！タコ焼き！かき氷！リンゴ飴にお好み焼き！うーん悩むなぁ。
-You know what's the staple for stands? Yakisoba! Takoyaki! Shaved ice! Apple candy and okonomiyaki! I can't decide!
+What's the first thing that comes to mind when you think of stands at a festival? Yakisoba! Takoyaki! Shaved ice! Apple candy! And okonomiyaki! I can't decide!
 
 //屋台 -> stands

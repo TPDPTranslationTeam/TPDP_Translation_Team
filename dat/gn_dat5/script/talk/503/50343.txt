@@ -1,4 +1,4 @@
 
 
 //おや 天狗の里に人間とは珍しい。\b\n取って食われないよう気を付けなよ？
-Oh, I don't see humans in Tengu Village often.\b\nWatch out, don't get eaten.
+Oh, I don't see humans in the Tengu Village often.\b\nWatch out and don't get eaten.

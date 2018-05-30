@@ -1,4 +1,4 @@
 
 
 //このお屋敷広いんだよねー・・・。お掃除も大変です。
-This mansion is huge, it's tough to clean up.
+This mansion is huge; it's tough to clean up.

@@ -1,7 +1,7 @@
 
 
 //鴉天狗の新聞っていうのは取材から出版まで一人で行うから 記事に偏りや誤報が多くって・・・。\b\nその辺は笑って許して？
-There are many misreports or biased informations on our newspapers, because we do everything alone about them: from reporting to publishing.\b\nForgive us about it, please?
+Since the tengu newspaper does coverage publications individually, their publications are full of bias and fake news.\b\nIt's best to forgive and forget about our transgressions, right?
 
 //I think it's a bit mouthful
 

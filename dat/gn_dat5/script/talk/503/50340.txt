@@ -1,7 +1,7 @@
 
 
 //天魔様は天狗を統べるお方です。\b\n非常に強い力をお持ちになっておられるので\n直接会うことはお勧めすることはできませんよ。
-Lord Tenma is the ruler of all tengu.\b\nThe lord has very strong power,\nI do not recommend seeing directly. 
+Lord Tenma is the ruler of all tengu.\b\nHe has very strong power,\nI do not recommend witnessing it directly. 
 
 //Is the name "Tenma" really canon? TPDP is very friendly to canon but this is suspicious
 //Also I thought I must leave the lord's gender ambiguous
