@@ -1,3 +1,6 @@
 
 
-異変違い？あれ？違うの？
+Crouching? What? Is that illegal?
+//illegal in the context of this reference yes
+
+//異変違い？あれ？違うの？

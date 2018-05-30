@@ -1,4 +1,7 @@
 
 
-え？あれメイドさんじゃないかもしれないって？\b
-そうなのー？
+Eh? This Puppet isn't actually a maid?\b
+Is that right?
+
+//え？あれメイドさんじゃないかもしれないって？\b
+//そうなのー？

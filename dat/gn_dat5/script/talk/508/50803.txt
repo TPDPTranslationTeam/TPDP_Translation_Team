@@ -1,4 +1,6 @@
 
 
 君は道具を上手く使ってるかい？\b
+Are you good at using items?
 その鞄の中にある数々の発明品 泣かせちゃ駄目だよ？
+Don't make people with all of the stuff in your bag okay?

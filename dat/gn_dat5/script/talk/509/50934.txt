@@ -1,4 +1,7 @@
 
 
-ちょ ちょっと邪魔しないでくれよ！\b
-ＧＰＳの計測が出来ないじゃないか！
+P-please leave me alone!\b
+My GPS isn't working here!
+
+//ちょ ちょっと邪魔しないでくれよ！\b
+//ＧＰＳの計測が出来ないじゃないか！

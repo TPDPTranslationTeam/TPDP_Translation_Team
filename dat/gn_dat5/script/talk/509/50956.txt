@@ -1,4 +1,7 @@
 
 
-出口がわからなくなっちゃった・・・。\b
-あっちょうどいいところにっ！
+I don't know how to leave...\b
+At least it's a nice place!
+
+//出口がわからなくなっちゃった・・・。\b
+//あっちょうどいいところにっ！
