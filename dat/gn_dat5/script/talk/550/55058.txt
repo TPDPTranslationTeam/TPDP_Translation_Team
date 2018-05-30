@@ -1,4 +1,7 @@
-夢月
+//夢月
+Mugetsu
 026_02
-負けるなんて考えてもいなかったわ。\b
-経験もしたくなかったけど！
+//負けるなんて考えてもいなかったわ。\b
+I didn't expect losing.\b
+//経験もしたくなかったけど！
+I didn't want to experience it, neither!

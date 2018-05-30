@@ -1,7 +1,12 @@
-ユキ
+//ユキ
+Yuki
 032_03
-ふっふっふ 見知った顔を見つけたわ。\b
-余裕って顔してるわね。\b
+//ふっふっふ 見知った顔を見つけたわ。\b
+Huhuhu, I saw a familiar face in here.\b
+//余裕って顔してるわね。\b
+You face is telling me you're thinking "this is an easy match."\b
 \x01
-でも残念ね！あなたを倒すために 私は特訓してきたのよ！\b
-もう侵入者は一人も通さないわ！
+//でも残念ね！あなたを倒すために 私は特訓してきたのよ！\b
+Too bad! I have been training a lot of training to beat you!\b
+//もう侵入者は一人も通さないわ！
+I won't let ANY intruders through anymore!

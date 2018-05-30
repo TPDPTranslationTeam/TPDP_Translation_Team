@@ -1,6 +1,10 @@
-幻月
+//幻月
+Gengetsu
 027
-そういえばあなたと一人で会うのは初めてだっけ。\b
+//そういえばあなたと一人で会うのは初めてだっけ。\b
+I think this is the first time seeing you alone.\b
 \x3
-夢月には悪いけど 存分に楽しませて貰おうかな！\b
-さ 私と一緒に遊びましょっ？
+//夢月には悪いけど 存分に楽しませて貰おうかな！\b
+Sorry for Mugetsu, but let me have fun a lot!\b
+//さ 私と一緒に遊びましょっ？
+Hey, wanna play with me?

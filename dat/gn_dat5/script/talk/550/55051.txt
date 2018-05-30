@@ -1,4 +1,7 @@
-くるみ
+//くるみ
+Kurumi
 022_01
-ここから先は通さないわよ～。\b
-守るものは無くても 門番の性なのよ！
+//ここから先は通さないわよ～。\b
+I won't let you through here!\b
+//守るものは無くても 門番の性なのよ！
+Even if there's nothing to defend, but it's the gatekeeper's nature!

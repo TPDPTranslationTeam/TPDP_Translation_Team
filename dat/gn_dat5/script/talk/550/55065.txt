@@ -1,3 +1,5 @@
-サラ
+//サラ
+Sara
 029_03
-勝つのってこんなに楽しいのね！
+//勝つのってこんなに楽しいのね！
+I didn't know winning is such a fun!

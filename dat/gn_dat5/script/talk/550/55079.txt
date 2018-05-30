@@ -1,7 +1,12 @@
-神綺
+//神綺
+Shinki
 036
-あなたと遊ぶのは本当に飽きないわね。\b
-また魔界にいらっしゃいな。
-たくさん おもてなししてあげるわ。\b
+//あなたと遊ぶのは本当に飽きないわね。\b
+Playing with you won't bore me at all.\b
+//また魔界にいらっしゃいな。
+Come again to Makai.
+//たくさん おもてなししてあげるわ。\b
+I will greet you a lot.\b
 \x03
-・・・お人形さん でね？
+//・・・お人形さん でね？
+...Of course with Puppets.

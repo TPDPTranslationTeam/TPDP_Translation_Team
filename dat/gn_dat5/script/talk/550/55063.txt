@@ -1,5 +1,8 @@
-サラ
+//サラ
+Sara
 029_01
-あなたが次の相手と戦う事はないわ！\b
+//あなたが次の相手と戦う事はないわ！\b
+You will not see fighting the next opponent!\b
 \x03
-だってここで私に負けるからね！
+//だってここで私に負けるからね！
+Because you will lose to me here!

@@ -1,6 +1,10 @@
-幻月
+//幻月
+Gengetsu
 027_03
-ふふっ 負けたけど楽しかったわ。
-相変わらず強いのねっ。\b
+//ふふっ 負けたけど楽しかったわ。
+Huhu, it was fun even though I was lost.
+//相変わらず強いのねっ。\b
+You're as strong as before.\b
 \x00
-気が向いたらリベンジしに行くから それまで死なないようにね～。
+//気が向いたらリベンジしに行くから それまで死なないようにね～。
+I will have a revenging match sometimes later, don't die until then~

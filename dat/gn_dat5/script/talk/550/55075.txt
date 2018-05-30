@@ -1,5 +1,8 @@
-夢子
+//夢子
+Yumeko
 035
-あなたは ここで退場よ。\b
+//あなたは ここで退場よ。\b
+You will be off the stage at here.\b
 \x01
-私が直々に手を下してあげるのだからっ！
+//私が直々に手を下してあげるのだからっ！
+Because you will be beaten by myself, right now, right here!

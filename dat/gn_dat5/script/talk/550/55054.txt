@@ -1,5 +1,8 @@
-エリー
+//エリー
+Elly
 023_01
-この私があなたなんかに負ける訳がないわ！\b
+//この私があなたなんかに負ける訳がないわ！\b
+There's no way I can lose someone like you!\b
 \x00
-あなたが誰だか知らないけどね！
+//あなたが誰だか知らないけどね！
+I don't know who you are, though!

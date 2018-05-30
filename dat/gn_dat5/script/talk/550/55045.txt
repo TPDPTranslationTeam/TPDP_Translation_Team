@@ -1,4 +1,9 @@
-ミミちゃん&る～こと
+//ミミちゃん&る～こと
+Mimi-chan & Ruukoto
 020_01
-ターゲット ロックオン。\b
-任務開始 お掃除始めます！
+//ターゲット ロックオン。\b
+Target locked.\b
+//任務開始 お掃除始めます！
+Starting mission, commencing cleaning!
+
+//If the name doesn't fit, change the name "Ruukoto"
