@@ -1,4 +1,4 @@
 
 
-最近は人形異変で騒がしいなー。\b
-だけどそれがいい！
+This recent Puppet Incident has been pretty noisy.\b
+However, that's fine by me!
