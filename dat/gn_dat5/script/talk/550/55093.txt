@@ -1,4 +1,7 @@
-小悪魔
+//小悪魔
+Koakuma
 041
-この舞闘会で優勝して 頂点にのし上がってやるわ。\b
-邪魔しちゃダメよっ？
+//この舞闘会で優勝して 頂点にのし上がってやるわ。\b
+I'll win the tournament and I'll rise to the top.\b
+//邪魔しちゃダメよっ？
+Don't impede me~

@@ -1,4 +1,7 @@
-チルノ
+//チルノ
+Cirno
 039_01
-ここであったが１００年目！\b
-あんたも人形も一緒に凍らせてあげるわ！
+//ここであったが１００年目！\b
+I've found you at last!\b
+//あんたも人形も一緒に凍らせてあげるわ！
+I'll freeze you together with your Puppets!

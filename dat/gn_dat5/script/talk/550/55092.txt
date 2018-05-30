@@ -1,5 +1,8 @@
-美鈴
+//美鈴
+Meiling
 040_03
-鍛錬は欠かさず行いましょう。\b
+//鍛錬は欠かさず行いましょう。\b
+Keep training regularly.\b
 \x05
-強くなるための一歩です・・・zzZ
+//強くなるための一歩です・・・zzZ
+It's the first step to be strong... zzz...

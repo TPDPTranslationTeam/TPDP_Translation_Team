@@ -1,5 +1,8 @@
-レミリア
+//レミリア
+Remilia
 044
-分かっていたわ。\pがここまで来ること。\b
+//分かっていたわ。\pがここまで来ること。\b
+I know you're coming this far,\b
 \x05
-そして 次の勝者が私ということもね！
+//そして 次の勝者が私ということもね！
+and I am the winner of this match!

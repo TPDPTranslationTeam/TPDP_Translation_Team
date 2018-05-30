@@ -1,5 +1,7 @@
-パチュリー
+//パチュリー
+Patchouli
 42_05
-経験は千の知識に勝るのね。\b
-たまには外に出ようかしら。
-
+//経験は千の知識に勝るのね。\b
+Experience beat thousands of knowledge.\b
+//たまには外に出ようかしら。
+I think I should go out sometimes.

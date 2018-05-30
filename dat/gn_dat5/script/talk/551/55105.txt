@@ -1,5 +1,8 @@
-フランドール
+//フランドール
+Flandre
 045_01
-うふふ 次の遊び相手は\pなのね。\b
+//うふふ 次の遊び相手は\pなのね。\b
+Uhuhu, you're next to play with me, \p.\b
 \x07
-さぁ コンティニューの無い遊びを始めましょっ！
+//さぁ コンティニューの無い遊びを始めましょっ！
+Let's play with me, no continue!

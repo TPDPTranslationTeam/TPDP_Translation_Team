@@ -1,4 +1,7 @@
-チルノ
+//チルノ
+Cirno
 039_02
-相変わらず強いのね・・・。\b
-次こそ負けないんだからな！
+//相変わらず強いのね・・・。\b
+You're as strong as before...\b
+//次こそ負けないんだからな！
+I won't lose next time!

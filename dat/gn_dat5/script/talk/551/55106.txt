@@ -1,6 +1,10 @@
-フランドール
+//フランドール
+Flandre
 045_02
-・・・また負けちゃった。\b
+//・・・また負けちゃった。\b
+... I lost again.\b
 \x00
-うふふ 煙も出ないほど負けちゃった。
-次もいっぱい遊びましょうね。
+//うふふ 煙も出ないほど負けちゃった。
+Uhuhu, you beat me so hard, not even a smoke coming out.
+//次もいっぱい遊びましょうね。
+Let's play again next time, a lot.
