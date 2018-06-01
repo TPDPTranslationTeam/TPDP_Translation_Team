@@ -1,6 +1,10 @@
-妹紅
+//妹紅
+Mokou
 067
-久しぶりね。\b
-悠久の時の中 たった一瞬だけど何時までも忘れられないバトルにしてあげるわ。\b
+//久しぶりね。\b
+It's been a while.\b
+//悠久の時の中 たった一瞬だけど何時までも忘れられないバトルにしてあげるわ。\b
+It's only a flash in the eternity, but I will make this battle unforgettable forever.\b
 \x01
-準備は良い？
+//準備は良い？
+Are you ready?

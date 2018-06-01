@@ -1,4 +1,7 @@
-小町
+//小町
+Komachi
 74
-お前さんとはゆっくり話したいと思っていたんだ。\b
-さ まずは一杯やろうじゃないか。
+//お前さんとはゆっくり話したいと思っていたんだ。\b
+I was always wanted to have a talk to you together sometimes.\b
+//さ まずは一杯やろうじゃないか。
+Let's start with a cup of sake.

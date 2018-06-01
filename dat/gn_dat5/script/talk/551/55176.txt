@@ -1,4 +1,7 @@
-文
+//文
+Aya
 73_03
-事実が起きる前に記事を書き 自分の力で記事を事実にする。
-最速のコツですよ。
+//事実が起きる前に記事を書き 自分の力で記事を事実にする。
+Write the article before the event happens, and I make the article true.
+//最速のコツですよ。
+That's why I'm the fastest.

@@ -1,7 +1,11 @@
-メディスン
+//メディスン
+Medicine
 72_03
-今回は私の勝ちのようね！\b
+//今回は私の勝ちのようね！\b
+Looks like I won this time!\b
 \x00
-安心するといいわ！人形を解放しろだなんて言わないもの。\b
+//安心するといいわ！人形を解放しろだなんて言わないもの。\b
+You're fortunate this time, I won't say like "Liberate your Puppets!"\b
 \x03
-今は 人形や皆と 一緒に遊ぶのが楽しいんだから。
+//今は 人形や皆と 一緒に遊ぶのが楽しいんだから。
+I'm just having fun playing with Puppets and everyone now.

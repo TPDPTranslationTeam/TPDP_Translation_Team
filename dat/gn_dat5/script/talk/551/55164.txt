@@ -1,4 +1,7 @@
-妹紅
+//妹紅
+Mokou
 067_03
-私はいつだって再戦ＯＫだよ。\b
-\pが生きてる間なら いつだってね。
+//私はいつだって再戦ＯＫだよ。\b
+I'm always ready for rematch.\b
+//\pが生きてる間なら いつだってね。
+As long as you live.

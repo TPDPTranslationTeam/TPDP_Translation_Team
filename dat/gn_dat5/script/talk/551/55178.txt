@@ -1,4 +1,7 @@
-小町
+//小町
+Komachi
 74_03
-ふふ 楽しかったよ。またいつか語り合おうじゃないか。\b
-今度は舟の上で ね。
+//ふふ 楽しかったよ。またいつか語り合おうじゃないか。\b
+Hey, that was fun. Let's talk together again sometimes.\b
+//今度は舟の上で ね。
+Next time, on the boat.

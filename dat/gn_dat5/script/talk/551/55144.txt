@@ -1,5 +1,8 @@
-ミスティア
+//ミスティア
+Mystia
 061_01
-今まで散々負かされてきたけど 今回は違うわ！\b
+//今まで散々負かされてきたけど 今回は違うわ！\b
+I kept losing to you, but not for this time!\b
 \x00
-さぁ 私の歌に酔いしれなさい！
+//さぁ 私の歌に酔いしれなさい！
+Let my song take your heart away!

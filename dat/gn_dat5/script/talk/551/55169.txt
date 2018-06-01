@@ -1,6 +1,10 @@
-メディスン
+//メディスン
+Medicine
 72
-・・・純粋に\pと遊ぶのって 初めてだったかしら。
-こんなに楽しいなんて 思いもよらなかったわ。\b
+//・・・純粋に\pと遊ぶのって 初めてだったかしら。
+... Was it the first time playing without any cares with you?
+//こんなに楽しいなんて 思いもよらなかったわ。\b
+I didn't know that was this fun.\b
 \x03
-また 遊んでやってもいいわよ。
+//また 遊んでやってもいいわよ。
+... Can you play with me again?

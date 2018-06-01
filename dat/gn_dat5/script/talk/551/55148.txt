@@ -1,5 +1,8 @@
-Œd‰¹
+//Œd‰¹
+Keine
 062
-‰\‚Éˆá‚í‚Ê‹­‚³‚¾‚ÈB\b
+//‰\‚Éˆá‚í‚Ê‹­‚³‚¾‚ÈB\b
+Strong just as I hear.\b
 \x03
-¶“k‚½‚¿‚ªŒN‚ğ‘A‚Ş‚í‚¯‚¾B
+//¶“k‚½‚¿‚ªŒN‚ğ‘A‚Ş‚í‚¯‚¾B
+I can understand why students are jealous of you.

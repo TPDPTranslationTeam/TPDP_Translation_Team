@@ -1,16 +1,26 @@
-蓮子
+//蓮子
+Renko
 56_03
-ふふっ 残念だったわね。\b
+//ふふっ 残念だったわね。\b
+You're unfortunate.\b
 \x00
-・・・あなたに勝ったことで 私たちは何かを示せたのかな。\b
-\oメリー
+//・・・あなたに勝ったことで 私たちは何かを示せたのかな。\b
+... Could we prove something by winning against you?\b
+//\oメリー
+\oMaribel
 \j57
-・・・分からないわ。
-そう信じる事しかできないもの。\b
-でも とても楽しかったことは確かね！\b
-\o蓮子
+//・・・分からないわ。
+... I don't know.
+//そう信じる事しかできないもの。\b
+I can only believe so.\b
+//でも とても楽しかったことは確かね！\b
+I'm sure it was so fun anyways!\b
+//\o蓮子
 \j56
-そうね。ありがとう \p。
-とても楽しかったわ！\b
+//そうね。ありがとう \p。
+That's true. Thank you, \p.
+//とても楽しかったわ！\b
+That was so fun!\b
 \x03
-いつか また会いましょう。
+//いつか また会いましょう。
+Let us see you again sometimes.

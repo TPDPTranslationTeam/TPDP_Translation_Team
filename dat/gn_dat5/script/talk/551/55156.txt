@@ -1,4 +1,7 @@
-永琳
+//永琳
+Eirin
 065_01
-一度は共闘しましたが 容赦はしませんよ。\b
-姫様が見ているなか 負ける訳にはいかないんです。
+//一度は共闘しましたが 容赦はしませんよ。\b
+Even though once we've fought together, but I won't go easy on you.\b
+//姫様が見ているなか 負ける訳にはいかないんです。
+I can't lose with my princess is watching me.

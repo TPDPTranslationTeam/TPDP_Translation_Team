@@ -1,5 +1,8 @@
-てゐ
+//てゐ
+Tewi
 063
-まずこの幸せになる壺を買います。\b
+//まずこの幸せになる壺を買います。\b
+First, buy this pot. This pot brings happines to you.\b
 \x02
-・・・お金がない？話にならないね。
+//・・・お金がない？話にならないね。
+... Not enough money? We're not getting anywhere with it.

@@ -1,20 +1,34 @@
-蓮子
+//蓮子
+Renko
 56_02
-もしかして ここで負けることはきっと決まっていたのかしらね。
-残念ね メリー。\b
-\oメリー
+//もしかして ここで負けることはきっと決まっていたのかしらね。
+We might be destined to lose here.
+//残念ね メリー。\b
+That's unfortunate, Mary.\b
+//\oメリー
+\oMaribel
 \j57
-ふふ そう悲観する事無いわ 蓮子。
-\pと出会えたこと 戦えたことはとても大きな成果だわ。\b
+//ふふ そう悲観する事無いわ 蓮子。
+Don't be so pessimistic, Renko.
+//\pと出会えたこと 戦えたことはとても大きな成果だわ。\b
+It was so great to see and battle \p.\b
 \x03
-・・・それに とっても楽しかったしね！\b
-\o蓮子
+//・・・それに とっても楽しかったしね！\b
+... Also, it was really really fun!\b
+//\o蓮子
+\oRenko
 \j56_03
-ふふ そうね。
-おめでとう\p！
-心からお祝いするわ。\b
-\oメリー
+//ふふ そうね。
+You're right.
+//おめでとう\p！
+Conguratulations, \p!
+//心からお祝いするわ。\b
+We sincerely celebrate you.\b
+//\oメリー
+\oMaribel
 \j57
-またいつか会いましょう。\b
+//またいつか会いましょう。\b
+Let's see together again sometimes.\b
 \x03
-その日を 楽しみにしていますわ。
+//その日を 楽しみにしていますわ。
+I'll be waiting for it.

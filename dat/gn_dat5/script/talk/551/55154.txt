@@ -1,5 +1,8 @@
-鈴仙
+//鈴仙
+Reisen
 064_01
-月の兎は一度のミスも許されないんです。\b
+//月の兎は一度のミスも許されないんです。\b
+Lunar rabbits are not forgiven for any misses.\b
 \x00
-そんな窮屈な生活より 今の方が断然にいいわ。
+//そんな窮屈な生活より 今の方が断然にいいわ。
+Earth is much better than such an uneasy life.

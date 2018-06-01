@@ -1,33 +1,56 @@
-蓮子
+//蓮子
+Renko
 56
-あれ どこかで見たような。
-気のせいだったかしら。\b
-\oメリー
+//あれ どこかで見たような。
+Did I see you somewhere?
+//気のせいだったかしら。\b
+Or was it just my imagination?\b
+//\oメリー
+Maribel
 \j57_03
-・・・きっとあなたも 幻想に惹かれてここに来たのね？\b
+//・・・きっとあなたも 幻想に惹かれてここに来たのね？\b
+... You came here attracted by fantasies, didn't you?\b
 \x00
-私と蓮子も同じ。
-ここが夢かどうかなんて分からない。\b
-だから 似てる気がするのかもしれないわね。\b
-\o蓮子
+//私と蓮子も同じ。
+So do we.
+//ここが夢かどうかなんて分からない。\b
+We don't know this is a dream or not.\b
+//だから 似てる気がするのかもしれないわね。\b
+I think that's why we feel familiar with you.\b
+//\o蓮子
+\oRenko
 \j56
-何故私たちはここに来たのか。
-ここはどこなのか。\b
-・・・出会ってみて理解したわ。\b
+//何故私たちはここに来たのか。
+Why are we here?
+//ここはどこなのか。\b
+What this place is?\b
+//・・・出会ってみて理解したわ。\b
+... Now I know seeing you.\b
 \x03
-ここに呼ばれたのは あなたなのね？\b
-\oメリー
+//ここに呼ばれたのは あなたなのね？\b
+You're were called to be here, right?\b
+//\oメリー
+\oMaribel
 \j57
-それなら 私たちの目的は一つ。\b
+//それなら 私たちの目的は一つ。\b
+Now our purpose is clear.\b
 \x01
-あなたに勝つことによって 私たちはきっと証明される。\b
-私たちが ここに居た証を示すことが出来る！\b
+//あなたに勝つことによって 私たちはきっと証明される。\b
+Our victory will be proven by winning against you.\b
+//私たちが ここに居た証を示すことが出来る！\b
+We can prove our existence in here!\b
 \x00
-・・・さぁ 始めましょう 蓮子！\b
-\o蓮子
+//・・・さぁ 始めましょう 蓮子！\b
+... Let's begin, Renko!\b
+//\o蓮子
+\oRenko
 \j56
-えぇ メリー！\b
-\o蓮子&メリー
+//えぇ メリー！\b
+Yeah, Mary!\b
+//\o蓮子&メリー
+Renko & Mary
 \j971
-夢の世界を！\b
-現実に変えるのよ！
+//夢の世界を！\b
+//現実に変えるのよ！
+Let us change!\b
+Make the world of dreams into reality!

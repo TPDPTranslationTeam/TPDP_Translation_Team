@@ -1,7 +1,12 @@
-映姫
+//映姫
+Eiki
 75_02
-・・・私では止められませんね。\b
-\cだが このままでは いずれ身を滅ぼしてしまう。\b
-もう少し 自分の生活を見つめ直しなさい。\b
+//・・・私では止められませんね。\b
+... I couldn't stop you. \b
+//\cだが このままでは いずれ身を滅ぼしてしまう。\b
+\cBut you will destroy yourself if you continue this.\b
+//もう少し 自分の生活を見つめ直しなさい。\b
+You should reconsider your life.\b
 \x00
-それが今のあなたが積める善行よ。
+//それが今のあなたが積める善行よ。
+That's what you can do for yourself.

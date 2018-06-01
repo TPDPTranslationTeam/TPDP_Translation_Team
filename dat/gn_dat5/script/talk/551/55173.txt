@@ -1,6 +1,10 @@
-—H
+//—H
+Yuuka
 25
-Œ‚É‘p‰_‚ª•¢‚¢‚©‚Ô‚³‚é‚æ‚¤‚É •—‚ª‰Ô‚ğU‚ç‚·‚æ‚¤‚ÉB\b
-‡’²‚È‚Á‚Ä‘±‚©‚È‚¢‚à‚Ì‚æ‚ËB\b
+//Œ‚É‘p‰_‚ª•¢‚¢‚©‚Ô‚³‚é‚æ‚¤‚É •—‚ª‰Ô‚ğU‚ç‚·‚æ‚¤‚ÉB\b
+Just like clouds covering the moon, wind scattering petals.\b
+//‡’²‚È‚Á‚Ä‘±‚©‚È‚¢‚à‚Ì‚æ‚ËB\b
+You can't keep anything to your favor everytime.\b
 \x03
-¡‚Ì‚ ‚È‚½‚İ‚½‚¢‚É‚ËB
+//¡‚Ì‚ ‚È‚½‚İ‚½‚¢‚É‚ËB
+Just like you now.

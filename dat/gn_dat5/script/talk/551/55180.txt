@@ -1,8 +1,13 @@
-映姫
+//映姫
+Eiki
 75_01
-・・・\p ですね。異変での活躍は聞いているわ。\b
+//・・・\p ですね。異変での活躍は聞いているわ。\b
+... You're \p, right? I heard your work at the incident-solving.\b
 \x02
-外の人間がなんて無茶をするのです。\b
-きっと負ける相手が居ないから 止まれないのでしょう。\b
+//外の人間がなんて無茶をするのです。\b
+You're too reckless for an outside human.\b
+//きっと負ける相手が居ないから 止まれないのでしょう。\b
+You couldn't stop because you couldn't lose.\b
 \x01
-ならば 今ここで 私が断罪してあげましょう！
+//ならば 今ここで 私が断罪してあげましょう！
+Then, I will judge you at here!

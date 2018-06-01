@@ -1,8 +1,13 @@
-てゐ
+//てゐ
+Tewi
 063
-あら いつぞやの人間ね。
-あなたに良い話があるんだけど？\b
+//あら いつぞやの人間ね。
+Hey, I've seen you sometimes before.
+//あなたに良い話があるんだけど？\b
+I have a good thing to tell you.\b
 \x04
-何かって？\b
+//何かって？\b
+Wonder what it is?\b
 \x03
-負けてくれたら教えてあげるわ。
+//負けてくれたら教えてあげるわ。
+I'll tell you if you lose this.

@@ -1,4 +1,7 @@
-リリー
+//リリー
+Lily White
 48
-満を持して私の出番ですよー！\b
-あなたに春の素晴らしさを教えてあげましょー！
+//満を持して私の出番ですよー！\b
+It's finally my turn!\b
+//あなたに春の素晴らしさを教えてあげましょー！
+Let me show you the brilliance of Spring!

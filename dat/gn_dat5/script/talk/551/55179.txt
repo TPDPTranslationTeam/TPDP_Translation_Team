@@ -1,6 +1,10 @@
-小町
+//小町
+Komachi
 74_02
-おっと ここで終わりかい？\b
+//おっと ここで終わりかい？\b
+Hey, are you over here?\b
 \x00
-それなら酒でも呑もうじゃないか。
-いいさ 今日はオフだし。
+//それなら酒でも呑もうじゃないか。
+Let's drink some sake together.
+//いいさ 今日はオフだし。
+I'm okay, it's day off for me today.

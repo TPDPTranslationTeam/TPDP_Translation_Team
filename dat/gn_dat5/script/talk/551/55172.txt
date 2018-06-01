@@ -1,8 +1,13 @@
-幽香
+//幽香
+Yuuka
 25_05
-・・・素晴らしいわ。ここまで綺麗に咲き誇るなんて。\b
-またいつか会う時も 楽しみにしているわよ。\b
+//・・・素晴らしいわ。ここまで綺麗に咲き誇るなんて。\b
+... Splendid. How beautiful you have bloomed.\b
+//またいつか会う時も 楽しみにしているわよ。\b
+I look forward to see you next time.\b
 \x04
-・・・え？結局私の目的は何だったって？\b
+//・・・え？結局私の目的は何だったって？\b
+... You say "what was my purpose after all"?\b
 \x03
-知らぬが花 よ。
+//知らぬが花 よ。
+There's a thing that is beautiful kept in secret.

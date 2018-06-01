@@ -1,5 +1,8 @@
-輝夜
+//輝夜
+Kaguya
 066
-こうして挑んでは敗れ去っていく者を見ていると昔を思い出すわね。\b
+//こうして挑んでは敗れ去っていく者を見ていると昔を思い出すわね。\b
+It reminds me of old, old times seeing all these challengers losing to me.\b
 \x03
-さぁ あなたは私の難題を解いてくれるのかしら？
+//さぁ あなたは私の難題を解いてくれるのかしら？
+Now, can you prove my requests impossible or not?
