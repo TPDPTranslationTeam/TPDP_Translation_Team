@@ -1,6 +1,10 @@
-天子
+//天子
+Tenshi
 89
-勝負はいつだって運否天賦。
-運だって操れるくらいじゃないとね。\b
+//勝負はいつだって運否天賦。
+Battles are always matter of luck.
+//運だって操れるくらいじゃないとね。\b
+You must be strong as you can control it.\b
 \x03
-精進するといいわよ。
+//精進するといいわよ。
+You need to train more.

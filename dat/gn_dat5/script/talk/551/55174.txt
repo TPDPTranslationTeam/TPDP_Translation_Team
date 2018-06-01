@@ -7,4 +7,4 @@ This is your Shameimaru's!\b
 //突然ですがここで号外！
 Breaking news:
 //『\p まさかの敗退！破ったのは清く正しい記者！』
-"Unexpected Loss of \p, from Pure and Reporter!"
+"Unexpected Loss of \p, from Pure and Honest Reporter!"

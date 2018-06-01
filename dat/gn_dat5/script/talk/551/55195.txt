@@ -1,4 +1,9 @@
-椛
+//椛
+Momiji
 84_01
-山の威厳の為にも 勝ちます！\b
-山の者として 人間風情に負ける訳にはいかないのよ！
+//山の威厳の為にも 勝ちます！\b
+I must win for the Mountain's pride!\b
+//山の者として 人間風情に負ける訳にはいかないのよ！
+I can't lose to a human as a resident of the Mountain!
+
+//capitalized Mountain is short for Youkai Mountain

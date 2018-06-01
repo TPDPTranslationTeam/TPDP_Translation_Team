@@ -1,4 +1,7 @@
-早苗
+//早苗
+Sanae
 85_07
-この私相手に よくぞここまで戦ったと褒めてあげます！\b
-しかしまだ実力不足。もっと修行しましょう！
+//この私相手に よくぞここまで戦ったと褒めてあげます！\b
+You fought well against me, I praise you!\b
+//しかしまだ実力不足。もっと修行しましょう！
+But you still have more to do. Train more!

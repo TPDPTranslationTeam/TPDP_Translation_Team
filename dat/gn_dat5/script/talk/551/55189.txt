@@ -1,5 +1,8 @@
-雛
+//雛
+Hina
 82_01
-厄は知らずと溜まり いつか大きな災厄となる。\b
+//厄は知らずと溜まり いつか大きな災厄となる。\b
+Misfortune builds up without knowing, then it turns into a disaster.\b
 \x00
-その前に私が取り除いてあげましょう。
+//その前に私が取り除いてあげましょう。
+Let me remove them before that.

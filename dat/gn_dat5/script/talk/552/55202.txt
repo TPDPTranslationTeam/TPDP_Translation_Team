@@ -1,4 +1,7 @@
-神奈子
+//神奈子
+Kanako
 86_03
-神に勝つなんて大きく出たねぇ。
-ま 気張らず適当に頑張りなさいね。
+//神に勝つなんて大きく出たねぇ。
+Winning against a goddess? Bold.
+//ま 気張らず適当に頑張りなさいね。
+Well, relax and do your best.

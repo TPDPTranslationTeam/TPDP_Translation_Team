@@ -1,8 +1,13 @@
-早苗
+//早苗
+Sanae
 85_08
-うぅ またもや負けてしまいました・・・残念です。\b
+//うぅ またもや負けてしまいました・・・残念です。\b
+Uhh, I lost again... That's unfortunate.\b
 \x03
-でも \pさんが幻想郷に慣れてきているようで安心しましたよっ！\b
-なんで分かるのかって？\b
+//でも \pさんが幻想郷に慣れてきているようで安心しましたよっ！\b
+But I'm relieved I see you're getting used to Gensokyo!\b
+//なんで分かるのかって？\b
+How did I know?\b
 \x06
-・・・幻想郷では 戦う事が何よりもの挨拶ですから。
+//・・・幻想郷では 戦う事が何よりもの挨拶ですから。
+... In Gensokyo, fighting is the best way of greeting.

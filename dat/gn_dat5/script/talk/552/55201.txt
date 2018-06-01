@@ -1,6 +1,10 @@
-神奈子
+//神奈子
+Kanako
 86_01
-我は山の神 八坂神奈子であるぞ！\b
+//我は山の神 八坂神奈子であるぞ！\b
+Behold, Kanako Yasaka, the goddess of moutain!\b
 \x00
-・・・って\pか。\b
-信仰集めるために参加してるのさ。邪魔するなら容赦ないよ。
+//・・・って\pか。\b
+... Oh, it's you.\b
+//信仰集めるために参加してるのさ。邪魔するなら容赦ないよ。
+I entered this for more faith. No mercy if you're intefering me.

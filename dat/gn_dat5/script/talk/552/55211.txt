@@ -1,6 +1,10 @@
-天子
+//天子
+Tenshi
 89_01
-ただの仲良しこよしじゃ 使う者も仕える者も二流。\b
+//ただの仲良しこよしじゃ 使う者も仕える者も二流。\b
+Just being a friend makes both Puppeteer and Puppets second-rate.\b
 \x03
-でも \pの人形を見る限り杞人憂天だったようね。
-良い退屈しのぎだったわ。
+//でも \pの人形を見る限り杞人憂天だったようね。
+But as far as I see, my worries are groundless to you, just like an old Chinese story about a man worrying the sky.
+//良い退屈しのぎだったわ。
+That was good for killing time.

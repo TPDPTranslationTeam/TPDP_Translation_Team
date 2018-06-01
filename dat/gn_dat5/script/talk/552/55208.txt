@@ -1,6 +1,10 @@
-衣玖
+//衣玖
+Iku
 88_02
-およよ 負けてしまいました。\b
+//およよ 負けてしまいました。\b
+Owowow, I lost.\b
 \x03
-この先あなたには数多くの選択があります。
-間違えることがないようにね。
+//この先あなたには数多くの選択があります。
+You will face many choices ahead.
+//間違えることがないようにね。
+Make sure you won't mistake.

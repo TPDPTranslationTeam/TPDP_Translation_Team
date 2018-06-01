@@ -1,5 +1,8 @@
-衣玖
+//衣玖
+Iku
 88_03
-さぁ お戻りください。\b
+//さぁ お戻りください。\b
+Now go back.\b
 \x01
-龍宮の使いの忠告は 無視するものではありませんよ。
+//龍宮の使いの忠告は 無視するものではありませんよ。
+You should not ignore the advice of the emissary of the Dragon Palace.

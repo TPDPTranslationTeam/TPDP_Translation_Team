@@ -1,5 +1,8 @@
-にとり
+//にとり
+Nitori
 83_02
-ただお祭りを楽しむだけなんて変わってるね。\b
+//ただお祭りを楽しむだけなんて変わってるね。\b
+Just enjoying the festival? That's peculiar.\b
 \x03
-まぁそういう奴らこそいいカモ・・・なんでもないよ。
+//まぁそういう奴らこそいいカモ・・・なんでもないよ。
+People like these are the best target to rip off... Nevermind.

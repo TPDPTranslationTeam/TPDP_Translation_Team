@@ -1,4 +1,7 @@
-諏訪子
+//諏訪子
+Suwako
 87_03
-ふっふっふ もっと私たちを敬いなさい。\b
-人間はいつだって神に祈ってるのがお似合いだよ。
+//ふっふっふ もっと私たちを敬いなさい。\b
+Hahaha, praise us more.\b
+//人間はいつだって神に祈ってるのがお似合いだよ。
+Humans always suits praying for gods.

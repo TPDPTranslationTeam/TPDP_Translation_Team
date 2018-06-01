@@ -1,5 +1,8 @@
-諏訪子
+//諏訪子
+Suwako
 87
-お祭りは本来神遊びと言って 神様が人間と遊ぶことなの。\b
+//お祭りは本来神遊びと言って 神様が人間と遊ぶことなの。\b
+Festival is originally was gods' play with humans.\b
 \x03
-さ 死なない程度に遊んであげるから覚悟してね。
+//さ 死なない程度に遊んであげるから覚悟してね。
+Prepare yourself, I'll play you as hard as barely you won't die.

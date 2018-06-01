@@ -1,6 +1,12 @@
-天子
+//天子
+Tenshi
 89_01
-何であれ服ふ者を有する者はその真価を発揮する。\b
+//何であれ服ふ者を有する者はその真価を発揮する。\b
+Those who obey will exert the potential.\b
 \x00
-さぁ 人形遣いの\pよ！
-この私が気質を見極めてあげるわ！
+//さぁ 人形遣いの\pよ！
+Now, Puppeteer \p!
+//この私が気質を見極めてあげるわ！
+I shall identify your spirit!
+
+//The first line might work with shakesperian english
