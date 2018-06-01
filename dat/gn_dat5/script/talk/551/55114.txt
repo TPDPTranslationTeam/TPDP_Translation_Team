@@ -1,5 +1,10 @@
-アリス
+//アリス
+Alice
 031_01
-人形バトルはブレインよ。\b
+//人形バトルはブレインよ。\b
+Puppet battling is all about brains.\b
 \x00
-本家人形使いの戦略 たっぷりと味わいなさい。
+//本家人形使いの戦略 たっぷりと味わいなさい。
+Taste the strategy of the OG puppeteer as you want.
+
+//puppeteer is decapitalized because Alice uses puppets not only Shinki-Puppets

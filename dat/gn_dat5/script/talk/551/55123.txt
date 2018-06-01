@@ -1,4 +1,7 @@
-ルナサ
+//ルナサ
+Lunasa
 051_01
-みんな大はしゃぎね。\b
-浮かれていては 勝てるものも勝てなくなっちゃうわよ。
+//みんな大はしゃぎね。\b
+Everyone's on a spree.\b
+//浮かれていては 勝てるものも勝てなくなっちゃうわよ。
+You can't win a game you could win if you're too excited.

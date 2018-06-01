@@ -1,9 +1,15 @@
-紫
+//紫
+Yukari
 55_03
-流石は\pですわ。
-並の人形遣いでは あなたに敵わなさそうですわね。\b
+//流石は\pですわ。
+That's what I expect from you.
+//並の人形遣いでは あなたに敵わなさそうですわね。\b
+Regular Puppeteers can't even stand a chance.\b
 \x01
-・・・さぁ そろそろ舞闘会も終わりの刻。\b
-何が待ち受け どんな結果になるのか。\b
+//・・・さぁ そろそろ舞闘会も終わりの刻。\b
+... The end of the tournament is near.\b
+//何が待ち受け どんな結果になるのか。\b
+Wonder what awaits in the end?\b
 \x03
-あなたと人形の夢幻の歩み 最後まで見届けさせていただきますわ。
+//あなたと人形の夢幻の歩み 最後まで見届けさせていただきますわ。
+Let me see your path of fantasies until the end. 

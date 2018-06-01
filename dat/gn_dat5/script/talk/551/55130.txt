@@ -1,5 +1,10 @@
-幽々子
+//幽々子
+Yuyuko
 053
-約束通り 今度花見しましょうね。\b
+//約束通り 今度花見しましょうね。\b
+Let's have a flower viewing sometimes with me.\b
 \x03
-ふふ 『勝ったら花見に付き合って』としか言ってないわよ～？
+//ふふ 『勝ったら花見に付き合って』としか言ってないわよ～？
+I just said "Can I have a flower viewing if win?"
+
+//Please make who is winning in pre-battle line vague

@@ -1,5 +1,8 @@
-メルラン
+//メルラン
+Merlin
 050_03
-あなたが次のお客さんね！\b
+//あなたが次のお客さんね！\b
+You're my next audience!\b
 \x00
-さー私の演奏を聴いてハッピーになりましょ！
+//さー私の演奏を聴いてハッピーになりましょ！
+Let's be happy with my performance!

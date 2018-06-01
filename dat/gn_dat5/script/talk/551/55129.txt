@@ -1,4 +1,9 @@
-幽々子
+//幽々子
+Yuyuko
 053_03
-このバトルに勝ったら また花見に付き合って貰おうかしら。\b
-一度 あなたと飲んでみたかったのよ～。
+//このバトルに勝ったら また花見に付き合って貰おうかしら。\b
+Can I have a flower viewing if win?\b
+//一度 あなたと飲んでみたかったのよ～。
+I was thinking about drinking with you.
+
+//please make who wins vague, it's important for player victory line

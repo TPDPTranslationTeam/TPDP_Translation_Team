@@ -1,3 +1,5 @@
-リリカ
+//リリカ
+Lyrica
 049_03
-ここは色々な音が聞けて楽しいわー。
+//ここは色々な音が聞けて楽しいわー。
+This is fun I can hear colorful sounds.

@@ -1,3 +1,5 @@
-レティ
+//レティ
+Letty
 46_02
-あぁ やっぱりくろまくは負ける運命なのね。
+//あぁ やっぱりくろまくは負ける運命なのね。
+Ah, of course the "mastermind" is fated to lose...

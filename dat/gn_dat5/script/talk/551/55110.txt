@@ -1,4 +1,7 @@
-レティ
+//レティ
+Letty
 46_03
-ふわぁ眠い。\b
-雪の日に開催してくれたら良いのに。
+//ふわぁ眠い。\b
+Fwaa... I'm sleepy.\b
+//雪の日に開催してくれたら良いのに。
+Why didn't they hold this tournament in a snowy day?

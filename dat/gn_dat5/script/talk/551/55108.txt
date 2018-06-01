@@ -1,5 +1,8 @@
-レティ
+//レティ
+Letty
 46_02
-こんな熱気じゃあ 落ち着いて寝れやしない。\b
+//こんな熱気じゃあ 落ち着いて寝れやしない。\b
+It's so hot, I can't even relax and sleep.\b
 \x01
-誰もが凍てつくクールな人形バトル 見せてあげるわっ！
+//誰もが凍てつくクールな人形バトル 見せてあげるわっ！
+I'll show you a battle that is so cool that could freeze everyone!

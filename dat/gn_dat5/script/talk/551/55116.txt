@@ -1,3 +1,5 @@
-アリス
+//アリス
+Alice
 031_03
-人形バトルはパワーじゃないわ。そこらへん勘違いしないように。
+//人形バトルはパワーじゃないわ。そこらへん勘違いしないように。
+Puppet battling is not all about power. Don't mistake that.

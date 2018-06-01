@@ -1,4 +1,7 @@
-リリカ
+//リリカ
+Lyrica
 049
-あなたの奏でる音 素敵ね！
-負けた時の音も是非聞きたいわ！
+//あなたの奏でる音 素敵ね！
+You sounds pretty nice!
+//負けた時の音も是非聞きたいわ！
+Let me listen to the sound when you lose!

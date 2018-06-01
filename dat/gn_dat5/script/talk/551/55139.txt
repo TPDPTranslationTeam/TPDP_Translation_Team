@@ -1,4 +1,7 @@
-萃香
+//萃香
+Suika
 068_03
-人も鬼も妖も萃まり 種を気にせず己の力を誇示する大宴会。\b
-これほど楽しい事は無いねぇ。
+//人も鬼も妖も萃まり 種を気にせず己の力を誇示する大宴会。\b
+In this big party, humans, oni, youkai, gathering and boasting themselves without any border.\b
+//これほど楽しい事は無いねぇ。
+There can't be anything more fun than this.

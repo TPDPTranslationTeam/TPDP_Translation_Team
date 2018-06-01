@@ -1,5 +1,8 @@
-リリカ
+//リリカ
+Lyrica
 049_02
-私が負けた音なんて もう聞き飽きたんだけどなー。\b
+//私が負けた音なんて もう聞き飽きたんだけどなー。\b
+I'm tired of hearing sound of myself losing.\b
 \x01
-腹いせに今すぐここでライブでもしてやろうかしら。
+//腹いせに今すぐここでライブでもしてやろうかしら。
+I think do some guerilla live performance right here, right now, out of spite.

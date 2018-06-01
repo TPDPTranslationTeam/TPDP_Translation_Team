@@ -1,4 +1,7 @@
-ルナサ
+//ルナサ
+Lunasa
 051
-そんな雑音だらけじゃ負けるに決まっているわ。\b
-もう少し落ち着きなさい。
+//そんな雑音だらけじゃ負けるに決まっているわ。\b
+You have too much noises in your heart to win.\b
+//もう少し落ち着きなさい。
+Calm down just a bit more.

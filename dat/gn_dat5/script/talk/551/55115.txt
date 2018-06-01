@@ -1,4 +1,7 @@
-アリス
+//アリス
+Alice
 031_02
-こっちの人形の使い方は \pの方が一枚上手みたいね・・・。\b
-七色の人形使いの面目丸つぶれだわ。
+//こっちの人形の使い方は \pの方が一枚上手みたいね・・・。\b
+You are one step better than me at this Puppet...\b
+//七色の人形使いの面目丸つぶれだわ。
+Such a disgrace for the "Seven-Colored Puppeteer."
