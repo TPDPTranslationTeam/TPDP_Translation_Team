@@ -1,7 +1,12 @@
-霊夢
+//霊夢
+Reimu
 1_08
-・・・勝てない か。
-はぁ 本当に強いわね \pは。\b
+//・・・勝てない か。
+... I still can't win.
+//はぁ 本当に強いわね \pは。\b
+Ah, you're really tough, \p.\b
 \x03
-まぁ さっきも言ったとおり負けっぱなしなんて癪だし また遊びましょう。
-たまには神社にお茶でも飲みに来なさい。
+//まぁ さっきも言ったとおり負けっぱなしなんて癪だし また遊びましょう。
+As I said before, I don't like keep losing. Let's play again sometimes.
+//たまには神社にお茶でも飲みに来なさい。
+Come to the shrine sometimes and have some tea.

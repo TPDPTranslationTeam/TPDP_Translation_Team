@@ -1,9 +1,15 @@
-魔理沙
+//魔理沙
+Marisa
 2
-おー\p！次の相手はお前みたいだな！\b
+//おー\p！次の相手はお前みたいだな！\b
+Hey, \p! Looks like you're next!\b
 \x07
-散々\pにはやられてきたからなー。
-そろそろ勝たなきゃと思ってたんだ。\b
+//散々\pにはやられてきたからなー。
+I had a lot of hard time with you for long.
+//そろそろ勝たなきゃと思ってたんだ。\b
+I thought soon I should win.\b
 \x08
-見せてやるよ 私の最大火力を！
-逃げるのはナシだぜっ！
+//見せてやるよ 私の最大火力を！
+I'll show you my full firepower!
+//逃げるのはナシだぜっ！
+No escape!

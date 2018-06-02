@@ -1,9 +1,15 @@
-魔理沙
+//魔理沙
+Marisa
 2_03
-は・・・ははっ！やっと\pに勝てたんだぜー！\b
+//は・・・ははっ！やっと\pに勝てたんだぜー！\b
+Hah... Hahah! I finall won to \p!\b
 \x07
-いやー惜しかったな。
-私はここぞという時は強いんだ。
-また遊ぼうな！\b
+//いやー惜しかったな。
+That was close.
+//私はここぞという時は強いんだ。
+I'm good at pulling off my best when it's needed.
+//また遊ぼうな！\b
+Let's play again sometimes!\b
 \x03
-私はいつでもリベンジ受付中だぜ。
+//私はいつでもリベンジ受付中だぜ。
+I'm always ready for rematch.

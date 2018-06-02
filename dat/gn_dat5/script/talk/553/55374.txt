@@ -1,8 +1,14 @@
-魔理沙
+//魔理沙
+Marisa
 2_05
-むー なんで勝てないんだ・・・？\b
+//むー なんで勝てないんだ・・・？\b
+Mmm... Why couldn't I win...?\b
 \x03
-まぁ負けは負けだな。
-まだまだ続くから頑張ってな。\b
+//まぁ負けは負けだな。
+Well, loss is a loss.
+//まだまだ続くから頑張ってな。\b
+You still have more to go. Do your best.\b
+\b
 \x02
-・・・やっぱり悔しいぜ。
+//・・・やっぱり悔しいぜ。
+... Still frustrating.
