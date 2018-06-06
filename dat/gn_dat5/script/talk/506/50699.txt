@@ -1,8 +1,8 @@
 
 
 The exit is north from here.
-Be careful to not get lost if you go south!\b
-That helped? Nice!
+Be careful not to get lost if you go south!\b
+That help? Good!
 
 //出口は北の方よ。
 //南の方行くとより迷うから気を付けてね！\b

@@ -1,7 +1,7 @@
 
 
-I'm cleaning together with my puppets!\b
-Won't you clean with your puppets too?
+I'm cleaning together with my Puppets!\b
+Won't you clean with your Puppets too?
 //i think this is how it should be interpreted?
 
 //‚¨lŒ`‚Æˆê‚É‚¨‘|œ‚µ‚Ä‚é‚Ì‚æI\b

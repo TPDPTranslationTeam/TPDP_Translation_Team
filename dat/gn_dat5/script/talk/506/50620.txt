@@ -1,7 +1,7 @@
 
 
 Oh, are you a guest?\b
-We show our guests hospitality with puppet battles.
+We show our guests hospitality with Puppet battles.
 
 //あらお客様ですか？\b
 //人形バトルにておもてなし致します。
