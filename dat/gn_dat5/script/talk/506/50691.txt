@@ -1,6 +1,6 @@
 
 
-Hey, don't do it to the sunflower on my hat!\b
+Hey, don't twist and crush the sunflower on my hat!\b
 ...look, I'm not impressed.
 //If I picked the definition of "subdue" this wouldn't work
 
