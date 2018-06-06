@@ -1,5 +1,11 @@
-パルスィ
+//パルスィ
+Parsee
 92
-あぁ 妬ましい。あなたに怨みなんかないわ。\b
+//あぁ 妬ましい。あなたに怨みなんかないわ。\b
 \x03
-だから あなたを倒す理由なんて嫉妬だけで十分なの。
+//だから あなたを倒す理由なんて嫉妬だけで十分なの。
+Ah, how jealous.\b
+\x03
+I don't have any grudge to you. I only need a jealousy to beat you.
+
+//Remember: Japanese doesn't differentiate jealousy and envy

@@ -1,5 +1,8 @@
-パルスィ
+//パルスィ
+Parsee
 92_01
-嫉妬だって生きていく上で必要な感情の一つ。\b
+//嫉妬だって生きていく上で必要な感情の一つ。\b
+Even envy or jealousy are crucial for your life.\b
 \x00
-忌み嫌われる感情だけど 忘れては駄目よ。
+//忌み嫌われる感情だけど 忘れては駄目よ。
+They might be hated, but don't forget.

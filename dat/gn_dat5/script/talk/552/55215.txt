@@ -1,4 +1,7 @@
-キスメ
+//キスメ
+Kisume
 90_03
-一緒に桶の中はいるー？
-ジメジメして気持ちいいんだよー？
+//一緒に桶の中はいるー？
+Do you want to get into the bucket together?
+//ジメジメして気持ちいいんだよー？
+It's moist and nice.

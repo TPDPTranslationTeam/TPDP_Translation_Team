@@ -1,5 +1,8 @@
-キスメ
+//キスメ
+kisume
 90
-もっと暗い所なら あなたの首も持って帰れたのに・・・。\b
+//もっと暗い所なら あなたの首も持って帰れたのに・・・。\b
+If we were in a dark place, I could take your head...\b
 \x03
-欲しかったなー。
+//欲しかったなー。
+I wanted to.
