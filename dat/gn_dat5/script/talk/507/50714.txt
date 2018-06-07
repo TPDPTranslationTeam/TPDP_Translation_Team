@@ -3,6 +3,6 @@
 //道に迷ってしまってのう・・・\b
 I'm lost...\b
 //対戦ついでに道を教えてもらえんかのう？
-Can you tell me the way out while battling you?
+Can you tell me the way out while we're battling?
 
 //old man
