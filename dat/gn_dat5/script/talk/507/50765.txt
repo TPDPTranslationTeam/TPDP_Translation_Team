@@ -1,6 +1,6 @@
 
 
 //危険はいつもとなり合わせよ？\b
-Danger is always there.\b
+Isn't it still dangerous?\b
 //進むなら気を付けて進みなさい。
 Proceed with caution.
