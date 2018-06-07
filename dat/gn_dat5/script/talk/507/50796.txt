@@ -1,4 +1,4 @@
 
 
 //えっと・・・『まにゅある』によると人形遣いを見つけたら襲い掛かる・・・。
-According to "the manual", "whenever you found a Puppeteer, you attack them... "
+According to the manual, "Whenever you find a Puppeteer, you must attack them..."
