@@ -1,6 +1,6 @@
 
 
 //‚Ë‚¥‚Ë‚¥‚µ‚Á‚Ä‚éH‹³‚¦‚Ä‚ ‚°‚æ‚Á‚©I
-Did you know? Let me tell you something!
+Did you know this? Let me tell you something!
 
 //this text doesn't work directly in English
