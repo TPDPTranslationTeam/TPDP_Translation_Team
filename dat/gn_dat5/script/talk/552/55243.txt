@@ -1,4 +1,7 @@
-一輪
+//一輪
+Ichirin
 100
-へいへーい！この私が次の相手だー！\b
-最強の称号は この私にこそ相応しいのよ！
+//へいへーい！この私が次の相手だー！\b
+Hey, hey! I'm your next challenger!\b
+//最強の称号は この私にこそ相応しいのよ！
+The title of the strongest fits me the best!

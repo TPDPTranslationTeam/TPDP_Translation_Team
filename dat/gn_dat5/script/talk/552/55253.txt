@@ -1,5 +1,8 @@
-白蓮
+//白蓮
+Byakuren
 103
-\pさんの答え しかと拝見させて頂きました。\b
+//\pさんの答え しかと拝見させて頂きました。\b
+I've certainly seen your answer, \p.\b
 \x03
-またお会いしましょう。話したいこともたくさんありますしね。
+//またお会いしましょう。話したいこともたくさんありますしね。
+See you again. I have many things to talk with you.

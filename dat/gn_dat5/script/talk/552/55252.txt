@@ -1,9 +1,15 @@
-白蓮
+//白蓮
+Byakuren
 103
-お久しぶりです。
-旅を進める上で 考えはまとまりましたか？\b
+//お久しぶりです。
+Long time no see.
+//旅を進める上で 考えはまとまりましたか？\b
+Did you sum up your opinion about your adventure?\b
 \x03
-・・・ふふっ それは人形で語ろうって顔ですね。\b
+//・・・ふふっ それは人形で語ろうって顔ですね。\b
+...Seems like you will show it with your Puppets.\b
 \x01
-相も変わらず人は美しい。誠に聡明で 日進月歩である！\b
-いざ 南無三っ！
+//相も変わらず人は美しい。誠に聡明で 日進月歩である！\b
+Humans are beautiful, as usual. How knowledgeable and progressive you are!
+//いざ 南無三っ！
+Now, in the name of the Three Treasures!

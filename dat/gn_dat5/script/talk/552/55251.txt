@@ -1,4 +1,7 @@
-星
+//星
+Shou
 102_04
-あぁっ 勝負に夢中でいつのまにか宝塔が・・・！\b
-これでは勝っても意味がないじゃないですか・・・。
+//あぁっ 勝負に夢中でいつのまにか宝塔が・・・！\b
+Oh no, I lost my pagoda while exciting at the battle...!\b
+//これでは勝っても意味がないじゃないですか・・・。
+There's no point to win...

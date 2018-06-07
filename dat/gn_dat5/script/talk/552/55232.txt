@@ -1,6 +1,10 @@
-空
+//空
+Utsuho
 96_02
-あれー？出力足りなかったのかなぁ。\b
+//あれー？出力足りなかったのかなぁ。\b
+Oh? Was my energy output enough?\b
 \x03
-うーん まぁいっか。
-じゃーねー 覚えてないあなた！
+//うーん まぁいっか。
+Well, whatever.
+//じゃーねー 覚えてないあなた！
+Bye, the person I don't remember!

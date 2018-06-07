@@ -1,5 +1,10 @@
-ナズーリン
+//ナズーリン
+Nazrin
 98
-ネズミだと思って甘く見ない事だね。\b
+//ネズミだと思って甘く見ない事だね。\b
+Don't take me lightly from myself being a mouse.\b
 \x01
-窮鼠猫噛むではない 窮鼠は猫をも倒すことが出来るのさ！
+//窮鼠猫噛むではない 窮鼠は猫をも倒すことが出来るのさ！
+"A cornered mouse or rat bites a cat", as they say, but not only that, they even defeat the cat!
+
+//窮鼠猫を噛む: Japanese idiom

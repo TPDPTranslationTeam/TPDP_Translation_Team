@@ -1,5 +1,8 @@
-はたて
+//はたて
+Hatate
 105
-せっかくここまで来たんだから写真だけでも撮ってあげようか？\b
+//せっかくここまで来たんだから写真だけでも撮ってあげようか？\b
+Since you've came this far, mind you like to take a picture?\b
 \x03
-敗北記念写真。
+//敗北記念写真。
+A picture comemorating your loss.

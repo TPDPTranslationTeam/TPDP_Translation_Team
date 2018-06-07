@@ -1,6 +1,10 @@
-燐
+//燐
+Rin
 95
-いやーイキが良いのがいっぱいだねぇ大量大量！\b
-え 何を運んでるのかって？\b
+//いやーイキが良いのがいっぱいだねぇ大量大量！\b
+Hey, there's so many fresh things around here!\b
+//え 何を運んでるのかって？\b
+Huh? What am I carrying?
 \x03
-・・・知りたい？
+//・・・知りたい？
+...Do you wanna know it?

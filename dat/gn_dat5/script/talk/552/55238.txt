@@ -1,4 +1,7 @@
-ナズーリン
+//ナズーリン
+Nazrin
 98_02
-・・・っふ まぁまぁ楽しい戦いだったよ。
-またお手合わせできると良いね。
+//・・・っふ まぁまぁ楽しい戦いだったよ。
+...Huh, that was an enjoyable match.
+//またお手合わせできると良いね。
+I hope I can have a match again with you.

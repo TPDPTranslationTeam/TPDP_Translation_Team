@@ -1,5 +1,8 @@
-一輪
+//一輪
+Ichirin
 100_01
-こいつぁちょっと本気を出し過ぎたようね！\b
+//こいつぁちょっと本気を出し過ぎたようね！\b
+Seems like I've done too much!\b
 \x03
-やはり仏教が最強！
+//やはり仏教が最強！
+Buddhism is the best, as you know!

@@ -1,4 +1,7 @@
-白蓮
+//白蓮
+Byakuren
 103_02
-悩みがあるのなら私の寺に来て下さい。\b
-一人で考えてはなりませんよ。
+//悩みがあるのなら私の寺に来て下さい。\b
+If you're troubled, come to my temple.\b
+//一人で考えてはなりませんよ。
+Don't think alone.
