@@ -1,6 +1,6 @@
 
 
 //参加したのはいいけどやること無いの・・・\b
-Even though I joined the Liberation Front, I have nothing to do.\b
+Even though I joined the Liberation Front, I have nothing to do...\b
 //違う遊びしようかしら。
 I think I should go play something else.
