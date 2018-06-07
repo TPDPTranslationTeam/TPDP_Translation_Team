@@ -1,4 +1,4 @@
 
 
-危険はいつもとなり合わせよ？\b
-進むなら気を付けて進みなさい。
+Isn't it still dangerous?\b
+Proceed with caution.
