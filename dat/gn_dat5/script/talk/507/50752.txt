@@ -1,6 +1,6 @@
 
 
 //人形って可愛いわよね！\b
-Puppets are cute, isn't it?\b
+Puppets are cute, aren't they?!\b
 //ねぇ あなたの人形 見せてみて！
-Let me show your Puppets!
+Let me see your Puppets!
