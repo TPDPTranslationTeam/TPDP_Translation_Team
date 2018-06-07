@@ -2,6 +2,7 @@
 
 //『人間の人形遣い 山で暴れまわる！』\b
 //次のタイトルはこれかな。
-The next article is... "Human Puppeteer, Causing Mayhem on the Mountain!"\b
+"Human Puppeteer is Causing Mayhem on the Mountain!"\b
+That's going to be the title of my next article!
 
 //Make the title more newspaper-like
