@@ -1,4 +1,7 @@
-こころ
+//こころ
+Kokoro
 115_02
-あー我々の最強の称号が取られたー。\b
-・・・なるほど これが悔しいの表情！
+//あー我々の最強の称号が取られたー。\b
+Oh no, our the title of the strongest is gone.\b
+//・・・なるほど これが悔しいの表情！
+...I see, this is the expression of sadness!

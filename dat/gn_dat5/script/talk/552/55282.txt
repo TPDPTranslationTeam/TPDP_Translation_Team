@@ -1,5 +1,8 @@
-こころ
+//こころ
+Kokoro
 115_00
-やぁやぁやぁ！我は秦こころであるぞ！\b
+//やぁやぁやぁ！我は秦こころであるぞ！\b
 \x01
-さぁ いざ尋常に最強の称号を賭けて戦え！
+//さぁ いざ尋常に最強の称号を賭けて戦え！
+Greetings!\b
+'Tis I, Hata no Kokoro, I demand a duel forthwith for your the title of the strongest!
