@@ -1,6 +1,6 @@
 
 
 //も もう一戦！\b
-One more, one more!\b
+One more; one more!\b
 //う 嘘だよ行っていいよ・・・。
 Um, just kidding, you can go now...
