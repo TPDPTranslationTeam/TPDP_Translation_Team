@@ -1,5 +1,10 @@
 
 
-\pたちは元気になった・・・？\b
-\cイヒヒ・・・
-ごちそうさまです・・・
+\pThey became healthy..?\b
+\cEhehe...
+Thanks for drinking it...
+//implied to be the drink from 51133 instead of a meal
+
+//\pたちは元気になった・・・？\b
+//\cイヒヒ・・・
+//ごちそうさまです・・・

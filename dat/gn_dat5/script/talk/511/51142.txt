@@ -1,6 +1,13 @@
-雷鼓
+Raiko
 123
-音に連れられて来てみれば 楽しそうなことしてるじゃない。
-ちょっと私も混ぜなさい。\b
+I came here because of the music, but I'm not having fun.
+I'll add some music of my own.\b
 \x01
-さぁ今こそ闘いのビートを刻むのだ！
+Now, let's battle to the beat!
+
+//雷鼓
+//123
+//音に連れられて来てみれば 楽しそうなことしてるじゃない。
+//ちょっと私も混ぜなさい。\b
+//\x01
+//さぁ今こそ闘いのビートを刻むのだ！

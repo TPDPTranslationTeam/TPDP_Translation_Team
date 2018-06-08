@@ -1,3 +1,6 @@
 
 
-今は会場の準備してるから先に行っちゃだめだぜ。
+I'm preparing this venue, so you can't pass.
+//If this line pops up while you are in the exhibition, replace "you can't pass." with "stay here," and "this" with "the."
+
+//今は会場の準備してるから先に行っちゃだめだぜ。

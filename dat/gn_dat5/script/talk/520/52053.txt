@@ -1,6 +1,13 @@
-藍
+Ran
 54_02
-残念だったな・・・。\b
+What a shame...\b
 \x00
-\c君の記録は \t勝だ。\b
-これに懲りずに また挑戦してくれよ。
+\cYour record number of wins is \t.
+Don't let this discourage you, please try again.
+
+//藍
+//54_02
+//残念だったな・・・。\b
+//\x00
+//\c君の記録は \t勝だ。\b
+//これに懲りずに また挑戦してくれよ。

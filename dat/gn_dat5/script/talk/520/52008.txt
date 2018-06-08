@@ -1,4 +1,9 @@
-藍
+Ran
 54_02
-持っている人形が 参加要項を満たしていないじゃないか。\b
-\c参加要項なら 隣の橙に聞いてくれよ。
+Your Puppets don't adhere to the rules.\b
+\cIf you don't know them, please listen to Chen.
+
+//藍
+//54_02
+//持っている人形が 参加要項を満たしていないじゃないか。\b
+//\c参加要項なら 隣の橙に聞いてくれよ。

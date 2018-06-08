@@ -1,4 +1,9 @@
-橙
+Chen
 47_00
-もう知ってた？\b
-参加するなら藍様に 話しかけるのよ。
+You already knew?\b
+If you want to participate, talk to Ran.
+
+//橙
+//47_00
+//もう知ってた？\b
+//参加するなら藍様に 話しかけるのよ。

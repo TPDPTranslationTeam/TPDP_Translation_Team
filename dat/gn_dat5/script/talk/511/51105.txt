@@ -1,5 +1,11 @@
-影狼
+Kagerou
 118
-満月の夜に再戦？\b
+Rematch on the night of a full moon?\b
 \x01
-嫌よ その日はあまり外に出たくないの！
+I hate that idea, I don't want to go outside then!
+
+//影狼
+//118
+//満月の夜に再戦？\b
+//\x01
+//嫌よ その日はあまり外に出たくないの！

@@ -1,4 +1,10 @@
-キスメ
+Kisume
 90
-桶の中は狭くて気持ちいいよねー。
-ジメジメ気持ちいいわ。
+The inside of this bucket is cramped, but comfortable.
+Humid too, but it feels good.
+//ジメジメ = sound effect for humidity.
+
+//キスメ
+//90
+//桶の中は狭くて気持ちいいよねー。
+//ジメジメ気持ちいいわ。

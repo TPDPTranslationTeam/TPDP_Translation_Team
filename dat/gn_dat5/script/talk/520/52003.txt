@@ -1,4 +1,9 @@
-藍
+Ran
 54_00
-なんだ 参加しないのか。\b
-参加要項なら 隣の橙に聞いてくれよ。
+What, do you not want to participate?\b
+If you do, listen to Chen, she's right next to me.
+
+//藍
+//54_00
+//なんだ 参加しないのか。\b
+//参加要項なら 隣の橙に聞いてくれよ。

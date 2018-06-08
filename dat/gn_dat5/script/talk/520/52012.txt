@@ -1,4 +1,9 @@
-藍
+Ran
 54_00
-何だやらないのか。\b
-続きをやりたければ 声をかけてくれよ。
+What, do you not want to keep going?\b
+If you'd like to continue, talk to me.
+
+//藍
+//54_00
+//何だやらないのか。\b
+//続きをやりたければ 声をかけてくれよ。

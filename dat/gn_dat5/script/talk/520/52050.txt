@@ -1,4 +1,7 @@
 
 
-対戦は すぐに始まります。\b
-がんばってくださいね！
+Your match will start soon.\b
+Please do your best!
+
+//対戦は すぐに始まります。\b
+//がんばってくださいね！

@@ -1,6 +1,13 @@
 
 
-おやおや 人間さん・・・
-お疲れのようですね・・・？\b
-\cどうです？ この 魂が抜けるほど元気が出る
-特性ドリンクを 飲んでいきませんか・・・？
+Oh, human...
+You're tired, aren't you?\b
+\cHow is it here? When people's souls leave their body they feel much better.
+Do you want to drink this special drink?
+
+//i'm unsure about the 2nd sentence in the 3rd line, but this is all i could come up with...
+
+//おやおや 人間さん・・・
+//お疲れのようですね・・・？\b
+//\cどうです？ この 魂が抜けるほど元気が出る
+//特性ドリンクを 飲んでいきませんか・・・？

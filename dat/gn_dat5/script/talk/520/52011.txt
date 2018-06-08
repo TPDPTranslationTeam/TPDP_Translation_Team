@@ -1,5 +1,11 @@
-藍
+Ran
 54_00
-いらっしゃい。\b
+Welcome.\b
 \x03
-\pは 今\t連勝中だが 続きをやるのかい？
+You have a winning streak of \t, would you like to continue?
+
+//藍
+//54_00
+//いらっしゃい。\b
+//\x03
+//\pは 今\t連勝中だが 続きをやるのかい？

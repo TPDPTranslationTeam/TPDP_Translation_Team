@@ -1,5 +1,9 @@
 
 
-おめでとうございます。\b
-\c見事 \t連勝を達成されたので
-賞品をお渡しします！
+Congratulations.\b
+\cA winning streak of \t is great indeed.
+Here's your prize!
+
+//おめでとうございます。\b
+//\c見事 \t連勝を達成されたので
+//賞品をお渡しします！

@@ -1,5 +1,11 @@
-こころ
+Kokoro
 115
-我の名は秦こころ。全ての感情を司る者。\b
+My name is Kokoro. I can control all emotions.\b
 \x01
-いざ 尋常に勝負っ！！
+Meaning I always win!!
+
+//こころ
+//115
+//我の名は秦こころ。全ての感情を司る者。\b
+//\x01
+//いざ 尋常に勝負っ！！

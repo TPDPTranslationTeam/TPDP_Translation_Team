@@ -1,5 +1,11 @@
-藍
+Ran
 54_00
-よし 登録だな。\b
-\c対戦はもうすぐだ。
-係の者に案内させよう。
+Alright, you're registered.\b
+\cYour match will begin soon.
+Let me show you to the waiting area.
+
+//藍
+//54_00
+//よし 登録だな。\b
+//\c対戦はもうすぐだ。
+//係の者に案内させよう。

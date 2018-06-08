@@ -1,12 +1,25 @@
-橙
+Chen
 47_00
-人形舞闘会っていうのは
-人形遣いとしての腕を試す 勝ち抜き式の大会よ。\b
-\c同じ人形の同じスタイルは使用禁止で
-装飾品の重複も禁止。\b
-大会中は道具も使っちゃダメだよ。\b
-\c大会中は レベル50以上の人形は 50になるけど
-それ以下の人形は そのままだから注意してね。\b
+In the Puppet Exhibition, you will test your skills as a puppeteer!
+Try to win as many battles as you can.\b
+\cYou can't use more than one of the same Puppet if the styles are the same.
+Same thing with held items, so more than one of the same item isn't allowed.\b
+You can't use items yourself during the tournament, either.\b
+\cPuppets will have their levels decreased to 50 if greater than that.
+Lower-leveled puppets will keep their levels, though.\b
 \x03
-\c大会で 優秀な成績の人形遣いには
-景品も用意してるから 奮って参加してね！
+\cIf you do really well, I'll give out gifts!
+We're preparing them as we speak, so please join soon!
+
+//橙
+//47_00
+//人形舞闘会っていうのは
+//人形遣いとしての腕を試す 勝ち抜き式の大会よ。\b
+//\c同じ人形の同じスタイルは使用禁止で
+//装飾品の重複も禁止。\b
+//大会中は道具も使っちゃダメだよ。\b
+//\c大会中は レベル50以上の人形は 50になるけど
+//それ以下の人形は そのままだから注意してね。\b
+//\x03
+//\c大会で 優秀な成績の人形遣いには
+//景品も用意してるから 奮って参加してね！

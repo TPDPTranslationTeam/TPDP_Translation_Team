@@ -1,4 +1,9 @@
-ヤマメ
+Yamame
 91
-地底に観光かい？
-じゃあ私と一戦交えようじゃないか。
+Are you a sightseer from the surface?
+Well, why not battle me, then?
+
+//ヤマメ
+//91
+//地底に観光かい？
+//じゃあ私と一戦交えようじゃないか。

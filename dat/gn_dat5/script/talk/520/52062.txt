@@ -1,3 +1,5 @@
 
 
-‹xŒe‚¹‚¸‚É ‚±‚Ì‚Ü‚Ü‘Îí‚ğ‘±‚¯‚Ü‚·‚©H
+Would you like to continue, or would you like to take a break?
+
+//‹xŒe‚¹‚¸‚É ‚±‚Ì‚Ü‚Ü‘Îí‚ğ‘±‚¯‚Ü‚·‚©H

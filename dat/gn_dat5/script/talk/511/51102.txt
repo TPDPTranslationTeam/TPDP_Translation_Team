@@ -1,4 +1,9 @@
-朱鷺子
+Tokiko
 59_01
-本を取り返す方法を探してるのに 人間が見つかるなんてついてないわね。\b
-ちゃっちゃと終わらせなきゃっ！
+I'm trying to find a way to locate a book, not a human.\b
+I have to act quickly!
+
+//朱鷺子
+//59_01
+//本を取り返す方法を探してるのに 人間が見つかるなんてついてないわね。\b
+//ちゃっちゃと終わらせなきゃっ！

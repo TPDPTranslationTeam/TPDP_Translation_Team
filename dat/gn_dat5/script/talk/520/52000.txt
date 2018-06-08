@@ -1,26 +1,54 @@
-藍
+Ran
 54
-おっ 舞闘会に参加・・・\b
+Ah, so you would like to..\b
 \x01
-するのかい？\b
-\oマガン
+participate in the tournament?\b
+\oMagan
 \s4_3
-・・・！\b
+...!\b
 \o藍
 \j54_01
-そ そうか！\b
-なら ここに記入を・・・\b
+R-Really!\b
+If you just sign your name here...\b
 \x02
-無理だよな。\b
+That's impossible, isn't it?\b
 \oマガン
 \s4_2
-・・・。\b
-\o藍
+...\b
+\oRan
 \j54_02
-あぁ！気を落とさないでくれ！\b
+Ahh! Don't be discouraged!\b
 \x00
-もちろん こちらで登録しておこう。\b
-心配しないでくれ！\b
-\oマガン
+I'll just register you myself.\b
+Don't worry!\b
+\oMagan
 \s4_3
-・・・！
+...!
+
+
+//藍
+//54
+//おっ 舞闘会に参加・・・\b
+//\x01
+//するのかい？\b
+//\oマガン
+//\s4_3
+//・・・！\b
+//\o藍
+//\j54_01
+//そ そうか！\b
+//なら ここに記入を・・・\b
+//\x02
+//無理だよな。\b
+//\oマガン
+//\s4_2
+//・・・。\b
+//\o藍
+//\j54_02
+//あぁ！気を落とさないでくれ！\b
+//\x00
+//もちろん こちらで登録しておこう。\b
+//心配しないでくれ！\b
+//\oマガン
+//\s4_3
+//・・・！

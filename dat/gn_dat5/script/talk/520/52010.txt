@@ -1,3 +1,7 @@
-藍
+Ran
 54_01
-おっと 舞闘会に参加するなら 受付を済ませておくれよ。
+Well, if you want to participate, please talk to the receptionist.
+
+//藍
+//54_01
+//おっと 舞闘会に参加するなら 受付を済ませておくれよ。
