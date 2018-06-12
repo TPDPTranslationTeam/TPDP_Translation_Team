@@ -5,6 +5,8 @@ I'm the receptionist for the Puppet Exhibition!\b
 \x00
 \cDid you come to ask about the rules?
 
+//"Exhibition"? We need to decide the name of this
+
 //ûÚ
 //47_03
 //Ç¢ÇÁÇ¡ÇµÇ·Ç¢ÅI\b

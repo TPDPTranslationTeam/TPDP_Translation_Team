@@ -1,8 +1,10 @@
 Ran
 54_00
 Welcome.\b
-\cThe entry fee for participating in the Exhibition is 500 yen.
-You'll have to sign your name here as well. Would you like to join?
+\cThe entry fee for participating in the Tournament is 500 yen.
+You'll have to save the record as well. Would you like to join?
+
+//"‹L˜^‚ğ‘‚­" = save
 
 //—•
 //54_00

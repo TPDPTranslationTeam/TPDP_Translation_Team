@@ -1,6 +1,6 @@
 Yoshika
 108
-I'm a zombie! Zombies come from graves!
+I'm a zombie! Zombies are always found with graves!
 
 //–F
 //108

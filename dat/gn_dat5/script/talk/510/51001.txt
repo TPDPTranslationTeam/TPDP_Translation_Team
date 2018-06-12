@@ -1,4 +1,6 @@
 
 
-たくさんの人形がいてパーティを考えるのも楽しいよね！
-Having a party with a lot of Puppets is fun!
+//たくさんの人形がいてパーティを考えるのも楽しいよね！
+There's many kinds of Puppets, it's fun to think your team!
+
+//"パーティ" for this context is about team

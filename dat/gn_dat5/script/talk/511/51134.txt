@@ -1,6 +1,6 @@
 
 
-\pThey became healthy..?\b
+\p and \p's Puppets became healthy..?\b
 \cEhehe...
 Thanks for drinking it...
 //implied to be the drink from 51133 instead of a meal

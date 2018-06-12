@@ -2,10 +2,12 @@
 
 Oh, human...
 You're tired, aren't you?\b
-\cHow is it here? When people's souls leave their body they feel much better.
-Do you want to drink this special drink?
+\cDo you want to drink this special drink?
+It's so uplifting that souls leave their body.
 
 //i'm unsure about the 2nd sentence in the 3rd line, but this is all i could come up with...
+
+//Combine line 3 and 4
 
 //おやおや 人間さん・・・
 //お疲れのようですね・・・？\b
