@@ -1,5 +1,8 @@
-神子
+//神子
+Miko
 112
-ふっふっふ 恥じることはありません。\b
+//ふっふっふ 恥じることはありません。\b
+Fufufu, don't be hesitated.\b
 \x05
-元より勝てるはずも無いのですからね。
+//元より勝てるはずも無いのですからね。
+You can't win against me in the first place.

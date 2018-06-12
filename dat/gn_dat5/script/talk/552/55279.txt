@@ -1,5 +1,11 @@
-マミゾウ
+//マミゾウ
+Mamizou
 113
-おや何時ぞやの人間ではないか。あの時は化かして悪かったのう。\b
+//おや何時ぞやの人間ではないか。あの時は化かして悪かったのう。\b
+Oh, you're the human from before. That was my bad to bewitch you.\b
 \x03
-詫びとして本気で戦ってやろう。
+//詫びとして本気で戦ってやろう。
+Let me battle you all out as my apology.
+
+//Mamizou: a bit of archaic English
+//It was hard to find a good word for "化かす"

@@ -1,6 +1,12 @@
-布都
+//布都
+Futo
 111_02
-な なんと・・・これ程までに腕をあげておったとは。\b
+//な なんと・・・これ程までに腕をあげておったとは。\b
+Oh my... I didn't expect you to be this stronger than before.\b
 \x05
-うむ 此度のお主の冒険は これ以上に無いぐらい経験となったようだな。\b
-そのまま精進するがいいっ！
+//うむ 此度のお主の冒険は これ以上に無いぐらい経験となったようだな。\b
+Well, your adventure was a good expereience, uncomparable to anything.\b
+//そのまま精進するがいいっ！
+Keep up your work!
+
+//Required: Shakespearean English

@@ -1,5 +1,8 @@
-青娥
+//青娥
+Seiga
 109
-あらあら また会いましたね。\b
+//あらあら また会いましたね。\b
+Oh, we meet again.\b
 \x01
-前から思っていたのですが あなた強いし 負けたら私の下僕になりませんこと？
+//前から思っていたのですが あなた強いし 負けたら私の下僕になりませんこと？
+You look strong, do you want to be my servant if you lose? I was thinking that from before.

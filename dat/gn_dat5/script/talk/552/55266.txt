@@ -1,6 +1,10 @@
-芳香
+//芳香
+Yoshika
 108
-ぐーわー！しーぬー！\b
-・・・って私が勝ったから私が死ぬんじゃないのか！\b
+//ぐーわー！しーぬー！\b
+Gwaaaah! I'm dying!\b
+//・・・って私が勝ったから私が死ぬんじゃないのか！\b
+... Wait, wasn't I supposed to be dead because I won?\b
 \x03
-あれ？私ってもう死んでたんだっけ？
+//あれ？私ってもう死んでたんだっけ？
+Hold on, am I already dead?

@@ -1,4 +1,7 @@
-マミゾウ
+//マミゾウ
+Mamizou
 113_03
-ふぉっふぉっふぉ 楽しかったぞい。
-相も変わらず面白い人間じゃのう。
+//ふぉっふぉっふぉ 楽しかったぞい。
+Oh ho ho ho, that was fun.
+//相も変わらず面白い人間じゃのう。
+You're an interesting human as usual.

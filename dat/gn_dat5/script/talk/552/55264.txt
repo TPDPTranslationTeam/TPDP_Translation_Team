@@ -1,7 +1,11 @@
-芳香
+//芳香
+Yoshika
 108
-初めまして！私は宮古芳香でーす！\b
+//初めまして！私は宮古芳香でーす！\b
+Greetings! I'm Yoshika Miyako!\b
 \x01
-お前は\pというのだな！よーし お前も我々の仲間にしてやろう！\b
+//お前は\pというのだな！よーし お前も我々の仲間にしてやろう！\b
+Hm, you're \p! Now I'll turn you into our kind!\b
 \x00
-光栄に思うがいいぞ！
+//光栄に思うがいいぞ！
+Feel honored!

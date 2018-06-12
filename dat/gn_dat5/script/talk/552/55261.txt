@@ -1,7 +1,13 @@
-響子
+//響子
+Kyouko
 107
-おっはよーございまーす！！\b
+//おっはよーございまーす！！\b
+Good Morning!!\b
 \x01
-あ 間違えた。戦う前は・・・そうだ！\b
+//あ 間違えた。戦う前は・・・そうだ！\b
+No, for before the match...\b
 \x03
-よろしくおねがいしまーす！！
+//よろしくおねがいしまーす！！
+Good luck, have fun!!
+
+//GLHF was my only answer, feel free to change it to something else

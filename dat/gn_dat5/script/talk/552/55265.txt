@@ -1,9 +1,14 @@
-芳香
+//芳香
+Yoshika
 108_02
-うぅ うぉおおー！負けてしまったー！\b
+//うぅ うぉおおー！負けてしまったー！\b
+Uh, woooooah! I lost!\b
 \x00
-・・・ところでお前は誰なんだ？\bここで何をしているんだ？\b
+//・・・ところでお前は誰なんだ？\bここで何をしているんだ？\b
+...By the way, who are you? What am I doing here?\b
 \x01
-誰だか知らないから教えてやろう！この私は！\b
+//誰だか知らないから教えてやろう！この私は！\b
+I'll tell you because I don't know you! I am!\b
 \x03
-・・・私は誰だ？
+//・・・私は誰だ？
+...Who am I?

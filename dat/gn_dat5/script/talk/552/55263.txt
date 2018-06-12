@@ -1,4 +1,7 @@
-響子
+//響子
+Kyouko
 107_03
-戦う前の挨拶は礼儀だよ！
-声が大きい方が強くなるからやってみると良いよ！
+//戦う前の挨拶は礼儀だよ！
+It's a courtesy to greet the opponent before the match!
+//声が大きい方が強くなるからやってみると良いよ！
+The louder the stronger, try it yourself!

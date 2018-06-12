@@ -1,5 +1,8 @@
-響子
+//響子
+Kyouko
 107_03
-えーっと 負けた時は・・・ありがとーございましたぁ！\b
+//えーっと 負けた時は・・・ありがとーございましたぁ！\b
+Um, whenever I lost... Thank you for the match!\b
 \x00
-・・・あれ？負けたのにお礼言うの？
+//・・・あれ？負けたのにお礼言うの？
+...Huh? Do I need to thank the opponent even I'm lost?
