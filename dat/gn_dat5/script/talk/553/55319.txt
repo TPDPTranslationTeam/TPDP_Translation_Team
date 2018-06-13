@@ -1,5 +1,8 @@
-ドレミー
+//ドレミー
+Doremy
 127_02
-夢の中の方が安心する・・・。\b
+//夢の中の方が安心する・・・。\b
+Dreams is more comfortable...\b
 \x00
-いや もしかしてこれ自体が夢なの？
+//いや もしかしてこれ自体が夢なの？
+Or is this the dream?

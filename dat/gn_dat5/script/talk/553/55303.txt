@@ -1,11 +1,18 @@
-正邪
+//正邪
+Seija
 121_01
-っけ どっかで見た腹立つ顔だな。
-どいつもこいつも人形と仲良しこよししやがって。\b
+//っけ どっかで見た腹立つ顔だな。
+Hah, I think I've seen your annoying somewhere.
+//どいつもこいつも人形と仲良しこよししやがって。\b
+Everyone is doing some sweet-sweet friendship with Puppets.\b
 \x00
-あ？
-この鬼人正邪様が テメーらと同じことする訳ないだろう。\b
+//あ？
+Hah?
+//この鬼人正邪様が テメーらと同じことする訳ないだろう。\b
+I, Seija Kijin won't be like you.\b
 \x03
-ここで頂点を取ってから 世界をひっくり返してやるんだよ。\b
+//ここで頂点を取ってから 世界をひっくり返してやるんだよ。\b
+I'll flip the world out after I rose to the top in this tournament.\b
 \x01
-また邪魔するってんなら容赦しねーぞ！
+//また邪魔するってんなら容赦しねーぞ！
+If you're getting in my way again, no mercy on you!

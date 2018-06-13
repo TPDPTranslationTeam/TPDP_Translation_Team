@@ -1,4 +1,7 @@
-針妙丸
+//針妙丸
+Shinmyoumaru
 122_01
-大きければ強いなんて そんな甘い考えをしていそうね！
-見せてやろう 小さき者の本気をな！
+//大きければ強いなんて そんな甘い考えをしていそうね！
+Looks like you're thinking "the bigger is better."
+//見せてやろう 小さき者の本気をな！
+Let me show you the true power of the small one!

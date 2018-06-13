@@ -1,4 +1,7 @@
-わかさぎ姫
+//わかさぎ姫
+Wakasagihime
 116_01
-私たち(ようかい)の天下のために優勝するわ！
-あなたたち人間なんて 踏み台に過ぎないわ！
+//私たち(ようかい)の天下のために優勝するわ！
+I shall win this tournament for reign of all of us, youkai!
+//あなたたち人間なんて 踏み台に過ぎないわ！
+You humans are merely a step for it!

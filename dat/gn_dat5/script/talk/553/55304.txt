@@ -1,6 +1,10 @@
-正邪
+//正邪
+Seija
 121_01
-・・・あー むかつく。
-ふん 心配しなくたって何もしないって。\b
+//・・・あー むかつく。
+...Aaagh, disgusting.
+//ふん 心配しなくたって何もしないって。\b
+Heh, don't worry, I'm not up to no good here.\b
 \x04
-・・・こんなとこで正々堂々戦って勝つなんて 私のプライドが傷つくだけだ。
+//・・・こんなとこで正々堂々戦って勝つなんて 私のプライドが傷つくだけだ。
+...Winning fair and square at place like this? It just hurts my pride.

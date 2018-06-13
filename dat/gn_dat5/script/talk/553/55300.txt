@@ -1,5 +1,8 @@
-弁々
+//弁々
+Benben
 119_01
-聴かせてあげよう 我々道具と人形が奏でる即興ライブを！\b
+//聴かせてあげよう 我々道具と人形が奏でる即興ライブを！\b
+Let's begin the improvised live by we tools and Puppets!\b
 \x03
-最後まで立っていられるかは保証しないけどな！
+//最後まで立っていられるかは保証しないけどな！
+I can't ensure you still can stand against us!

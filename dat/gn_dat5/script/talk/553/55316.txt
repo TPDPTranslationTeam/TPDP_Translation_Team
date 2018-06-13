@@ -1,4 +1,7 @@
-鈴瑚
+//鈴瑚
+Ringo
 126_03
-ミスが許されるって 気軽だね。\b
-おっとっと 今の発言と私の負けは内緒にしておいてね。
+//ミスが許されるって 気軽だね。\b
+It's easy to be in the place like mistakes can be forgiven.\b
+//おっとっと 今の発言と私の負けは内緒にしておいてね。
+Oops, keep my words and my loss secret.

@@ -1,3 +1,7 @@
-清蘭
+//清蘭
+Seiran
 125
-『あーこちら清蘭 こちら清蘭。人形舞闘会による浄化活動を続ける！』
+//『あーこちら清蘭 こちら清蘭。人形舞闘会による浄化活動を続ける！』
+"This is Seiran. This is Seiran. Continuing purification process at [Puppet Battle Tournament]!"
+
+//Need to settle the name of the tournament, insert new name inside [].

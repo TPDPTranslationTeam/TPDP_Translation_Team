@@ -1,5 +1,8 @@
-鈴瑚
+//鈴瑚
+Ringo
 126
-地上には美味しいものがいっぱいだねぇ。\b
+//地上には美味しいものがいっぱいだねぇ。\b
+There's so many tasty things on the Earth.\b
 \x03
-さて たらふく食べた後は 腹ごしらえといこうか。
+//さて たらふく食べた後は 腹ごしらえといこうか。
+Well, after I ate a lot, let's have some meal.

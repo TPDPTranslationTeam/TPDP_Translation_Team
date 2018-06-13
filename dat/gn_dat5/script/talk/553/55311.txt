@@ -1,4 +1,7 @@
-雷鼓
+//雷鼓
+Raiko
 123_02
-あちゃー最後までノりきれなかったのかい？
-もっと鍛えないとー。
+//あちゃー最後までノりきれなかったのかい？
+Ah, you're not enough to groove until the end?
+//もっと鍛えないとー。
+You need more training.

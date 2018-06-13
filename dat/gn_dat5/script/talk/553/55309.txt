@@ -1,7 +1,12 @@
-雷鼓
+//雷鼓
+Raiko
 123
-ん んー♪良いビートだわぁ あなた！\b
-決めた 今すぐセッションしましょう！\b
+//ん んー♪良いビートだわぁ あなた！\b
+Uh-huh? I'm feeling some good beats from you!\b
+//決めた 今すぐセッションしましょう！\b
+Yeah, let's have a session right now!\b
 \x03
-さぁ 人よ 妖怪よ 人形よ！
-始原の感情のままに踊りましょう！
+//さぁ 人よ 妖怪よ 人形よ！
+Now humans, youkais and Puppets!
+//始原の感情のままに踊りましょう！
+Let's dance as your pristine emotion leads!

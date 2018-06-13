@@ -1,6 +1,10 @@
-菫子
+//菫子
+Sumireko
 124_03
-ふっふっふ やっぱりこういう場所は形から入るべきよね！\b
+//ふっふっふ やっぱりこういう場所は形から入るべきよね！\b
+Fufufu, I think I should enter with style for situation like this!\b
 \x00
-私は東深見高校一年 宇佐見菫子。\b
-唯一無二の最強の種族 女子高生よ！
+//私は東深見高校一年 宇佐見菫子。\b
+I am Sumireko Usami, first grader of Higashi-Fukami High School.
+//唯一無二の最強の種族 女子高生よ！
+And I also am "high-school girl": one and only, the strongest, most invincible kind of creature!

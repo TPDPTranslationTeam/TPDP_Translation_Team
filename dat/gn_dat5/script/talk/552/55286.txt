@@ -1,6 +1,10 @@
-菫子
+//菫子
+Sumireko
 124_02
-どーせ起きてもつまんない授業だしなぁ。\b
+//どーせ起きてもつまんない授業だしなぁ。\b
+Even if I woke up, I just go back to boring school lessons.\b
 \x03
-ねぇねぇ これ終わったらお話しない？\b
-同じ人間同士 友達になりたいわっ！
+//ねぇねぇ これ終わったらお話しない？\b
+Hey, can I talk with you later?\b
+//同じ人間同士 友達になりたいわっ！
+I want to be a friend of you as a same human!

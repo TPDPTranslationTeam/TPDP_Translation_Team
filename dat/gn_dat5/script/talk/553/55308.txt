@@ -1,4 +1,9 @@
-針妙丸
+//針妙丸
+Shinmyoumarau
 122
-バカめ！
-人形勝負なら 針使いが上手い方が勝つに決まっておろう！
+//バカめ！
+Fool!
+//人形勝負なら 針使いが上手い方が勝つに決まっておろう！
+One who is better at using needles always wins the Puppet battle!
+
+//Maybe archaic or shakespeareian english

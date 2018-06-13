@@ -1,6 +1,10 @@
-弁々
+//弁々
+Benben
 119_02
-あぁ 曲が途切れてしまったわ・・・。\b
+//あぁ 曲が途切れてしまったわ・・・。\b
+No, the music has stopped...\b
 \x01
-ふん 我々は言いなりになるだけの存在ではない！\b
-上ばかり見ていては いずれ下から噛みつかれるかもしれないな。
+//ふん 我々は言いなりになるだけの存在ではない！\b
+Huh, we're not just about obeying someone!\b
+//上ばかり見ていては いずれ下から噛みつかれるかもしれないな。
+If you still keep looking, someday you might be usurped from below.

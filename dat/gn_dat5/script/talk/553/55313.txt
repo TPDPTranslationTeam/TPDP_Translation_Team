@@ -1,6 +1,10 @@
-清蘭
+//清蘭
+Seiran
 125_01
-『メ メーデー！メーデー！
+//『メ メーデー！メーデー！
+"M, mayday! Mayday!
 こちら清蘭！敵にやられた！\b
+This is Seiran! An enemy took down me!\b
 \x02
-あれ？聞いてる？あれ？誰も聞いてない？』
+//あれ？聞いてる？あれ？誰も聞いてない？』
+Hello? Are you listening? Hello? Is anyone listening?"
