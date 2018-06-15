@@ -2,9 +2,9 @@
 Futo
 111_02
 //お お主 ふつーに負けておるではないか・・・。\b
-What is this? Thou met with defeat so naturally...\b
+Hey, you lost naturally...\b
 \x00
 //うーむ 我の見間違いだろうか。もっと強いと思っていたんだが。
-It seems I hath judged thee in error. It appears that in truth, thine abilities were far lesser than my expectations held.
+Um, did I misjudge you? I thought you're more stronger.
 
 //Required: Shakespearean English
