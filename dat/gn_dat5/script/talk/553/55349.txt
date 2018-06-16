@@ -1,8 +1,8 @@
-小鈴
+Kosuzu
 114_04
-\pさんっ！やはり来られていたんですね。
-人里でお祭りをするっていうのだから 私もつい・・・。\b
+\p! You've arrived. 
+There was a festival in the Human Village so...\b
 \x00
-私も\pさんのお手伝いをしているうちに 人形に興味が出てしまいまして。\b
+So because of your helping me before, I became interested in Puppets.\b
 \x03
-ちょっとやそっとでは勝てないと思いますよ！
+I don't think you can win so easily!

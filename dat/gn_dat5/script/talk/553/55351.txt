@@ -1,6 +1,6 @@
-小鈴
+Kosuzu
 114
-や やった \pさんに勝てたわっ！\b
-こういうのなんて表現したらいいのかしら。\b
+I-I won! I beat \p!\b
+I wonder if it's okay for me to express this.\b
 \x03
-・・・ふふっ 嬉しすぎて思いつきません！
+... Hehe, I'm so overjoyed!
