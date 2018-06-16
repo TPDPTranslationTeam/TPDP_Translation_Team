@@ -1,13 +1,25 @@
 
 
-命蓮寺で 僧侶の話を聞いた。\b
-聞けば幻想郷以外の世界・・・魔界は博麗神社の裏山と繋がっているらしい。\b
-\c別概念の世界となると不安もあるが 他に情報もないし 行くしかない。\b
-\c余談だが 命蓮寺奥の洞穴の扉は なんだったのだろう？\b
-\o小鈴
+The Myouren priest had some info, too.\b
+That 3rd world? Apparently it's right behind the Hakurei Shrine, and is called Makai.\b
+Which sounds ridiculous. I would've noticed it by now. I guess I have no choice but to try.\b
+\cThere was also a door down there, but I don't know how to open it. This is the new 1-foot-tall shrub.\b
+\oKosuzu
 \s114
-魔界・・・昔に本で読んだことがある気がします。\b
+Makai... I've read about it long ago.\b
 \x01
-無限の広さを持つそこには 凶悪な魔物が住んでいて 迷い込んだ者の血肉を啜っているとか・・・。\b
+It's an endless void with heinous monsters out for everyone who wanders in there's blood...\b
 \x03
-なんて お伽話ですけどね。
+It's just a fairy tale, though. It's not real.
+
+//命蓮寺で 僧侶の話を聞いた。\b
+//聞けば幻想郷以外の世界・・・魔界は博麗神社の裏山と繋がっているらしい。\b
+//\c別概念の世界となると不安もあるが 他に情報もないし 行くしかない。\b
+//\c余談だが 命蓮寺奥の洞穴の扉は なんだったのだろう？\b
+//\o小鈴
+//\s114
+//魔界・・・昔に本で読んだことがある気がします。\b
+//\x01
+//無限の広さを持つそこには 凶悪な魔物が住んでいて 迷い込んだ者の血肉を啜っているとか・・・。\b
+//\x03
+//なんて お伽話ですけどね。

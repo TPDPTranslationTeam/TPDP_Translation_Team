@@ -1,12 +1,23 @@
 
 
-間欠泉地下センターで逃げられた人形の妖怪を追ったものの なんとハズレだった。
-人形解放戦線は 人形の発生とは関係がないらしい。\b
-\cだが太陽の畑の妖怪から 有力そうな話は聞けた。\b
-他にも何か知っていそうだったが そこは上手くはぐらかされてしまった。\b
-\c幻想郷以外の世界って どこだろう？\b
-\o小鈴
+Chasing after the Puppet Liberation Front is a waste of time.
+They seem to have nothing to do with why the Puppets appeared in the first place.\b
+\cI heard stories about this girl in a sunflower field though.\b
+She apparently could have something top secret info about all of this.\b
+\cThere's apparently a 3rd world, huh? Can't wait to get stuck there too.\b
+\oKosuzu
 \s114_01
-そういえばこの本 何か不自然ですよね。\b
+This whole composition sure is... weird.\b
 \x05
-一項以外は真っ白 というところもそうですけど\b 地名は書かれているのに 人物名は避けているところとか 作為的なものを感じます。
+Every book that's a part of has only 1 page of content, and I feel that the names are being left out on purpose...
+
+//間欠泉地下センターで逃げられた人形の妖怪を追ったものの なんとハズレだった。
+//人形解放戦線は 人形の発生とは関係がないらしい。\b
+//\cだが太陽の畑の妖怪から 有力そうな話は聞けた。\b
+//他にも何か知っていそうだったが そこは上手くはぐらかされてしまった。\b
+//\c幻想郷以外の世界って どこだろう？\b
+//\o小鈴
+//\s114_01
+//そういえばこの本 何か不自然ですよね。\b
+//\x05
+//一項以外は真っ白 というところもそうですけど\b 地名は書かれているのに 人物名は避けているところとか 作為的なものを感じます。

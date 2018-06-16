@@ -1,14 +1,27 @@
 
 
-里を出ると 博麗の巫女に警告された。
-異変が関わると性格が変わる という話は本当だったらしい・・・。\b
-\c森では人形の魔法使いと出会った。
-正直一番怪しいと踏んでいたのだが ハズレ。\b
-\cだが紅魔館の情報は貰った。
-問題は 道を塞ぐ木だ・・・。\b
-\o小鈴
+As I left the village, I was told off by the Hakurei shrine maiden.
+Apparently when there's an incident, she's kind of a jerk, just like everyone says.\b
+\cIn the forest, I met a Pupp... no, it's doll-controlling this time, magician.
+I don't really believe what she's telling me, so this is probably a waste.\b
+\cBut thanks to her, I have a new destination: the Scarlet Devil Mansion.
+The only problem is this 1-foot tall, impassable shrub. I even tried burning it to no avail.\b
+\oKosuzu
 \s114
-博麗の巫女って霊夢さんですよね。\b
-警告されたってことは 筆者は異変に関わる者なんでしょうか？\b
+The Hakurei shrine maiden is Reimu.\b
+Seeing how she warned them, maybe the author was involved in an incident?\b
 \x02
-確かに 霊夢さんって怒ると怖いですよね。
+Reimu sure is scary when angry.
+
+//里を出ると 博麗の巫女に警告された。
+//異変が関わると性格が変わる という話は本当だったらしい・・・。\b
+//\c森では人形の魔法使いと出会った。
+//正直一番怪しいと踏んでいたのだが ハズレ。\b
+//\cだが紅魔館の情報は貰った。
+//問題は 道を塞ぐ木だ・・・。\b
+//\o小鈴
+//\s114
+//博麗の巫女って霊夢さんですよね。\b
+//警告されたってことは 筆者は異変に関わる者なんでしょうか？\b
+//\x02
+//確かに 霊夢さんって怒ると怖いですよね。
