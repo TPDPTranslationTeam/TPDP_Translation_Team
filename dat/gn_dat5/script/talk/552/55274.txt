@@ -2,11 +2,11 @@
 Futo
 111_02
 //な なんと・・・これ程までに腕をあげておったとは。\b
-Oh my... I didn't expect you to be this stronger than before.\b
+Agh... I had not predicted thee to condition thine Puppets to such levels greater than our first encounter.\b
 \x05
 //うむ 此度のお主の冒険は これ以上に無いぐらい経験となったようだな。\b
-Well, your adventure was a good expereience, uncomparable to anything.\b
+Thine adventure hast been a good experience, far surpassing anything mine eyes hath ever beheld.\b
 //そのまま精進するがいいっ！
-Keep up your work!
+Continue thy training for our next meeting!
 
 //Required: Shakespearean English

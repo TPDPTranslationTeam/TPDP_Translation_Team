@@ -2,15 +2,15 @@
 Futo
 111_04
 //うむ 安心めされい！言わずとも分かっておる。\b
-Be easy! I know before you say.\b
+Be at ease! Thou need not speak thine intentions, for they art known to me already.\b
 \x05
 //この我と再戦するために参加したのであろう！
-You've joined this tournament to have a rematch with me!
+Thou hast entered this tourney to engage in battle with me once more!
 //そうに決まっておる！\b
 'Tis most certes so!
 \x03
 //太子様ー！我と\pの決闘 見てて下されー！
-Crown Princess! Please watch me duel with \p!
+Crown Princess! Please observe mine honorable duel with \p!
 
 //I don't know Shakesperean English, be sure to change it
 //そうに決まっておる/"'Tis most certes so" was direct copy from Wiki

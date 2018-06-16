@@ -2,14 +2,14 @@
 Futo
 111_02
 こうもあっさりと負けてしまうものなのか・・・。\b
-This is a loss too... \b
+Alas, 'tis a loss of mine own... \b
 \x00
 ふむ やはりここは太子様の活躍を見せる場。
-Hmm... Of course this is a place to show the activity of the Crown Princess.
+Hmm... Mayhaps this is a trial worthy of displaying the power that the Crown Princess doth hold!
 我が出過ぎるのもよくない。\b
-It's no good that I've gone too far. \b
+Mine apologies Crown Princess, for I hath expended too much of mine power in this skirmish. \b
 \x04
 ならば我が太子様を応援せねばならぬな！
-Well then; I'll just have to show the crown princess my support by cheering in the back over there in that corner!
+Very well; I shall demonstrate mine support of the Crown Princess by rousing her spirit with a resounding cheer from yonder corner!
 
 //Required: Shakesperean English

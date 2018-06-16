@@ -1,5 +1,5 @@
 
 
-Maybe I should stay here for a while.
-
+Maybe I should cool down here for a while.
+//Added a bit to make it relevant to the encounter dialogue (line 60)
 //ÇµÇŒÇÁÇ≠ÇÕÇ±Ç±Ç…ëÿç›Ç∑ÇÈÇ©Ç»Å[ÅB
