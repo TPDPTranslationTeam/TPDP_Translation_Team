@@ -1,8 +1,12 @@
-ヘカーティア
+Hecatia
 131_03
 あら 久しぶりね。
+Oh, long time no see.
 私も始めてみたのよー 人形遊び。\b
+This is my first time doing Puppet Play.\b
 \x00
 あなたに怨みは無いけれど 『ここで私と出会ってしまった』。\b
+As I have nothing against you, "This is the place where we've cross paths."\b
 \x03
 それだけの理由で あなたは敗北させてあげるわ。
+It is for that simple reason that I will make you admit defeat. 
