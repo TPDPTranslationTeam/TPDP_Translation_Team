@@ -1,0 +1,29 @@
+
+
+Apparently I've entered Gensokyo somehow.\b
+\cI also can't go home. That's great.
+Not until I resolve this "Puppet" incident, that is.\b
+\cI've told to go over to the Human Village. Seems like that's the only way.\b
+\oKosuzu
+\s114_01
+This seems to be someone's diary.\b
+Seeing how a similar thing's mentioned, I think it could be related to the Puppet incident.\b
+\x05
+Even then, how does entering Gensokyo like they did work?
+
+//NOTE:
+//i didn't feel like translating this block's journal stuff 100% accurately
+//i felt that it would be a lot better if i gave it personality, since it's first-person, there could be an "unfiltered thoughts" type vibe
+//so you get a some snark about the first game and tropes, as well as eventual fondness
+//proofread at your discretion
+
+//どうやら幻想入りしてしまったらしい。\b
+//\cこのままでは帰れないと教えてもらった。
+//この人形の騒動をどうにかしないといけないみたいだ。\b
+//\cとりあえず 人間の里に向かうといいと教えてもらったので 行ってみようと思う。\b
+//\o小鈴
+//\s114_01
+//これは 誰かの日記みたいですね。\b
+//人形の騒動とも書かれていますし 今幻想郷で起きている騒動と関係しそうな気がします。\b
+//\x05
+//それにしても 幻想入りとはどういう意味なんでしょう？
