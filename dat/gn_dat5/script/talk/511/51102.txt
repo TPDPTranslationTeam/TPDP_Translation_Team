@@ -1,7 +1,7 @@
 Tokiko
 59_01
-I'm trying to find a way to locate a book, not a human.\b
-I have to act quickly!
+I'm looking for a book, not a human.\b
+I'm in a hurry, so I'll have to finish you off quickly!
 
 //éÈçÎéq
 //59_01
