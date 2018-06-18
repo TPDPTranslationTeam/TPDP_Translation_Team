@@ -2,8 +2,8 @@
 
 Oh, human...
 You're tired, aren't you?\b
-\cDo you want to drink this special drink?
-It's so uplifting that souls leave their body.
+\cDo you want any of this special drink?
+It's so uplifting that your soul will leave your body.
 
 //i'm unsure about the 2nd sentence in the 3rd line, but this is all i could come up with...
 

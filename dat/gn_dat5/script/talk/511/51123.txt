@@ -1,7 +1,7 @@
 Kisume
 90
-The inside of this bucket is cramped, but comfortable.
-Humid too, but it feels good.
+The inside of this bucket is cramped but comfortable.
+Humid too, but it feels cozy.
 //ジメジメ = sound effect for humidity.
 
 //キスメ

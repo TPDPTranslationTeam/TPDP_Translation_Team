@@ -1,7 +1,7 @@
 
 
-Yatta!~\b
-Omae, liberate your Puppets kudaplease!~
+Hyah!\b
+Omae wa mou shindeiru!
 //i have the feeling that this fairy's japanese isn't the best, therefore, for the english translation, i made her english weebish
 //for a more serious translation, use the below lines:
 //Hey you!\b

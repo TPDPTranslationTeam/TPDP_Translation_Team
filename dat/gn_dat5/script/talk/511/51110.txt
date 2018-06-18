@@ -1,6 +1,9 @@
 Yoshika
 108
-I'm a zombie! Zombies are always found with graves!
+I'm a jiang shi
+... yes, I'm a zombie.\b
+\s108_01
+I can't let you enter; although, I can't remember why...
 
 //–F
 //108

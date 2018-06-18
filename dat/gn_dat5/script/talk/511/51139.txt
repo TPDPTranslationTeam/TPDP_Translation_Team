@@ -1,6 +1,6 @@
 Kokoro
 115
-My name is Kokoro. I can control all emotions.\b
+My name is Kokoro. I can control all emotion.\b
 \x01
 I demand a duel forthwith!!
 
