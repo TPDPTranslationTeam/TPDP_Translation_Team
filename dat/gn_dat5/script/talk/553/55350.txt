@@ -3,7 +3,7 @@ Kosuzu
 あぁ 流石に敵わないかー。
 Aah, I knew I'd be no match.
 少しだけ自信あったんですけどね。\b
-I still had a little faith in myself though.\b
+I still had a little faith in myself, though.\b
 \x04
 私も憧れの\pさんみたいに強くなれるよう頑張ります！
 I will try my best to aspire to be strong like you, \p!
