@@ -2,9 +2,9 @@
 Benben
 119_02
 //あぁ 曲が途切れてしまったわ・・・。\b
-No, the music has stopped...\b
+Oh no, the music has stopped...\b
 \x01
 //ふん 我々は言いなりになるだけの存在ではない！\b
-Huh, we're not just about obeying someone!\b
+Hey, we're not just about obeying masters!\b
 //上ばかり見ていては いずれ下から噛みつかれるかもしれないな。
-If you still keep looking, someday you might be usurped from below.
+If you don't watch out, someday you might be usurped from below.
