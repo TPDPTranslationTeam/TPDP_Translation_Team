@@ -5,10 +5,10 @@ Marisa
 Mmm... Why couldn't I win...?\b
 \x03
 //まぁ負けは負けだな。
-Well, loss is a loss.
+Well, a loss is a loss.
 //まだまだ続くから頑張ってな。\b
 You still have more to go. Do your best.\b
 \b
 \x02
 //・・・やっぱり悔しいぜ。
-... Still frustrating.
+...Still frustrating.
