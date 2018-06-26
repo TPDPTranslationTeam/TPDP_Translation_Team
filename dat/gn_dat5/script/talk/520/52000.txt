@@ -1,18 +1,18 @@
 Ran
 54
-Ah, so you would like to..\b
+Ah, so you would like to...\b
 \x01
 participate in the tournament?\b
 \oMagan
 \s4_3
 ...!\b
-\o—•
+\oRan
 \j54_01
 R-Really!\b
 If you just sign your name here...\b
 \x02
-That's impossible, isn't it?\b
-\oƒ}ƒKƒ“
+Oh, that's impossible, isn't it?\b
+\oMagan
 \s4_2
 ...\b
 \oRan
