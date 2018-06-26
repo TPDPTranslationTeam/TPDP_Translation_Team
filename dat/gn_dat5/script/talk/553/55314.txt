@@ -5,4 +5,4 @@ Seiran
 "This is Seiran. The first target has been purified.\b
 \x02
 //あれ？聞いてる？あれ？誰も聞いてない？』
-Hello? Are you listening? Hello? Is anyone listening?"
+Hello? Do you read me? Hello? Does anyone copy?"
