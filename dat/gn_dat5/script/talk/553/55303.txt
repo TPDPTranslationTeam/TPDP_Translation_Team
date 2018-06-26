@@ -2,7 +2,7 @@
 Seija
 121_01
 //っけ どっかで見た腹立つ顔だな。
-Hah, I think I've seen your annoying face somewhere.
+Ha, I think I've seen your annoying face somewhere.
 //どいつもこいつも人形と仲良しこよししやがって。\b
 Everyone is creating disgustingly sweet friendships with Puppets.\b
 \x00
