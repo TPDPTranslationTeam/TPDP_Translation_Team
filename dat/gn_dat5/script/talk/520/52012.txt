@@ -1,4 +1,4 @@
-—•
+Ran
 54_00
-‰½‚¾‚â‚ç‚È‚¢‚Ì‚©B\b
-‘±‚«‚ğ‚â‚è‚½‚¯‚ê‚Î º‚ğ‚©‚¯‚Ä‚­‚ê‚æB
+What, do you not want to keep going?\b
+If you'd like to continue, talk to me.
