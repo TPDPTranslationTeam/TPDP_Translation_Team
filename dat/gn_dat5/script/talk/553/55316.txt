@@ -2,6 +2,6 @@
 Ringo
 126_03
 //ミスが許されるって 気軽だね。\b
-It's easy to be in the place like mistakes can be forgiven.\b
+It's easy to be in a place where mistakes can be forgiven.\b
 //おっとっと 今の発言と私の負けは内緒にしておいてね。
-Oops, keep my words and my loss secret.
+Oops, keep my words and my loss a secret.
