@@ -2,11 +2,11 @@
 Raiko
 123
 //ん んー♪良いビートだわぁ あなた！\b
-Uh-huh? I'm feeling some good beats from you!\b
+Uh-huh♪? I'm feeling some good beats from you!\b
 //決めた 今すぐセッションしましょう！\b
-Yeah, let's have a session right now!\b
+Yeah, let's have a jam session right now!\b
 \x03
 //さぁ 人よ 妖怪よ 人形よ！
-Now humans, youkais and Puppets!
+Now, humans, youkai, and Puppets!
 //始原の感情のままに踊りましょう！
-Let's dance as your pristine emotion leads!
+Let's dance as your pristine emotions lead!
