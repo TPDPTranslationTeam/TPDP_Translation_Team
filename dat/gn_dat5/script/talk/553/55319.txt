@@ -2,7 +2,7 @@
 Doremy
 127_02
 //夢の中の方が安心する・・・。\b
-Dreams is more comfortable...\b
+Dreams are more comfortable...\b
 \x00
 //いや もしかしてこれ自体が夢なの？
-Or is this the dream?
+Or is this a dream?
