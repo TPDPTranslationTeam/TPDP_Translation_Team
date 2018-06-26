@@ -1,6 +1,6 @@
 Seiran
 125_01
-"M-Mayday! Mayday!
+ÅwM-Mayday! Mayday!
 This is Seiran! An enemy took me down!\b
 \x02
-Hello? Do you read me? Hello? Does anyone copy?"
+Hello? Do you read me? Hello? Does anyone copy?Åx
