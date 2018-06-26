@@ -3,7 +3,7 @@ Clownpiece
 はあはあはあ。
 Hahaha.
 お前 あ いや あなた様は相変わらずお強いのですね！\b
-Heh, you're, um, you are just as formidable as usual I see!\b
+Heh, you're, um, just as formidable as usual I see!\b
 \x03
 えーっと あたいはそろそろ帰るね！
 Well then, I must be departing now!
