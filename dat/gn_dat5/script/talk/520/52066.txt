@@ -1,7 +1,7 @@
-藍
+Ran
 54_03
-\t連勝 おめでとう！\b
-見事な人形さばきだったぞ。\b
+Congratulations on your winning streak of \t!\b
+You showed that you are an excellent Puppeteer.\b
 \x00
-舞闘会はまだまだ続くから
-また参加したくなったら 声をかけてくれよ。
+The Exhibition is still going on,
+so please return when you want to challenge it again.
