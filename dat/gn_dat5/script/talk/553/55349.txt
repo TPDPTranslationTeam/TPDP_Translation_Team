@@ -1,8 +1,8 @@
 Kosuzu
 114_04
 \p! You've arrived. 
-There was a festival in the Human Village so...\b
+There was a festival in the Human Village, so...\b
 \x00
-So because of your helping me before, I became interested in Puppets.\b
+Because of you helping me before, I became interested in Puppets.\b
 \x03
 I don't think you can win so easily!
