@@ -4,6 +4,6 @@ Ringo
 //あら 団子がなくなっちゃった。
 Oh, I have no dumplings left.
 //ちょっとツキに帰ろうかな。
-I guess I should go home for more.
+I guess I should go back home for more.
 
 //ツキ is in katakana, this means it can be both either "Moon" or "pounding (rice cakes)".
