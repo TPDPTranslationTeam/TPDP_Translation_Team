@@ -2,9 +2,9 @@
 Seija
 121_01
 //・・・あー むかつく。
-...Aaagh, disgusting.
+...Aaagh, gross.
 //ふん 心配しなくたって何もしないって。\b
-Heh, don't worry, I'm not up to no good here.\b
+Heh, don't worry; I'm not up to no good this time.\b
 \x04
 //・・・こんなとこで正々堂々戦って勝つなんて 私のプライドが傷つくだけだ。
-...Winning fair and square at place like this? It just hurts my pride.
+...Winning fair and square in a place like this? It just hurts my pride.
