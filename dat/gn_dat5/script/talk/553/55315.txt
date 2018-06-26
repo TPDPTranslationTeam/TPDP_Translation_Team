@@ -2,4 +2,4 @@ Ringo
 126
 There are so many tasty things on Earth.\b
 \x03
-Well, after I eat a lot, I'll make some for you.
+Well, after I eat a lot, I'll leave some for you.
