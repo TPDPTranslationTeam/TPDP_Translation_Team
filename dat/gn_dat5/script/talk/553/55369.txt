@@ -1,16 +1,16 @@
-蓮子
+Renko
 56_03
-ふふっ 残念だったわね。\b
+You're unfortunate.\b
 \x00
-・・・あなたに勝ったことで 私たちは何かを示せたのかな。\b
-\oメリー
+...Could we prove something by winning against you?\b
+\oMaribel
 \j57
-・・・分からないわ。
-そう信じる事しかできないもの。\b
-でも とても楽しかったことは確かね！\b
-\o蓮子
+...I don't know.
+I can only believe so.\b
+I'm sure it was super fun anyway!\b
+\oRenko
 \j56
-そうね。ありがとう \p。
-とても楽しかったわ！\b
+That's true. Thank you, \p.
+That was so fun!\b
 \x03
-いつか また会いましょう。
+Let us see you again sometime.
