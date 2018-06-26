@@ -3,7 +3,7 @@ Ran
 What a shame...\b
 \x00
 \cYour record number of wins is \t.
-Don't let this discourage you, please try again.
+Don't let this discourage you; please try again.
 
 //—•
 //54_02
