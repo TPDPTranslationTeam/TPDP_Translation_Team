@@ -1,4 +1,4 @@
-藍
+Ran
 54_02
-参加料が足りないじゃないか。\b
-参加したいのなら 500円を持ってきてくれよ。
+You don't have enough money to participate.\b
+If you would like to, please bring 500 yen.
