@@ -5,17 +5,18 @@ Renko
 You're unfortunate.\b
 \x00
 //・・・あなたに勝ったことで 私たちは何かを示せたのかな。\b
-... Could we prove something by winning against you?\b
+...Could we prove something by winning against you?\b
 //\oメリー
 \oMaribel
 \j57
 //・・・分からないわ。
-... I don't know.
+...I don't know.
 //そう信じる事しかできないもの。\b
 I can only believe so.\b
 //でも とても楽しかったことは確かね！\b
-I'm sure it was so fun anyways!\b
+I'm sure it was super fun anyway!\b
 //\o蓮子
+\oRenko
 \j56
 //そうね。ありがとう \p。
 That's true. Thank you, \p.
@@ -23,4 +24,4 @@ That's true. Thank you, \p.
 That was so fun!\b
 \x03
 //いつか また会いましょう。
-Let us see you again sometimes.
+Let us see you again sometime.
