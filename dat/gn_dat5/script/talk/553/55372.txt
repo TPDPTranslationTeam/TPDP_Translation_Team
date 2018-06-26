@@ -2,9 +2,9 @@
 Reimu
 1_03
 //ふぅ やっと\pに勝てたわ。
-Finally. I've won to you.
+Finally. I've won to you, \p.
 //・・・ふふっ 勝負に勝ってこんなに嬉しいのはいつぶりかしらね。\b
-... Since when did I felt this satisfied to win a fight? \b
+...Since when did I felt this satisfied after winning a fight?\b
 \x00
 //\p またね。たまには神社でお茶でも飲みましょう。
-See you, \p. Come again to the shrine sometimes and have some tea together.
+See you, \p. Come again to the shrine once in a while and have some tea with me.
