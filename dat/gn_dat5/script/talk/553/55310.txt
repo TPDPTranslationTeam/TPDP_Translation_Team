@@ -4,4 +4,4 @@ Raiko
 //ふふ 楽しかったわ！\b
 Hey, that was fun!\b
 //あなたに使役されている道具も人形も とっても楽しくて幸せそうね！
-Your tools and Puppets looks happy too!
+Your tools and Puppets look happy too!
