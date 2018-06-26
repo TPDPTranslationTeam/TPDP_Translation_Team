@@ -4,7 +4,7 @@ Congratulations on your winning streak of \t!\b
 You showed that you were an excellent Puppeteer.\b
 \x00
 The Exhibition is still going on,
-so please return when you want to challenge again.
+so please return when you want to challenge it again.
 
 //—•
 //54_03
