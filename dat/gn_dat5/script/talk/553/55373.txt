@@ -5,9 +5,9 @@ Marisa
 Hey, \p! Looks like you're next!\b
 \x07
 //散々\pにはやられてきたからなー。
-I had a lot of hard time with you for long.
+I've had such a hard time with you for so long, \p.
 //そろそろ勝たなきゃと思ってたんだ。\b
-I thought soon I should win.\b
+I figured I'd get my chance to win soon.\b
 \x08
 //見せてやるよ 私の最大火力を！
 I'll show you my full firepower!
