@@ -1,6 +1,6 @@
 Ran
 54_00
-Alright, you're registered.\b
+All right, you're registered.\b
 \cYour match will begin soon.
 Let me show you to the waiting area.
 
