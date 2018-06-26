@@ -1,6 +1,6 @@
 Rinnosuke
 58_06
 人形の強さは分かっていても 上手く扱えないんだ。\b
-While I can understand the strength of Puppets, I can't deal with it so well.
+While I can understand the strengths of Puppets, I can't apply them so well.\b
 もっと自分自身を高めないといけないみたいだね。
-Seems I must try to get boost myself. 
+Seems I must try to get a boost for myself. 
