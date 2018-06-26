@@ -6,13 +6,13 @@ Did I see you somewhere?
 //気のせいだったかしら。\b
 Or was it just my imagination?\b
 //\oメリー
-Maribel
+\oMaribel
 \j57_03
 //・・・きっとあなたも 幻想に惹かれてここに来たのね？\b
-... You came here attracted by fantasies, didn't you?\b
+...You came here because you were attracted by fantasies, right?\b
 \x00
 //私と蓮子も同じ。
-So did we.
+So were we.
 //ここが夢かどうかなんて分からない。\b
 We don't know if this is a dream or not.\b
 //だから 似てる気がするのかもしれないわね。\b
@@ -25,15 +25,15 @@ Why are we here?
 //ここはどこなのか。\b
 What is this place?\b
 //・・・出会ってみて理解したわ。\b
-... Now I know seeing you.\b
+...Now I know, seeing you.\b
 \x03
 //ここに呼ばれたのは あなたなのね？\b
-You were called to be here, right?\b
+You were called here, right?\b
 //\oメリー
 \oMaribel
 \j57
 //それなら 私たちの目的は一つ。\b
-Now our purpose is clear.\b
+Our purpose is clear now.\b
 \x01
 //あなたに勝つことによって 私たちはきっと証明される。\b
 Our victory will be proven by winning against you.\b
@@ -41,14 +41,14 @@ Our victory will be proven by winning against you.\b
 We can prove our existence in here!\b
 \x00
 //・・・さぁ 始めましょう 蓮子！\b
-... Let's begin, Renko!\b
+...Let's begin, Renko!\b
 //\o蓮子
 \oRenko
 \j56
 //えぇ メリー！\b
 Yeah, Mary!\b
 //\o蓮子&メリー
-Renko & Mary
+\oRenko & Mary
 \j971
 //夢の世界を！\b
 //現実に変えるのよ！
