@@ -1,5 +1,5 @@
-—•
+Ran
 54_00
-‚¢‚ç‚Á‚µ‚á‚¢B\b
+Welcome.\b
 \x03
-\p‚Í ¡\t˜AŸ’†‚¾‚ª ‘±‚«‚ğ‚â‚é‚Ì‚©‚¢H
+You have a winning streak of \t; would you like to continue?
