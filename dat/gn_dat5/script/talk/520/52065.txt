@@ -1,7 +1,7 @@
 
 
 This is the end of the Puppet Exhibition.\b
-We hope that you challenge again!
+We hope that you challenge it again!
 
 //人形舞闘会は 以上で一旦閉幕です。\b
 //またの ご参加をお待ちしております！
