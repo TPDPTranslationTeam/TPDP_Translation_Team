@@ -2,7 +2,7 @@
 Shinmyoumaru
 122_02
 //ふーんだ。負けたからって悔しくないもん。\b
-Heh, I lost but I'm not disappointed for this.\b
+Heh, I lost but I'm not disappointed about it.\b
 \x01
 //悔しくないから 今度 口の中に入ってやるー！
 I'll get into your mouth next time because I'm not disappointed!
