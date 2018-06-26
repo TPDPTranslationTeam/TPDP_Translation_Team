@@ -1,6 +1,6 @@
-藍
+Ran
 54_03
-お疲れ様。\b
-大会は楽しめたかい？\b
+Good job.\b
+Did you enjoy the tournament?\b
 \x00
-続きをやりたいときは また声をかけてくれよ。
+When you want to continue, please come again.
