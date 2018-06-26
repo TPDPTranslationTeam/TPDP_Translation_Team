@@ -4,7 +4,7 @@ Did I see you somewhere?
 Or was it just my imagination?\b
 \oMaribel
 \j57_03
-... You came here because you were attracted by fantasies, right?\b
+...You came here because you were attracted by fantasies, right?\b
 \x00
 So were we.
 We don't know if this is a dream or not.\b
@@ -13,7 +13,7 @@ I think that's why we feel familiar around you.\b
 \j56
 Why are we here?
 What is this place?\b
-... Now I know seeing you.\b
+...Now I know, seeing you.\b
 \x03
 You were called here, right?\b
 \oMaribel
@@ -23,7 +23,7 @@ Our purpose is now clear.\b
 Our victory will be proven by winning against you.\b
 We can prove our existence in here!\b
 \x00
-... Let's begin, Renko!\b
+...Let's begin, Renko!\b
 \oRenko
 \j56
 Yeah, Mary!\b
