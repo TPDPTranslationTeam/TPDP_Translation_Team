@@ -2,4 +2,4 @@ Kasen
 106_01
 Whatever is Reimu doing...\b
 \x05
-Huh, this person I've been lecturing to won't be necessary... 
+Huh, it isn't necessary to lecture this person.
