@@ -3,4 +3,4 @@ Seiran
 "M-Mayday! Mayday!
 This is Seiran! An enemy took me down!\b
 \x02
-Hello? Do you read me? Hello? Is anyone listening?"
+Hello? Do you read me? Hello? Does anyone copy?"
