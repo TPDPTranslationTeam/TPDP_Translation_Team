@@ -1,4 +1,4 @@
 
 
-お疲れ様です。\b
-\cただいま \pさんは \t連勝中です。
+Great job!\b
+\cYou now have a winning streak of \t.
