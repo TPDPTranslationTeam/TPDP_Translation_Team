@@ -2,16 +2,16 @@
 Reimu
 1
 //・・・やっぱり。
-... I knew it.
+...I knew it.
 //\pならここまで来ると思っていたわよ。\b
 I knew you would come this far.\b
 \x05
 //あなたとこうして戦うのも何度目かしら？
-How many time did we fight?
+How many times did we fight?
 //本当にあんたには手を焼かされたわね。\b
-You were really, really tough to keep you off.\b
+You were really, really persistent.\b
 \x07
 //・・・負けっぱなしだなんて 私の性じゃないからね。\b
-... I don't like keep losing.\b
+...I don't like to keep losing.\b
 //今日こそは負けないわよ \p！来なさい！
 I won't lose today, \p! Come on!
