@@ -14,7 +14,7 @@ Don't be so pessimistic, Renko.
 It was so great to see and battle \p.\b
 \x03
 //・・・それに とっても楽しかったしね！\b
-... Also, it was really really fun!\b
+... Also, it was really, really fun!\b
 //\o蓮子
 \oRenko
 \j56_03
@@ -28,7 +28,7 @@ We sincerely celebrate you.\b
 \oMaribel
 \j57
 //またいつか会いましょう。\b
-Let's see together again sometimes.\b
+Let's meet together again sometime.\b
 \x03
 //その日を 楽しみにしていますわ。
 I'll be waiting for it.
