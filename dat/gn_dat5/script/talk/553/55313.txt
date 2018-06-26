@@ -2,9 +2,9 @@
 Seiran
 125_01
 //『メ メーデー！メーデー！
-"M, mayday! Mayday!
+"M-Mayday! Mayday!
 こちら清蘭！敵にやられた！\b
-This is Seiran! An enemy took down me!\b
+This is Seiran! An enemy took me down!\b
 \x02
 //あれ？聞いてる？あれ？誰も聞いてない？』
-Hello? Are you listening? Hello? Is anyone listening?"
+Hello? Do you read me? Hello? Is anyone listening?"
