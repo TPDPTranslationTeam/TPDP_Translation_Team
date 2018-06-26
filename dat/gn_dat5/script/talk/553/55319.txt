@@ -2,4 +2,4 @@ Doremy
 127_02
 Dreams are more comfortable...\b
 \x00
-Or is this a dream?
+Or is this a dream too?
