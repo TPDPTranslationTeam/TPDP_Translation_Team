@@ -1,15 +1,15 @@
 
 
-山へ向かう途中 河童のアジトを占拠していた人形解放戦線を撃退し お礼にボートを貰った。\b
-山の情報も貰ったので その後は予定通り山登り。\b
-\c山頂で 博麗神社にいた巫女と再会したが 人形の情報は得られなかった。\b
-途中の廃村で貰った不思議な地図が収穫か。\b
-\cさて情報が途絶えてしまったが 次はどこへ行こう。
-以前行った場所に戻ってみるのもいいかもしれない。\b
-\o小鈴
+On the way to that mountain, the Puppet Liberation Front returned. I beat them up and got a boat.\b
+Then it was back to climbing the mountain. Thanks to the boat, I could ignore the stairs.\b
+\cThe Hakurei Shrine Maiden found me again. The only thing that I learned is that Salvo is disgusting.\b
+I got this weird map with eyes all over it in a destroyed village.\b
+\cSince there was nothing else to be learned about the incident, I'll just move on.
+I hate retracing my steps, but I might have to do that.\b
+\oKosuzu
 \s114_01
-人形解放戦線・・・。\b
+The Puppet Liberation Front...?\b
 \x00
-この本は 本当につい最近書かれたものなんですね。\b
+This has to have been written quite recently, then.\b
 \x05
-でもなんで わざわざ製本してあるんだろう・・・？
+But why would they bother using all of these books to write only this in...?
