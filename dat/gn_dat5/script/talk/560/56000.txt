@@ -1,12 +1,12 @@
 
 
-どうやら幻想入りしてしまったらしい。\b
-\cこのままでは帰れないと教えてもらった。
-この人形の騒動をどうにかしないといけないみたいだ。\b
-\cとりあえず 人間の里に向かうといいと教えてもらったので 行ってみようと思う。\b
-\o小鈴
+Apparently I've entered Gensokyo somehow.\b
+\cI also can't go home. That's just great.
+Not until I resolve this "Puppet" incident, that is.\b
+\cI've been told to go over to the Human Village. Seems like that's the only way to begin.\b
+\oKosuzu
 \s114_01
-これは 誰かの日記みたいですね。\b
-人形の騒動とも書かれていますし 今幻想郷で起きている騒動と関係しそうな気がします。\b
+This seems to be someone's diary.\b
+Seeing how a similar event's mentioned in it, I think it could be related to the Puppet incident.\b
 \x05
-それにしても 幻想入りとはどういう意味なんでしょう？
+Even then, how does entering Gensokyo like they did work?
