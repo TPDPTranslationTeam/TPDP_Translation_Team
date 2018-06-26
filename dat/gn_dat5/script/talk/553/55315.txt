@@ -2,7 +2,7 @@
 Ringo
 126
 //地上には美味しいものがいっぱいだねぇ。\b
-There's so many tasty things on the Earth.\b
+There are so many tasty things on Earth.\b
 \x03
 //さて たらふく食べた後は 腹ごしらえといこうか。
-Well, after I ate a lot, let's have some meal.
+Well, after I eat a lot, I'll make some for you.
