@@ -1,14 +1,14 @@
 
 
 The Myouren priest had some info, too.\b
-That 3rd world? Apparently it's right behind the Hakurei Shrine, and is called Makai.\b
-Which sounds ridiculous. I would've noticed it by now. I guess I have no choice but to try.\b
-\cThere was also a door down there, but I don't know how to open it. This is the new 1-foot-tall shrub.\b
+That third world? Apparently it's right behind the Hakurei Shrine, and is called Makai.\b
+Which sounds ridiculous. I would've noticed it by now. I guess I have no choice but to try to find it.\b
+\cThere was also a door down there, but I don't know how to open it. This is the new 30-centimeter-tall shrub.\b
 \oKosuzu
 \s114
 Makai... I've read about it long ago.\b
 \x01
-It's an endless void with heinous monsters out for everyone who wanders in there's blood...\b
+It's an endless void with heinous monsters out for the blood of anyone who enters it.\b
 \x03
 It's just a fairy tale, though. It's not real.
 
