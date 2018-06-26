@@ -1,19 +1,19 @@
 
 
-Well I found another unexpected town, even by the underground's standards.\b
+Well, I found another unexpected town, even by the underground's standards.\b
 This one's more modern than Gensokyo, though, that's for sure.\b
 \cI was also expecting scary monsters, not nice sprites. Everyone's actually peaceful.
-Which makes it the only possible place that an incident like this would begin at.\b
-\cThere are special puppets here too that I haven't seen yet, so more points for that theory.\b
+Which makes it the only possible place that an incident like this would begin from.\b
+\cThere are special Puppets here too that I hadn't seen yet, so more points to that theory.\b
 Time to infiltrate that giant castle and resolve this incident.\b
 \oKosuzu
 \s114_05
-...just what is this whole story?\b
+...Just what is this whole story?\b
 Did anyone go to Makai other than you?\b
 \x01
 Maybe you wrote it, \p?\b
 \x00
-Yeah, I wouldn't think so either!
+Yeah, I didn't think so either!
 
 //Å‰‚Í•µˆÍ‹C‚Ìˆá‚¢‚ÉŒË˜f‚Á‚½B\b
 //–‚ŠE‚ÌŠX‚Í ‹ß‘ã•—‚ÌŒš•¨‚ª—§‚¿•À‚Ñ Œ¶‘z‹½‚Æ‚Í‘åˆá‚¢‚¾B\b
