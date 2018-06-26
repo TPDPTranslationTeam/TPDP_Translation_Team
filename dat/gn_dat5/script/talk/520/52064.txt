@@ -1,5 +1,5 @@
 
 
-おめでとうございます！\b
-とうとう \t連勝を達成しましたね！\b
-\c\t連勝の 賞品はこちらになります！
+Amazing job!\b
+You've achieved a winning streak of \t after your hard work!\b
+\cHere's the special prize for winning \t times in a row!
