@@ -6,7 +6,7 @@ Y-You are....\b
 い いや いつまでも怖気づく あたいじゃあないわ！\b
 N-No, I'm not getting intimidated at all!\b
 あたいの最狂の力！今一度味わうがいい！\b
-My Ultimate Madness Power! You're gonna have a taste of this once more!\b
+My Ultimate Madness Power! You're gonna have a taste of it once more!\b
 \x01
 イッツ ルナテッィクターイム！
 IT'S LUNATIC TIME!
