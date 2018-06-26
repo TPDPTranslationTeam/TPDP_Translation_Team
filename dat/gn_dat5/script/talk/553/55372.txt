@@ -1,6 +1,6 @@
-霊夢
+Reimu
 1_03
-ふぅ やっと\pに勝てたわ。
-・・・ふふっ 勝負に勝ってこんなに嬉しいのはいつぶりかしらね。\b
+Finally. I've won to you, \p.
+...Since when did I felt this satisfied after winning a fight?\b
 \x00
-\p またね。たまには神社でお茶でも飲みましょう。
+See you, \p. Come again to the shrine once in a while and have some tea with me.
