@@ -5,4 +5,4 @@ Ringo
 There are so many tasty things on Earth.\b
 \x03
 //‚³‚Ä ‚½‚ç‚Ó‚­H‚×‚½Œã‚Í • ‚²‚µ‚ç‚¦‚Æ‚¢‚±‚¤‚©B
-Well, after I eat a lot, I'll make some for you.
+Well, after I eat a lot, I'll leave some for you.
