@@ -1,11 +1,11 @@
 
 
-The underground city is a lot less cramped and damp than I thought.
-It's like the surface, but a lot less bright without a sun. Who would've guessed?\b
-\cBesides that, there was no real difference, even the Puppet Liberation Front is here.\b
+The underground city is a lot less cramped and damp than I expected.
+It's like the surface, but a lot less bright and without a sun. Who would've guessed?\b
+\cBesides that, there is no real difference; even the Puppet Liberation Front is here.\b
 \cI guess I have to beat them up again.\b
 I'm quite sure they know something about the incident.
-They even might be the culprit in the first place.\b
+They might even be the culprit in the first place.\b
 \cMaybe the not-radioactive-and-dangerous-at-all Underground Center has some answers.\b
 \oKosuzu
 \s114
@@ -13,7 +13,7 @@ The Puppet Liberation Front was in the underground city.\b
 \x05
 That must mean the author was a strong youkai that can survive down there.\b
 \x03
-Which explains why it's writing in a magical book.
+Which explains why they're writing in a magical book.
 
 //地底の都には驚いた。
 //広大な空間に家屋が立ち並び 薄暗いこと以外は地上と変わらないように見える。\b
