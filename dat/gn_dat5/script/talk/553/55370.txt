@@ -4,7 +4,7 @@ Reimu
 //・・・やっぱり。
 ...I knew it.
 //\pならここまで来ると思っていたわよ。\b
-I knew you would come this far.\b
+I knew you would come this far, \p.\b
 \x05
 //あなたとこうして戦うのも何度目かしら？
 How many times did we fight?
