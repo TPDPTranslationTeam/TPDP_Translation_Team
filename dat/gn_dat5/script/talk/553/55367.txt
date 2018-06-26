@@ -12,23 +12,23 @@ Maribel
 ... You came here attracted by fantasies, didn't you?\b
 \x00
 //私と蓮子も同じ。
-So do we.
+So did we.
 //ここが夢かどうかなんて分からない。\b
-We don't know this is a dream or not.\b
+We don't know if this is a dream or not.\b
 //だから 似てる気がするのかもしれないわね。\b
-I think that's why we feel familiar with you.\b
+I think that's why we feel familiar around you.\b
 //\o蓮子
 \oRenko
 \j56
 //何故私たちはここに来たのか。
 Why are we here?
 //ここはどこなのか。\b
-What this place is?\b
+What is this place?\b
 //・・・出会ってみて理解したわ。\b
 ... Now I know seeing you.\b
 \x03
 //ここに呼ばれたのは あなたなのね？\b
-You're were called to be here, right?\b
+You were called to be here, right?\b
 //\oメリー
 \oMaribel
 \j57
@@ -53,4 +53,4 @@ Renko & Mary
 //夢の世界を！\b
 //現実に変えるのよ！
 Let us change!\b
-Make the world of dreams into reality!
+Make the world of dreams into a reality!
