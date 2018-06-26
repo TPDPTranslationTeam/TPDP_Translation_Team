@@ -1,15 +1,15 @@
 
 
-紅魔館に向かう予定だったが 厄介事に巻き込まれてしまった。\b
-\cやはり あの二人は仲が悪いらしい。
-まぁ 仲裁のお礼で 道を塞いでいた木をどうにか出来たので よしとしよう。\b
-\cその後 森で聞いた紅魔館の魔女に話を聞いてみたが 人形とは関係がなさそうだった。\b
-\c館主に 妖怪の山を勧められたので 次はそこに向かうことにする。\b
-・・・運命って何なのだろう？\b
-\o小鈴
+I was going to go to the SDM, but I was told to go mediate a conflict first.\b
+\cThese two people hated each other a lot, but the shrub was finally defeated.
+Turns out it's so invincible, they had to engineer a special doll whose sole purpose is to cut it.\b
+\cThe witch in the mansion had experience making Puppets, apparently, but not anything like this.\b
+\And the owner told me to go to the Youkai Mountain. There better not be many stairs.\b
+She said she could control fate, but what is fate to someone that can simply change it?\b
+\oKosuzu
 \s114_00
-この本は 人形について調べている者が 書いたように感じますね。\b
+The person who wrote these must be trying to find out the source of the incident.\b
 \x01
-それにしても なぜ一項以外はページは真っ白なんだろう？\b
+Even so, why is this page the only one with any writing on it?\b
 \x04
-あぶり出しでしょうか？
+Maybe there was another book that overflowed into this one?
