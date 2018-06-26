@@ -1,33 +1,33 @@
-蓮子
+Renko
 56
-あれ どこかで見たような。
-気のせいだったかしら。\b
-\oメリー
+Did I see you somewhere?
+Or was it just my imagination?\b
+\oMaribel
 \j57_03
-・・・きっとあなたも 幻想に惹かれてここに来たのね？\b
+... You came here because you were attracted by fantasies, right?\b
 \x00
-私と蓮子も同じ。
-ここが夢かどうかなんて分からない。\b
-だから 似てる気がするのかもしれないわね。\b
-\o蓮子
+So were we.
+We don't know if this is a dream or not.\b
+I think that's why we feel familiar around you.\b
+\oRenko
 \j56
-何故私たちはここに来たのか。
-ここはどこなのか。\b
-・・・出会ってみて理解したわ。\b
+Why are we here?
+What is this place?\b
+... Now I know seeing you.\b
 \x03
-ここに呼ばれたのは あなたなのね？\b
-\oメリー
+You were called here, right?\b
+\oMaribel
 \j57
-それなら 私たちの目的は一つ。\b
+Our purpose is now clear.\b
 \x01
-あなたに勝つことによって 私たちはきっと証明される。\b
-私たちが ここに居た証を示すことが出来る！\b
+Our victory will be proven by winning against you.\b
+We can prove our existence in here!\b
 \x00
-・・・さぁ 始めましょう 蓮子！\b
-\o蓮子
+... Let's begin, Renko!\b
+\oRenko
 \j56
-えぇ メリー！\b
-\o蓮子&メリー
+Yeah, Mary!\b
+\oRenko & Mary
 \j971
-夢の世界を！\b
-現実に変えるのよ！
+Let us change!\b
+Make the world of dreams into a reality!
