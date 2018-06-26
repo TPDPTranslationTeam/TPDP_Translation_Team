@@ -1,6 +1,6 @@
-橙
+Chen
 47_03
-いらっしゃい！\b
-ここは 人形舞闘会の受付だよ！\b
+Welcome!\b
+I'm the receptionist for the Puppet Exhibition!\b
 \x00
-\c参加要項を 聞きに来たの？
+\cDid you come to ask about the rules?
