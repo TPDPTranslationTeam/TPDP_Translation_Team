@@ -3,11 +3,9 @@ Akyuu
 Head south of the village until 
 you see a bamboo forest. Eientei 
 is located within there.\b
-Good luck.\b
+Good luck.
 \x00
-Which reminds me, the village draper 
-apparently reopened their shop.\b
-It even started servicing 
-costumes for Puppets of any kind.\b
+Which reminds me, the village draper apparently reopened their shop.\b
+It even started servicing costumes for Puppets of any kind.\b
 \x03
 Why don't you go there, \p?
