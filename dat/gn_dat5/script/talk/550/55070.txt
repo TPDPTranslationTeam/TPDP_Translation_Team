@@ -2,9 +2,9 @@
 Yuki
 032_02
 //な なんで勝てないのよ～。\b
-Why, why couldn't I win!?\n
+Why? Why couldn't I win!?\n
 //また特訓しなきゃいけないじゃない。\b
 I must to go back to training a lot!\b
 \x06
 //・・・何よ 私に勝ったって何も出ないわよ。
-...Hey, beating me won't give you anything.
+...Hey, beating me won't get you anything.

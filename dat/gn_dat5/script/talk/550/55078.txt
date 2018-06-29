@@ -2,16 +2,16 @@
 Shinki
 036_03
 //ふふ 驚いてるわね。
-You're surprised, isn't it?
+You're surprised, aren't you?
 //暇だったから参加してみたのよ。\b
 I joined the tournament because I was bored.\b
 \x00
 //外の世界のお人形さんも 可愛い子ばかりね。\b
 Puppets outside are cute too.\b
 //人形の可愛さに満ち溢れたこの世界 これ程までに幸せな光景はないわ。\b
-I have never seen a happy scenery than the world full of Puppets' cuteness.\b
+I have never seen more happy scenery than the world full of Puppets' cuteness.\b
 \x03
 //さぁ 人間さん。
 Now, human.
 //あなたの可愛い人形さんも見せて欲しいわっ！
-Let me show your cutie pie Puppets!
+Let me show you my cutie pie Puppets!

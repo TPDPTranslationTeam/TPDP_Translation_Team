@@ -2,9 +2,9 @@
 Gengetsu
 027
 //そういえばあなたと一人で会うのは初めてだっけ。\b
-I think this is the first time seeing you alone.\b
+I think this is my first time seeing you by myself.\b
 \x3
 //夢月には悪いけど 存分に楽しませて貰おうかな！\b
-Sorry for Mugetsu, but let me have fun a lot!\b
+Sorry for Mugetsu, but you and I can still have fun!\b
 //さ 私と一緒に遊びましょっ？
 Hey, wanna play with me?

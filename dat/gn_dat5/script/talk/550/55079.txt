@@ -6,7 +6,7 @@ Playing with you won't bore me at all.\b
 //また魔界にいらっしゃいな。
 Come again to Makai.
 //たくさん おもてなししてあげるわ。\b
-I will greet you a lot.\b
+I will greet you well.\b
 \x03
 //・・・お人形さん でね？
 ...Of course with Puppets.

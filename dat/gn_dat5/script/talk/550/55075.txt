@@ -2,7 +2,7 @@
 Yumeko
 035
 //‚ ‚È‚½‚Í ‚±‚±‚Å‘Şê‚æB\b
-You will be off the stage at here.\b
+You will exit the stage here.\b
 \x01
 //„‚ª’¼X‚Éè‚ğ‰º‚µ‚Ä‚ ‚°‚é‚Ì‚¾‚©‚ç‚ÁI
-Because you will be beaten by myself, right now, right here!
+Because you will be beaten by me, right here, right now!

@@ -2,7 +2,7 @@
 Konngara
 009
 //なるほど 話は嘘ではなかったのだな。\b
-I see, the stories are not exaggerated.\b
+I see, the stories were not exaggerated.\b
 \x03
 //あぁいや失敬 人間にしてはあまりにも面白い噂だったものでな。
-Oh, excuse me. The stories were too much for a human.
+Oh, excuse me. I shouldn't have doubted the tales of your exploits.

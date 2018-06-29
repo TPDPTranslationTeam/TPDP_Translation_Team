@@ -2,7 +2,7 @@
 Chiyuri
 018
 //ご主人様にデータになるサンプル持ってこいって言われて参加したけど・・・\b
-My master told me gather sample datas so I joined this...\b
+My master told me gather sample data, so I joined this...\b
 \x03
 //うん お前でいいぜ。
-Yeah, you're good.
+Yeah, you're good enough.

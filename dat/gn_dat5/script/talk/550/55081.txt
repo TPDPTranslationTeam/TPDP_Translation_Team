@@ -5,4 +5,4 @@ Rumia
 Is \p my opponent?\b
 \x03
 //今日は人形解放戦線じゃなくて 人形遣いとして勝負よ！
-I'll fight you as a Puppeteer, not Puppet Liberation Front.
+I'll fight you as a Puppeteer, not part of the Puppet Liberation Front.

@@ -2,6 +2,6 @@
 Kana
 016
 //ここは変な人ばっかりねー。\b
-There's so many weird people.\b
+There are so many weird people here.\b
 //あなたもそうなのかしら？
-Are you so too?
+Are you weird too?

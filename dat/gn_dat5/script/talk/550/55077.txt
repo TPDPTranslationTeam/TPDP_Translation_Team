@@ -4,4 +4,4 @@ Yumeko
 //あぁ ようやく勝つことが出来ましたわ。\b
 Ah, I finally won.\b
 //もう少し前だったら良かったんだけどね。
-I wish I could win little a bit earlier.
+I wish I could have won little a bit earlier.

@@ -2,7 +2,7 @@
 Sara
 029_01
 //‚ ‚È‚½‚ªŸ‚Ì‘Šè‚Æí‚¤–‚Í‚È‚¢‚íI\b
-You will not see fighting the next opponent!\b
+You will not be fighting the next opponent!\b
 \x03
 //‚¾‚Á‚Ä‚±‚±‚Å„‚É•‰‚¯‚é‚©‚ç‚ËI
 Because you will lose to me here!

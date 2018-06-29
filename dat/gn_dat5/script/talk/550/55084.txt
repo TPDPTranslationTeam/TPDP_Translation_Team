@@ -2,7 +2,7 @@
 Daiyousei
 038_01
 //妖精の本気 見くびらない事ね！\b
-Don't underestimate the full strength of fairy!\b
+Don't underestimate the full strength of a fairy!\b
 \x00
 //次こそ \pに勝つわ！
-I will win \p this time!
+I will defeat \p this time!

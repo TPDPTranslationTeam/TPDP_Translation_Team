@@ -7,7 +7,7 @@ We are Shingyoku.\b
 //キミが僕らの相手だね。
 Seems like you're our opponent.
 //ふふ 表裏一体の私たちに勝てるかしら？\b
-Can you stand us, the master of duality?\b
+Can you stand against us, the master of duality?\b
 \x01
 //我らのシンなる力はギョクの如く。勝負！
-Behold our power as perfect as a sphere!
+Behold our power, as perfect as a sphere!

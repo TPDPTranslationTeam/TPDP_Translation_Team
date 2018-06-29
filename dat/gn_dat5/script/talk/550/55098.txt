@@ -4,4 +4,4 @@ Patchouli
 //もっと学びなさい。\b
 Learn more.\b
 //力を持っていたって 使う術が分からなかったら意味がないわ。
-You need to know the way to wield the power.
+You need to know the way to wield that power.

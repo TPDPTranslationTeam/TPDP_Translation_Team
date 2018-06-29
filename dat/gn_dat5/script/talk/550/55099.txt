@@ -4,4 +4,4 @@ Sakuya
 //今日の私は押せ押せモードなの。\b
 I'm in go-go mode today.\b
 //あなたがここまでに来た時間 全て無駄にしてあげるわ。
-I will waste your all the time to reach this far.
+You've wasted your time coming this far.
