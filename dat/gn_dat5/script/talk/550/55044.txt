@@ -1,5 +1,8 @@
-夢美
+//夢美
+Yumemi
 019_01
-あなたは弱いから必要ないわ。\b
+//あなたは弱いから必要ないわ。\b
+I didn't want a weak Puppeteer like you.\b
 \x00
-強くなったらまた来てね。
+//強くなったらまた来てね。
+Come back again after you became stronger.
