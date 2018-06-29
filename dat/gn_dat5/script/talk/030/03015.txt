@@ -1,5 +1,5 @@
 
 
-We've witnessed dangerous youkai wandering
-up ahead.\b
+We've witnessed dangerous
+youkai wandering up ahead.\b
 You should go somewhere else.\b
