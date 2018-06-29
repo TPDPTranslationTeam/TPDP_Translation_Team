@@ -1,12 +1,16 @@
 Medicine
 072_06
 How come I didn't win?\b
-Even though humans never hold onto their dolls...\b
+Even though humans 
+never hold onto their dolls...\b
 \x05
 No matter what it's the same.\b
-They'll play with them when they want to play, and when they lose interest they get thrown away.\b
+They'll play with them when they want 
+to play, and when they lose 
+interest they get thrown away.\b
 \x02
-Yuuka even told me how to get revenge on the humans too...\b
+Yuuka even told me how 
+to get revenge on the humans too...\b
 ...\b
 \x01
 Oh forget it.\b

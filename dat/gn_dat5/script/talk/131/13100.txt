@@ -1,26 +1,18 @@
-//白蓮
 Byakuren
 103
-//あら いらっしゃい。\b
 Oh welcome.\b
-//この寺に何かご入用ですか？\b
 What are you looking for in this temple?\b
 \x01
-//・・・なるほど。\b
 ...I see.\b
-//幻想郷以外の世界の情報を求めて ここにたどり着いたということですね。\b
-You came here to learn of realms other than Gensokyo.\b
+You came here to learn 
+of realms other than Gensokyo.\b
 \x00
-//確かに私でしたら そういった情報も知っています。\b
 Indeed. I know of these places.\b
 \x01
-//しかし そう簡単に人に教えられるものでもないのです。\b
 But I won't tell you easily.\b
 \x03
-//だから こういうのはどうでしょう。\b
 First, let me test you.\b
-//私との人形対戦で勝てたら 情報を教えてさしあげます。\b
-I will give you your information only if you beat me in a Puppet battle.\b
+I will give you your information 
+only if you beat me in a Puppet battle.\b
 \x01
-//ただし・・・
 But before that...
