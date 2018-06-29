@@ -1,10 +1,6 @@
-//響子
 Kyouko
 107_02
-//負けたぁ！\b
-I lost... and to introvert no less!\b
-//まだまだ修行不足なのね・・・。\b
+I lost... and to an introvert no less!\b
 I still need more training...\b
 \x00
-//ところで住職さんに何か用なの？
 By the way, what's our master up to?
