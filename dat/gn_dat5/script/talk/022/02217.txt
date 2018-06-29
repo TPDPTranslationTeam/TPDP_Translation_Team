@@ -4,7 +4,7 @@ Sanae
 the manager of the barrier, Reimu.\b
 \x05
 From what she said, it's very unlikely
-that she'll lower the barrier for you.\b
+that she'll lower the barrier for you.
 \oMarisa
 \s2
 Don't you worry!
@@ -12,4 +12,4 @@ Don't you worry!
 For me it'll be a piece of cake!\b
 \cYou guys just enjoy your sunshine
 here and I'll get it done before
-you even put on your sunglasses.\b
+you even put on your sunglasses.
