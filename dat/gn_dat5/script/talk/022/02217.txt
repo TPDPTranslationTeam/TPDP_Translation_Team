@@ -5,7 +5,6 @@ the manager of the barrier, Reimu.\b
 \x05
 From what she said, it's very unlikely
 that she'll lower the barrier for you.
-\\Translation check: Is condense really the best word to use here?
 \oMarisa
 \s2
 Don't you worry!
