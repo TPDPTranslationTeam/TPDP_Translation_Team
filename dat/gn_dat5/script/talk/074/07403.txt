@@ -14,7 +14,7 @@ Your job will be to mediate a quarrel
 between our princess and another person.\b
 \x02
 If it were just the princess this would've 
-already been dealt with but,\b
+already been dealt with, but\b
 two people at the same time using Puppets is
 a bit too much deal with.\b
 I'd like you to stop one of them.\b

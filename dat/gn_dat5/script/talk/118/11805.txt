@@ -4,5 +4,6 @@ What is the matter \p?\b
 \x04
 The suzuran doll went through here?\b
 \x00
-Since this is suzuran you speak of, how about the Suzuran Field?\b
+Since this is suzuran you 
+speak of, how about the Suzuran Field?\b
 Just head down Route 6.
