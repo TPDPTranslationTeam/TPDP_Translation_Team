@@ -1,8 +1,8 @@
 Sanae
 85_03
-Hi, \p! Some good news for you.
-We're seriously dealing with the incident
-now.\b
+Hi, \p! Some good news for
+you. We're seriously dealing
+with the incident now.\b
 \x00
 We should be able to send you home very
 soon if everything goes right.\b
