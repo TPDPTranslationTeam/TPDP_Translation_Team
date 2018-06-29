@@ -1,16 +1,10 @@
-*早苗
 Sanae
 85_05
-*霊夢さんに話を聞きましたが やっぱり結界に穴を開けることは まだできないみたいです。\b
 From her tone I'm pretty sure she won't
 open the breach for you just yet.\b
 \x04
-*霊夢さんですか？\b
-Where is Reimu now you say?\b
+Where's Reimu now you say?\b
 \x00
-*ひと通り話したら またどこかへ行っちゃいました。\b
 She went out somewhere after the briefing.\b
 \x00
-*あ 人里なら 神社を出て西ですよ。
-Human Village? It's to the west of Shrine.
-//Don't know if this one is used instead. Will have to test later.
+The Human Village? It's to the west of Shrine.

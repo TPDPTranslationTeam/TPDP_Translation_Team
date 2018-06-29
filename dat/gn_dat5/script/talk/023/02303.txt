@@ -1,12 +1,14 @@
 Sanae
 85_03
-If you already have six Puppets in your party,
-any new Puppets obtained will be stored in this box\b
+If you already have six Puppets in
+your party, any new Puppets
+obtained will be stored in this box.\b
 \x06
-You can open it and swap out Puppets in the box with
-those in your party.\b
+You can open it and swap out Puppets
+in the box with those in your party.\b
 \x00
-You can access the box by interacting with the 
-Akyuu Puppets you'll find on your adventure. \b
+You can access the box by
+interacting with the Akyuu Puppets
+that you'll find on your adventure. \b
 \x03
 That's all I've got for you. Good luck on your trip!

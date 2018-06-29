@@ -1,8 +1,8 @@
 Sanae
 85_03
-You can use these to "seal" a wild Puppet.\b
-It'll join you after you defeat it if
-it is "sealed"!\b
+You can use these to "seal" a
+wild Puppet. It'll join you after
+you defeat it if it is "sealed"!\b
 \x00
 Let me read the manual for you.\b
 \o
@@ -11,8 +11,8 @@ Let me read the manual for you.\b
 Seal Thread from the battle menu.\b
 This will cause the Puppet to be 'sealed'.\b
 A wild Puppet that is sealed will
-join you after it is defeated;\b
-however, you cannot use Seal Threads
+join you after it is defeated.\b
+However, you cannot use Seal Threads
 on Puppets that are owned by others."\b
 \oSanae
 \s85_06
