@@ -1,12 +1,12 @@
 Sanae
 85_01
-Every conflict in Gensokyo is solved thro-
-ugh duels. This is our rule.\b
+Every conflict in Gensokyo is solved
+through duels. This is our rule.\b
 \x00
 Usually we duel with danmaku, but Puppet
-duels have now become the mainstream method as a 
-result of this incident.\b
+duels have now become the mainstream
+method as a result of this incident.\b
 \x05
 Speaking of which, I have no idea why I
-got kicked out for being the backup role...
+got stuck with the backup role...
 \\Check translation of this section.  Was she kicked out for "being the backup" or was she kicked out "despite being the backup?"
