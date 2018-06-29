@@ -5,4 +5,4 @@ You're clearly out of your league here.\b
 \cFine then.\b
 I will defeat you.\b
 \x00
-I'll fight you with my full power.
+I'll fight you with full power.

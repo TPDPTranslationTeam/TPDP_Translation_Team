@@ -1,6 +1,4 @@
 Akyuu
 76
-That's right! How about relying 
-on \p for this?\b
-If it's this person, 
-perhaps they'll assist you.
+That's right! How about relying on \p for this?\b
+If it's this person, he'll perhaps give you the favor of assistance.

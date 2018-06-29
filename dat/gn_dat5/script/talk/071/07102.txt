@@ -5,10 +5,7 @@ So you'll do the favor!\b
 Thanks, I owe you one.\b
 \oAkyuu
 \s76
-Head south of the village 
-until you see a bamboo forest. 
-Eientei is located within there.\b
+Head south of the village until you see a bamboo forest. Eientei is located within there.\b
 \x03
-I'll tell the southwest gatekeeper 
-to give you permission to go through.\b
+I'll tell the southwest gatekeeper to give you permission to go through.\b
 Good luck.

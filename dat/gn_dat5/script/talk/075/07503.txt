@@ -6,8 +6,8 @@ I've lost the will to fight.\b
 \x00
 Um... I'm sorry for causing trouble.\b
 Apparently I was rampant.\b
-I'm going back to the Bamboo Forest now.\b
+I'm going back to the bamboo forest now.\b
 \x03
-If you have anything else 
-for me, come by anytime.\b
+If you have anything else for me, come by 
+anytime.\b
 I want to have a rematch with you.

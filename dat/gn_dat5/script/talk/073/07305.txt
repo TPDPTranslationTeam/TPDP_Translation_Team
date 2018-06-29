@@ -1,5 +1,4 @@
 
 
 Did you come for a medical examination?\b
-Ms. Eirin's medical office is 
-on the west side of the mansion.
+Ms. Eirin's medical office is on the west side of the mansion.
