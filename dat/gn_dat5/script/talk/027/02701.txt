@@ -1,9 +1,9 @@
 Akyuu
 76
-Please enjoy your time here in the village while
-we continue to research the matter.\b
-We will inform you when we make progress in
-our research.\b
+Please enjoy your time here in the village
+while we continue to research the matter.\b
+We will inform you when we make
+progress in our research.\b
 \x03
 We don't have anything remarkable,\b
 but I bet you will find something that
