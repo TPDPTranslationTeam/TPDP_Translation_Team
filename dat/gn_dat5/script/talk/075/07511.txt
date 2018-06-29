@@ -2,5 +2,5 @@
 
 You're \p, right?
 Master told me about you.\b
-\cDid you want me to guide you through the 
-forest?
+\cDid you want me to guide you 
+through the forest?
