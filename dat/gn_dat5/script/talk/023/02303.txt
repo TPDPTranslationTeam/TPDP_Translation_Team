@@ -11,4 +11,5 @@ You can access the box by
 interacting with the Akyuu Puppets
 that you'll find on your adventure. \b
 \x03
-That's all I've got for you. Good luck on your trip!
+That's all I've got for you.
+Good luck on your trip!

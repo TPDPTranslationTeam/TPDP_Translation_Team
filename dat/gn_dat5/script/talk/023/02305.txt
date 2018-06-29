@@ -7,4 +7,5 @@ Where's Reimu now you say?\b
 \x00
 She went out somewhere after the briefing.\b
 \x00
-The Human Village? It's to the west of Shrine.
+The Human Village? It's to
+the west of the Shrine.
