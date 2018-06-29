@@ -1,8 +1,10 @@
 Reisen
 64
-Well then, I'll go tell master about his arrival.\b
+Well then, I'll go tell Master 
+about your arrival.\b
 \x01
-Now Tewi, will you properly show this person around?
+Now Tewi, will you properly 
+show this human around?
 \oTewi
 \j63
 Fiiine. I got it.
