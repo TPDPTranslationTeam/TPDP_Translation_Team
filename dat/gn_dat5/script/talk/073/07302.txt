@@ -1,9 +1,8 @@
 Tewi
 63_02
 ... So how good are you?\b
-Is it really true what 
-they say about your skill?\b
-Nah, I'd say that's pretty suspicious.\b
+Is it really true what they say about your skill?\b
+I say that's very suspicious.\b
 \x00
-\cIn that case, how about battling me first?\b
-I just gotta make sure, is all.
+\cIn that case, how about battling me first.\b
+I just gotta make sure is all.
