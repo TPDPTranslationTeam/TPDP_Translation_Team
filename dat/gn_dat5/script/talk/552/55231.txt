@@ -10,7 +10,7 @@ Have I seen you before...?\b
 Yeah, I don't remember you!\b
 \x00
 //\cさぁ 幽霊も妖精も覚えてないあなたも 私と一緒にフュージョンしましょ？
-\cNow phantom, fairy, you, the person who I don't remember, everyone won't you fuse with me?
+\cNow phantom, fairy, you, the person who I don't remember, everyone, won't you fuse with me?
 
 //Final line is combination of following:
 //究極の核融合で身も心も幽霊も妖精もフュージョンし尽くすがいい！ (SA Reimu&Yukari)
