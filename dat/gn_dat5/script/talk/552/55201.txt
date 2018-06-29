@@ -2,7 +2,7 @@
 Kanako
 86_01
 //我は山の神 八坂神奈子であるぞ！\b
-Behold, Kanako Yasaka, the goddess of moutain!\b
+Behold, Kanako Yasaka, the goddess of mountain!\b
 \x00
 //・・・って\pか。\b
 ... Oh, it's \p.\b

@@ -2,6 +2,6 @@
 Suika
 068_03
 //人も鬼も妖も萃まり 種を気にせず己の力を誇示する大宴会。\b
-In this big party, humans, oni, and youkai all gather together to show off their strength without considering their own limits.\b
+In this big party, humans, oni, and youkai all gather together to show off their strength, regardless of their species.\b
 //これほど楽しい事は無いねぇ。
 There can't possibly be anything greater than this.
