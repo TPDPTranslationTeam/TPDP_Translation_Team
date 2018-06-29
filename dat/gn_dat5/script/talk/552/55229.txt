@@ -5,9 +5,9 @@ Rin
 Haha, just kidding.\b
 \x01
 //でも残念だねぇ。
-But you're unfortunate.
+But how unfortunate.
 //あんたならあたいの良いコレクションに・・・\b
-You can make a good collection of mine...\b
+You could've made a excellent addition to my collection...\b
 \x03
 //あはは 冗談だってば。
 Ahaha, just kidding.

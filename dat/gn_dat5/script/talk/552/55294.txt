@@ -2,7 +2,7 @@
 Kagerou
 118_01
 //私を前にして逃げないなんて 生意気な人間ね。\b
-What a saucy human not running away from me.\b
+What a rowdy human, not running away from me.\b
 \x03
 //思い出させてあげる 妖怪の恐怖をね！
 I shall remind you the terror of youkai!

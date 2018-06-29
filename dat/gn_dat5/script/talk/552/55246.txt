@@ -2,8 +2,7 @@
 Murasa
 101
 //宜候！負けっぱなしは船長として納得いきませんね！\b
-Anchors aweigh! I can't concent to be keep losing as a captain!\b
-\b
+Anchors aweigh! I can't concent to losing as a captain!\b
 \x01
 //さぁ 大船のつもりでいるその船を 沈めてあげましょう！
-Now I'll sink you feeling as if you're aboard a great ship!
+Now I'll sink your pride as if you're aboard a great ship!

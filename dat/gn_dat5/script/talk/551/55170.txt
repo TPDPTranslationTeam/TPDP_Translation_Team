@@ -5,7 +5,7 @@ Medicine
 Looks like I won this time!\b
 \x00
 //安心するといいわ！人形を解放しろだなんて言わないもの。\b
-You're fortunate this time, I won't say like "Liberate your Puppets!"\b
+Lucky for you, I won't say something like "Liberate your Puppets!"\b
 \x03
 //今は 人形や皆と 一緒に遊ぶのが楽しいんだから。
 I'm just having fun playing with Puppets and everyone now.

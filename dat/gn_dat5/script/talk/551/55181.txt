@@ -4,7 +4,7 @@ Eiki
 //・・・私では止められませんね。\b
 ... I couldn't stop you. \b
 //\cだが このままでは いずれ身を滅ぼしてしまう。\b
-\cBut you will destroy yourself if you continue this.\b
+\cBut you will destroy yourself if you continue like this.\b
 //もう少し 自分の生活を見つめ直しなさい。\b
 You should reconsider your life.\b
 \x00

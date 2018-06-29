@@ -2,9 +2,9 @@
 Tenshi
 89
 //勝負はいつだって運否天賦。
-Battles are always matter of luck.
+Battles are always a matter of luck.
 //運だって操れるくらいじゃないとね。\b
-You must be strong as you can control it.\b
+You must become strong in order to control your luck.\b
 \x03
 //精進するといいわよ。
 You need to train more.

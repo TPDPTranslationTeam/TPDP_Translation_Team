@@ -2,7 +2,7 @@
 Kaguya
 066
 //こうして挑んでは敗れ去っていく者を見ていると昔を思い出すわね。\b
-It reminds me of old, old times seeing all these challengers losing to me.\b
+I'm reminded of the old, old times, seeing all those challengers fail my impossible requests.\b
 \x03
 //さぁ あなたは私の難題を解いてくれるのかしら？
-Now, can you prove my requests impossible or not?
+Now, can you complete my impossible requests?

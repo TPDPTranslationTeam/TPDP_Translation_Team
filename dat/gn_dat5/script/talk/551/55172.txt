@@ -7,7 +7,7 @@ Yuuka
 I look forward to see you next time.\b
 \x04
 //・・・え？結局私の目的は何だったって？\b
-... You say "what was my purpose after all"?\b
+... You ask "What was my purpose after all?"\b
 \x03
 //知らぬが花 よ。
-There's a thing that is beautiful kept in secret.
+Ignorance is bliss, don't you think?

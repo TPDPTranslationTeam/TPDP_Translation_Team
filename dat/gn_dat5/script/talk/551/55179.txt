@@ -2,9 +2,9 @@
 Komachi
 74_02
 //おっと ここで終わりかい？\b
-Hey, are you over here?\b
+Oops... Did I end it too early?\b
 \x00
 //それなら酒でも呑もうじゃないか。
-Let's drink some sake together.
+Oh well, let's continue drinking sake.
 //いいさ 今日はオフだし。
-I'm okay, it's day off for me today.
+It's fine, it's my day off today.

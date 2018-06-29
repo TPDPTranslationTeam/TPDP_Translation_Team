@@ -2,9 +2,9 @@
 Yukari
 55_02
 //・・・流石に疲れていたようですね。\b
-... No wonder you were tired.\b
+... No wonder. You were tired.\b
 \x01
 //戻りなさい \p。
-Go back.
+Go back and rest for now, \p.
 //今のあなたを この先に行かせることはできないわ。
-I can't let you through to the next.
+I can't let you continue on like this.

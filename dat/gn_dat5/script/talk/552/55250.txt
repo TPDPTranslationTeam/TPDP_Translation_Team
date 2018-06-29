@@ -2,6 +2,6 @@
 Shou
 102_05
 //あ あれ 私の宝塔知りませんか？\b
-Uh, did you see my pagoda?\b
+Uh, have you seen my pagoda?\b
 //これではまた怒られてしまいます・・・！
 If I can't find it, I'll get scolded again...!

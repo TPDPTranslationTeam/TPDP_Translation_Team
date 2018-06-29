@@ -5,6 +5,6 @@ Kanako
 Behold, Kanako Yasaka, the goddess of moutain!\b
 \x00
 //・・・って\pか。\b
-... Oh, it's you.\b
+... Oh, it's \p.\b
 //信仰集めるために参加してるのさ。邪魔するなら容赦ないよ。
-I entered this for more faith. No mercy if you're intefering me.
+I entered this to gather more faith. If you plan to interfere, I'll show you no mercy.

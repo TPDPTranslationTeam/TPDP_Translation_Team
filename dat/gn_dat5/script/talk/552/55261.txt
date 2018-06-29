@@ -5,7 +5,7 @@ Kyouko
 Good Morning!!\b
 \x01
 //あ 間違えた。戦う前は・・・そうだ！\b
-No, for before the match...\b
+Wait, before the match...\b
 \x03
 //よろしくおねがいしまーす！！
 Good luck, have fun!!

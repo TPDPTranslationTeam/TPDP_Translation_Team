@@ -2,6 +2,6 @@
 Wriggle
 060_02
 //うー どうすれば勝てるんだろう・・・。\b
-Uh... How can I win...?\b
+Uh... How do I win...?\b
 //また皆と作戦会議しなきゃ。
-I need to have a planning again.
+Two weeks of planning... wasted. Time to do it all over again...

@@ -2,7 +2,7 @@
 Mokou
 067_02
 //ここでも勝てないかー。\b
-I couldn't win against you here too.\b
+I couldn't win against you here either.\b
 \x03
 //これは私のライバルがまた増えたかな。
 I guess you're my new rival.

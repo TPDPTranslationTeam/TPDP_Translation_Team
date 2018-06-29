@@ -7,4 +7,4 @@ It's been a while.\b
 ...Don't be surprised.\b
 \x00
 //ここで会ったからには あなたに眠る恐怖の記憶 もう一度起こしてあげましょう。
-Since we've met here, let me revive your memories of terror once again.
+Since we're here, let me revive your memories of terror once again.

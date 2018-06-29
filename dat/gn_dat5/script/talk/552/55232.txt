@@ -7,4 +7,4 @@ Oh? Was my energy output enough?\b
 //うーん まぁいっか。
 Well, whatever.
 //じゃーねー 覚えてないあなた！
-Bye, the person I don't remember!
+Bye, person I don't remember!

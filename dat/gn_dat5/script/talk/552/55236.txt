@@ -2,7 +2,7 @@
 Koishi
 97
 //もしもーし 私メリーさん。\b
-Hello? This is Mary-san.\b
+Hello? My name's Mary... and right now...\b
 \x03
 //今あなたに勝っちゃったの。
-I've won you now.
+I'VE WON AGAINST YOU!

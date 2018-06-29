@@ -2,6 +2,6 @@
 Remilia
 044_03
 //‚© Ÿ‚Á‚½B\p‚ÉŸ‚Á‚½‚íI\b
-I, I won! I beat \p!\b
+I-I won! I beat \p!\b
 //‚â‚Á‚Æ„‚Ì‰^–½’Ê‚è‚É‚È‚Á‚½‚Ì‚ËI
-Finally the destiny I saw become true!
+Finally, the destiny I foresaw came true!

@@ -7,4 +7,4 @@ Hey, there's so many fresh things around here!\b
 Huh? What am I carrying?
 \x03
 //・・・知りたい？
-...Do you wanna know it?
+...Do you wanna know?

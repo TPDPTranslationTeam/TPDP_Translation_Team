@@ -2,12 +2,12 @@
 Nitori
 83_03
 //やぁ\p。君も祭りで浮かれたカモ相手に商売かい？\b
-Hey \p, you too saw this tournament a business chance?\b
+Hey \p, you too saw this tournament as a business opportunity, right?\b
 \x02
 //・・・なんだ 違うのか。\b
-... Oh, you're not.\b
+... Oh, no?\b
 \x00
 //まぁ何にせよ儲けるにはここで勝たないとね。\b
-Anyway, I must win this to make more money.\b
+Either way, I must win this to make more money.\b
 //ぎったんぎたんにしてやろう！
 Come on, I'll break you down!

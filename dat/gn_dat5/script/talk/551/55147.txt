@@ -2,6 +2,7 @@
 Keine
 062
 //やぁ\p。一度 君とは戦ってみたかったんだ。\b
-Oh hi, \p. I always wanted to battle you.\b
+Oh hello, \p. I've always wanted to battle you.\b
+\s062_04
 //お手柔らかに頼むぞ。
-Please go easy on me.
+Please, go easy on me.

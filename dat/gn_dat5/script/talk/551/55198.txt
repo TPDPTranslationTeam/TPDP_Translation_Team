@@ -2,12 +2,12 @@
 Sanae
 85
 //\pさんではないですか！やっぱり参加されていたんですね！\b
-Oh, it's you! I know you're in here!\b
+Oh, it's you! I knew you'd be here!\b
 \x06
 //今日こそは負けませんからね！では 始めましょうか！\b
-I won't lose this time! Let's begin!\b
+I won't lose this time! Let's battle!\b
 \x07
 //・・・ゴホン。よくここまで来ましたね！\b
-... Ahem. You're finally here!\b
+... A-Ahem excuse me. Um- So, you're finally here!\b
 //次の相手は奇跡の人形遣いこと この東風谷早苗がお相手致しましょう！
 Your next opponent is me, Sanae Kochiya, the Miraculous Puppeteer!

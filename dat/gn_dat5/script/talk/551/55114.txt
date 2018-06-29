@@ -5,6 +5,6 @@ Alice
 Puppet battling is all about brains.\b
 \x00
 //本家人形使いの戦略 たっぷりと味わいなさい。
-Taste the strategy of the OG puppeteer as you want.
+Taste the strategy of the OG puppeteer if you dare.
 
 //puppeteer is decapitalized because Alice uses puppets not only Shinki-Puppets

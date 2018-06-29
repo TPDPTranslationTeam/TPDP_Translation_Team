@@ -2,9 +2,9 @@
 Shou
 102
 //もう一度勝負できる機会を待っていましたよ。
-I've been waiting for this time to challenge you again.
+I've been waiting for this moment to challenge you again.
 //これだけの人の中 負けることはできませんね。\b
-I can't be lost in all these people watching.\b
+I can't lose with all these people watching.\b
 \x01
 //毘沙門天の代理の威光に ひれ伏すといい！
 Bow down before the Bishamonten's agent!

@@ -2,12 +2,12 @@
 Tewi
 063
 //あら いつぞやの人間ね。
-Hey, I've seen you sometimes before.
+Hey, I've seen you somewhere before.
 //あなたに良い話があるんだけど？\b
-I have a good thing to tell you.\b
+I've got something juicy to tell you.\b
 \x04
 //何かって？\b
-Wonder what it is?\b
+Wanna know what it is?\b
 \x03
 //負けてくれたら教えてあげるわ。
-I'll tell you if you lose this.
+I'll tell you if you lose.

@@ -2,6 +2,6 @@
 Komachi
 74
 //お前さんとはゆっくり話したいと思っていたんだ。\b
-I was always wanted to have a talk to you together sometimes.\b
+I've always wanted to have a talk with you together sometime.\b
 //さ まずは一杯やろうじゃないか。
 Let's start with a cup of sake.

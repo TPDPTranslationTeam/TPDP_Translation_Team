@@ -2,6 +2,6 @@
 Sanae
 85_07
 //この私相手に よくぞここまで戦ったと褒めてあげます！\b
-You fought well against me, I praise you!\b
+You fought honorably; I respect you for that!\b
 //しかしまだ実力不足。もっと修行しましょう！
-But you still have more to do. Train more!
+But you still have more to learn. Keep training!

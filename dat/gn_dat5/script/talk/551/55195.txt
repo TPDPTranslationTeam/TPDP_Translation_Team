@@ -2,8 +2,8 @@
 Momiji
 84_01
 //山の威厳の為にも 勝ちます！\b
-I must win for the Mountain's pride!\b
 //山の者として 人間風情に負ける訳にはいかないのよ！
-I can't lose to a human as a resident of the Mountain!
+As a resident of the Mountain, I can't lose to a human!\b
+For the Mountain's pride!
 
 //capitalized Mountain is short for Youkai Mountain

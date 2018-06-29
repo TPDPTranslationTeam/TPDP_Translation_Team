@@ -5,4 +5,4 @@ Letty
 It's so hot, I can't even relax and sleep.\b
 \x01
 //誰もが凍てつくクールな人形バトル 見せてあげるわっ！
-I'll show you a battle that is so cool that could freeze everyone!
+I'll show you a battle so cool, it will freeze everyone!

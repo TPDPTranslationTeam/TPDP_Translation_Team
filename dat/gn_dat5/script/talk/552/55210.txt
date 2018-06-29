@@ -2,11 +2,11 @@
 Tenshi
 89_01
 //何であれ服ふ者を有する者はその真価を発揮する。\b
-Those who obey will exert the potential.\b
+Those who obey will exert thy own potential.\b
 \x00
 //さぁ 人形遣いの\pよ！
 Now, Puppeteer \p!
 //この私が気質を見極めてあげるわ！
-I shall identify your spirit!
+I shall identify your potential myself!
 
 //The first line might work with shakesperian english

@@ -4,4 +4,4 @@ Iku
 //あまり自分の力を過信してはいけませんよ。\b
 Do not overestimate yourself.\b
 //この忠告を受け入れることが出来ないのなら あなたはこの先進んではなりません。
-If you can't accept the advice, you shall not pass.
+If you won't accept that advice, you will not pass.

@@ -4,7 +4,7 @@ Mokou
 //‹v‚µ‚Ô‚è‚ËB\b
 It's been a while.\b
 //—I‹v‚Ì‚Ì’† ‚½‚Á‚½ˆêu‚¾‚¯‚Ç‰½‚Ü‚Å‚à–Y‚ê‚ç‚ê‚È‚¢ƒoƒgƒ‹‚É‚µ‚Ä‚ ‚°‚é‚íB\b
-It's only a flash in the eternity, but I will make this battle unforgettable forever.\b
+It's only a flash in the span of eternity, but I will make this battle unforgettable.\b
 \x01
 //€”õ‚Í—Ç‚¢H
 Are you ready?

@@ -2,4 +2,5 @@
 Mystia
 061_03
 //あ あれ？勝っちゃった？ラッキーねっ！
-Oh? Did I win? That was lucky!
+Oh? Did I win?
+Lucky~

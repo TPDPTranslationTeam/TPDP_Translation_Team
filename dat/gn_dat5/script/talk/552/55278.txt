@@ -2,7 +2,7 @@
 Miko
 112
 //‚Ó‚Á‚Ó‚Á‚Ó ’p‚¶‚é‚±‚Æ‚Í‚ ‚è‚Ü‚¹‚ñB\b
-Fufufu, don't be hesitated.\b
+Fufufu, don't be hesitant.\b
 \x05
 //Œ³‚æ‚èŸ‚Ä‚é‚Í‚¸‚à–³‚¢‚Ì‚Å‚·‚©‚ç‚ËB
-You can't win against me in the first place.
+It was impossible for you to have beaten me in the first place.

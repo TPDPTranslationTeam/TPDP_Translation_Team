@@ -2,9 +2,9 @@
 Sumireko
 124_02
 //どーせ起きてもつまんない授業だしなぁ。\b
-Even if I woke up, I just go back to boring school lessons.\b
+Even if I wake up, I'll just be back in my boring school lessons.\b
 \x03
 //ねぇねぇ これ終わったらお話しない？\b
-Hey, can I talk with you later?\b
+Hey, can we talk later?\b
 //同じ人間同士 友達になりたいわっ！
-I want to be a friend of you as a same human!
+As a fellow human, I want to become closer to you!

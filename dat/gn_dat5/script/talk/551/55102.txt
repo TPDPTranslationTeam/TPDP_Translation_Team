@@ -2,7 +2,7 @@
 Remilia
 044
 //•ª‚©‚Á‚Ä‚¢‚½‚íB\p‚ª‚±‚±‚Ü‚Å—ˆ‚é‚±‚ÆB\b
-I know you're coming this far,\b
+I know you've come this far,\b
 \x05
 //‚»‚µ‚Ä Ÿ‚ÌŸÒ‚ª„‚Æ‚¢‚¤‚±‚Æ‚à‚ËI
-and I am the winner of this match!
+but I am the winner of this match!

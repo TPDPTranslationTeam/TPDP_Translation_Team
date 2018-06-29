@@ -2,7 +2,7 @@
 Yuyuko
 053_03
 //このバトルに勝ったら また花見に付き合って貰おうかしら。\b
-Can I have a flower viewing if win?\b
+Can I have a flower viewing after a win?\b
 //一度 あなたと飲んでみたかったのよ～。
 I was thinking about drinking with you.
 

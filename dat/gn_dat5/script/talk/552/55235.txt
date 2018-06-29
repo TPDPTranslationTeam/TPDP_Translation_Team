@@ -2,7 +2,7 @@
 Koishi
 97_02
 //知らないだろうし意識も出来ないかもしれないけど 実は後ろに居たりするんだよー私。\b
-You might not know it nor able to recognize it but I'm sometimes behind you.\b
+You might not know it, nor able to recognize it, but sometimes, I'm behind you.\b
 \x03
 //寝てる時 とかね？
 Like when you're sleeping.

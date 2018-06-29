@@ -1,10 +1,11 @@
 //輝夜
 Kaguya
-066
+066_02
 //ふふ まさか本当に私が負けるなんてね。\b
-Wow, I didn't expect myself losing for real.\b
+Wow, I didn't expect myself to lose for real.\b
+\x00
 //結婚でもする？\b
-Wanna marry me?\b
+I suppose a promise is a promise. I will indeed marry you.\b
 \x03
 //なーんて 冗談よ。
-Just kidding.
+Pfft- Just kidding.

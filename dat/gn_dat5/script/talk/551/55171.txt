@@ -2,10 +2,10 @@
 Yuuka
 25
 //人形遣いのあなたなら ここで必ず会えると思っていたわ。\b
-Since you're a Puppeteer, I thought I can definitely see you here.\b
+Since you're a Puppeteer, I figured I'd see you here.\b
 \x03
 //興味があるのよ 数々の経験を経て 咲いたあなたの強さに。\b
-I'm interested your strength bloomed with all of your experience.\b
+I'm interested to see how much your strength bloomed after all your experience.\b
 \x05
 //それが徒花であるようなら 今ここで摘んであげるわ。
-If it was a perennial, I'll pick it right here.
+If it's a perennial, I'll pluck it right here.

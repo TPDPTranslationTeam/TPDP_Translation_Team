@@ -2,6 +2,6 @@
 Lunasa
 051
 //‚»‚ñ‚ÈG‰¹‚¾‚ç‚¯‚¶‚á•‰‚¯‚é‚ÉŒˆ‚Ü‚Á‚Ä‚¢‚é‚íB\b
-You have too much noises in your heart to win.\b
+There are too many noises in your heart. You can't possibly win in your current condition.\b
 //‚à‚¤­‚µ—‚¿’…‚«‚È‚³‚¢B
-Calm down just a bit more.
+Try to relax.

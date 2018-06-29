@@ -4,7 +4,7 @@ Yuugi
 //やぁ こんなとこで会うなんてね。
 Hi, I didn't expect you to see here.
 //良いねぇこのお祭り 退屈しなくてさ。\b
-This festival is nice, it's not boring.\b
+This festival is nice; it's not boring.\b
 \x03
 //勿論 \pも一緒に暴れてくれるんだろう？
-Of course you're rumbling with me, right?
+Of course, you're rumbling with me, right?

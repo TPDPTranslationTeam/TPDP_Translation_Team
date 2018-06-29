@@ -2,7 +2,7 @@
 Yuugi
 93_03
 //‘Š•Ï‚í‚ç‚¸‚Ì‹S‚Ì‚æ‚¤‚È„˜r‚Á‚Õ‚è ›‚ê›‚ê‚·‚é‚Ë‚¥B\b
-You have a strong arm as before, charming.\b
+You have a strong arm like before. Charming.\b
 \x00
 //‚¢‚Â‚©ğŞ‚İŒğ‚í‚µ‚È‚ª‚ç Œê‚è‡‚¢‚½‚¢‚à‚Ì‚¾‚ËB
-I would like to talk drinking some sake with you sometimes later.
+I would love to talk over some sake with you sometime later.

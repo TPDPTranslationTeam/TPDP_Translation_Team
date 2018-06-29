@@ -8,7 +8,7 @@ Uh, woooooah! I lost!\b
 ...By the way, who are you? What am I doing here?\b
 \x01
 //誰だか知らないから教えてやろう！この私は！\b
-I'll tell you because I don't know you! I am!\b
+I'll tell you because I don't know you! I am...\b
 \x03
 //・・・私は誰だ？
 ...Who am I?

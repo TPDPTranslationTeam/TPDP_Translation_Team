@@ -5,4 +5,4 @@ Reisen
 Oh, it's you, \p!\b
 \x01
 //前は敗北してしまいましたが 地上の兎は一度負けたって もう一度跳べるんですよ！
-I have lost to you before, but I'll show the Earthen rabbit can jump again!
+I have lost to you before, but I'll show you that this Earthen rabbit can jump again!

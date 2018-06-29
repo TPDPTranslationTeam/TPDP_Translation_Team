@@ -5,6 +5,6 @@ Sumireko
 Fufufu, I think I should enter with style for situation like this!\b
 \x00
 //„‚Í“Œ[Œ©‚Zˆê”N ‰F²Œ©ä¿qB\b
-I am Sumireko Usami, first grader of Higashi-Fukami High School.
+I am Sumireko Usami, first year at Higashi-Fukami High School.\b
 //—Bˆê–³“ñ‚ÌÅ‹­‚Ìí‘° —q‚¶‚æI
-And I also am "high-school girl": one and only, the strongest, most invincible kind of creature!
+Also, I am a "high-school girl": the one and only, strongest, most invincible kind of creature!

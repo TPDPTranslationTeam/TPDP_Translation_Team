@@ -4,4 +4,4 @@ Lunasa
 //‚İ‚ñ‚È‘å‚Í‚µ‚á‚¬‚ËB\b
 Everyone's on a spree.\b
 //•‚‚©‚ê‚Ä‚¢‚Ä‚Í Ÿ‚Ä‚é‚à‚Ì‚àŸ‚Ä‚È‚­‚È‚Á‚¿‚á‚¤‚í‚æB
-You can't win a game you could win if you're too excited.
+You might choke and lose if you get too excited. 

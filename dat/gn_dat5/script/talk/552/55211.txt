@@ -2,9 +2,10 @@
 Tenshi
 89_01
 //ただの仲良しこよしじゃ 使う者も仕える者も二流。\b
-Just being a friend makes both Puppeteer and Puppets second-rate.\b
+Being friends with your Puppets will make them second-rate.\b
 \x03
 //でも \pの人形を見る限り杞人憂天だったようね。
-But as far as I see, my worries are groundless to you, just like an old Chinese story about a man worrying the sky.
+But as far as I see, that doesn't really apply to you.\b
+Just like an old Chinese story about a man worrying over the sky, perhaps I too was worried over nothing.
 //良い退屈しのぎだったわ。
 That was good for killing time.
