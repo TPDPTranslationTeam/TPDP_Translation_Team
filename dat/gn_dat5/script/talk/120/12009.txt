@@ -1,6 +1,8 @@
 Yuuka
 25
-My, are you trying to search for another lead?\b
+My, are you trying 
+to search for another lead?\b
 \x03
-No no no, it's more fun if you look for this yourself.\b
+No no no, it's more 
+fun if you look for this yourself.\b
 Walk to various places why don't you?

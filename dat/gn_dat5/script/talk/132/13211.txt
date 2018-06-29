@@ -1,10 +1,6 @@
-//ぬえ
 Nue
 104_01
-//なんだ 負けちゃったじゃないか。
 I lost.
-//呼ばれたから出てきてやったのに。\b
 I came out because I was called out.\b
 \x02
-//・・・え？お呼びじゃないって？
 ...What? I wasn't?

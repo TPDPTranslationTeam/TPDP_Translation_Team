@@ -1,9 +1,11 @@
 Medicine
 072_04
 I knew you'd chase after me.\b
-Hmm? Why cause so much trouble when we all love Puppets so much?\b
+Hmm? Why cause so much trouble 
+when we all love Puppets so much?\b
 \x01
-Up until now, the one's that were showing them so much love were not humans.\b
+Up until now, the one's that were 
+showing them so much love were not humans.\b
 These Puppets think so too.\b
 They hate being treated like tools.\b
 \x02

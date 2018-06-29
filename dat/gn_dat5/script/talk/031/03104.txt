@@ -1,12 +1,18 @@
 Akyuu
 76
-Inside there's a girl named Kosuzu Motoori.\b
+Inside there's a girl
+named Kosuzu Motoori.\b
 Please go and visit her.\b
-\cFrom time to time mysterious books end up in here, so maybe the information you seek is here.\b
+\cFrom time to time mysterious books
+end up in here, so maybe the
+information you seek is here.\b
 \x01
-Puppets have been appearing around here very recently.\b
-However, even here they should be of some use to you.\b
+Puppets have been appearing
+around here very recently.\b
+However, even here they should
+be of some use to you.\b
 \x00 
-Well then, I too must continue my investigation.\b
+Well then, I too must
+continue my investigation.\b
 If you find anything, please come to my residence.
 I shall lend whatever strength that is necessary. 

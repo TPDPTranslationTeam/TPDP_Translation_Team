@@ -1,8 +1,5 @@
-//一輪
 Ichirin
 100_2
-//絶好調ではなく絶不調の間違いでしたね。\b
 Fine... we accept defeat.\b
 \x00
-//私も雲山もまだまだ精進せねば。
 We still need more training.
