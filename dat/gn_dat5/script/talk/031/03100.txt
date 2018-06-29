@@ -2,7 +2,9 @@ Akyuu
 76_02
 Haa... haa...\b
 I finally found you.\b
-\cI just heard that some of the Liberation Front members was hiding in the village...\b
+\cI just heard that some of
+the Liberation Front members
+were hiding in the village...\b
 \x04
 Oh, my. You already kicked them out?\b
 \x03
