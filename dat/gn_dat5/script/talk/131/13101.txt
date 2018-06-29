@@ -1,14 +1,12 @@
-//白蓮
 Byakuren
 103
-//寺の周辺に 仲間を５人ほど呼びました。\b
-I've summoned my five friends around the temple.\b
-//私が あなたと戦うのは その５人全員と戦った後です。\b
-I will battle you once you've defeated all five of them.\b
+I've summoned my 
+five friends around the temple.\b
+I will battle you once 
+you've defeated all five of them.\b
 \x03
-//もし５人に勝ったら 私のところにもう一度いらしてください。\b
-Once you've defeated them, come see me again.\b
-//その時に お相手をいたしましょう。
+Once you've defeated 
+them, come see me again.\b
 We'll have a battle then.
 
 *Last two lines seem unnecessary because they pretty much just repeat what the second line says.
