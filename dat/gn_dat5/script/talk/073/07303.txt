@@ -1,14 +1,11 @@
 Tewi
 63_04
-Aww. I guess your skill 
-is the real deal after all.\b
+Aww. I guess your skill is the real deal after all.\b
 \x00
 Well then, you go in if you want.\b
-Ms. Eirin is in there, ya know.\b
+Ms. Eirin is in there ya know.\b
 \x04
 Huh?\b
 \x03
-Nobody said I'd be your 
-personal guide, did they?\b
-Come on now, hurry up! 
-I might get mad, ya know?
+Nobody said I'd be your personal guide did they?\b
+Come on now, hurry up! I might get mad, ya know?

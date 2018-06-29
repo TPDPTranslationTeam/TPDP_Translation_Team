@@ -1,11 +1,9 @@
 
 
 Huh? Eientei...?\b
-\cOh, I see. So you're taking 
-Keine's place in this matter!\b
-Right?!\b
+\cOh I see. So you're taking Keine's place in this matter!\b
+Right!?\b
 \cIn that case, please hurry along!\b
-Ms. Yagokoro said that as things are now, 
-something terrible will occur!\b
-\cAnyway, I'll go tell Ms. Yagokoro 
-about you, so I'll move on ahead!
+Ms. Yagokoro said that as things are now something terrible will occur!\b
+\cAnyway, I'll go tell Ms. Yagokoro about you,
+so I'll move on ahead!
