@@ -2,6 +2,6 @@
 Yumemi
 019_02
 //科学魔法使えてないじゃないこの子たち・・・。\b
-These Puppets couldn't even use my tecnomagics...\b
+These Puppets couldn't even use my technomagic...\b
 //全く まだまだ研究不足ね。
-I was not enough researching.
+I didn't do enough research.

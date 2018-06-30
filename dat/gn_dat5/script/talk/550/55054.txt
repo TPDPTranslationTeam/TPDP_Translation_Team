@@ -2,7 +2,7 @@
 Elly
 023_01
 //この私があなたなんかに負ける訳がないわ！\b
-There's no way I can lose someone like you!\b
+There's no way I can lose to someone like you!\b
 \x00
 //あなたが誰だか知らないけどね！
-I don't know who you are, though!
+Even though I don't really know who you are!

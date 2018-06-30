@@ -4,4 +4,4 @@ Ellen
 //このお人形さんって魔法で動いてるのかな～？\b
 Are these Puppets are moving with magic~?\b
 //違うのかな～？
-Or is it not~?
+Or is it something else~?

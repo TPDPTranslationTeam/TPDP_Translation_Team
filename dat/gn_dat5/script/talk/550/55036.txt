@@ -2,6 +2,6 @@
 Rikako
 017
 //さぁ 君も私のデータとなりたまえ。\b
-Now you'll be my data.\b
+Now you'll be my part of my dataset.\b
 //科学の素晴らしさを見せてあげよう。
 Let me show you the brilliance of science.

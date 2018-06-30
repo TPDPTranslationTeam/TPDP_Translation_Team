@@ -2,6 +2,6 @@
 Mugetsu
 026_02
 //負けるなんて考えてもいなかったわ。\b
-I didn't expect losing.\b
+I didn't expect to lose.\b
 //経験もしたくなかったけど！
-I didn't want to experience it, neither!
+I didn't want to experience it, either!
