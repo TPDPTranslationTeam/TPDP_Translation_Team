@@ -15,5 +15,5 @@ I'm sure she'll be your best ally!\b
 \x00
 You might also learn more about our
 world in the Human Village. How about
-paying it a visit first? I guarantee
-you won't be disappointed!
+paying it a visit first?\b
+I guarantee you won't be disappointed!

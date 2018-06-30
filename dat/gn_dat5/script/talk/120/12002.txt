@@ -2,15 +2,20 @@ Yuuka
 25_04
 About the Puppet Incident?\b
 \x00
-Unfortunately, I have no dealings with the Puppet outbreak at hand.\b
+Unfortunately, I have no 
+dealings with the Puppet outbreak at hand.\b
 \x05
-It was only a game with Medicine to kindle her.\b
+It was only a game 
+with Medicine to kindle her.\b
 \x03
-...Though it's not like I don't have an idea of what's going on.\b
+...Though it's not like I 
+don't have an idea of what's going on.\b
 \x05
-There's an atrocious existance all over the place.\b
+There's an atrocious 
+existance all over the place.\b
 Such a source can be here or there.\b
-\cIt's almost as if it's from a world outside of Gensokyo... yes.\b
+\cIt's almost as if it's 
+from a world outside of Gensokyo... yes.\b
 \x00
 That is as much as I will tell you.\b
 Everything else is left up to you.\b Mr. Master of the Outsider World.

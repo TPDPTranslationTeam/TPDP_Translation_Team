@@ -1,11 +1,8 @@
-//ナズーリン
 Nazrin
 98_01
-//おや こんな廃れかけた寺に来るなんて 君もよっぽどの変わり者だね。\b
-Why would a person come to this almost dead temple?\b
+Why would a person come 
+to this almost dead temple?\b
 \x00
-//ふむ 何やらお宝の匂いがするね。\b
 Hmm... You smell like you have treasure.\b
 \x03
-//じゃあ早速そのお宝をもらわなくちゃ。
 I'm gonna take all your treasure.

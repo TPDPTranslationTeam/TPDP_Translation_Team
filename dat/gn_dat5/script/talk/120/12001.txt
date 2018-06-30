@@ -3,6 +3,7 @@ Yuuka
 We really got a genius Puppeteer here.\b
 It was really fun.\b
 \x04
-Since the Liberation Front was disbanded, my game also ends here.\b
+Since the Liberation Front was 
+disbanded, my game also ends here.\b
 \x05
 With that, is there something else you want?
