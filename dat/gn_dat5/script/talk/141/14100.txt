@@ -3,11 +3,14 @@ Gengetsu
 Oh a human, how rare.\b
 \oMugetsu
 \j26
-I wanted to watch this little situation more. It's more interesting than having to run into them like this, sister.\b
+I wanted to watch this little situation 
+more. It's more interesting than having
+to run into them like this, sister.\b
 \oGengetsu
 \j27
 Indeed.\b
-They have some dolls following them too, we may have found a good playmate.\b
+They have some dolls following them too;
+we may have found a good playmate.\b
 \oMugetsu
 \j26_03
 Now come, human.\b

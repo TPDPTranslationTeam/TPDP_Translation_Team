@@ -10,5 +10,6 @@ That is right.
 The Puppet's strength has been decided.\b
 \oGengetsu
 \j27_03
-Because of this, our Puppet game will not end.
+Because of this,
+our Puppet game will not end.
 Now, Powerful Human.

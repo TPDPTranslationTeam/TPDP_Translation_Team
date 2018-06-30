@@ -1,17 +1,13 @@
-//魔理沙
 Marisa
 02_07
-//おっと 私を無視してどこに行こうって言うんだ？\b
-Hey, where are you going in such a hurry that you can't stop to talk?\b
+Hey, where are you going in such
+a hurry that you can't stop to talk?\b
 \x00
-//よっ 久しぶりだなっ \p！\b
 Long time no see, \p!\b
 \x03
-//なかなかお前に会えなかったら かなり人形も強くなってしまったぜ！\b
-I've been training my Puppets extra hard since I last saw you!\b
+I've been training my Puppets
+extra hard since I last saw you!\b
 They're practically unstoppable now!\b
 \x08
-//ほら早速対戦だ。\b
-Hey, let's fight.\b
-//手加減はしてやれないぜ！
+So hey, let's fight.\b
 I won't hold back for you!

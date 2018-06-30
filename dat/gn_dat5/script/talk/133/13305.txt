@@ -1,10 +1,8 @@
-//阿求
 Akyuu
 76
-//あら \pさん。ご活躍は常々耳にしていますわ。\b
-Oh, \p. I'm hearing your deeds every moment.\b
+Oh, \p. I'm hearing of
+your deeds every moment.\b
 \x03
-//何か詰まってしまったときは 里で情報を得てみてはどうでしょう？\b
-If you're stuck, how about getting some information from the village?\b
-//小さな情報も馬鹿にできないものですわ。
+If you're stuck, how about getting
+some information from the village?\b
 A little information never hurt.

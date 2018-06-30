@@ -5,4 +5,5 @@ Oh? Aren't you a human from outside?\b
 You look tired.\b
 If you'd like, you can rest right here.\b
 \x03
-While you're here, I'd like to hear about you.
+While you're here, 
+I'd like to hear about you.

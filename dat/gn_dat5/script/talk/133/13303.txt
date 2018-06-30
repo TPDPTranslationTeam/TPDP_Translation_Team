@@ -1,8 +1,5 @@
-//村紗
 Murasa
 101
-//このイカリが重くないかって？\b
 "Isn't the anchor heavy?"\b
 \x03
-//慣れてしまえば どうということもないですよ。
-It's nothing once you get used to.
+It's nothing once you get used to it.

@@ -4,9 +4,12 @@ Hold it.\b
 Do you have any idea what's up ahead here?\b
 \x00
 It's Makai.\b
-A place that has absolutely nothing to do with you humans.\b
+A place that has absolutely
+nothing to do with you humans.\b
 \x04
 ...Why that face?\b
 You wanna pass through here?\b
-Sorry, but no one is permitted to pass through here.\b
-If you wish to pass, challenge me to a battle.
+Sorry, but no one is permitted 
+to pass through here.\b
+If you wish to pass,
+challenge me to a battle.

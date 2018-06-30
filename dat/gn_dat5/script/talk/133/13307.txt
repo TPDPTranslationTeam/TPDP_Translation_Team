@@ -1,10 +1,8 @@
-//”’˜@
 Byakuren
 103_01
-Œ¶‘z‹½‚Æ‚ÍˆÙ‚È‚é²‚É –‚ŠE‚Æ‚¢‚¤¢ŠE‚ª‘¶İ‚µ‚Ä‚¢‚Ü‚·B\b
-There's a dimension called Makai outside Gensokyo.\b
-\cŒÃ‚¢•¶Œ£‚Ì’†‚É‚Í –‚ŠE‚É‚Â‚¢‚Ä‘‚©‚ê‚Ä‚¢‚é•¨‚ª‚ ‚é‚©‚à‚µ‚ê‚Ü‚¹‚ñB\b
-\cSome old documents may reference them.\b
+There's a dimension called 
+Makai outside Gensokyo.\b
+\cSome old documents may reference it.\b
 \x00
-//—¢‚É ŒÃ‘‚ğˆµ‚Á‚Ä‚¢‚é‚Æ‚±‚ë‚ª‚ ‚Á‚½‚Í‚¸‚Å‚·‚Ì‚Å s‚Á‚Ä‚İ‚Ä‚Í‚¢‚©‚ª‚Å‚·‚©H
-I remember there was a used book store in the village. How about checking that out?
+I remember there was a used book store
+in the village. How about checking that out?
