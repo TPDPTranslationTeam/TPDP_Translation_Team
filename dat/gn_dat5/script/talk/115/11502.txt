@@ -1,6 +1,8 @@
 Rin
 95
 Looks like you arrived safely.\b
-Lady Satori told me to be your guide, but I kinda got lost.\b
+Lady Satori told me to be your guide
+but I kinda got lost.\b
 \x01
-Up ahead is the Underground Geyser Center, so be careful.
+Up ahead is the Underground Geyser Center,
+so be careful.
