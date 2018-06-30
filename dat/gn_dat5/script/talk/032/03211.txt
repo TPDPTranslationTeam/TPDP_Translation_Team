@@ -1,6 +1,11 @@
-霊夢
+//霊夢
+Reimu
 1
-あなた見ない顔ね。\b
-・・・あら 人形を持っているじゃない。\b
-\cそれも 結構できそうね。\b
-なに？私と人形バトルがしたいの？
+//あなた見ない顔ね。\b
+I've never seen your face around here.\b
+//・・・あら 人形を持っているじゃない。\b
+...Oh, you have some Puppets.\b
+//\cそれも 結構できそうね。\b
+And you look strong at it.\b
+//なに？私と人形バトルがしたいの？
+What? You want to Puppet battle with me?
