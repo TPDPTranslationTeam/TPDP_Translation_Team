@@ -5,12 +5,14 @@ Um...\b
 \x04
 Yeah.\b
 \x02
-You're going outside the village.
-Didn't Sanae tell you that the outside is dangerous?\b
-\c ...Seriously, are you going to take on the Puppet incident?\b
+You're going outside the
+village. Didn't Sanae tell you
+that the outside is dangerous?\b
+\c ...Seriously, are you going to
+take on the Puppet incident?\b
 \c
 \x05
-To be clear, you are a troublemaker for me.
+To be clear, you are a hindrance to me.
 Solving incidents isn't an amateur job.\b
 Don't get in my way.\b
 \x07

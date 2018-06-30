@@ -1,13 +1,13 @@
 1_04
 Reimu
-Uh-huh?
-I admit, you have some skill.\b
+I lost? Very well, I admit
+you have some skill.\b
 \x05
-But don't get too excited.
-No one's gonna help you if you cry.\b
+But don't get too excited. No one's
+gonna help you if you cry.\b
 It's do or die in this place.\b
 \x02
-Anyway, don't get in my way.\b
+In any case, don't get in my way.\b
 I don't care about what you do otherwise.\b
 
 \x00
