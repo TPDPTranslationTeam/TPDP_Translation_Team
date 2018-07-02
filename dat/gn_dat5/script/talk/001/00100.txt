@@ -13,22 +13,22 @@ Hey. It's time to get up.
 \s955_03
 Finally, you are here. How do you feel?
 \x00
-Me? My name is Yukari Yakumo. This is the 
-the first time we've met, yes?
-*\oŽ‡
+Me? My name is Yukari Yakumo.
+This is the first time we've met, yes?
 \oYukari
 This might be a weird question for you, 
 but have you ever heard of Gensokyo?\b
 ...Not at all, eh?\b
-\cGensokyo, a place that belongs to all that has been forgotten.\b
-A world where the abandoned gathers.
+\cGensokyo, a place that belongs 
+to all that has been forgotten.\b
+A world where the abandoned gather.
 \x01
-Including those who were only known through
-folklore...
+Including those who were 
+only known through folklore...
 \x03
-Hmm. Looks like you are hooked already.\b
+Hmm, looks like you are hooked already.\b
 Ufufu, what an interesting being you are.\b
 \x00
-Since we're so interested in
-each other, mind if I learn more about you?
+Since we're so interested in each other, 
+mind if I learn more about you?
 First of all, are you a boy or girl?

@@ -4,5 +4,5 @@ Cough, cough!\b
 My name is Sanae Kochiya.\b
 \x00
 This place is completely separated from 
-where \p lived by a great barrier.\b
+where you lived by a great barrier.\b
 It is called... Gensokyo.

@@ -1,5 +1,3 @@
 
 
 Save your progress?
-
-~~Versions between "testing" and "master" were different, so it could be a period instead of a question mark.

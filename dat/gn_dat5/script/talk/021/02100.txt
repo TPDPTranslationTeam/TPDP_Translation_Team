@@ -1,13 +1,15 @@
 Sanae
 85_04
 ...I see.\b
-So that's why you brought \p here.\b
+So that's why you brought 
+\p here.\b
 \x00
-If that's about it, then let me do the
-talking!\b
+If that's about it, 
+then let me do the talking!\b
 Marisa
 \s02_07
 Welp. I ain't good at explaining stuff.
-I'd be very grateful if you'd help me with it!\b
+I'd be very grateful if 
+you'd help me with it!\b
 \x03
 ...And make my life easier.
