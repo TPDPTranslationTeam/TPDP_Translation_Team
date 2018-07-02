@@ -1,10 +1,13 @@
+*早苗
 Sanae
 85_04
+*あれ ご存知なんですか？\b
 What? You knew that already?
 \x00
-We can get straight to the point then.\b
+*それなら話は早いです。\b
+We can get straight to the point then.
 \x05
-\cCurrently, Gensokyo is being 
-flooded by Puppets.\b
-We haven't figured out 
-what has caused this yet.
+*\c今 幻想郷は 何故か人形で溢れかえっています。
+\cCurrently, Gensokyo is being flooded by
+Puppets. We haven't figured out what has caused this
+yet.

@@ -1,19 +1,22 @@
+*早苗
 Sanae
 85_05
-It started during this spring, 
-if I remember correctly.\b
+*春頃からでしょうか。\b
+It started during this spring, if I remember.\b
+*各所でいきなり現れ始めたんですが 未だにその原因はわかってません。\b
 They suddenly appeared out of nowhere, and
 nobody understands why they did, either.\b
-\cTheir population grows so fast that 
-I alone cannot suppress them anymore.\b
+*\cあまりの人形の数に 私たちも対応しきれていない現状です。\b
+\cTheir population grows so fast that I
+alone cannot suppress them anymore.\b
 \x01
+*とりあえず結界を強めて 外の世界には影響が出ないようにしているはずなんですが・・・。\b
 I've been enhancing the barrier to prevent
-this incident from leaking 
-into the Outside World...\b
+this incident from leaking into the outside world...
 \x05
-But the fact that \p got
-lost here means that 
-the barrier is far from perfect.\b
+But the fact that \p got lost here means that 
+the barrier is far from perfect.
 \x01
-And \p can't possibly return if 
-the barrier stays at this power level.
+*しかも厄介なことに結界が強いままだと \pさんは元の場所に戻れないはずなんです。
+And \p can't possibly return if the 
+barrier stays at this power level.

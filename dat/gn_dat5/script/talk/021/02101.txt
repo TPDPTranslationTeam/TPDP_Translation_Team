@@ -1,9 +1,14 @@
-Sanae
+*早苗
 85_01
+*コホン！\b
 Cough, cough!\b
 \x03
+*私は東風谷早苗といいます。\b
 My name is Sanae Kochiya.\b
 \x00
+*ここは\pさんの住んでいるところから結界で隔離された場所。\b
 This place is completely separated from 
-where you lived by a great barrier.\b
+where \p lived by a great barrier.\b
+\\Consider changing \p to "you" if Sanae is talking to the player.
+*幻想郷というのですけれど・・・
 It is called... Gensokyo.
