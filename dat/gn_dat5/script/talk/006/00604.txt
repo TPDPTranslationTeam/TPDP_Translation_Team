@@ -1,6 +1,8 @@
 Marisa
 02_01
-Okay. Listen up.\b
-This thing here right in front of you, is a puppet\b
+Okay, listen up.\b
+This thing here, 
+right in front of you, 
+is a Puppet\b
 These things just suddenly appeared and
 spread all over the place.
