@@ -5,4 +5,5 @@ Woah! Did you just tame her?!
 That's weird. Usually you've gotta use a 
 Seal Thread to do that.
 They don't just... decide to follow you.\b
-\cIs this Puppet special or are you an exception...?
+\cIs this Puppet special 
+or are you an exception...?
