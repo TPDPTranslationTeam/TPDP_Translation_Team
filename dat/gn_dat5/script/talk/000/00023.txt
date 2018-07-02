@@ -7,24 +7,21 @@ Did you lose your way?\b
 \x03
 
 So you're \p,\b
-who is traveling all over the world\b
+who is traveling all over Gensokyo\b
 to find clues about the Puppet Incident.\b
-~original scripts says "to solve," but "to find clues" seems more adequate to me.
 \x
 
-Well, then.\b
-I can break the seal of a Puppet for you.\b
-~~"a Puppet" might make the player think that they can only do it once. Could be "Puppets" instead. Need second opinions/testing.
+Well then,\b
+I can break the seals of Puppets for you.\b
 \x02
 
 They will no longer be with you once you
-break their seal.\b
+break their seals.\b
 \x00
 
 If you really wish to break them,
 you can come to me.\b
-~~Since she's reluctant to do it, her saying "please" seems odd.
 
 \x01
-However, just because I can,
+However, just because I can
 doesn't mean I'm glad to do so.
