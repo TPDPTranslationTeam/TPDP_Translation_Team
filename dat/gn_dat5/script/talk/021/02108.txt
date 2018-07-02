@@ -1,19 +1,14 @@
-*魔理沙
 Marisa
 2_07
-*お ちょうどいいタイミングで戻ってきたな！\b
 You are right on time!\b
-*この \pってやつ 外の世界から来たみたいだぜ！\b
-This \p guy just came across the barrier
-from the outside world!
-*\o霊夢
+This \p guy just 
+came across the barrier
+from the Outside World!\b
 \oReimu
 \j1_02
-*ふーん・・・なんか多いわね最近。\b
-Hmm... It's getting more frequent these days.\b
-*\o早苗
-Sanae
+Hmm... 
+It's getting more frequent these days.\b
+\oSanae
 \j85
-*しかも人形が懐いているんですよ！
-Not to mention \p has a talent for taming
-Puppets!
+Not to mention \p has a talent 
+for taming Puppets!
