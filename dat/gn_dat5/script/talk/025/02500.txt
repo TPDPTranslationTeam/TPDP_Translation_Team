@@ -1,6 +1,6 @@
 
 
 \lOuch!\b\l
-Medicine
+\oMedicine
 \s72_05
 Watch where you're going!

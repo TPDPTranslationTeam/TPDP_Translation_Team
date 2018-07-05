@@ -2,7 +2,7 @@ Reimu
 1_05
 ...\b
 You don't seem related.\b
-But I'm gonna watch over you anyway.\b
+But I'm gonna keep my eye on you.\b
 \x00
 You are \p, right?\b
 Please don't get involved too much.\b
@@ -10,6 +10,6 @@ Please don't get involved too much.\b
 Just stay low until we clean up this mess.
 You can't get back to your world 
 at this moment regardless.\b
-\s1_01
+\x01
 I'm getting pretty damn tired.
 Now get the hell out of here!

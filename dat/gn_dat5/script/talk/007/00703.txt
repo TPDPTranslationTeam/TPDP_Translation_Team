@@ -1,9 +1,9 @@
 Marisa
 02_06
-I have no idea what to make of this.
+I have no idea what to make of this.\b
 \x02
 Well, there's no use just 
-standing here and thinking about it.
+standing here and thinking about it.\b
 \x00
 Let's make our way to the Hakurei Shrine and
 see if the people there can help you!

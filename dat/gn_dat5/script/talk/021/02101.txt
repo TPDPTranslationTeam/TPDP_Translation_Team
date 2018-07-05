@@ -1,5 +1,6 @@
+Sanae
 85_01
-Cough, cough!\b
+Ahem...!\b
 \x03
 My name is Sanae Kochiya.\b
 \x00
