@@ -3,7 +3,7 @@
 Emergency! Emergency!\b
 Our hideout has been taken over by the 
 Puppet Liberation Front!\b
-\cThey're rampaging all over our base,
+\cThey're rampaging all over our base.
 I have to find someone who can help us...\b
 Hey, you! Can you help us?\b
 \cDon't worry!\b
