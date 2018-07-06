@@ -1,6 +1,7 @@
 Remilia
 44_01
-The nickname you chose is lacking in creativity.\b
+The nickname you chose is lacking in
+creativity.\b
 \x05
 I can come up with a better name.\b
 \x00

@@ -1,5 +1,6 @@
 Koakuma
 41_00
-Ah! You seriously went to meet that vampire after all!\b
+Ah! You seriously went to meet that vampire
+after all!\b
 \x03
 As promised, I'm handing this book to you.

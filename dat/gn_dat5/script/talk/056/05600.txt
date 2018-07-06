@@ -1,9 +1,11 @@
 Remilia
 44
-Hello. Once again, I am the master Remilia Scarlet.\b
-The descendant of vampires, who feeds on human's blood.\b
+Hello. Once again, I am the master,
+Remilia Scarlet.\b
+The descendant of vampires who feeds on
+human's blood.\b
 \x03
 Did you have fun wandering the mansion?\b
-\s44_05
+\x05
 Fufu, you look tired.\b
 You've made it this far. Let me heal you.

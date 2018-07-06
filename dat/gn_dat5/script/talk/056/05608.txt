@@ -1,11 +1,5 @@
 Remilia
 44
-//\d ね。
 \d.
-//あなたらしいといえば らしいかしら？\b
-\b
-//\cそうね 私が その子にニックネームをつけるなら・・・
-\c Let me see, my guess is...
-
-//I had no idea to do the second and third line
-*I'm guessing this is the confirmation, but I'm not entirely sure of that.
+That's a great name, don't you think?\b
+\cReading your fate, you'll probably say...
