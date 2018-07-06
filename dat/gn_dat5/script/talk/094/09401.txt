@@ -1,5 +1,8 @@
 Nitori
 83_1
-I don't know much about the Liberation Front, but you're 1000 years too early to be pulling pranks on my Kappa companions!
-\cYou made a big mistake underestimating Kappa technology!\b
+I don't know much about the Liberation 
+Front, but you're 1000 years too early 
+to be pulling pranks on my Kappa companions!\b
+\cYou made a big mistake 
+underestimating Kappa technology!\b
 Now return what you stole!

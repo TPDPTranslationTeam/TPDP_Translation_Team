@@ -4,5 +4,5 @@ Meiling
 \x06
 Wawawa! Please not the knife!!\b
 You don't have to stab so man--\b
-\s40_04
+\x04
 Ha!!

@@ -10,5 +10,6 @@ I was just killing time.\b
 It was fun, though.\b
 Let's play again if we have a chance.\b
 \x03
-You have my permission to come here whenever you please. \b
+You have my permission to come here whenever
+you please.\b
 Come again.

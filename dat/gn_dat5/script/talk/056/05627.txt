@@ -1,6 +1,7 @@
 Kasen
 974_05
 Reimu should value her actual job more.\b
-I'm taking care of the shrine temporarily, I had no choice.\b
+I'm taking care of the shrine temporarily;
+I had no choice.\b
 \x02
 I can't really do anything but relax.

@@ -1,9 +1,10 @@
 Remilia
 44
-The puppet is now \t! \d
+The Puppet's name is now \t!\b
 \x05
 It's fitting, right?
 Don't answer that.\b
 \x03
-If you want to give other Puppets better names, ask me again.\b
+If you want to give other Puppets better
+names, ask me again.\b
 I will give them a great name.

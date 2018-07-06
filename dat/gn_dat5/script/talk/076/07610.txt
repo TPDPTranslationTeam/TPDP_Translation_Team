@@ -1,11 +1,11 @@
 Keine
 62
-I heard you solved the Eientei problem.\b
+I heard you solved the problem in Eientei.\b
 \x04
 That kind of problem has been happening very
 often, but this time, it happened at a very 
 bad time.\b
 \x03
 Thank you very much.\b
-For all of your hard work. Please accept 
-this in return.
+Please accept this in return 
+for all of your hard work.
