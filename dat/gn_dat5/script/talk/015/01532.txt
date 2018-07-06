@@ -1,7 +1,8 @@
 
 
 I got lost in Bamboo Forest earlier.\b
-I miscounted bamboo shoots and sprouts, 
-and it led to some strange places.\b
-\cAnd there's a creepy, gloomy shed. 
-What the hell is up with it?
+I miscounted bamboo shoots and sprouts, and it led
+to some strange places.\b
+\cAnd there's a creepy, gloomy shed. What
+the hell is it?
+\\If context is that this person is in front of the shed, "it" would be much better as "this."  Otherwise it's fine.

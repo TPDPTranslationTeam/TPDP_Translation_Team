@@ -2,9 +2,7 @@ Remilia
 44
 Oh, I forgot to tell you.\b
 Your next fate is at Youkai Mountain.\b
-\cGenbu Ravine, which is at the west of the
-lake, will lead to the mountain.\b
-I think you should be able to open the path
-by yourself from there.\b
+\cGenbu Ravine, which is at the west of the lake, will lead to the mountain.\b
+I think you should be able to open the path by yourself from there.\b
 \x03
 Your fate will change as much as you can.

@@ -1,6 +1,9 @@
 
 
+*うんうん \f！
 Yeeeaaahhh! \f!
+*やっぱり \fが最高だよな！\b
 Of course \f is DA BEST!\b
-\cIt hasn't been any different 
-since your past life!
+*\c前世から知ってたわー！
+\cIt's never been any different since past
+life!

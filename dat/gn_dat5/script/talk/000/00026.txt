@@ -6,3 +6,4 @@ right?\b
 You will never see this Puppet again
 once the seal is broken.\b
 You want to stop, don't you?
+~~I have confirmed yes = cancel, no = confirm.

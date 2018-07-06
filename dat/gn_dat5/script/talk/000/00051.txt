@@ -1,30 +1,31 @@
-Reimu
+—ì–²
+~~Needs translation
 73_1
 Press Y button(or C on keyboard) to
-ride a bike. \b
+ride on bike. \b
 \x2
 \cThe character on the left is for
 emotion tests.\b
 \x3
 From bottom left, you may test
-"Surprised, QuestionMark, 
-Smile, Sweet, Bulb,\b
+"Surprised QuestionMark Smile Sweet Bulb\b
 \s31_1
-MusicNote, Heart, Shy, 
-Sleepy, ..., Annoyed, Angry" \b
+MusicNote Heart Shy Sleepy ... annoyed angry" \b
 \x0
 \cThose two at the bottom are made for
 destruction tests.\b
 \x2
-The left one is for cutting wood 
-and the right one is for breaking rock.\b
+The left one is for wood cut and the right one
+is for rock break. \b
 \s37
 \cBuilds and caves on the right are made for
 map switching tests.\b
 \x1
-\cThe rest are water tiles and grass tiles
-for walking tests\b
+\cThe rest are water tiles and grass tiles for
+walking test\b
 \s37_2
 and gaps for jumping tests.\b
 \x1
-You may also ride boats on water tiles.
+You may also ride boat on water tiles.
+
+~~Did not correct anything because I haven't come across this dialogue; most of it needs context to understand. I only deleted the Japanese, so please come back to this later.

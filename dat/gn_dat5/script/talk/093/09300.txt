@@ -2,19 +2,16 @@ Sunny Milk
 69_03
 Hee hee hee...
 How's that, you two!\b
-\cWith my power, stealing the Kappa's tech 
-was easy pickings!\b
+\cWith my power, stealing the Kappa's tech was easy pickings!\b
 \oLuna Child
 \j70
-Well, this was an unusually 
-good plan for you, Sunny.\b
+Well, this was a unusually good plan for you, Sunny.\b
 I never thought it'd go this smoothly.\b
 \oStar Sapphire
 \j71
 Now we can pull as many pranks as we want!\b
 \x03
-With this optical camouflage, 
-we can be invisible whenever we want!\b
+With this optical camouflage, we can be invisible whenever we want!\b
 \oSunny Milk
 \j69
 Uh-huh.\b
@@ -29,19 +26,14 @@ Hey, I'm supposed to make you invisible...\b
 \oStar Sapphire
 \j71
 Let's see.. how about the Tengu Village?\b
-\cActually, I heard something 
-funny was happening over there.\b
+\cActually, I heard something funny was happening over there.\b
 While we're at it, let's take this with us!\b
 \x03
-The optical camouflage we have 
-makes us unbeatable, so we can 
-completely beat the Tengu too!\b
+The optical camouflage we have makes us unbeatable, so we can completely beat the Tengu too!\b
 \oSunny Milk
 \j69_02
 ... Yeah, it's no surprise that we could win.\b
 \oLuna Child
 \j70_03
 Since it's been decided, let's go right now!\b
-We're living in the moment! 
-Let's show them what the 
-Three Fairies of Light are made of!
+We're living in the moment! Let's show them what the Three Fairies of Light are made of!

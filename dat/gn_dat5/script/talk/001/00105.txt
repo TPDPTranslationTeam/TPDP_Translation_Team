@@ -1,5 +1,5 @@
 Yukari
 955
-Well, it's almost time.\b
+Well. It's almost time.\b
 \x01
 Time always goes by so fast, doesn't it?

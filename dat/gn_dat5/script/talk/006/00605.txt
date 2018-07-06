@@ -2,8 +2,6 @@ Marisa
 02_01
 These things'll ambush you in tall grass,\b
 \x00
-so you'd better have 
-your own Puppets ready.\b
+so you'd better have your own puppets ready.\b
 \x02
-Oh... right. 
-I forgot that you're from the Outside World.
+Oh... right. I forgot that you're from the outside world.

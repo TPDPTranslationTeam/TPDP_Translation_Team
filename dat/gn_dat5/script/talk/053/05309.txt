@@ -1,8 +1,7 @@
 Marisa
 2
-Oh, it's \p. You finally came
-here too.\b
-I'm looking for a book about Puppets.\b
+Oh, it's \p. You finally came here too.\b
+I'm looking for a book about puppets.\b
 \x06
 Hey, keep quiet.\b
 If I am caught, I'll be in trouble...

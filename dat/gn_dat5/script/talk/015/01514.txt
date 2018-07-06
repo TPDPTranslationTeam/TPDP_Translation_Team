@@ -3,3 +3,4 @@
 It says, "I'm currently absent."\b
 "Please make yourself at home."\b
 \cWould you like to take a break?
+\\While "take a rest" is not necessarily incorrect, not many people say this.

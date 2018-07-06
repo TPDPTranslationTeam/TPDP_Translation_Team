@@ -1,9 +1,6 @@
 Aya
 73
-Oh, yes, you would like me to tell you about
-the route again.\b
-Go down the bridge on this road and head
-left to reach Genbu Ravine.\b
-Inside the cavern is where the Hideout
-should be.\b
+Oh, yes, you would like me to tell you about the route again.\b
+Go down the bridge on this road and head left to reach Genbu Ravine.\b
+Inside the cavern is where the Hideout should be.\b
 \cUntil then, let us meet again.

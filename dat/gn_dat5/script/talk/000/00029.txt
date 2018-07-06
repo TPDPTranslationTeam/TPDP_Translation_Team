@@ -18,6 +18,6 @@ Neutral\b
 You may notice emotes
 changing during a conversation.\b
 \x03
-\cWe also added some special emotes 
-for certain characters. 
-Be on the lookout!
+\cWe also added some special emotes for certain
+characters. Be on the lookout!
+~~????

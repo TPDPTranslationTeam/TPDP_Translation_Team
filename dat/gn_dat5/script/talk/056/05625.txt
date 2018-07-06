@@ -7,5 +7,4 @@ You should stop by more often.\b
 \x04
 It's always fun to battle you.\b
 \x05
-Anyway, feel free to stick around if you
-want... or don't.
+Anyway, feel free to stick around if you want... or don't.

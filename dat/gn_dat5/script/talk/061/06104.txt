@@ -1,6 +1,5 @@
 Aya
 73
-Is that really true? Walking there will
-certainly be a lot of trouble...\b
+Is that really true? Walking there will certainly be a lot of trouble...\b
 Do you really want me to return you home?\b
 Is that okay?

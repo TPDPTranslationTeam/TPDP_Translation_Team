@@ -1,9 +1,8 @@
 Marisa
 02_04
-Woah! Did you just tame her?!\b
+Woah! Did you just tame her?!
 \x05
 That's weird. Usually you've gotta use a 
-Seal Thread to do that.\b
+Seal Thread to do that.
 They don't just... decide to follow you.\b
-\cIs this Puppet special 
-or are you an exception...?
+\cIs this Puppet special or are you an exception...?

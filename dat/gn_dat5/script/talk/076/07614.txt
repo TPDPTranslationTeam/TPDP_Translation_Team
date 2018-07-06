@@ -2,5 +2,5 @@ Rinnosuke
 58
 Welcome.\b
 \x03
-I see you've returned safe and sound
-with the Woodcutter Doll.\b
+You're safe and sound and got the Woodcutter
+Doll.\b

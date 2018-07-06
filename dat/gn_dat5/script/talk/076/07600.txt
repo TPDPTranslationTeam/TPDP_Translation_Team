@@ -2,15 +2,15 @@ Marisa
 2
 What a surprise to see you here, \p.\b
 \x07
-I've been hearing all kinds 
-of things about you lately.\b
+I've been hearing all kinds of things about 
+you lately.\b
 It sounds like you're making great progress.\b
 \x03
-You helped out with Eientei, right?\b
+You helped out with Eintei, right?\b
 \x05
-...Hm, you were asked to go 
-on an errand by Keine?\b
+...Hm, you were asked to go on an errand by 
+Keine?\b
 \x07
-I figure you've gotten much stronger 
-if Keine trusts you enough to 
-run this errand for her.
+I figure you've gotten much stronger if 
+Keine trusts you enough to run this errand 
+for her.

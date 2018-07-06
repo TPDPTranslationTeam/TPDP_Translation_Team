@@ -1,9 +1,8 @@
-Sanae
 85_01
-Ahem...!\b
+Cough, cough!\b
 \x03
 My name is Sanae Kochiya.\b
 \x00
 This place is completely separated from 
-where you lived by a great barrier.\b
+where \p lived by a great barrier.\b
 It is called... Gensokyo.

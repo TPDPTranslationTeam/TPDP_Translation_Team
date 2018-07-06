@@ -1,12 +1,10 @@
 Patchouli
 42
 What's your business here?\b
-I think this place is none of your
-business...\b
+I think this place is none of your business...\b
 \x05
 Puppets moving through magic?\b
 So you're suspecting me, aren't you?\b
 \x01
 Sadly, that formula is different from mine.\b
-Even if it was mine, I don't have any
-obligation to tell you.\b
+Even if it's mine, I don't have any obligation to tell you.\b

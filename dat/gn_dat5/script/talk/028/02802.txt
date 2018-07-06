@@ -4,8 +4,4 @@ Wah... they're already here!\b
 \oRumia
 \s37_01
 I guess we have no other choice...\b
-\x03
-Everyone ditch Cirno and run!\b
-\oCirno
-\s39_04
-Wha...
+Everyone ditch Cirno and run!

@@ -1,4 +1,6 @@
 
+
+*やっぱり \fがお気に入りなんだろ？\b
 So \f is your favorite, eh?
-That's what it seems like 
-from your past life.
+*前世から知ってるぜ？
+That's what it seems from the past life.

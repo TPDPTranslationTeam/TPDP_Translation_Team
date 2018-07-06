@@ -2,13 +2,9 @@ Patchouli
 42_05
 Oh, it's you again.\b
 \x01
-I already told you that I don't know
-anything.\b
+I already told you that I don't know anything.\b
 \x00
 Well...\b
-After researching the Puppets, it may
-actually be possible to enhance their
-"potential" even further.\b
+After researching the Puppets, it may actually be possible to enhance their "potential" even further.\b
 \x03
-This may be very useful information in
-the future.
+This may be very useful information in the future.

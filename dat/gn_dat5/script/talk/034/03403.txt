@@ -1,12 +1,7 @@
 Alice
 31
-All of the Puppets use magical power as
-fuel.\b
-The magician in the library of the Scarlet
-Devil Mansion might be involved.\b
-After heading north on Route 5, the Scarlet
-Devil Mansion should be by the side of the
-Misty Lake.\b
+All of the Puppets use magical power as fuel.
+The witch in the library of the Scarlet Devil Mansion might be involved.\b
+After heading north on Route 5, the Scarlet Devil Mansion should be by the side of the Misty Lake.\b
 \x03
-There's also a vampire there, so try not to
-get eaten.
+There's also a vampire there, so try not to get eaten.

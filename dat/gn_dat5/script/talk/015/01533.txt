@@ -1,7 +1,7 @@
 
 
-Although Suzunaan has already stored a lot
-of books, the mansion of the lake surely 
-has a larger collection.\b
+Although Suzunaan had already stored a lot
+of books, the mansion of the lake surely has a 
+larger collection.\b
 \cI doubt that they ever finished reading 
-all the books that they'd gathered.
+all the books that they gathered.

@@ -2,10 +2,9 @@ Yukari
 955_03
 \p. Such a pretty name.\b
 \x01
-Why would I ask these basic things,
-you ask?\b
+Why would I ask these basic things, you say?\b
 \x00
 Well, it doesn't hurt to ask, does it?\b
 \x03
 Your name is what defines you.\b
-Keep it safe, all right?
+Keep it safe, alright?
