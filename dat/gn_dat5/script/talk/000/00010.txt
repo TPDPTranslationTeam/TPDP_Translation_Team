@@ -1,4 +1,4 @@
 
 
-You've sealed a wild \t!
+You've sealed a wild \t!\b
 \cWould you like to give \t a nickname?

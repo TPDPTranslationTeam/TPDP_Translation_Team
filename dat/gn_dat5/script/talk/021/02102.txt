@@ -1,9 +1,10 @@
 Sanae
 85_04
-What? You knew that already?
+What? You knew that already?\b
 \x00
-We can get straight to the point then.
+We can get straight to the point then.\b
 \x05
-\cCurrently, Gensokyo is being flooded by
-Puppets. We haven't figured out what has caused this
-yet.
+\cCurrently, Gensokyo is being 
+flooded by Puppets.\b
+We haven't figured out 
+what has caused this yet.

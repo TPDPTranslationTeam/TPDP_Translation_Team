@@ -15,5 +15,5 @@ Come see me after you're done with Patchy.\b
 I can guide you on your path of destiny.\b
 \x04
 But only if you can make it to my room.\b
-\s44_03
+\x03
 Until we meet again...

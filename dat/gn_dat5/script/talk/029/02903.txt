@@ -1,8 +1,7 @@
 Cirno
 39
-What does the "Puppet
-Liberation Front" do?\b
+What does the "Puppet Liberation Front" do?\b
 \x04
 ......?\b
 \x03
-Wh-Why should I tell you!? Idiot!
+Wh-Why should I tell you!? Dummy!

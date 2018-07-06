@@ -1,9 +1,9 @@
 Marisa
 02_04
-Welp, you're not gonna gain any experience just standing
-here talking about it.\b
+Welp, you're not gonna gain any experience
+just standing here talking about them.\b
 \x07
-It's time for the real thing!\b
+It's time for the real deal!\b
 \x08
-Here, take my Puppet and let's see what you can
-do!
+Here, take my Puppet and let's see 
+what you can do!

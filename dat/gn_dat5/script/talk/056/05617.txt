@@ -3,4 +3,5 @@ Reisen
 Oh, it's you...\b
 Me? I'm selling medicines.\b
 \x02
-Unfortunately, I don't have medicines for Puppets.
+Unfortunately, I don't have medicine for
+Puppets.

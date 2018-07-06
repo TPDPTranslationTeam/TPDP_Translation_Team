@@ -1,9 +1,16 @@
 Nitori
 83_01
-... So according to what you're saying, \p, the Three Fairies of Light stole my optical camouflage, huh.\b
-Then, to make matters worse, they went off to the Tengu Village to cause trouble.\b
+... So according to what you're saying, 
+\p, the Three Fairies of Light 
+stole my optical camouflage, huh.\b
+Then, to make matters worse, they went 
+off to the Tengu Village to cause trouble.\b
 \x02
-Hrm, well, I'm gonna have to ask for your help on this,\b but do you mind getting my optical camouflage back?\b
-\cIt's a big issue that my Kappa tech is being used for mischief in the Tengu Village.\b
+Hrm, well, I'm gonna have to ask for your 
+help on this,\b but do you mind 
+getting my optical camouflage back?\b
+\cIt's a big issue that my Kappa tech is being
+used for mischief in the Tengu Village.\b
 \x00
-I'll even give you something good, \p!
+I'll even give you something good, 
+\p!

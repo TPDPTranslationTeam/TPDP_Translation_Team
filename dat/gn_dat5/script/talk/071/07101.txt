@@ -1,23 +1,24 @@
 Keine
 62
 Oh, you're that Puppeteer.\b
-I know because of the rumors in the village.\b
+I've heard rumors of you 
+from around the village.\b
 \x01
-First thing's first though, there's 
-something I want you to hear.\b
-Right now something troublesome 
+First thing's first, though. There's 
+something I'd like you to hear.\b
+Right now, something troublesome 
 is happening in Eientei.\b
 \x04
-I was the one who was going to help with 
-this situation, but right now I'm kind of 
+I was supposed to be the one to help with 
+the situation, but right now I'm kind of 
 caught up in other matters...\b
 \x02
-I know that I'm asking for a lot with 
-the situation at Eientei, but could 
-you please help resolve the problem?\b
+I know that I'm asking for a lot from
+you, but could you please 
+help resolve this in my stead?\b
 \oAkyuu
 \j76
-How is that?\b
+How about it?\b
 I think fixing this little problem will 
 put you one step closer to solving 
 the bigger incident ahead.\b

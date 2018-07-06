@@ -1,8 +1,10 @@
 Nitori
 83_04
-...Huh, you're not a part of the Liberation Front?\b
+...Huh, you're not a part 
+of the Liberation Front?\b
 \x00
-Now that I look at you again, you're a human aren't you?\b
+Now that I look at you again, 
+you're a human, aren't you?\b
 \x02
 Wow, I guess I was in the wrong here.\b
 Sorry about that.

@@ -1,15 +1,19 @@
 Koakuma
 41_02
 Ow ow.
-Our little scuffle caused the books to fall down.\b
+Our little scuffle caused the books to fall
+down.\b
 \x00
-Hm? You're interested in the books that fell?\b
+Hm? You're interested in the books that
+fell?\b
 \x01
-This youma book is what you want huh?\b
+This youma book is what you want, huh?\b
 \x04
 Hmmm...\b
 \x00
 Ah!\b
-If you can reach the master of the mansion, I'll give this book to you!\b
+If you can reach the master of the mansion,
+I'll give this book to you!\b
 \x03
-If you're still alive after meeting that vampire, come by again.
+If you're still alive after meeting that
+vampire, come by again.

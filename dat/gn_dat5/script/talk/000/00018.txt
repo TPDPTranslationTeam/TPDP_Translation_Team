@@ -1,4 +1,5 @@
 
 
 This rock appears to be breakable.\b
-\cWould you like to use the Superpower Glove?
+\cWould you like to use 
+the Superpower Glove?

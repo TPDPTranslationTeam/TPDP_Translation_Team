@@ -3,5 +3,5 @@ Akyuu
 I have heard some rumors about suspicious
 individuals lurking around in the Village.\b
 I am not certain if these rumors are true,\b
-but it is better to inform
-you for your own well-being.
+but it is better to inform you for your own
+well-being.

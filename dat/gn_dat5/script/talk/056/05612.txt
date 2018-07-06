@@ -3,6 +3,8 @@ Akyuu
 Oh, \p. How have you been?\b
 \x00
 \cBy the way,\b
-it seems the kappa's technology have been drawing attention.\b
+it seems the kappa's technology have been
+drawing attention.\b
 \x01
-\cThey say their technology can make themselves invisible...
+\cThey say their technology can make
+themselves invisible...

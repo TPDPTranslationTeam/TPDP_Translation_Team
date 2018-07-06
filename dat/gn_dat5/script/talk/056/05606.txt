@@ -1,5 +1,7 @@
 Remilia
 44_02
-No? You're missing out on a great opportunity here.\b
+No? You're missing out on a great
+opportunity here.\b
 \x03
-When you come to your senses, you can ask me again to change it.
+When you come to your senses, you can ask me
+again to change it.
