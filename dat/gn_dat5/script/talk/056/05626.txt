@@ -4,9 +4,12 @@ Oh welcome.\b
 \x02
 Unfortunately, the shrine maiden is out now.\b
 \x05
-Reimu just left her shrine again with no warning.\b
-Don't you think she should value her actual job more?\b
+Reimu just left her shrine again with no
+warning.\b
+Don't you think she should value her actual
+job more?\b
 \x01
-I'm taking care of the shrine temporarily, I had no choice.\b
+I'm taking care of the shrine temporarily,
+I had no choice.\b
 \x02
 I can't really do anything but relax.

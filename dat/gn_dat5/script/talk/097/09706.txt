@@ -1,9 +1,10 @@
 
 
-Old looking leaflets are falling.\b
+Old-looking leaflets are falling.\b
 \c	 Ancient Relics 'Fantasy Ruins'
 	Opening today at 10\b
-\cFor those who visit the ruins, I'll give you something that'll make you happy.
-I am waiting warmly for you to visit my shop.
+\cFor those who visit the ruins, I'll
+give you something that'll make you happy.
+I am waiting warmly for you to visit my shop.\b
 \c... is what is written.
 These leaflets are quite suspicious.

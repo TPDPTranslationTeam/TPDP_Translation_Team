@@ -1,4 +1,5 @@
 Aya
 73
-The Kappa Hideout should be located inside of the cavern.\b
+The Kappa Hideout should be located inside
+of the cavern.\b
 \cUntil then, let us meet again.

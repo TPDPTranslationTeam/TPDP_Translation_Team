@@ -1,8 +1,8 @@
 Marisa
 02
-Don't you worry! This'll be
-a piece of cake for me!\b
+Don't you worry! This'll be a piece of cake
+for me!\b
 \x00
-\cYou guys can just sit there enjoying
-your tea, and I'll get it done
-before your drinks get cold!
+\cYou guys can just sit there enjoying your
+tea, and I'll get it done before your drinks
+get cold!

@@ -1,7 +1,7 @@
 Marisa
 02
-Wow. You did amazingly
-well for your first attempt!
+Wow. You did amazingly well for your first
+attempt!
 You may come in handy sometime.\b
 \x07
 Alright. I should get going. Sanae should

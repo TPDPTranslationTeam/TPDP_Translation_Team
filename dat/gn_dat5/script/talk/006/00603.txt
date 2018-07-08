@@ -1,6 +1,7 @@
 Marisa
 02_05
-Wait a sec... You know about the Puppets, 
+Wait a sec... You know about the Puppets,
 right?\b
 \x02
-Hmm... You're from the outside world, aren't you?
+Hmm... You're from the Outside World, 
+aren't you?

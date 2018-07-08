@@ -3,4 +3,5 @@ Utsuho
 Oh, I got beat.\b
 Darn...\b
 \x03
-I guess since you fought so well, it's alright if you go through!
+I guess since you fought so well
+it's alright if you go through!

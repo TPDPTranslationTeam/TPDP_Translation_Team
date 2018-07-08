@@ -1,13 +1,13 @@
 Eirin
 65
-Like I said before, we're going to stop 
-this.\b
+Like I said before, we're 
+going to stop this.\b
 \x01
-You are going to stop the person with white 
-hair.\b
-She is Fujiwara no Mokou, the arch-nemesis 
-of our princess.\b
+You are going to stop the 
+person with white hair.\b
+She is Fujiwara no Mokou, 
+the arch-nemesis of our princess.\b
 \x00
-She's a formidable foe, but I believe you 
-can do it.\b
-Let's end this before the damage continues.
+She's a formidable foe, but 
+I believe you can do it.\b
+Let's end this before the damage worsens.\b

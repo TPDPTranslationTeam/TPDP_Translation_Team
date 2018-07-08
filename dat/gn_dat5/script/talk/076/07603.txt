@@ -5,7 +5,7 @@ right?\b
 You should go see her in her class before 
 you go to the Scarlet Devil Mansion.\b
 \x03
-She's trustworthy, I'm sure she'll give you 
-something in return.\b
+She's trustworthy, so I'm sure she'll give 
+you something in return for your help.\b
 \x07
 I'm going for real now. See ya.

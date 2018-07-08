@@ -1,14 +1,15 @@
-さとり
+Satori
 094
-なかなか強かったわ。\b
+That was tough.\b
 \x03
-でも己と向き合うのもたまには良いでしょう？\b
+It's good to face yourself sometimes, isn't it?\b 
 \x00
-さて話を戻して・・・\b間欠泉センターね。\b
+Now back to the Geyser Center.\b
 \x01
-知っての通り 今は解放戦線とやらの住処になっているらしいわね。\b
+As you know, the Liberation Front has settled there.\b
 \x00
-行き方は簡単 このまま進むと灼熱地獄跡があり その先に目的の場所があるわ。\b
+The way there is simple, just go straight through here to the Remains of Blazing Hell.\b
+At the end, you should find the Geyser Center. You can't miss it.\b 
 \x03
-・・・ほら情報は与えましたよ。\b
-後はあなたが思うように足掻いてみなさい。
+...I gave you the information.\b
+Now go and do what you will.

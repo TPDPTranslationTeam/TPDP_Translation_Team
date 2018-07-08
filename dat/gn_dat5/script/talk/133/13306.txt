@@ -1,15 +1,11 @@
-//小鈴
 Kosuzu
 114
-//いらっしゃいませ。\b
 Welcome.\b
-//\pさん その後 妖魔本の収集は進んでいますか？\b
-\p, are you doing well collecting those scrolls?\b
+\p, are you doing well 
+collecting those scrolls?\b
 \x04
-//あ！そうだ！\b
 Oh, right!\b
-//珍しい古書が入荷したので棚に並べてみたんです。\b
-Some rare old books have just arrived. They're on the shelf.\b
+Some rare old books have just arrived.
+They're on the shelf.\b
 \x03
-//よかったら見てみてくださいね。
 Check them out if you're interested.

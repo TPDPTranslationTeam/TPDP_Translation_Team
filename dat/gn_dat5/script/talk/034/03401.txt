@@ -1,17 +1,23 @@
 Alice
 31_03
-It's finally here; I've been waiting for this!\b
+It's finally here; I've been waiting for
+this!\b
 Thanks, you've really helped me out.\b
 \x00
 Huh? About the Puppets?\b
-That reminds me, you're that human child that made it into the newspaper.\b
+That reminds me, you're that human child
+that made it into the newspaper.\b
 \x01
-Hmm... It's as\p says.\b 
+Hmm... so you say?\b 
 \x02
-Unfortunately, I don't have any information either.\b
-I'm so sorry that I'm not able to help you out.\b
+Unfortunately, I don't have any information
+either.\b
+I'm so sorry that I'm not able to help you
+out.\b
 \x00
 Oh, right, \p.\b
-You must be really tired after coming all the way out here, right?\b
+You must be really tired after coming all
+the way out here, right?\b
 \x03
-Since you'll be heading back on the same road, you should rest here for a little bit.\b
+Since you'll be heading back on the same
+road, you should rest here for a little bit.\b

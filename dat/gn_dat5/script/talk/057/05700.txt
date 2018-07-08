@@ -2,14 +2,20 @@ Aya
 73_04
 ... Ayayaya!\b
 \x03
-You're the well known \p that I heard of right?\b
+You're the well known \p that I
+heard of, right?\b
 How unexpected to meet you here.\b
 \x00
-Are you perhaps heading toward Youkai Mountain?\b
+Are you perhaps heading toward Youkai
+Mountain?\b
 How impressive.
 You truly are different from other humans.\b
 \x03
 Youkai Mountain is nice!\b
-We have the Kappa Hideout at the mountain base, the Tengu Village in the middle, and the Moriya Shrine at the summit. The mountain is also great for sightseeing!\b
+We have the Kappa Hideout at the mountain
+base, the Tengu Village in the middle, and
+the Moriya Shrine at the summit.\b
+The mountain is also great for sightseeing!\b
 \x01
-There's also a rumor of a hermit retreat being somewhere on the mountain...
+There's also a rumor of a hermit retreat
+being somewhere on the mountain...

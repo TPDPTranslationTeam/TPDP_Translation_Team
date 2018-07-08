@@ -1,9 +1,12 @@
 Keine
 62_02
-The Puppet Liberation Front caused a ruckus the other day, remember?\b
-I'm still dealing with the aftermath of that ya know...\b
+The Puppet Liberation Front 
+caused a ruckus the other day, remember?\b
+I'm still dealing with the 
+aftermath of that, you know...\b
 \x00
-Eientei is deep within the bamboo forest.\b
-It's easy to get lost there so be careful.\b
+Eientei is deep within the Bamboo Forest.\b
+It's easy to get lost there, so be careful.\b
 \x04
-... Sorry I can't help, but I'm counting on you.
+... Sorry I can't help, 
+but I'm counting on you.

@@ -8,8 +8,8 @@ Is your little friend still following ya?\b
 There she is. It's time for a Puppet duel.\b
 \x00
 Since you're such an amateur...\b
-I'll lend you a few minutes just
-to get yourself together.\b
+I'll lend you a few minutes just to get
+yourself together.\b
 \x03
-Talk to me when you are ready.
-There is no escape. You hear that?
+Talk to me when you're ready.
+There's no escape. You hear that?

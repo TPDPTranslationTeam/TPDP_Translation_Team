@@ -1,36 +1,39 @@
 Akyuu
 76_04
-So you are the one that everyone has
-been talking about...\b
+So you are the one that everyone
+has been talking about...\b
 \x00
 Ah!.. Excuse me.\b
 \x03
-Allow me to introduce myself. I am Akyuu, the head
-of the Hieda family.\b
+Allow me to introduce myself. I am Akyuu,
+the head of the Hieda family.\b
 \x00
-I've read about you in the Tengu's special
-issues.\b
-It seems you are quite talented in
-manipulating Puppets...\b
+I've read about you in
+the Tengu's special issues.\b
+It seems you are quite talented
+in manipulating Puppets...\b
 \x04
-I see. Sanae told you to meet me here, yes?\b
+I see. Sanae told you to
+meet me here, yes?\b
 \x00
-Hmm... So you are investigating the Puppets
+Hmm... So you are investigating the Puppet
 incident so you could find your way home?\b
 \x02
 To be honest with you, I have very little
 knowledge regarding the incident as well.\b
-The only thing we know so far is that Puppets
-can only be dealt with by other Puppets.\b
+The only thing we know so far is that
+Puppets can only be dealt with by other
+Puppets.\b
 \x01
-We have been able to defend the Village after we
-discovered Puppet Sealing methods,\b
-but it doesn't solve the root of the problem.\b
+We've been able to defend the Village since
+we discovered Puppet Sealing methods...\b
+But it doesn't solve the root of the
+problem.\b
 \x00
-Please enjoy your time here in the village while
-we continue to research the matter.\b
-We will inform you when we make progress in
-our research.\b
+Please enjoy your time here in the village
+while we continue to research the matter.\b
+We will inform you when we make
+progress in our research.\b
 \x03
 We don't have anything remarkable,\b
 but I bet you will find something that

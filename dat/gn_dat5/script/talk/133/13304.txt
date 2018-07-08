@@ -1,8 +1,5 @@
-//一輪
 Ichirin
 100_01
-//雲山が何者か ですか？\b
 "Who's Unzan?"\b
 \x00
-//雲山は雲山以外の何者でもないですよ。
 Unzan is Unzan. Nothing more, nothing less.

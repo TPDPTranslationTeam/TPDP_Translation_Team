@@ -1,17 +1,14 @@
-//霊夢
 Reimu
 1_05
-//この先に何の用？\b
 What business do you have here?\b
-//また何かやらかそうって言うの？\b
-You're scheming something again, aren't you?\b
-//\cよくよく考え直してみたら あんたがこっちに来てから異変が激化していったのよね。\b
-\cI've been thinking, "Things have only gotten worse after \p arrived."\b
-//\cあんたがこの異変の一部だと考えても 筋が通るくらいには・・・。\b
-\cIt's as clear as day! Somehow you're involved
+You're scheming something again,
+aren't you?\b
+\cI've been thinking, "Things have only
+gotten worse after \p arrived."\b
+\cIt's as clear as day!
+Somehow you're involved,
 probably!\b
 \x07
-//これ以上 事態をややこしくするなら 私にだって考えがあるわ。\b
 You'll only continue to make things worse.\b
-//さぁ \p 私に大人しく成敗されなさい。
-Just stand still and accept your punishment. It'll make it easier for both of us.
+Just stand still and accept your punishment.
+It'll make it easier for both of us.

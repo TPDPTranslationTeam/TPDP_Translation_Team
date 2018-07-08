@@ -1,21 +1,28 @@
 Patchouli
 42_05
-There's no bigger waste of time than pointless conversation.\b
+There's no bigger waste of time than
+pointless conversation.\b
 \x01
-...I'm not related to the puppets. It's true.\b
-If you can't believe your ears, you can ask that slinking cat over there.\b
+...I'm not related to the Puppets.
+It's true.\b
+If you can't believe your ears, you can ask
+that slinking cat over there.\b
 \s42
 Well,\b you're being called by Remi, right?\b
 How did I know that?\b
 \x03
-She knew you were coming here from reading the newspaper and was antsy waiting for you.\b
+She knew you were coming here from reading
+the newspaper and was antsy waiting for you.\b
 How predictable.\b
 \x00
-Anyway, you can go to Remi's room from the door over there.\b 
-I won't stop you if you don't care what happens.\b
-\\I had to rearrange this entire sentence for it to make sense in English.
+Anyway, you can go to Remi's room from the
+door over there.\b 
+I won't stop you if you don't care what
+happens.\b
 \x04
 But...\b
 \x00
-You're gonna have a hard time if you're going as is.\b
-I can heal your puppets. Talk to me if you need to.
+You're gonna have a hard time if you're
+going as is.\b
+I can heal your puppets. Talk to me if you
+need to.

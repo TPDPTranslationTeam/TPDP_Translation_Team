@@ -1,6 +1,4 @@
 
 
 Hmm... \f?\b
-That's... not expected.
-//These seem like they are unused im the game. They 310-312 say the same thing in a different way
-//I'll have to do some testing later to see which dialogue scripts are used
+That's... unexpected.

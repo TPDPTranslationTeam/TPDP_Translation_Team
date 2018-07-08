@@ -1,4 +1,3 @@
 
 
 There's already a Puppet here!
-~~"Already" might not be necesssary. The two versions of this .txt (between master and testing) were different, so I'm not sure what the context is.
