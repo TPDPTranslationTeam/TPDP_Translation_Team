@@ -1,11 +1,11 @@
 Marisa
 02_02
 Well, that's quite disappointing.\b
-I really thought you could've
-done a little bit better...\b
+I really thought you could've done a little
+bit better...\b
 \x03
 Don't get too frustrated about it.\b
-Just stay patient, and I'll get this
-solved before you even notice it!\b
+Just stay patient, and I'll get this solved
+before you know it!\b
 \x07
 See ya!

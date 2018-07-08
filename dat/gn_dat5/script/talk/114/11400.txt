@@ -1,7 +1,7 @@
-さとり
+Satori
 094
-あら 来客なんて珍しいわ。\b
+Oh, a visitor. How rare.\b
 \x03
-・・・そう あなた \pって言うのね。\b
+So...your name is \p,\b
 \x00
-へぇ 勇儀に言われてここに来たと・・・。
+and Yuugi told you to come here.

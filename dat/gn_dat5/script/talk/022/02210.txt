@@ -2,18 +2,18 @@ Sanae
 85_04
 Oh, by the way!\b
 \x00
-Some people in the Human Village
-are investigating Puppets. Maybe
-you could start finding clues there.\b
+Some people in the Human Village are
+investigating Puppets. Maybe you could start
+finding clues there.\b
 \x05
-Unfortunately, I have to stay here
-as a backup for when Reimu is out.
-You are on your own for now.\b
+Unfortunately, I have to stay here as a
+backup for when Reimu is out. You are on
+your own for now.\b
 \x03
 You should be fine with your Puppet.\b
 I'm sure she'll be your best ally!\b
 \x00
-You might also learn more about our
-world in the Human Village. How about
-paying it a visit first?\b
+You might also learn more about our world
+in the Human Village. How about paying it a
+visit first?\b
 I guarantee you won't be disappointed!
