@@ -2,5 +2,6 @@
 
 Welcome!\b
 We started selling costumes for Puppets.\b
-\cDo you want to change your Puppet's costume?
+\cDo you want to change your Puppet's 
+costume?\b
 Costumes are 3000 Yen each.

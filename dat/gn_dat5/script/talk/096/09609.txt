@@ -1,5 +1,7 @@
 Sanae
 085_04
-You defeated some of fairies in the Puppet Liberation Front, right?!\b
+You defeated some of the fairies in the 
+Puppet Liberation Front, right?!\b
 \x03
-Great work! I call dibs on next batch of delinquents!
+Great work! I call dibs on next batch of 
+delinquents!

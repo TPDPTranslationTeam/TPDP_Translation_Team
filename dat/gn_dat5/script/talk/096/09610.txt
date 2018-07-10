@@ -1,7 +1,8 @@
 Sanae
 085
 Do you remember the game where you capture
-and train monsters and go on an adventure?\b
+and train monsters while going on an 
+adventure?\b
 \x03
 I loved that game.\b
 \x06

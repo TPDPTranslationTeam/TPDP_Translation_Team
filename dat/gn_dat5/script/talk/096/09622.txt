@@ -1,9 +1,11 @@
 Sumireko
 124_00
-It's surprising to see someone else in this dream.\b
+It's surprising to see someone else in this 
+dream.\b
 \x01
-Be careful,
-This is no ordinary dream.\b
+Be careful. This is no ordinary dream.\b
 \x03
-If you get injured here, you may be harmed in real life,
-or you could die. They're both equally likely.
+If you get injured here, you may be harmed 
+in real life,\b
+or you could die. They're both equally 
+likely.

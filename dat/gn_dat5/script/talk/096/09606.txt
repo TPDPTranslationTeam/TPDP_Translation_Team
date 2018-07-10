@@ -2,4 +2,5 @@ Kanako
 086
 You wish to return to the outside?\b
 \x03
-Well, I'll consider granting it if you can defeat me.
+Well, I'll consider granting it if you can 
+defeat me.

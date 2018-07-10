@@ -3,8 +3,12 @@ Kanako
 You seem to be really strong.\b
 I wonder what you will grow up to be.\b
 \x02
-I'm sorry, but I'm not going to grant your wish while we're still in the middle of an incident.\b
+I'm sorry, but I'm not going to grant your 
+wish while we're still in the middle of an 
+incident.\b
 We must solve the incident first.\b
 \x00
-Of course I wouldn't let you leave here without some kind of reward for beating me.\b
-This item should useful on your journey.
+Of course I wouldn't let you leave here 
+without some kind of reward for beating 
+me.\b
+This item should be useful on your journey.
