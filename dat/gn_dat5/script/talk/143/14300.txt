@@ -1,11 +1,11 @@
 Yuki
 32_03
-Welcome Intruder. You've kept me waiting.\b
-Really surprising how you come and creep in here like this.\b
+Welcome, Intruder. You've kept me waiting.\b
+Really surprising how you've come and crept in here like this.\b
 \x00
-Eh? The entrance is really simple?\b
+Eh? You just walked right in?\b
 \x03
-Wow this introduction style is unusually good.\b
+Wow, this introduction style is unusually effective.\b
 \x01
 Anyway, for you to come here means I must give you a gorgeous extermination!\b
 I'll give your body a really good burning!

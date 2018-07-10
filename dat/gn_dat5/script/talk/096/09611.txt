@@ -1,6 +1,6 @@
 
 
-いらっしゃい！\b
-ウチでは人形用の衣装も取り扱い始めたのよ。\b
-\c料金は３０００円なんだけど
-人形の衣装を変えたいの？
+Welcome!\b
+We started selling costumes for Puppets.\b
+\cDo you want to change your Puppet's costume?
+Costumes are 3000 Yen each.

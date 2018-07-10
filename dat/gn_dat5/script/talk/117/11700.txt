@@ -2,7 +2,7 @@ Reimu
 001
 You're finally here.
 \x02
-You took so long I got tired of waiting.\b
+You took so long, I got tired of waiting.\b
 \x07
 Look, there's no point moving slowly around here.\b
 Let's move on ahead already.

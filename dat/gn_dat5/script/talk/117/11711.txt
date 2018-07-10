@@ -1,6 +1,6 @@
 Rumia
 037_05
-You really did it last time!\b
-Thanks to you I was so angry.\b
+Ooo, You really did it last time!\b
+I got super angry because of you!\b
 \x01
-This time I'm gonna beat you thoroughly!
+This time, I'm gonna beat you thoroughly!

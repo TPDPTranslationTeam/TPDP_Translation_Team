@@ -1,8 +1,7 @@
 Chen
 47
 Ah, you're the human from before!
-Oh? You're that human 
-Ms. Yukari was talking about.\b
+Oh? You're that human Ms. Yukari was talking about.\b
 \x03
 You really beat up those fairies!
 Thanks a lot!\b

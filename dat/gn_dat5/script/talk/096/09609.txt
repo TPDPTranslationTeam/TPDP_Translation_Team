@@ -1,5 +1,5 @@
-早苗
+Sanae
 085_04
-\pさん 解放戦線を解散させたって本当ですか！？\b
+You defeated some of fairies in the Puppet Liberation Front, right?!\b
 \x03
-すごいです！私も負けていられませんね！
+Great work! I call dibs on next batch of delinquents!
