@@ -3,4 +3,5 @@ Nitori
 Is there something that you need again?\b
 Hm? What am I doing?\b
 \x03
-Right now, I'm assembling a new machine prototype.
+Right now, I'm assembling a new machine 
+prototype.
