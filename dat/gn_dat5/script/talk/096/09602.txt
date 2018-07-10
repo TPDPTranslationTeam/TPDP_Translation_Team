@@ -1,25 +1,27 @@
 Sanae
 085_03
 Yes, Lady Kanako.\b
-This is \p from the outside world,\b
+This is \p from the Outside World,\b
 \x00
-and now they're on the journey to solve the incident in order to return outside.\b
+and now they're on a journey to solve the 
+incident in order to return outside.\b
 Sounds familiar, right?\b
 \oKanako
 \j086
 I see...\b
-There's someone who came from the outside other than us.\b
+There's someone who came from outside the 
+border besides us.\b
 \x03
 Interesting...\b
 I have a lot to discuss with you.\b
 \oSanae
 \j085_04
 No, Lady Kanako.\b
-Let me play with \p for right now!\b
+Let me play with \p for now!\b
 \x00
 Hey \p,
 Let's have a Puppet battle!\b
 I've been really wanting to battle you!\b
 \x07
-So are you ready?!\b
+So, are you ready?!\b
 Even if you're not, I am!

@@ -3,7 +3,8 @@ Sanae
 It's been a while.\b
 Do you remember me?\b
 \x00
-I heard you're on journey but I didn't know you would be here.\b
+I heard you're on journey but I didn't know 
+you would come here.\b
 \x06
 This is my home. Nice place, isn't it?\b
 \oÅHÅHÅH

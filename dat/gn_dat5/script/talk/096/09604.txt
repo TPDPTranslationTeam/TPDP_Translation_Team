@@ -1,20 +1,28 @@
 Sanae
 085
-This is a Superpower Glove. If there is a rock in the way you can smash it to bit with this item.\b
+This is a Superpower Glove.\b
+If there is a rock in the way, you can 
+smash it to bits with this item.\b
 \x06
-Select it from the "Key Items" part in the item menu and use it.\b
-...or you could look at the rock and just smash it; your choice.\b
+Select it from the "Key Items" part in the 
+item menu and use it.\b
+...or you could just look at the rock and 
+smash it; your choice.\b
 \oKanako
 \s086
 Oh, right.
-There was the rock like that at the bottom of the mountain, you should go try out the glove on that.\b
+There was a rock like that at the bottom of 
+the mountain; you should go try out the 
+glove on that.\b
 \x03
 Then it'll be much easier to get here.\b
 It's very convenient, right?\b
 \oSanae
 \j085_03
 That's right, Lady Kanako!\b
-Worshippers can use it to easily come back!\b
+Worshipers can use it to easily come 
+back!\b
 \oKanako
 \j086_03
-Yes... Anyway, there's not much else to do but relax.
+Yes... Anyway, there's not much else to do 
+but relax.

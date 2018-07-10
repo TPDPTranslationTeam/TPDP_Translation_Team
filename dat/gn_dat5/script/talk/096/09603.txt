@@ -2,8 +2,10 @@ Sanae
 085_04
 I lost.\b
 \x00
-You're getting better at using Puppets than before.
+You're getting better at using Puppets than 
+before.\b
 I'm sure you have some talent.\b
 \x03
-Thank you for the battle. That was very fun!\b
+Thank you for the battle. It was very 
+fun!\b
 Please take this as thanks.
