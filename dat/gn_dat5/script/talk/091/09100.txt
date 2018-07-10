@@ -1,14 +1,14 @@
 
 
 Emergency! Emergency!\b
-Our hideout has been taken over by the 
+Our hideout has been taken over by the
 Puppet Liberation Front!\b
-\cThey're rampaging all over our base.
+\cThey're rampaging all over our base.\b
 I have to find someone who can help us...\b
 Hey, you! Can you help us?\b
 \cDon't worry!\b
 The way to the hideout is a bit complicated,
 but I can guide you anytime if you ask!\b
-\c...Humans are sworn friends of kappa, as 
-they say.
+\c...Humans are sworn friends of kappa, as
+they say.\b
 So you'll help us, right?
