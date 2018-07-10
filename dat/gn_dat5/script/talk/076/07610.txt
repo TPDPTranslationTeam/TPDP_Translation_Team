@@ -2,10 +2,10 @@ Keine
 62
 I heard you solved the problem in Eientei.\b
 \x04
-That sort of problem has been happening very
-frequently, but this time it happened at a
+That sort of problem has been happening very 
+frequently, but this time it happened at a 
 very bad time.\b
 \x03
 Thank you very much.\b
-Please accept this in return for all of your
+Please accept this in return for all of your 
 hard work.

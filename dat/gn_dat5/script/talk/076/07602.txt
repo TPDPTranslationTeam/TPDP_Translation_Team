@@ -1,7 +1,7 @@
 Marisa
 2_02
 Phew... that was rough.\b
-I figured you'd gotten stronger, but I
+I figured you'd gotten stronger, but I 
 didn't expect you to get THIS strong.\b
 \x00
 By the way, where are you going now?\b
@@ -10,5 +10,5 @@ Scarlet Devil Mansion?\b\b
 I see, Alice told you to go there...\b
 \x07
 Well, I'd better get going too.\b
-I'm going to get much stronger, so you'd
+I'm going to get much stronger, so you'd 
 better plan on doing the same!

@@ -1,12 +1,12 @@
 Kaguya
 66_01
-Oh, you're that human that stopped my battle
+Oh, you're that human that stopped my battle 
 with Mokou.\b
 \x02
 You want to battle me instead of Mokou?\b
 \x00
 Sure. I've been really bored lately 
 anyway.\b
-Even though this fight will be only a flash
-compared to all of eternity, I hope it will
+Even though this fight will be only a flash 
+compared to all of eternity, I hope it will 
 be enough to entertain me.

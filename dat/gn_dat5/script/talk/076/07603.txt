@@ -1,11 +1,11 @@
 Marisa
 2
-You were asked to run an errand by Keine,
+You were asked to run an errand by Keine, 
 right?\b
-You should go see her in her class before
+You should go see her in her class before 
 you go to the Scarlet Devil Mansion.\b
 \x03
-She's trustworthy, so I'm sure she'll give
+She's trustworthy, so I'm sure she'll give 
 you something in return for your help.\b
 \x07
 I'm going for real now. See ya.
