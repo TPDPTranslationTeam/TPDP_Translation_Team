@@ -2,4 +2,5 @@ Eirin
 65
 Oh, it's \p.\b
 What brings you here?\b
-\cThe princess should be around somewhere.
+\cThe princess should be around here
+somewhere.

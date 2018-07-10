@@ -1,15 +1,15 @@
 Akyuu
 76
 Oh, \p.\b
-I heard you had finished 
-the task for Ms. Kamishirasawa.\b
-\cYou're going to Scarlet Devil Mansion next, 
-right?\b
+I heard you had finished the task for Ms.
+Kamishirasawa.\b
+\cYou're going to Scarlet Devil Mansion
+next, right?\b
 \x03
 You're quite energetic.\b
-That's a good attitude 
-to have in your situation.\b
+That's a good attitude to have in your
+situation.\b
 \x01
-Scarlet Devil Mansion is near the Misty Lake
-and ruled by a vampire.\b
+The Scarlet Devil Mansion is near the Misty
+Lake and ruled by a vampire.\b
 Please, do be careful.

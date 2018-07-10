@@ -3,4 +3,4 @@ Rinnosuke
 Welcome.\b
 \x03
 I see you've returned safe and sound
-with the Woodcutter Doll.\b
+with the Woodcutter Doll.

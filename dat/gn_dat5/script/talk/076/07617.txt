@@ -5,4 +5,4 @@ You want a rematch?\b
 \x03
 Nice, I like your attitude.\b
 \x00
-Without further ado, let's have fun.
+Without further ado, let's have some fun.

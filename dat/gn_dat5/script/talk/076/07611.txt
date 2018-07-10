@@ -1,6 +1,7 @@
 Keine
 62
-It's a tool to teach a skill to a Puppet.\b
-It should help you on your way.\b
+It's a tool for teaching a skill to a 
+Puppet.\b
+It should help you on your journey.\b
 \x03
 Well then, take care.

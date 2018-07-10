@@ -1,13 +1,13 @@
 Reisen
 64_01
-I was on the moon before.\b
-I came to Gensokyo by going through the 
+I was from the moon.\b
+I came to Gensokyo by going through the
 Kaian Passageway.\b
 \x00
-What's the Kaian Passageway? 
+What's the Kaian Passageway?
 It's in a dream world and...\b 
 \x02
 Well... It's useless information for you.\b
 \x00
-Oh, if you want to heal your puppets, 
-you can use the bed.
+Oh, if you want to heal your puppets, you
+can use the bed.
