@@ -2,7 +2,7 @@
 
 We're here!\b
 This is our hideout.\b
-If you want to leave, you'll need me to get
+If you want to leave, you'll need me to get 
 you out.\b
 So just ask me if you ever need to leave.\b
 \cI'll leave the Liberation Front to you!\b
