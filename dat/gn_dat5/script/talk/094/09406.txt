@@ -1,11 +1,12 @@
 Nitori
 83_02
-You know though, what the heck 
-is the Puppet Liberation Front anyway?\b
+You know, what the heck is the Puppet 
+Liberation Front anyway?\b
 \x01
-It'd be nice if they didn't use the 
-optical camouflage for any weird pranks.\b
-...Now that'd make us mad, don't you think?\b
+It'd be nice if they didn't use the optical 
+camouflage for any weird pranks.\b
+...Now that'd make us mad, don't you 
+agree?\b
 \x00
-Anyway, the Tengu Village is halfway up 
-the mountain, so it's a bit easy to miss.
+Anyway, the Tengu Village is halfway up the 
+mountain, so it's a bit easy to miss.
