@@ -1,5 +1,6 @@
 Parsee
 92
-A festival is going on in the Former Capital, and it's a bit of a ruckus.
+A festival is going on in the Former 
+Capital, and it's a bit of a ruckus.\b
 \x03
 A festival... how nice.

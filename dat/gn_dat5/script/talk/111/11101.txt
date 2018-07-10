@@ -1,7 +1,9 @@
 Parsee
 092
-I'm envious of how you could take things so seriously.\b
+I'm envious of how you could take things so 
+seriously.\b
 \x01
-Humans, so greedy, so foolish, so... fascinating.
+Humans; so greedy, so foolish, so... 
+fascinating.\b
 \x03
 Oh, curse this jealousy.

@@ -2,12 +2,14 @@ Parsee
 092
 Oh... hello, human.\b
 What are you looking for here?\b
-\cYou're envious of other Puppeteers, aren't you?\b
+\cYou're envious of other Puppeteers, 
+aren't you?\b
 You want to win battles, right?\b
 \x03
 You're not too far off.\b
 \x00
 Jealousy is a great motivator,\b
-and you're very transparent with your feelings.\b
+and you're very transparent with your 
+feelings.\b
 \x01
 I envy you, so I will crush your heart.
