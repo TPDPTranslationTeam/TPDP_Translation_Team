@@ -2,8 +2,8 @@ Reimu
 001_02
 Willing to go at any cost, huh.\b
 \x05
-Well, I already said what I needed to say,
+Well, I already said what I needed to say, 
 so go ahead and do whatever you want.\b
 \s1_04
-Oh right. I don't need this thing,
-so I'm giving it to you.
+Oh right. I don't need this thing, so I'm 
+giving it to you.

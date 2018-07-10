@@ -1,6 +1,6 @@
 Reimu
 001_05
-If you continue on into this cavern
+If you continue into this cavern 
 unprepared, you'll be coming out crying.\b
 \x06
 Well then, persevere with your own strength.
