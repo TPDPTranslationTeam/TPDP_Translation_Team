@@ -1,5 +1,5 @@
-パルスィ
+Parsee
 92
-そういえば旧都で祭りをやってるみたいで騒がしかったわ。\b
+A festival is going on in the Former Capital, and it's a bit of a ruckus.
 \x03
-祭りなんて実に妬ましい行事よね。
+A festival... how nice.

@@ -1,13 +1,9 @@
 Utsuho
 096
-Oh, what are you doing 
-in a place like this?\b
-You're sightseeing?\b
+Oh, what are you doing in a place like this?\b
+Just sightseeing?\b
 \x01
-Unfortunately, I can't let
-you through here.\b
-I'm pretty sure Lady Satori said that
-no one is allowed through here.\b
+Unfortunately, I can't let you through here.\b
+I'm pretty sure Lady Satori said that no one is allowed through here.\b
 \x00
-If you think I'm being unreasonable
-then you'll have to fight me.
+If you think I'm being unreasonable, then you'll have to fight me.

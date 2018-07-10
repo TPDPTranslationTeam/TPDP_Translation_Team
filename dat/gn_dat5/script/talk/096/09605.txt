@@ -1,8 +1,8 @@
-早苗
+Sanae
 085_04
-次に行くところがないんですか？\b
+You don't know where to go next?\b
 \x05
-うーん・・・私も心当たりはないですね。\b
+Hmmm... me neither.\b
 \x00
-\pさんもそろそろこちらに慣れてきた頃ですし 自分で探してみてはどうでしょう？\b
-色々な発見ができるかもしれませんよ。
+Why not go explore around?\b
+There is lots to discover in Gensokyo.

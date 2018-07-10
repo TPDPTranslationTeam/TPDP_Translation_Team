@@ -1,5 +1,5 @@
 ???
 962
-Um? Why is there a stranger on my bed?
-\cOh well. Scooch over.
-Good night...
+Um? Why is there a stranger on my bed?\b
+\cOh well. Scooch over.\b
+Nighty night...

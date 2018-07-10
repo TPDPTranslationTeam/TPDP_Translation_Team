@@ -1,8 +1,8 @@
-勇儀
+Yuugi
 093
-ほう 人間がここまでやって来るなんて 久しぶりだねぇ・・・。\b
-\cこの奥にある場所になにか用がある・・・ってとこかい？\b
-それなら旧地獄巡りのついでに ここで私と勝負しようじゃないか。\b
+Huh, it's the first time I've seen any human down here in a long time.\b
+\cYou have a business further down, right?
+Then, let's have a quick match. If you win, I'll give you the official Former Hell tour.\b
 \x03
-大丈夫さ 退屈はさせないよ。\b
-さぁ 思う存分に暴れな。
+I'm sure you'll have fun.\b
+Now come on, show me what you've got. 

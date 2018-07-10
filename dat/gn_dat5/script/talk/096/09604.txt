@@ -1,19 +1,20 @@
-早苗
+Sanae
 085
-これは怪力グローブと言って 道を塞いでいる岩を破壊することができるものです。\b
+This is a Superpower Glove. If there is a rock in the way you can smash it to bit with this item.\b
 \x06
-道具の大切なところにありますから そこから選択して使ってくださいね。\b
-\o神奈子
+Select it from the "Key Items" part in the item menu and use it.\b
+...or you could look at the rock and just smash it; your choice.\b
+\oKanako
 \s086
-そうそう。\b
-山の麓に それらしき物があったから使ってみるといいかもしれないね。\b
+Oh, right.
+There was the rock like that at the bottom of the mountain, you should go try out the glove on that.\b
 \x03
-そうすればここも参拝しやすくなって 便利になる。\b
-いいこと尽くめだろう？\b
-\o早苗
+Then it'll be much easier to get here.\b
+It's very convenient, right?\b
+\oSanae
 \j085_03
-さすが神奈子様！いいアイディアです！\b
-これで参拝客も また増えますね！\b
-\o神奈子
+That's right, Lady Kanako!\b
+Worshippers can use it to easily come back!\b
+\oKanako
 \j086_03
-まぁ ここはあまり見るものは無いけどゆっくりしてきな。
+Yes... Anyway, there's not much else to do but relax.

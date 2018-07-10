@@ -1,6 +1,6 @@
 Luna Child
 070
-This time you will be fighting only me.\b
+This time, you will be fighting only me.\b
 \x01
-What disappointment you seem to have.\b
+You look disappointed.\b
 Don't think I can't fight just because I'm not with the other two!

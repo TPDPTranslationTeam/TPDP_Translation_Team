@@ -1,13 +1,13 @@
-パルスィ
+Parsee
 092
-あら 人間。\b
-力を求めて こんな所にまで来てしまったのかしら。\b
-\c他の強い人形遣いが羨ましい？\b
-勝負に勝ちたい？\b
+Oh... hello, human.\b
+What are you looking for here?\b
+\cYou're envious of other Puppeteers, aren't you?\b
+You want to win battles, right?\b
 \x03
-ふふ あながち間違いでもなさそうね。\b
+You're not too far off.\b
 \x00
-嫉妬は人の行動の原動力。\b
-あなたは 素直にその感情に従い動けるらしいわね。\b
+Jealousy is a great motivator,\b
+and you're very transparent with your feelings.\b
 \x01
-とても妬ましいから 私がその気持ちをへし折ってあげるわ。
+I envy you, so I will crush your heart.

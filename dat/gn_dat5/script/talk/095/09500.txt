@@ -8,9 +8,8 @@ So you're wandering this place now, huh?\b
 \x05
 Just so you know, the area you're standing
 in was originally not a place for humans.\b
-\cThe Tengu may be a noisy bunch,
-but I do wonder if they've gotten
-any more dangerous.\b
+\cThe Tengu may be a noisy bunch, but I do
+wonder if they've gotten any more dangerous.\b
 \x07
 Nonetheless, if you say you want to pass,
 how about showing me how strong you are?

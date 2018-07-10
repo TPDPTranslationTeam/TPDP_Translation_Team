@@ -1,5 +1,5 @@
-神奈子
+Kanako
 086
-ん？無事に外の世界へ帰れるよう 願掛けがしたいって？\b
+You wish to return to the outside?\b
 \x03
-そうだね 私と戦って勝ったら 考えてあげてもいいわね。
+Well, I'll consider granting it if you can defeat me.

@@ -5,4 +5,4 @@ Why did I lose...\b
 No way!\b
 I can't lose in a place like this.\b
 \x02
-uh... \bGotta go and heal up.
+Uh... \bGotta go and heal up.
