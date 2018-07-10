@@ -1,14 +1,20 @@
 Yuugi
 093
-It's rare to see a human like you defeat an oni like me.\b
-\cYou're the one who punished "the Liberation Front" on the surface, right?\b
+It's rare to see a human like you defeat an 
+oni like me.\b
+\cYou're the one who punished "The 
+Liberation Front" on the surface, right?\b
 \x03
 How did I know?\b
 It's just my intuition.\b
 \x00
-Did you know that Liberation Front is swarming a place called the Underground Geyser Center.\b
+Did you know that Liberation Front is 
+swarming a place called the Underground 
+Geyser Center?\b
 \x01
-Recently, they've just been doing whatever they want without any regards to anything.\b
+Recently, they've just been doing whatever 
+they want without any regards to anything.\b
 Someone needs to punish them.\b
 \x00
-If you want to, you can ask the master of the Palace of the Earth Spirits for help.
+If you want to, you can ask the master of 
+the Palace of the Earth Spirits for help.

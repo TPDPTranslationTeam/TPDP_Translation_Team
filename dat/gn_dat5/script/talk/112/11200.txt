@@ -1,8 +1,10 @@
 Yuugi
 093
-Huh, it's the first time I've seen any human down here in a long time.\b
-\cYou have a business further down, right?
-Then, let's have a quick match. If you win, I'll give you the official Former Hell tour.\b
+Huh, it's the first time I've seen any 
+human down here in a long time.\b
+\cYou have business further down, right?\b
+Then let's have a quick match. If you win, 
+I'll give you the official Former Hell tour.\b
 \x03
 I'm sure you'll have fun.\b
-Now come on, show me what you've got. 
+Now, come on! Show me what you've got! 
