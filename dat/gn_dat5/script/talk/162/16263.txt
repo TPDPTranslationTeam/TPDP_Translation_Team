@@ -1,16 +1,16 @@
-霊夢
+Reimu
 1_05
-・・・そう。
-人形はいなくならないってわけね。\b
+...so...
+The Puppets won't go away, you say?\b
 \x00
-まぁ でもいいんじゃない？
-人形という存在を ここにいる者が受け入れ始めているわ。\b
+Well, that's ok, isn't it?\b
+People are beginning to accept the existence of these Puppets.\b
 \x05
-何をやっても人形の発生を止められないのであれば 私はこれ以上の手出しはしない。\b
+If nothing I do is gonna stop the Puppets from appearing, I won't go any further.\b
 \x03
-それが幻想郷のやり方よ。
-受け入れてしまえば それが日常になるの。\b
+That's how Gensokyo works.\b
+If you accept it, that becomes the part of the norm.\b
 \x00
-・・・まぁ悲観することもないと思うわ。\b
-誰も落ち着かないなんて言ってないもの。
-そのうちポッと帰れるかもしれないでしょ。
+...Well then, nothing to be pessimistic about.\b
+If nobody's upset over it, I won't say anything.\b
+You might be able to get home soon anyway.

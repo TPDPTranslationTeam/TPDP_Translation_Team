@@ -1,6 +1,6 @@
-早苗
+Sanae
 85
-いらっしゃいましたね \pさん！\b
+Welcome, \p!\b
 \x07
-さぁ また私と戦いましょう！\b
-真剣勝負ですから 手加減は無用ですよ！
+Will you battle me again?\b
+This is a real fight, so I'm not gonna go easy on you!

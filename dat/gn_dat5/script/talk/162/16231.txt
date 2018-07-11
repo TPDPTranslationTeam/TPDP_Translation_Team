@@ -1,4 +1,4 @@
-白蓮
+Byakuren
 103_03
-どうでした？
-私の指し示した道は あなたの進むべき道と合っていましたか？
+How was it?\b
+Was the road I pointed out the one you were looking for?\b

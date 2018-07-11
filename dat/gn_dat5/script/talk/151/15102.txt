@@ -1,9 +1,7 @@
 Reimu
 1_05
 I found you laying in front of the shrine.\b
-You were blocking the worshippers' way, so I brought you here.\b
+Leaving you out there would bother the worshippers, so I had no choice but to bring you inside.\b
 Sanae
 \s85_06
 She's rude, but she actually took good care of you.
-
-~~She doesn't seem to be rude in English?

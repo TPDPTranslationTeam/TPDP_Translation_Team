@@ -1,9 +1,9 @@
 Sunny Milk
 69_03
-Now our preparations are ready!\b
+Now our preparations are finished!\b
 \oLuna Child
 \s70_04
-For what? It's rematch, of course!
+For what? Our rematch of course!
 It's already been decided.\b
 \oStar Sapphire
 \s71_03

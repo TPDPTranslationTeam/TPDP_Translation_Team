@@ -1,4 +1,5 @@
 Mai
 33_02
-...Okay, you win. Are you going or what?
+...Okay, you win.\b
+...Are you going or what?\b
 Stop staring and go!

@@ -1,10 +1,10 @@
-阿求
+Akyuu
 76
-こんにちは \pさん。どうされました？\b
+Hello, \p. How are you doing?\b
 \x04
-あら もしかして頼んでいた図鑑完成したんですか？\b
+Oh, did you complete the whole book?\b
 \x03
-ありがとうございます！
-これで滞っていた編纂が進められますわ。\b
+Thank you so much!\b
+This will speed up the compilation.\b
 \x00
-少し図鑑をお借りしますね！
+Let me borrow that book for a moment!

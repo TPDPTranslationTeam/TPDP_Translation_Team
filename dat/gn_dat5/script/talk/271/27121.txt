@@ -1,4 +1,7 @@
-ヘカーティア
+//ヘカーティア
+Hecatia
 131_00
-人形ねぇ。\b面白そうじゃない。\b
-\c丁度計画も失敗に終わって暇だったし。
+//人形ねぇ。\b面白そうじゃない。\b
+Puppets?\b Sounds fun.\b
+//\c丁度計画も失敗に終わって暇だったし。
+\cIt's been quite dull since the moon invasion.

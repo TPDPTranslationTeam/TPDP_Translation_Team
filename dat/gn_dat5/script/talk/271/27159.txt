@@ -1,4 +1,6 @@
 
 
-相も変わらず強いねー。\b
-ふふ 憧れちゃうわ！
+//相も変わらず強いねー。\b
+You're just as strong as before.\b
+//ふふ 憧れちゃうわ！
+I adore you!

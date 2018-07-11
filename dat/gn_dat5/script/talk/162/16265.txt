@@ -1,5 +1,5 @@
-阿求
+Akyuu
 76
-どうやら里の外れで催し物が開催されているようですわ。\b
+Apparently, there's some kind of event being held outside the village.\b
 \x03
-\pさんも挑戦してはいかがですか？
+Will you be participating in it as well, \p?

@@ -1,5 +1,5 @@
-メルラン
+Merlin
 50_01
-遅れちゃったのかなぁ。\b
+Was I too late?\b
 \x00
-もったいないし 勝手に演奏始めちゃダメかしらっ。
+What a waste. Can I start a performance arbitrarily...?

@@ -4,6 +4,6 @@ That's a prototype of my amulet. Because I made it, it'll be super effective!\b
 Check out the benefits yourself!\b
 \x01
 Yes, yes.\b
-On this mountain there's a place where lots of frogs have collected.  They've got something there.\b
+On this mountain, there's a place where lots of frogs have gathered. They've got something there.\b
 \x03
 It looks interesting, but I don't quite know what it's used for.

@@ -1,5 +1,8 @@
 
 
-君も大概狂ってるねぇ 再度この塔を登るなんてさ。\b
-\cま 来てしまったからには仕方ない。\b
-この僕が相手をしてやろう。
+//君も大概狂ってるねぇ 再度この塔を登るなんてさ。\b
+How mad of you to climb this tower again.\b
+//\cま 来てしまったからには仕方ない。\b
+\cWell, there's no choice considering you're here.\b
+//この僕が相手をしてやろう。
+I'll play with you.

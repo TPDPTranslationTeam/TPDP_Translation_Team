@@ -1,6 +1,6 @@
-マミゾウ
+Mamizou
 957_05
-おや また会ったのう。
-妖怪が人間の里にいるのが不思議だという顔をしておるな。\b
+Oh, we meet again.\b
+Don't give me that look like it's so weird for youkai to be in the human village.\b
 \x03
-こうやって たまに里を散歩するのが楽しいんじゃよ。
+It's fun to go for a walk in the village like this occasionally.

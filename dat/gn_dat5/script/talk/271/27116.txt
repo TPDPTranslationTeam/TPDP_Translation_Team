@@ -1,9 +1,17 @@
-クラウンピース
+//クラウンピース
+
 129_00
-あんたも人形持っているのね！\b
-あたいも人形が大好きなんだ！\b
+//あんたも人形持っているのね！\b
+You have puppets?\b
+//あたいも人形が大好きなんだ！\b
+I love puppets too!\b
 \x01
-\c塔の妖精達を切り抜けて ここまで来たということは とっても強いのね！\b
+//\c塔の妖精達を切り抜けて ここまで来たということは とっても強いのね！\b
+You came here defeating all the fairies in the tower, so you're super~ strong then!\b
 \03
-\cきゃはは！せっかくだから あたいとも遊びましょー！\b
-あたいの強さに泣いて怯えろー！
+//\cきゃはは！せっかくだから あたいとも遊びましょー！\b
+Kyahaha! Play with me then!\b
+//あたいの強さに泣いて怯えろー！
+Cry and crumble beneath my strength!
+
+//IDK about "せっかくだから"

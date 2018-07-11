@@ -1,7 +1,7 @@
 Yumeko
 35_04
-Even after that's happened you still come back.\b
-So you're going to visit Lady Shinki yes?\b
+Even after that's happened, you still come back.\b
+So you're going to visit Lady Shinki, yes?\b
 \x01
 I'm not going to let you pass through that easily.\b
 Naturally, I've decided to eliminate you first.\b

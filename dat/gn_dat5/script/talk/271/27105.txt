@@ -1,5 +1,8 @@
-ヘカーティア
+//ヘカーティア
+Hecatia
 131_03
-ここは地獄。素敵な世界でしょ？\b
+//ここは地獄。素敵な世界でしょ？\b
+This is Hell. Hell of a place, isn't it?\b
 \x00
-\cさて ここに来て貰った理由だけど
+//\cさて ここに来て貰った理由だけど
+\cWell, the reason I brought you here is...

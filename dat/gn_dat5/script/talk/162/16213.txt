@@ -3,4 +3,4 @@ Wriggle
 I hate cold places and insecticide!
 Hey, you know why, right?\b
 \x04
-I'm not some pest, I'm a firefly!
+I'm not some pest; I'm a firefly!

@@ -2,12 +2,10 @@ Shinki
 36_05
 I lost again.\b
 \x03
-Battling with you is always fun, though.\b
+Battling with you is always fun though.\b
 \x00
 Please come again sometime.\b
 I would like to have more duels with you.\b
 \x03
 See you then, outsider.\b
 Don't disappoint me, okay?
-
-~~It seems like she's asking the player to come back, rather than just suggesting it, so I added the please part to make it flow better. Also, her saying "once" was odd, as it seems that the player battles her multiple times; and has already battled her once before (which would make it "twice").

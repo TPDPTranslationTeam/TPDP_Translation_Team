@@ -1,4 +1,7 @@
-純狐
+//純狐
+Junko
 130_03
-我々はここでお茶しているから
-何かあったら声をかけて下さいね。
+//我々はここでお茶しているから
+We're having tea here,
+//何かあったら声をかけて下さいね。
+ask us if something happens.

@@ -1,5 +1,5 @@
-慧音
+Keine
 62
-舞闘会という催しをやっているみたいだな。\b
+Are you partaking in the tournament festivities?\b
 \x01
-どれ 私も塾の代表として出てみるか。
+I'll be participating as a representative of the school.

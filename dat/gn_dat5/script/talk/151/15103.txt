@@ -15,8 +15,8 @@ Good for you, \p!\b
 \x00
 We haven't yet noticed the Puppets' numbers decreasing, but someday they will.\b
 \x06
-You can return home soon!
-Great job indeed!\b
+You should be able to return home soon!
+Great job!\b
 \oMarisa
 \j2_03
 Ha! You're not going home anytime soon.\b

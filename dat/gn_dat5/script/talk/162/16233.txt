@@ -1,5 +1,5 @@
-星
+Shou
 102
-あら また来たのですね。今日は聖に用ではないのですか？\b
+Oh, you've come again. You don't have any business with Hijiri today?\b
 \x03
-ふむ では私と勝負をしましょう 。
+Hm, well, let's have a match then.

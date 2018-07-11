@@ -1,11 +1,11 @@
 Kasen
-106
+106_04
 Oh, someone's come to visit me...\b
-\x0
+\x00
 This is perfect. Could you help me?\b
-\x0
-A puppet played a prank on me and hid some things I was collecting.\b
-There are a lot, so it would be hard to search for them alone.\b
+\x05
+A Puppet played a prank on me and hid some things I was collecting.\b
+There's a lot, so it would be hard to search for them alone.\b
 \x02
 I would love your cooperation!\b
 Of course, it wouldn't be for free.

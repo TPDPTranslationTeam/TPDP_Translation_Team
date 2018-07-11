@@ -1,6 +1,6 @@
-萃香
+Suika
 68_03
-やぁ いい天気だね。ちょっと寝すぎちゃったわ。\b
+Ah, such great weather! I slept too much though.\b
 \x00
-ちょいと寝覚めに私と一戦しようじゃないか。\b
-さぁ準備はいい？
+I just woke up but wont you have a battle with me?\b
+Well, are you ready?

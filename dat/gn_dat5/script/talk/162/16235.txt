@@ -1,9 +1,9 @@
-幻月
+Gengetsu
 27
-あら まだいたの？\b
-\o夢月
+Oh, are you still here?\b
+Mugetsu
 \s26
-また魔界をうろついているなんて 変わった人間ね。\b
-\o幻月
+It takes a peculiar human to come hang around Makai again.\b
+Gengetsu
 \s27
-もう異変は解決したんでしょ？
+The incident was already resolved, wasn't it?

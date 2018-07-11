@@ -1,5 +1,5 @@
-燐
+Rin
 95
-あたいに何か用？\b
+You got something for me?\b
 \x01
-おや 対戦かい？それなら大歓迎さっ！
+Oh, a battle? If that's the case, of course!

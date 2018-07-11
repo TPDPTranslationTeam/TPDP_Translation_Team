@@ -1,9 +1,10 @@
 Luna Child
-70
-So, is this how it will always end up Sunny?\b
+70_01
+So, is this how it will always end up, Sunny?\b
 \oSunny Milk
-\s69
+\s69_05
 Th-this was Star's plan, so it's not my fault!\b
 \oStar Sapphire
-\s71
-But wasn't Sunny the one who was carrying it out? Don't just blame me.
+\s71_01
+But isn't it your fault for doing my plan, Sunny?
+Don't just blame me.

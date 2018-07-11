@@ -1,5 +1,7 @@
 
 
-この私様が！何度も敗北するだなんて！
-認めませんわ！\b
-\c括目なさい！私様の本気を！
+//この私様が！何度も敗北するだなんて！
+//認めませんわ！\b
+I WON'T ACCEPT ME LOSING TO YOU OVER AND OVER AGAIN!\b
+//\c括目なさい！私様の本気を！
+\cBEHOLD MY TRUE POWER!

@@ -1,6 +1,6 @@
 Akyuu
 76
 Oh, if it isn't \p.
-You're working vigorously today as usual I see.\b
+You're working vigorously today as usual, I see.\b
 \x03
 Resting from time to time is necessary after all.

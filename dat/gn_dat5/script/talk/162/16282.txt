@@ -1,7 +1,7 @@
-紫
+Yukari
 55
-いらっしゃい \p。\b
-悪魔の世界に行ったようですわね。\b
+Welcome, \p.
+It seems you went to the demonic realm.\b
 \x03
-全て見ていました。\b
-これでこの異変に関わったもの 全員を懲らしめることができましたわ。
+I was watching it all.\b
+With this, I was able to discipline everyone involved in this incident.

@@ -1,6 +1,6 @@
-藍
+Ran
 54
-紫様にお目通りかな？\b
+Did Miss Yukari show you the way, I wonder?\b
 \x03
-残念 簡単に通すわけにはいかないよ。\b
-命令だからね 嫌でも戦ってもらうさ。
+Unfortunately, I can't let you pass that easily.\b
+It's an order. I may not like it, but I must battle you.

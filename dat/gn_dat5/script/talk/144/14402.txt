@@ -1,3 +1,5 @@
 Mai
 33_04
 Where are you going?
+\x02
+Eh? What do you mean you didn't see me?

@@ -1,5 +1,5 @@
-アリス
+Alice
 31
-いい返事ね。\b
+Good answer.\b
 \x03
-異変が始まる前から人形遣いだった私の力 存分に味わいなさい！
+Feel the power of someone who's practiced puppetry before the incident!

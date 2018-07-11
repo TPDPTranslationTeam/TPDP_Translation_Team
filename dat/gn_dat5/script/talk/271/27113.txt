@@ -1,4 +1,9 @@
-クラウンピース
+//クラウンピース
+Clownpiece
 129_01
-友人様の人形かっこいいー！
-いけー！じゅんかビーム！
+//友人様の人形かっこいいー！
+Junko's Puppet is cool!
+//いけー！じゅんかビーム！
+Go! Purification beam!
+
+//"Honorable friend" (=友人様) didn't fit here

@@ -1,8 +1,7 @@
 Patchouli
 
-Now this is how Reincarnation is done.
+Now, this is how Reincarnation is done.
 Did you get it?\b
 Please notice the following when you reincarnate your puppets:\b
-\b
 \cthe Puppet's PP returns to 0,\b
 \cand the Individual Rank is determined randomly.

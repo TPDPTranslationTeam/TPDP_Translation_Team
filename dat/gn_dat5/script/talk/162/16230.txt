@@ -1,5 +1,5 @@
 Yuuka
 25_04
-I lost again.
+I lost again.\b
 \x05
 Interesting. A truly interesting human.
