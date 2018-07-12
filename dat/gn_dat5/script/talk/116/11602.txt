@@ -5,11 +5,13 @@ Where the heck did you come from!?\b
 \oReimu
 \s001_05
 So, a doll can't turn its head after all.\b
-Since all of your members are here, there was no one guarding the exit.\b
+Since all of your members are here, there
+was no one guarding the exit.\b
 \oMedicine
 \j072_04
 ...\b
-Why do you humans always get in the way...?\b
+Why do you humans always get in the
+way...?\b
 \x01
 Fine, then. I accept your challenge.\b
 Hey, everyone, spread out!

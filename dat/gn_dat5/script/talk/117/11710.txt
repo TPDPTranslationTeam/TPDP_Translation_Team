@@ -1,4 +1,6 @@
 Cirno
 039_02
 T-This can't be right!\b
-It's just so hot and humid in here that I couldn't use my power to its true 'Strongest' potential!
+It's just so hot and humid in here that I
+couldn't use my power to its true
+'Strongest' potential!

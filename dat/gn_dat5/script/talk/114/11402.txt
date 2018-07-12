@@ -2,14 +2,19 @@ Satori
 094
 That was tough.\b
 \x03
-It's good to face yourself sometimes, isn't it?\b 
+It's good to face yourself sometimes,
+isn't it?\b 
 \x00
 Now back to the Geyser Center.\b
 \x01
-As you know, the Liberation Front has settled there.\b
+As you know, the Liberation Front has
+settled there.\b
 \x00
-The way there is simple, just go straight through here to the Remains of Blazing Hell.\b
-At the end, you should find the Geyser Center. You can't miss it.\b 
+The way there is simple, just go straight
+through here to the Remains of Blazing
+Hell.\b
+At the end, you should find the Geyser
+Center. You can't miss it.\b
 \x03
 ...I gave you the information.\b
 Now go and do what you will.

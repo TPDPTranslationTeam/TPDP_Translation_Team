@@ -4,5 +4,8 @@ She's pretty good at running away.\b
 \x05
 Oh, well.\b
 \s1_07
-Hey, \p, since you decided to poke your nose into this, you're gonna help me out.\b
-Let's split up and resolve this incident as soon as possible.
+Hey, \p, since you decided to poke
+your nose into this, you're gonna help me
+out.\b
+Let's split up and resolve this incident as
+soon as possible.

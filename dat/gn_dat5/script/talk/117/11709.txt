@@ -1,6 +1,8 @@
 Cirno
 039_03
-I don't really remember, but you're that human from before!\b
+I don't really remember, but you're that
+human from before!\b
 \x01
-This will be a rematch for the title of 'The Strongest'!\b
+This will be a rematch for the title of 'The
+Strongest'!\b
 Now let's fight fair and square!

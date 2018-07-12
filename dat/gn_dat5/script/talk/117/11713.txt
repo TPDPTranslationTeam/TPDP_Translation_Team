@@ -3,4 +3,5 @@ Luna Child
 This time, you will be fighting only me.\b
 \x01
 You look disappointed.\b
-Don't think I can't fight just because I'm not with the other two!
+Don't think I can't fight just because
+I'm not with the other two!

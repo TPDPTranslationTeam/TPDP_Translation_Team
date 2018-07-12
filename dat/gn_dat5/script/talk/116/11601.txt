@@ -3,11 +3,14 @@ Medicine
 A human villager, huh?\b
 I didn't wanna run into you.\b
 \x01
-Humans are supposed to live quietly, yet here you are!\b
+Humans are supposed to live quietly, yet
+here you are!\b
 You wanna get in our way that badly?\b
 \x03
-In that case, fight all of the members that are here with me.\b
-Wouldn't that be a good thing for both of us?\b
+In that case, fight all of the members that
+are here with me.\b
+Wouldn't that be a good thing for both
+of us?\b
 \o???
 \s
 Haven't you people played around enough?

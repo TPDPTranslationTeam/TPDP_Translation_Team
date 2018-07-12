@@ -1,10 +1,14 @@
 Satori
 094_03
-You're surprised that I know what you're thinking?\b
+You're surprised that I know what you're
+thinking?\b
 \x01
-I always hear what you're thinking whether or not I want to.\b
+I always hear what you're thinking whether
+or not I want to.\b
 \x00
-You want to know how to get to the Underground Geyser Center, right?\b
+You want to know how to get to the
+Underground Geyser Center, right?\b
 But I won't let you through so easily.\b
 \x03
-Now arm your heart and do battle against your own Puppets!
+Now arm your heart and do battle against
+your own Puppets!
