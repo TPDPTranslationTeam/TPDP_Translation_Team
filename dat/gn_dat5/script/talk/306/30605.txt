@@ -2,4 +2,4 @@ Akyuu
 76_02
 We still do not understand much about Puppets from what was said before.\b
 \x00
-In that case \p, how about investigating the Puppets?
+In that case, \p, how about investigating the Puppets?

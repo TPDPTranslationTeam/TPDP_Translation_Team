@@ -1,8 +1,8 @@
-青娥
+Seiga
 109_02
-あら お見事。腕のたつ人形遣いさんだったのね。\b
+Oh, splendid. Quite the amazing Puppeteer, aren't you. \b
 \x01
-ここまで来たということは 入門しに来たのかしら？\b
-でしたら 止める意味もなかったわね。\b
+Are you the new desciple? \b
+If so, it was meaningless to stop you.\b
 \x03
-どうぞ お好きに通りなさいな♪
+Please do as you like.♪

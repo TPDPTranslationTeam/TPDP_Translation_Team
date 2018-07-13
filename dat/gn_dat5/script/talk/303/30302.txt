@@ -1,7 +1,7 @@
-屠自古
+Tojiko
 110
-まだ私に用があるの？
-私はあんたに用なんて・・・\b
+Do you still need something from me?\b
+What I need from you... \b
 \x03
-そうだ。
-あのうるさい布都を静かにしてくれたら 助かるわね。
+Oh, I know.
+It'd really help me if you could make that noisy Futo be quiet.

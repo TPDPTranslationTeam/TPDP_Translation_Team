@@ -1,8 +1,13 @@
 神子
+Miko
 944_04
 ふむ。手を抜いていたとはいえ まさか負けてしまうとは思いませんでした。\b
+Hm, I was going easy, but I didn't think I'd lose this badly. \b
 \x00
 力を見せられては仕方がない。\b
+You showed me your power, so there's nothing that can be done. \b
 この妖魔本は あなたにお譲りしましょう。\b
+I'll hand over the youma book.
 \x03
 ・・・あら 譲らないとは言ってませんでしたよ？
+...I didn't say I wouldn't hand it over.

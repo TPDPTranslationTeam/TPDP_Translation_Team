@@ -1,15 +1,15 @@
 ???
 113_03
-Did a good job gettin' those youma books.\b
+You did a good job gettin' that youma book.\b
 \x00
-Oh my, seems this is yer first time seein' me in this form.\b
+Oh my, seems this is your first time seeing me in this form.\b
 The human that gave you some guidance some time ago... Was this here youkai, Mamizou.\b
 \x03
-This is who I am really am. My bad for trickin' ya.\b
+This is who I am really am. My bad for tricking you.\b
 \oMamizou
 \s113_04
 Now then.
-You gotta look for these youma books on yer own after this.\b
+You gotta look for these youma books on your own after this.\b
 \cI have no idea where anymore could be either.\b
 \x00
 I guess that's the end of our little chat.\b

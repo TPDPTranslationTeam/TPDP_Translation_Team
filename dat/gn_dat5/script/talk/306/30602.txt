@@ -3,5 +3,5 @@ Akyuu
 That's the Puppet Book.\b
 It excels in recording Puppets you meet using a mysterious power.\b
 \x03
-It will record Puppets even as battles get more intense.\b
+Puppets will automatically be recorded once captured.\b
 I believe you'll be able to make great use of it.

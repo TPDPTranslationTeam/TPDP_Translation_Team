@@ -1,8 +1,8 @@
-神子
+Miko
 112
-あら 入門希望の方でしょうか？\b
+Oh, someone who wishes for an introductory lesson?\b
 \x03
-・・・ええ 違うことはわかっているわ。
-あなたの欲がそう言っていますから。\b
+...I know, you're in for something else.\b
+Your greed says so.\b
 \s944
-さて ここへ来たのは この妖魔本が目的かしら？
+Well, is this youma book your purpose for coming here, I wonder?\b

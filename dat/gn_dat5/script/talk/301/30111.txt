@@ -1,6 +1,6 @@
-小鈴
+Kosuzu
 114_00
-そうだ！ 阿求が\pさんのことを気にしていましたよ。\b
-\c本の整理も時間が掛かりそうなので 先に阿求の所へ行ってあげてください。\b
+That's right! Akyuu was worried about you. \b
+\cIt'll take me a little while to prepare, so please visit Akyuu while I do so. \b
 \x03
-そっちの用件が 終わった頃には 妖魔本を読む時間が取れると思います。
+I think once you finish your business there, we can take some time to read the book.

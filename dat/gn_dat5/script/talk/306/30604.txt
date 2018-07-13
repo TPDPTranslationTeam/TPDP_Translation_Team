@@ -3,5 +3,5 @@ Akyuu
 Is that so...\b
 Well then, I shall continue my investigation.\b
 \x03
-Well if you ever change your mind, please feel free to call me.\b
+If you ever change your mind, please feel free to call me.\b
 I will do whatever that can be done.

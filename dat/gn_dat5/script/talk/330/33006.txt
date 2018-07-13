@@ -1,26 +1,26 @@
-魅魔
+Mima
 7_03
-ふふ・・・油断しすぎたかしら。\b
-勝てると思ったんだけどねぇ。\b
+Huh... I guess I wasn't serious enough.\b
+I thought I could win.\b
 \x00
-で？あなたは人形異変を解決させたいのかい？\b
+So, you want to solve the Puppet Incident?\b
 \x02
-こんなに楽しいのに 終わらせちゃうのは勿体ないと私は思うんだけど。\b
+I think it's too fun to end it so soon.\b
 \x00
-まぁ私に勝てたご褒美にヒントをやろうじゃないか。\b
+Well, I'll give you a clue for the incident as a spoil of war.\b
 \x04
-一つのことに執着しないことさ。\b
-人形から感じられるのも一つの力じゃないみたいだからね。\b
+Don't insist too much on a single thing.\b
+Apparently, Puppets have more than a single energy source.\b
 \x03
-ふふふ・・・気になるかい？\b
-気になるだろうねぇ。\b
-でも私はここまでしか言わないよ。\b
+Fufufu... Are you intrigued?\b
+Quite intriguing, isn't it?
+But I don't spoil too much for you.\b
 \x00
-さぁこの祭りもこれで終わり。
-私はまた私のいるべき場所に戻ろう。\b
+The party's over.
+I'm going back to where I should be.\b
 \x03
-靈魔殿って知ってるかい？\b
-そこが私の家みたいなものさ。\b
+Have you ever heard of Reimaden?\b
+That's like my home.\b
 \x00
-時が来ればまた会うこともできるだろうね。\b
-その時を楽しみにしているよ。
+We might see each other again sometime.\b
+I'm looking forward to it.

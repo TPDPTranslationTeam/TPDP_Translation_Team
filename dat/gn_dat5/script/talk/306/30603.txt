@@ -1,9 +1,9 @@
 Akyuu
 76_03
-Since you haven't decided where to go, I recommend you go to Kourindou.\b
+I recommend you go to Kourindou next to start your journey.\b
 \cIf you ask, he'll prepare some tools which may somehow be useful to you on your journey.\b
 \x00
 When you head west from the human village, eventually you'll come upon the Forest of Magic.\b
-In front of that is Kourndou.\b
+In front of that, is Kourndou.\b
 \x03
 Please be careful on your travels.
