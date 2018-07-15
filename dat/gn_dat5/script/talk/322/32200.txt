@@ -1,17 +1,19 @@
 Medicine
 72_08
 So, is the monitoring going well?\b
-The Underground Geyser Center is nearby, so don't let your guard down!\b
+The Underground Geyser Center is nearby, so
+don't let your guard down!\b
 \o
 \j354
-Got it! If we have to use force, so be it!\B
+Got it! If we have to use force, so be it!\b
 \oYuuka
 \s25
 You've become so leader-like.\b
 I shall make my departure soon, yes?\b
 \oMedicine
 \j72_06
-I keep telling you I'm not leader-like, I AM a leader!\b
+I keep telling you I'm not leader-like, I AM
+a leader!\b
 \x08
 Look, we still have a lot to do.
 You fairies, quit playing around here!

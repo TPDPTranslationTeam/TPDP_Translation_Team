@@ -3,14 +3,22 @@ Akyuu
 Oh it's \p.\b
 \cHow was it? What did you hear from Kosuzu?\b
 \x04
-Huh, so the Puppets are affected by youma books?\b
+Huh, so the Puppets are affected by youma
+books?\b
 \x00
-It isn't just coming from the village either.\b
-I see. Well this might be just the right time.\b
-\cThis is only a suggestion, but how about going on an investigation?\b
+It isn't just coming from the village
+either.\b
+I see. Well this might be just the right
+time.\b
+\cThis is only a suggestion, but how about
+going on an investigation?\b
 \x01
-Investigation in the Human Village is limited, and searching outside will get you information quicker, I believe.\b
+Investigation in the Human Village is
+limited, and searching outside will get you
+information quicker, I believe.\b
 \x03
-The danger outside of the village is unavoidable, but with your Puppets, you should be safe.\b
+The danger outside of the village is
+unavoidable, but with your Puppets, you
+should be safe.\b
 \x00
 How about it? Will you go?

@@ -1,6 +1,7 @@
 Star Sapphire
 71_01
-So annoying. I keep saying there's no one here...\b
+So annoying. I keep saying there's no one
+here...\b
 \oLuna Child
 \s70_04
 W-Wait Star!
@@ -13,14 +14,16 @@ Maybe the camo thingy stopped working?\b
 \j71_02
 It's broken.\b
 \x01
-And I was starting to have fun pulling pranks with this thing.\b
+And I was starting to have fun pulling
+pranks with this thing.\b
 \oLuna Child
 \s70_01
 Eh? Return the thing we stole?\b
 No way! We worked really hard to get that!\b
 \oSunny Milk
 \s69_01
-Maybe if you hadn't have come you wouldn't be able to see us right now!\b
+Maybe if you hadn't have come you wouldn't
+be able to see us right now!\b
 It was fun so don't get in our way!\b
 \x03
 We're gonna make you pay for this!

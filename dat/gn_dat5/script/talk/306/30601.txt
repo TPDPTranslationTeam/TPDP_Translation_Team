@@ -1,6 +1,7 @@
 Akyuu
 76_03
 That's good!
-Even with me searching, it will still take some time.\b
+Even with me searching, it will still take
+some time.\b
 \x00
 ...On that note, please have this.

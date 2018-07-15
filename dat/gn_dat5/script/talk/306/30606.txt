@@ -1,5 +1,7 @@
 Akyuu
 76
-Kourindou is located in front of the Forest of Magic after heading west from the Human Village.\b
+Kourindou is located in front of the Forest
+of Magic after heading west from the Human
+Village.\b
 \x03
 Please be careful on your travels.

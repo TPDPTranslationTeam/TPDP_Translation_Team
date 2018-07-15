@@ -7,14 +7,16 @@ So, you want to solve the Puppet Incident?\b
 \x02
 I think it's too fun to end it so soon.\b
 \x00
-Well, I'll give you a clue for the incident as a spoil of war.\b
+Well, I'll give you a clue for the incident
+as a spoil of war.\b
 \x04
 Don't insist too much on a single thing.\b
-Apparently, Puppets have more than a single energy source.\b
+Apparently, Puppets have more than a single
+energy source.\b
 \x03
 Fufufu... Are you intrigued?\b
 Quite intriguing, isn't it?
-But I don't spoil too much for you.\b
+But I won't spoil too much for you.\b
 \x00
 The party's over.
 I'm going back to where I should be.\b

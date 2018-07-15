@@ -2,4 +2,5 @@ Tojiko
 110
 A contest you say?\b
 \x03
-In that case, come contest me whenever you feel inclined to!
+In that case, come contest me whenever you
+feel inclined to!

@@ -1,4 +1,5 @@
 Yoshika
 108_01
 I will not permit you to go any further! \b
-We were commanded not to let anyone or anything through!
+We were commanded not to let anyone or
+anything through!

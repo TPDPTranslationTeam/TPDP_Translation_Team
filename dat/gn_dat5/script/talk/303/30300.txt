@@ -1,10 +1,14 @@
 Tojiko
 110
 Why are you here?\b
-Are you not someone here to get my and Futo's favor?\b
+Are you not someone here to get my and Futo's
+favor?\b
 \x02
-Well then, it's probably best for you not to voice your opinions.\b
-Us turning away all who come is just a story.\b
+Well then, it's probably best for you not
+to voice your opinions.\b
+Us turning away all who come is just a
+story.\b
 \x01
-Here, if you want to pass through, come on!\b
+Here, if you want to pass through,
+come on!\b
 I'll knock you out!

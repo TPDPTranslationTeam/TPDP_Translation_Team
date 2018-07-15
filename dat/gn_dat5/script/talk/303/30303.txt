@@ -3,8 +3,13 @@ Futo
 Mine name is Mononobe no Futo.
 Though I hath been called... \b
 \x01
-Gah! Thou art the miscreant who stole the object of importance from our Crown Princess!\b
+Gah! Thou art the miscreant who stole the
+object of importance from our Crown
+Princess!\b
 \x05
-'Tis unfortunate, but the lord's strategy will fail, for I hath come.\b
+'Tis unfortunate, but the lord's strategy
+will fail, for I hath come.\b
 \x03
-Very well then, prepare thyself to know the power of this fusion of the secret art of the Mononobe and the way of the Tao!
+Very well then, prepare thyself to know the
+power of this fusion of the secret art of
+the Mononobe and the way of the Tao!

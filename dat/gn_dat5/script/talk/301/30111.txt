@@ -1,6 +1,8 @@
 Kosuzu
 114_00
-That's right! Akyuu was worried about you. \b
-\cIt'll take me a little while to prepare, so please visit Akyuu while I do so. \b
+That's right! Akyuu was worried about you.\b
+\cIt'll take me a little while to prepare,
+so please visit Akyuu while I do so.\b
 \x03
-I think once you finish your business there, we can take some time to read the book.
+I think once you finish your business there,
+we can take some time to read the book.

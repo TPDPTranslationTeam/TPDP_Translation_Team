@@ -2,11 +2,14 @@ Aya
 942_02
 Ayaya, I knew you wouldn't cooperate.\b
 \x00
-Based on your initial reaction though, you don't seem like the criminal.\b
+Based on your initial reaction though, you
+don't seem like the criminal.\b
 \x04
 Huh? You know who the criminal is?\b
 \x01
-Three Fairies of Light... Oh! Those fairies that love pulling pranks huh.\b
+Three Fairies of Light... Oh! Those fairies
+that love pulling pranks huh.\b
 Those girls are the cause of this, you say?\b
 \j943
-Was the funny thing they were looking for this youma book?
+Was the funny thing they were looking for
+this youma book?

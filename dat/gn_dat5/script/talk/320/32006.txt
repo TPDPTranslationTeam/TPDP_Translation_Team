@@ -3,4 +3,5 @@ Aya
 Oh, it's \p.\b
 You're still looking for the Three Fairies?\b
 \x03
-Please call me once you take back the stolen brush.
+Please call me once you take back the stolen
+brush.

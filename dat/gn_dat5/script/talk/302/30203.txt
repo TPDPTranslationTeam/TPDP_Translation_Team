@@ -1,6 +1,8 @@
 Seiga
 109_01
-If you've made this far, I guess that child couldn't stop you. \b
+If you've made this far, I guess that child
+couldn't stop you. \b
 \x00
 I am Seiga. \b
-Even if I have nothing against you, I'll attack you anyway.
+Even if I have nothing against you, I'll
+attack you anyway.

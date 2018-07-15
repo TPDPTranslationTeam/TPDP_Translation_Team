@@ -1,7 +1,11 @@
 
 
 Huh? Are you interested in the tournament?\b
-\cThe Best in the Underground Tournament is the festival to decide the number one Puppeteers in the whole underground!\b
-Of course, we have a prize for the champion.\b
-\cWe're accepting unofficial participants too!\b
+\cThe Best in the Underground Tournament
+is the festival to decide the number one
+Puppeteers in the whole underground!\b
+Of course, we have a prize for the
+champion.\b
+\cWe're accepting unofficial participants
+too!\b
 Hey, you wanna join?

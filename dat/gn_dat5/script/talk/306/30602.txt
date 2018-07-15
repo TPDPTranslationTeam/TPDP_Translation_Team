@@ -1,7 +1,10 @@
 Akyuu
 76
 That's the Puppet Book.\b
-It excels in recording Puppets you meet using a mysterious power.\b
+It excels in recording Puppets you meet
+using a mysterious power.\b
 \x03
-Puppets will automatically be recorded once captured.\b
-I believe you'll be able to make great use of it.
+Puppets will automatically be recorded once
+captured.\b
+I believe you'll be able to make great use
+of it.

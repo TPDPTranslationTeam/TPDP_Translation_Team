@@ -1,10 +1,13 @@
 Aya
 942_03
 We've come to an agreement then.\b
-Your understandingness is really helping us out!\b
+Your understandingness is really helping
+us out!\b
 \x01
 I shall leave the Three Fairies to you.\b
-I have some important business I must handle.\b
+I have some important business I must
+handle.\b
 \x00
-Please call me after you take the stolen brush back!\b
+Please call me after you take the stolen
+brush back!\b
 I'll be inside the village!

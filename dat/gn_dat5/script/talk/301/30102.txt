@@ -4,5 +4,7 @@ I am Mamizou Futatsuiwa.\b
 Disguises are my specialty.\b
 \oMamizou
 \x00
-Hey, you're heading to the Divine Spirit Mausoleum?\b
-To do that, you'll have to deal with the guard at the south of the village.
+Hey, you're heading to the Divine Spirit
+Mausoleum?\b
+To do that, you'll have to deal with the
+guard at the south of the village.

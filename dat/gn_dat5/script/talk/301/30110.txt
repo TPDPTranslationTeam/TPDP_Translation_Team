@@ -5,5 +5,6 @@ Ah, \p. Welcome.\b
 \x04
 Well then, let's read it at once...\b
 \x05
-Is what I would say, but right now, I have lots of arrangements to make.\b
+Is what I would say, but right now, I have
+lots of arrangements to make.\b
 I need to finish before my family returns...

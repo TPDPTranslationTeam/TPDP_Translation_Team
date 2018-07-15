@@ -2,7 +2,9 @@ Aya
 943_00
 Oh? So you want this too?\b
 \x03
-Then will you deal with those Three Fairies?\b
+Then will you deal with those Three
+Fairies?\b
 \x00
-If you go give those little girls a good scolding, I'll give this youma book to you.\b
+If you go give those little girls a good
+scolding, I'll give this youma book to you.\b
 How about it?

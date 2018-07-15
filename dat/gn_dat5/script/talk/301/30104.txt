@@ -1,11 +1,13 @@
 
 
-Up ahead, dangerous youkai pop out. It's dangerous to go... \b
+Up ahead, dangerous youkai pop out. It's
+dangerous to go... \b
 \cAh! M-Master Hieda?\b
 \oMamizou
 \s947_03
 This person is my escort.\b
-They're a skillful user of Puppets, so do not worry.\b
+They're a skillful user of Puppets, so do
+not worry.\b
 \x00
 Please let us pass.\b
 \o

@@ -1,6 +1,7 @@
 Seiga
 109_02
-Oh, splendid. Quite the amazing Puppeteer, aren't you. \b
+Oh, splendid. Quite the amazing Puppeteer,
+aren't you. \b
 \x01
 Are you the new desciple? \b
 If so, it was meaningless to stop you.\b

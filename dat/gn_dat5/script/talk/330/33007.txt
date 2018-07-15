@@ -2,4 +2,5 @@
 
 Congratulations!\b
 That was hot!\b
-We present this youma book as the prize for the champion!
+We present this youma book as the prize for
+the champion!

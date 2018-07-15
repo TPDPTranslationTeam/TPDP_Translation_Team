@@ -1,4 +1,5 @@
 Momiji
 84_01
 None is allowed to pass through here.\b
-If you truly wish to pass, you'll have to get through me!
+If you truly wish to pass, you'll have to
+get through me!

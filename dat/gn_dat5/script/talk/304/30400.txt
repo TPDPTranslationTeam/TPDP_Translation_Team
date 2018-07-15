@@ -1,8 +1,10 @@
 Miko
 112
-Oh, someone who wishes for an introductory lesson?\b
+Oh, someone who wishes for an introductory
+lesson?\b
 \x03
 ...I know, you're in for something else.\b
 Your greed says so.\b
 \s944
-Well, is this youma book your purpose for coming here, I wonder?\b
+Well, is this youma book your purpose for
+coming here, I wonder?\b

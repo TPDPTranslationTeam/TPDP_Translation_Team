@@ -2,6 +2,8 @@ Aya
 942
 Ooh! I got it!\b
 \s73_03
-With this I can now resume my news coverage work.\b
+With this I can now resume my news coverage
+work.\b
 \j943_00
-As promised, I will hand this youma book over to you.
+As promised, I will hand this youma book
+over to you.

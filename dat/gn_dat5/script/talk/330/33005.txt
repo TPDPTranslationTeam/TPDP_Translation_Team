@@ -1,9 +1,12 @@
 Mima
 7
 Oh, am I fighting a human?\b
-It's been a while since I last fought a human.\b
+It's been a while since I last fought a
+human.\b
 \x03
-Aren't you the recently rumored "strong human" that's not Reimu?\b
+Aren't you the recently rumored "strong
+human" that's not Reimu?\b
 \x00
-I heard you've been nosing around the Puppet Incident.\b
+I heard you've been nosing around the Puppet
+Incident.\b
 Let me see what you've got!

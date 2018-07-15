@@ -1,15 +1,25 @@
 Aya
 942_02
 Your timing is bad, \p.\b
-I would love to welcome you, but right now isn't the time.\b
+I would love to welcome you, but right now
+isn't the time.\b
 \x01
-The reason being is that we're in the wake of a robbery that took place in the village.\b
-\cEveryone is on edge, and just talking to someone will arouse suspicion and start a Puppet Battle.\b
+The reason being is that we're in the wake
+of a robbery that took place in the
+village.\b
+\cEveryone is on edge, and just talking to
+someone will arouse suspicion and start a
+Puppet Battle.\b
 \x02
-Even if I don't search for the criminal, my important brush for news coverage was taken.\b
+Even if I don't search for the criminal, my
+important brush for news coverage was
+taken.\b
 \x01
-While I hate to ask, but you don't have any involvement in this crime, do you?\b
+While I hate to ask, but you don't have any
+involvement in this crime, do you?\b
 \x02
-I understand that it is rude to suspect you like this so suddenly, but without my brush, I won't be able to do any news coverage.\b
+I understand that it is rude to suspect you
+like this so suddenly, but without my brush,
+I won't be able to do any news coverage.\b
 \x00
 I will investigate every nook and cranny!

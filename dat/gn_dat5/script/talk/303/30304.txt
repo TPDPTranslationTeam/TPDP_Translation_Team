@@ -2,7 +2,13 @@ Futo
 111_02
 Alas, 'tis a loss of mine own... \b
 \x00
-Hmm... Mayhaps this is a trial worthy of displaying the power that the Crown Princess doth hold!\b
-Mine apologies Crown Princess, for I hath expended too much of mine power in this skirmish. \b
+Hmm... Mayhaps this is a trial worthy of
+displaying the power that the Crown Princess
+doth hold!\b
+Mine apologies Crown Princess, for I hath
+expended too much of mine power in this
+skirmish. \b
 \x04
-Very well; I shall demonstrate mine support of the Crown Princess by rousing her spirit with a resounding cheer from yonder corner!
+Very well; I shall demonstrate mine support
+of the Crown Princess by rousing her spirit
+with a resounding cheer from yonder corner!

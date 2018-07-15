@@ -4,4 +4,5 @@ Do you still need something from me?\b
 What I need from you... \b
 \x03
 Oh, I know.
-It'd really help me if you could make that noisy Futo be quiet.
+It'd really help me if you could make that
+noisy Futo be quiet.

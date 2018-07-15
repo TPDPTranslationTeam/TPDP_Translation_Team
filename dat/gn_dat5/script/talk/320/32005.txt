@@ -1,6 +1,7 @@
 Aya
 943_02
 Is that really okay though?
-You won't be able to get the youma book after all you know?\b
+You won't be able to get the youma book
+after all you know?\b
 \x00
 Isn't that a problem?

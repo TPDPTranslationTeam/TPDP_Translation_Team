@@ -2,4 +2,5 @@ Miko
 112
 Were the books I gave you of any use?\b
 \x03
-A book can be good, but scrolls have their own taste.
+A book can be good, but scrolls have their
+own taste.

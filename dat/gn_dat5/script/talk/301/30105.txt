@@ -1,8 +1,13 @@
 Mamizou
 957
-The Divine Spirit Mausoleum is just behind the buddhist temple. \b
+The Divine Spirit Mausoleum is just behind
+the buddhist temple. \b
 \x03
-From what I've heard, the youma book is in that Toyosatomimi no Miko's possession in there.
+From what I've heard, the youma book is in
+that Toyosatomimi no Miko's possession
+in there.
 \x02
-I've got a lot to do, so I can't take you all the way there. \b
-Instead, I can at least heal your Puppets before sending you off on your own.
+I've got a lot to do, so I can't take you
+all the way there. \b
+Instead, I can at least heal your Puppets
+before sending you off on your own.

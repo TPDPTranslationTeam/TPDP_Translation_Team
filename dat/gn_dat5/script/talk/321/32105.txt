@@ -3,5 +3,6 @@ Aya
 Oh, it's \p.
 How did it go with the Three Fairies?\b
 \x03
-Ooh! Looks like you were able to find where my brush is?\b
+Ooh! Looks like you were able to find where
+my brush is?\b
 Please tell me where it is at once!

@@ -1,18 +1,27 @@
 ???
 113_03
-You did a good job gettin' that youma book.\b
+You did a good job gettin' that youma
+book.\b
 \x00
-Oh my, seems this is your first time seeing me in this form.\b
-The human that gave you some guidance some time ago... Was this here youkai, Mamizou.\b
+Oh my, seems this is your first time seeing
+me in this form.\b
+The human that gave you some guidance some
+time ago... Was this here youkai, Mamizou.\b
 \x03
-This is who I am really am. My bad for tricking you.\b
+This is who I am really am. My bad for
+tricking you.\b
 \oMamizou
 \s113_04
 Now then.
-You gotta look for these youma books on your own after this.\b
-\cI have no idea where anymore could be either.\b
+You gotta look for these youma books on your
+own after this.\b
+\cI have no idea where anymore could be
+either.\b
 \x00
 I guess that's the end of our little chat.\b
-Seems like that Hieda has got somethin to say to you when you get back to the village.\b
+Seems like that Hieda has got somethin to
+say to you when you get back to the
+village.\b
 \x03
-If we run into each other again, maybe we'll have a battle.
+If we run into each other again, maybe we'll
+have a battle.
