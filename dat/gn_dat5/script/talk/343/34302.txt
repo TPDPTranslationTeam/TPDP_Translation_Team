@@ -1,15 +1,15 @@
-魔理沙
+Marisa
 2
-お \pか。\b
-桜の正体はわかったか？\b
+Oh, it's you.\b
+Did you find the culprit?\b
 \x04
-え？春妖精の人形がいたから追い払った？\b
+You found a Puppet of the Fairy Herald of Spring and you repelled it?\b
 \x05
-あー・・・だから桜が咲いたのか。\b
-ったく お騒がせな妖精だぜ。\b
+Oh... That's why cherry blossoms were blooming everywhere.\b
+What a troublesome fairy, isn't she?\b
 \x00
-それじゃあ 私は一度帰るとするか。\b
-用も済んで やることもないからな！\b
+I guess I'm heading back then.\b
+I've got plenty of free time now!\b
 \x07
-今度 戦うときは負けないぜ！\b
-じゃあな \p！
+I'll win for sure when I battle you next time \b
+See ya, \p!

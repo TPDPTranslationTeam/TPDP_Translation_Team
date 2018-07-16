@@ -1,4 +1,4 @@
 
 
-あなたが\p様ですね。\b
-さ フラン様がお待ちですわ！
+You're \p, right? \b
+Well...Flan is waiting!

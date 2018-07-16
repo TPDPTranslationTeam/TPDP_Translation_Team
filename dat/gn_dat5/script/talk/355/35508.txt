@@ -1,6 +1,6 @@
-レミリア
+Remilia
 44
-あら またきたのね。\b
-そういえばフランがあなたと遊ぶんだってなにか準備してたみたいよ。\b
+Oh, you've come again.\b
+By the way, it seems Flan was wanting to play with you again. \b
 \x03
-まぁ気が向いたら相手してあげてちょうだい。
+So, go ahead and be her opponent if you'd like.

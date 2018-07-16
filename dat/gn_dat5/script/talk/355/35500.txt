@@ -1,12 +1,12 @@
-フランドール
+Flandre
 45_00
-きたきた！\b
-また来てくれて 嬉しいわ！\b
-\c私が用意したゲーム 楽しかったでしょ？\b
+You came, you came! \b
+You came back, and I'm so happy! \b
+\cThe game I prepared was fun, right? \b
 \x03
-みんな張り切って 手伝ってくれたもの。\b
-楽しくないわけが 無いわ！\b
+Everyone helped and were in such high spirits. \b
+There's no way it wasn't fun! \b
 \x05
-\cさあ 続きをしましょ？\b
+Well then, shall we continue? \b
 \x07
-あなたが 負けて フィナーレよ！
+The finale of your loss!

@@ -1,6 +1,6 @@
-妖夢
+Youmu
 52_04
-魔理沙？\b
-またあの泥棒が 変なことを吹き込んだのね。\b
+Marisa?\b
+That theif told you about this place?\b
 \x02
-まったく生きた人間は ろくなことをしないわ。
+Nothing good can come from living humans.

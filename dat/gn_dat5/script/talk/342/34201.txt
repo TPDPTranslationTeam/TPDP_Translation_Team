@@ -1,10 +1,10 @@
-幽々子
+Yuyuko
 53_00
-こんな辺境まで わざわざお花見にでもやって来たのかしら。\b
+Did you come here to view some flowers in such a remote place?\b
 \x03
-ふふふ 今の私は機嫌がいいわよ。\b
-まさか何もしなくても 桜が咲くなんて思わなかったもの。\b
+Huhu, I'm in a good mood now.\b
+I didn't expect to go flower-viewing without any entertainment.\b
 \x00
-せっかくだから 余興に私と戦ってくださらない？\b
+Would you mind battling with me?\b
 \x01
-大丈夫 退屈はさせないわ。
+Don't worry, I won't allow you to be bored.

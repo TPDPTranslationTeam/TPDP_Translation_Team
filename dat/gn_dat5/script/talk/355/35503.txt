@@ -1,7 +1,7 @@
-レミリア
+Remilia
 44
-あら よく戻ってこれたわね。\b
+Oh, you were able to come back?\b
 \x02
-あぁ 報酬が欲しいってこと？\b
+Ah, you want a reward?\b
 \x05
-そうね フランの相手をしてもらって 私も何かと助かったわけだから お礼ぐらいはしておかないとね。
+Yes, well, you were Flan's opponent, but that means I was also helping you, so the most I am willing to give is my moderate respect.

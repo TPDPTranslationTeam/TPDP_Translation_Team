@@ -1,9 +1,9 @@
-妖夢
+Youmu
 52_04
-・・・生きた人間？\b
-まだここに来るべきでないんだけど どうしてここにいる？\b
+...A Living human?\b
+Why are you here? You're not supposed to be now.\b
 \x02
-桜・・・また邪魔しに来たのね。\b
-今度はそちらには迷惑をかけてないというのに。\b
+Cherry blossoms... You're messing with us again.\b
+We didn't mess with the seasons on your side this time.\b
 \x01
-どうしても お嬢様の邪魔をするなら 私が直々に地獄に送ってあげるわ！
+I'll send you to hell if you're here to mess with my lady!

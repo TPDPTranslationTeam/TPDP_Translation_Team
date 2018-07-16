@@ -1,4 +1,4 @@
-フランドール
+Flandre
 45_00
-\pと遊ぶのは やっぱり楽しかったわ！\b
-また 遊びに来てね！
+Playing with \p is fun! \b
+Come play with me again!
