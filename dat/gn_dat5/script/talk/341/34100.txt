@@ -1,9 +1,13 @@
 Youmu
 52_04
-...A Living human?\b
-Why are you here? You're not supposed to be now.\b
+...A living human?\b
+Why are you here? You're 
+not supposed to be here now.\b
 \x02
-Cherry blossoms... You're messing with us again.\b
-We didn't mess with the seasons on your side this time.\b
+Cherry blossoms... 
+You're messing with us again.\b
+We didn't mess with 
+the seasons on your side this time.\b
 \x01
-I'll send you to hell if you're here to mess with my lady!
+I'll send you to Hell 
+if you're here to mess with my lady!

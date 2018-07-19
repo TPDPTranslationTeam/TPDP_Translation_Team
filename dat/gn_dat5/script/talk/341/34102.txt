@@ -1,6 +1,6 @@
 Youmu
 52_04
 Marisa?\b
-That theif told you about this place?\b
+That thief told you about this place?\b
 \x02
 Nothing good can come from living humans.

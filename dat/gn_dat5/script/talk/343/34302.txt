@@ -3,13 +3,16 @@ Marisa
 Oh, it's you.\b
 Did you find the culprit?\b
 \x04
-You found a Puppet of the Fairy Herald of Spring and you repelled it?\b
+You found a Puppet of the 
+Fairy Herald of Spring and you repelled it?\b
 \x05
-Oh... That's why cherry blossoms were blooming everywhere.\b
+Oh... That's why cherry 
+blossoms were blooming everywhere.\b
 What a troublesome fairy, isn't she?\b
 \x00
 I guess I'm heading back then.\b
 I've got plenty of free time now!\b
 \x07
-I'll win for sure when I battle you next time \b
+I'll win for sure 
+when I battle you next time!\b
 See ya, \p!

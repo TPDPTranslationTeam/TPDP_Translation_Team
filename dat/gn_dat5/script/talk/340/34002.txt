@@ -1,11 +1,15 @@
 Marisa
 2_07
 I have an idea!\b
-Let's have a race to see who can find the reason behind these cherry blossom petals first!\b
+Let's have a race to see who can find the 
+reason behind these cherry blossom petals 
+first!\b
 \x00
 You're good at this kind of stuff, right?\b
 \x07
-Your response means nothing because we're doing this either way!\b
-Victory goes to the one who makes the first move!\b
+Your response means nothing 
+because we're doing this either way!\b
+Victory goes to the one 
+who makes the first move!\b
 \x03
 Peace out!

@@ -5,9 +5,12 @@ I can't win so easily.\b
 \x05
 Why am I here?\b
 \x00
-A tengu tipped me off that the cherry blossoms in the netherworld began to bloom again.\b
-I thought something would be happening, so I came here.\b
+A tengu told me that the cherry blossoms 
+in the netherworld began to bloom again.\b
+I thought something would 
+be happening, so I came here.\b
 \x03
-See, the cherry blossom petals are storming all around here.\b
+See, the cherry blossom 
+petals are storming all around here.\b
 \x05
 ...

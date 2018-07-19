@@ -1,9 +1,11 @@
 Yuyuko
 53_00
-Did you come here to view some flowers in such a remote place?\b
+Did you come here to view 
+some flowers in such a remote place?\b
 \x03
 Huhu, I'm in a good mood now.\b
-I didn't expect to go flower-viewing without any entertainment.\b
+I didn't expect to go 
+flower-viewing without any entertainment.\b
 \x00
 Would you mind battling with me?\b
 \x01

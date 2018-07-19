@@ -5,9 +5,11 @@ Oh, that was really exciting.\b
 I love strong people.
 They bring color to life.\b
 \x03
-While I still can, I should enjoy these cherry blossoms.\b
+While I still can, 
+I should enjoy these cherry blossoms.\b
 \x00
 Care for a dumpling?\b
-You can't have a flower-viewing without dumplings, no?\b
+You can't have a 
+flower-viewing without dumplings, no?\b
 \x03
 Go on, take some. I insist.

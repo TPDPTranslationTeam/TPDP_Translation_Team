@@ -1,5 +1,6 @@
 Meiling
 40_04
-Ah... I think it's best not to enter right now.\b
+Ah... I think it's 
+best not to enter right now.\b
 \x07
-W-well then. What do you want?
+W-Well then. What do you want?

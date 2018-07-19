@@ -3,6 +3,11 @@ Sakuya
 Oh my, you've come at just the right time.\b
 The mistress is requesting you.\b
 \x01
-I can't stomach the idea of asking for your aid, \bbut mistress is relying on you, so go quickly.
+I can't stomach the 
+idea of asking for your aid.\b
+However, mistress is 
+relying on you, so go quickly.
 \x03
-And if you're going to take a lot of time, could you at least help set up the dining room tables?
+And if you're going to take a lot of time, 
+could you at least help set 
+up the dining room tables?

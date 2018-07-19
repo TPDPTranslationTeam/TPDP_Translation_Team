@@ -5,4 +5,5 @@ Mmm... What an embarrassing outcome.\b
 Huh?\b
 My lady is flower-viewing.\b
 \x01
-I didn't want to any unwanted guests to interupt while she enjoys herself.
+I didn't want to any unwanted guests 
+to interupt while she enjoys herself.

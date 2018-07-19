@@ -1,6 +1,8 @@
 Yuyuko
 53
-Oh, the cherry blossoms were from the Fairy Herald of Spring Puppet.\b
+Oh, the cherry blossoms were 
+from the Fairy Herald of Spring Puppet.\b
 \x03
 Too bad.
-I thought it would be a good chance to break the seal.
+I thought it would be 
+a good chance to break the seal.
