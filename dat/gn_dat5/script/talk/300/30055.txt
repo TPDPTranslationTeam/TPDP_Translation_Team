@@ -1,8 +1,8 @@
-小鈴
+Kosuzu
 114
-\pさん。いらっしゃいませ！\b
+\p, welcome!\b
 \x04
-あ 新しい妖魔本を見つけたんですね。\b
-では 新しい本はこちらで預からせて頂きますね。\b
+Ah, you found a new youma book.\b
+Well then, I'll keep it here for you.\b
 \x03
-新しいものも すぐ読めますけど どの本を読みますか？
+Which one would you like me to read?

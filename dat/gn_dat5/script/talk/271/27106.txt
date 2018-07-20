@@ -1,7 +1,3 @@
-//ƒŒÏ
 Junko
 130_03
-//‰äX‚Í‚±‚±‚Å‚¨’ƒ‚µ‚Ä‚¢‚é‚©‚ç
-We're having tea here,
-//‰½‚©‚ ‚Á‚½‚çº‚ğ‚©‚¯‚Ä‰º‚³‚¢‚ËB
-ask us if something happens.
+We're having tea here. Tell us if anything happens.

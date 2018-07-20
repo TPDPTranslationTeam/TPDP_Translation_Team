@@ -1,4 +1,4 @@
-小鈴
+Kosuzu
 114
-あ \pさん。いらっしゃいませ！\b
-妖魔本を読みに来たんですか？
+Ah, \p! Welcome!
+Do you want me to decipher a youma book?

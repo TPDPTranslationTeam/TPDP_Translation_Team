@@ -1,14 +1,6 @@
 
 
-//この最狂の僕らに挑む バカが居るとはねぇ。\b
 You're a stupid dummy challenging the maddest fairies.\b
-//\cクラウンピースに会いに来た って顔だな。\b
 \cYou want to see Clownpiece, right?\b
-//こんなとこまでご苦労さん。\b
-I appreciate you trying real~ hard to get here,\b
-//\cま あんたみたいに弱そうな奴
-//会わせる気はさらさらないけどね！
+I appreciate you trying reeeaaally hard to get here,\b
 \cbut I'm not letting a wimpy-looking person like you through so easily!
-
-//kinda sarcastic?
-//ご苦労さん is like お疲れ様です, it's case dependent

@@ -1,10 +1,4 @@
 
 
-//この私様を倒さずして クラウンピース様とお会い出来るとは思ってもいませんよね？\b
-Don't think about seeing master Clownpiece without defeating me!\b
-//\cあなたが誰だか 存じ上げませんが
-\cI don't know who you are
-//ここに挑んだ事を 後悔させてあげますわ！
-but I'll make you regret challenging us!
-
-//girl
+Don't even think about seeing master Clownpiece without defeating me!\b
+\cI don't know who you are, but I'll make you regret challenging us!

@@ -1,25 +1,15 @@
-//クラウンピース
 Clownpiece
 129_02
-//はあはあはあ。\b
 Ha...Ha...\b
-//\cとてもお強いのですね・・・。\b
 \cYou're strong....\b
-//あたいでは敵いません。\b
 I was outmatched.\b
 \x00
-//ところで あなた様は ここに一体何をしにきたの？\b
 By the way, what are you doing here?\b
-//\c・・・え？ご主人様が呼んでる？\b
-\c... Ah. My master is calling?
-//友人様も居るって？\b
-Junko's here too?\b
+\c... Ah. Master is looking for me?
+And Junko too?\b
 \x02
-//や やば。\b
-Oops.\b
+Whoops.\b
 \x00
-//教えてくれてありがとう！\b
 Thanks for telling me!\b
 \x03
-//あたいは逃げるね！
 Guess I'm outta here!

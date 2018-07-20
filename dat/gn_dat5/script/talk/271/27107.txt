@@ -1,14 +1,8 @@
-//ヘカーティア
 Hecatia
 131_00
-//部下の名前はクラウンピースよん。\b
-The henchman I mentioned is called Clownpiece.\b
-//可愛い子だからすぐ分かるわ。\b
-She's cute so you'll find her soon.\b
+The henchman you'll be looking for is named Clownpiece.\b
+She's cute, so you'll find her easily.\b
 \x02
-//好奇心旺盛な奴だから
-//襲い掛かってくるかもしれないけど・・・。\b
-Since she's full of curiosity, she might attack you, though...\b
+Since she's full of curiosity, she'll probably attack you on sight...\b
 \x03
-//\cじゃ あの子の事はよろしくね。
-\cWell, I leave this to you.
+\cWelp, I leave this to you.

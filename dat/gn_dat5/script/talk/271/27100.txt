@@ -1,9 +1,5 @@
-//ヘカーティア
 Hecatia
 131_00
-//・・・あら 人間？\b
 ...A human?\b
-//最近は夢の中で よく人間を見るわねぇ。\b
 I've been seeing humans a lot in dreams recently.\b
-//\cそれで 可愛いお人形さんを連れているあなたは どちら様かしら？
 \cYou have pretty Puppets. Who are you?

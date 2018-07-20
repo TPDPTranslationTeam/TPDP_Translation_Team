@@ -1,10 +1,7 @@
 
 
-//この小屋に入ると 狂気に飲まれちまうぜぇ。\b
 That hut makes you mad.\b
-//\c俺は入ったことが あるのかって？\b
-How about me?\b
-//\cいひひひひひひ ひぃ。
+What about me?\b
 \ceh heh... eh heheh Ha Ha HAHAHAHAHAHAHAHAHA!
 
 //mad guy

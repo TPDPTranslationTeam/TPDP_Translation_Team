@@ -1,9 +1,9 @@
-小鈴
+Kosuzu
 114_03
-ありがとうございます！私 楽しみに待っていますね！\b
-\o？？？
+Thank you! I'll be looking forward to it!\b
+\o???
 \s957
-では儂が少し案内でもしてやろうか。\b
-妖魔本集めも なかなかに大変じゃろうからな。\b
+Well then, should I give you a little guidance?\b
+Finding the books will be hard, after all.\b
 \x03
-ほれ外で待っておるから 用意ができたら出てくるとよい。
+I'll be waiting outside, so come out when you're ready.

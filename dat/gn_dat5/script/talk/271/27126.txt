@@ -1,8 +1,5 @@
-//クラウンピース
 Clownpiece
 129_01
-//怖くなっちゃったのね。\b
 Don't worry; I understand. You're scared.\b
 \x00
-//ま 仕方ないかー。
-It can't be helped~.
+It can't be helped.

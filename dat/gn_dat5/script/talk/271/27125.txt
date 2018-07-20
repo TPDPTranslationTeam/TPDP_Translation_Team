@@ -1,5 +1,3 @@
-//クラウンピース
 Clownpiece
 129_00
-//どしたの？\b妖精達を元に戻してほしいの？
-Huh? Do you want to turn fairies back again?
+Huh? Do you want to turn the fairies back to normal?

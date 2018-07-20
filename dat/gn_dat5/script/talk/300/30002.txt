@@ -1,22 +1,22 @@
-小鈴
+Kosuzu
 114
-あ 貴女は。\b
-\o？？？
+Ah, it's you.\b
+\o???
 \s957
-ちょいと失礼するぞい。\b
-何やら中から面白い話が聞こえてのう 入らずにおられまいて。\b
+Excuse me.\b
+I heard something interesting, so naturally, I couldn't help myself.\b
 \x03
-人形の情報が書かれた妖魔本といっておったな？\b
-それなら儂にも心当たりがあるぞい。\b
-\o小鈴
+Did you say there's information about the Puppets written in that youma book?\b
+If that's the case, I might know something too.\b
+\oKosuzu
 \s114_04
-ほ 本当ですか！？\b
-\o？？？
+R-Really?!
+\o???
 \j957
-まぁ慌てるでない。\b
-\c噂で聞いただけじゃが それと同じような妖魔本が幻想郷の各地で見つかっておるようでの。\b
-探せば他にも見つかるかもしれん。\b
+Don't get too excited.\b
+\cIt's only a rumor, but a youma book like that seems to be appearing in various places around Gensokyo.\b
+\cIf you search, you might be able to find something else.\b
 \x02
-まぁ 儂がわかっておるのは その一つが 神霊廟におる仙人の元にあるということだけじゃがな。\b
-\j957
-・・・ところで
+As far as I know, there might be one under the supervision of the hermit in the Divine Spirit Mausoleum.\b
+\x00
+...By the way

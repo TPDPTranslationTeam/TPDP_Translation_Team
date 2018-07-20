@@ -1,6 +1,6 @@
-衣玖
+Iku
 088_00
-地上の方ですか。
-なんだって こんな所に。\b
+An Earth person?
+What is your business here?\b
 \x01
-天界は 地上の者に厳しいですよ？
+Heaven is unforgiving to grounders.

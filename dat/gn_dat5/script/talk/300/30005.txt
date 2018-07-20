@@ -1,7 +1,7 @@
-小鈴
+Kosuzu
 114
-・・・\pさんでしたよね。\b
-もしよければ その妖魔本 探してきてもらえませんか？\b
-\c人形についての情報が欲しいとのことですし どうでしょう？\b
+...\p, right?\b
+Could you search for these youma books?\b
+\cYou said you want more information about the Puppets. How about it?\b
 \x04
-私のところに持ってきていただければ 私が解読しますので！
+If you bring them here to me, I'll decipher them all for you!

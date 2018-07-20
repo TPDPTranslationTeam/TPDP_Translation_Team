@@ -1,6 +1,4 @@
 
 
-//月に行ったことある？\b
 Have you ever been to the Moon?\b
-//楽園って聞いたんだけど 私も行ってみたいなぁ。
 I heard it's a paradise. I want to go there.

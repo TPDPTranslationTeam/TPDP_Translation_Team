@@ -1,8 +1,5 @@
 
 
-//狂気の我々を相手するなんて よっぽどのバカみたいだね！\b
 How foolish of you taking us on in madness!\b
-//\cさぁ 始めようじゃないか！\b
 \cLet's get started!\b
-//今日は手加減する気が おきないね！
 I don't feel like holding back!

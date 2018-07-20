@@ -1,7 +1,4 @@
-//純狐
 Junko
 130_03
-//楽しかったですよ。\b
 That was nice.\b
-//また今度お話しましょう。
-Let's talk again.
+Let's talk again sometime.
