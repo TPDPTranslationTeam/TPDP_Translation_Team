@@ -1,5 +1,5 @@
 Wriggle
 60_01
-Maybe I would've won if
-I did this instead...\b
+Maybe I would've won if I did this
+instead...\b
 Arghh! This is too hard!

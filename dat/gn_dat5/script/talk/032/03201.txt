@@ -5,11 +5,11 @@ Um...\b
 \x04
 Yeah.\b
 \x02
-You're going outside the
-village. Didn't Sanae tell you
-that the outside is dangerous?\b
-\c ...Seriously, are you going to
-take on the Puppet incident?\b
+You're going outside the village. Didn't
+Sanae tell you that the outside is
+dangerous?\b
+\c ...Seriously, are you going to take on
+the Puppet incident?\b
 \c
 \x05
 To be clear, you are a hindrance to me.

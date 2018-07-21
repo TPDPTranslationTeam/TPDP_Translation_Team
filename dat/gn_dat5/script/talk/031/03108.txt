@@ -1,7 +1,7 @@
 Akyuu
 76
-The Forest of Magic is
-to the west of Village.\b
+The Forest of Magic is to the west of the
+Village.\b
 Kourindou is by the forest entrance.\b
-\cPlease be careful while
-traveling through that path.
+\cPlease be careful while traveling through
+that path.

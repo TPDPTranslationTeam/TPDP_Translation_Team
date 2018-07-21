@@ -2,15 +2,15 @@ Rumia
 37_05
 Your petty resistance is getting annoying.\b
 \x01
-Your interference with our
-agenda stops right here.\b
+Your interference with our agenda stops
+right here.\b
 \x00
 Yes! I am the leader, Rumia!\b
 \x04
-...I don't look like a
-leader at all, you say?\b
+...I don't look like a leader at all, you
+say?\b
 \x05
 Arghh... Now you're just being irritating!
 \x01
-Anyway, I'm the leader and
-this is a leader-level duel!\b
+Anyway, I'm the leader and this is a
+leader-level duel!\b

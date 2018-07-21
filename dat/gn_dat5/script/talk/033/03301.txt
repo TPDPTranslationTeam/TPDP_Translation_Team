@@ -4,19 +4,19 @@ I've got it!\b
 I'll give you this latest model bicycle!\b
 Surely it'll be helpful on your adventure.\b
 \x04
-... Well, I'd also like you
-to run an errand for me too.\b
+... Well, I'd also like you to run an errand
+for me too.\b
 \x00
-In the forest up ahead there's a girl
-named Alice who wants a package delivered.\b
+In the forest up ahead there's a girl named
+Alice who wants a package delivered.\b
 \x06
-It did take some time to get the
-right repairs done on the bike,\b
-but you should be able to
-get there in no time.\b
+It did take some time to get the right
+repairs done on the bike,\b
+but you should be able to get there in no
+time.\b
 \x00
 Also...\b
 \x03
-Alice is the best person you
-could learn about dolls from.\b
+Alice is the best person you could learn
+about dolls from.\b
 Isn't that great for you too?

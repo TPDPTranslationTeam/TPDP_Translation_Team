@@ -7,5 +7,5 @@ Hmm...\b
 Unfortunately, I've got no time for you.\b
 \x01
 Now get out of my way.\b
-If you know what's good for you, you 
-won't ever let me see you again!
+If you know what's good for you, you won't
+ever let me see you again!

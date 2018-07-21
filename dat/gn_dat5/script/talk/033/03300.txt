@@ -2,12 +2,12 @@ Rinnosuke
 58
 Welcome.\b
 \x03
-Oh, you're that human child that
-was mentioned in the newspaper.\b
+Oh, you're that human child that was
+mentioned in the newspaper.\b
 Anything you need to get stocked up on?\b
 \x05
 Hmm...\b
-So you've started looking into
-the mystery of these Puppets? \b
+So you've started looking into the mystery
+of these Puppets?\b
 \x06
 That seems like a lot of trouble.\b
