@@ -1,4 +1,5 @@
 
 
-妖精が隠れやすそうな木がある。
-木こり人形で調べてみますか？
+A fairy seems to be hidden in this shrub.
+Would you like to check using the 
+Woodcutter Doll?
