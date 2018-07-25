@@ -1,6 +1,8 @@
 
 
-Your answer is meaningless. You're gonna play with me!\b
-Now let's play! You're it!\b
-I'll hide inside a tree and if you can find me before I get bored, you win!\b
+Your answer is meaningless. You're gonna 
+play with me!\b
+Now, let's play! You're it!\b
+I'll hide inside a tree and if you can 
+find me before I get bored, you win!\b
 \cNow, close your eyes...

@@ -1,7 +1,10 @@
 
 
-Okay, let's play tag, you're it!\b
-If you catch me within a set time, I'll give you the key.\b
+Okay, let's play tag! You're it!\b
+If you catch me within a set time limit, 
+I'll give you the key.\b
 \c...or else?\b
-Well...\b I got it! I'll just join you on your journey!\b
-\cThen, ready...
+Well...\b 
+I got it! I'll just join you on your 
+journey!\b
+\cThen, ready...?
