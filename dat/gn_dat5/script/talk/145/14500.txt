@@ -4,8 +4,13 @@ So a human finally managed to arrive here...\b
 I'm honestly surprised.\b
 \x01
 Puppet?\b
-You have something important to speak with me about?\b
-Don't have any kind of obligations, do you?\b
+You have something important to speak with
+me about?\b
+You don't have any kind of obligations,
+do you?\b
 \x00
-So be it then. I won't allow you do as you please any longer.\b
-I won't allow you to cause anymore trouble for the lady, so with my power, I will make you leave.
+So be it then. I won't allow you do as you
+please any longer.\b
+I won't allow you to cause anymore trouble for
+the lady, so with my power, I will make you
+leave.

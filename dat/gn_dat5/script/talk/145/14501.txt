@@ -1,7 +1,9 @@
 Yumeko
 35_04
-Losing against you does not feel good at all.
+Losing against you doesn't feel good at all.
 \x00
-I am nothing compared to the lady's true power. It is mighty indeed.\b
+I am nothing compared to the lady's true
+power. It is mighty indeed.\b
 \x03
-Perhaps a human such as yourself may be as powerful as the lady.
+Perhaps a human such as yourself may be as
+powerful as the lady.

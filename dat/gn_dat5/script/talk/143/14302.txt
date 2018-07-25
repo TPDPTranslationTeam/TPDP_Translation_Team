@@ -2,5 +2,7 @@
 
 Welcome to Pandemonium.\b
 Do you have an appointment?\b
-\c...Aah, did not make an appointment, I see.\b
-In that case, the path for intruders is to your left.
+\c...Ah, you did not make an appointment,
+I see.\b
+In that case, the path for intruders is to
+your left.

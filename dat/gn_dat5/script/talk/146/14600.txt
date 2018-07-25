@@ -11,18 +11,23 @@ Anyway, what is your purpose for being here?\b
 \x05
 Ah, so they went over there too, huh?\b
 \x00
-My world wasn't cute enough, so I made some dolls.\b
+My world wasn't cute enough, so I made some
+dolls.\b
 \x05
-However... I kinda made too much.\b
-Then, before anyone realized, they all started moving on their own...\b
+However... I kinda made too many.\b
+Then, before anyone realized, they all
+started moving on their own...\b
 \x03
-But hey, they're cute, so it's fine the way it is.\b
+But hey, they're cute, so it's fine the way
+it is.\b
 \x00
 ...It's troublesome, you say?\b
 Even though they're so cute?\b
 \x04
-And since the barrier is loose, it's causing problems?\b
+And since the barrier is loose, it's causing
+problems?\b
 \x02
-Hm... Well, I can stop it, but that depends solely on you.\b
+Hm... Well, I can stop it, but that depends
+solely on you.\b
 \x03
 You know what that means, right?
