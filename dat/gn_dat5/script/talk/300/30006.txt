@@ -3,7 +3,9 @@ Kosuzu
 Thank you! I'll be looking forward to it!\b
 \o???
 \s957
-Well then, should I give you a little guidance?\b
+Well then, 
+should I give you a little guidance?\b
 Finding the books will be hard, after all.\b
 \x03
-I'll be waiting outside, so come out when you're ready.
+I'll be waiting outside, 
+so come out when you're ready.

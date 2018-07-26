@@ -3,4 +3,5 @@ Iku
 I tried to warn you.\b
 \x01
 Don't go too far.\b
-If the celestial finds you, you'd better run before she catches you.
+If the celestial finds you, you'd better run
+before she catches you.

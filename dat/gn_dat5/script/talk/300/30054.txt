@@ -4,5 +4,6 @@ Kosuzu
 \x04
 Ah, you found a new youma book.\b
 \x03
-I'll go ahead and add this one to the collection. \b
+I'll go ahead and add this one to the 
+collection.\b
 Which one did you want me to read?

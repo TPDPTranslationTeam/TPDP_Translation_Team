@@ -2,10 +2,15 @@ Letty
 46_01
 It is the mastermind.\b
 \x02
-...Weren't you moving too slowly? You've kept me waiting here.\b
+...Weren't you moving too slowly? 
+You've kept me waiting here.\b
 \x00
-"Do I think only the snow has piled up year after year in my mountain village? I have also accumulated old age."\b
+"Do I think only the snow has piled up year 
+after year in my mountain village? I have 
+also accumulated old age."\b
 \x02
-Such a song tells that you must hibernate in moderation or else your body will become dull.\b
+Such a song tells that you must hibernate in
+moderation or else your body will become 
+dull.\b
 \x03
 Now, let us move our limbs heartily. 

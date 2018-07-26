@@ -4,19 +4,27 @@ Ah, it's you.\b
 \o???
 \s957
 Excuse me.\b
-I heard something interesting, so naturally, I couldn't help myself.\b
+I heard something interesting, so naturally,
+I couldn't help myself.\b
 \x03
-Did you say there's information about the Puppets written in that youma book?\b
-If that's the case, I might know something too.\b
+Did you say there's information about the 
+Puppets written in that youma book?\b
+If that's the case, 
+I might know something too.\b
 \oKosuzu
 \s114_04
 R-Really?!\b
 \o???
 \j957
 Don't get too excited.\b
-\cIt's only a rumor, but a youma book like that seems to be appearing in various places around Gensokyo.\b
-\cIf you search, you might be able to find something else.\b
+\cIt's only a rumor, but a youma book like 
+that seems to be appearing in various places
+around Gensokyo.\b
+\cIf you search, you might be able to find 
+something else.\b
 \x02
-As far as I know, there might be one under the supervision of the hermit in the Divine Spirit Mausoleum.\b
+As far as I know, there might be one under 
+the supervision of the hermit in the 
+Divine Spirit Mausoleum.\b
 \x00
-...By the way
+...By the way.

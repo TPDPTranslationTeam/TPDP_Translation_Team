@@ -1,6 +1,8 @@
 Suwako
 87
-Oh, even this place has people of great faith!\b
+Oh, even this place has people of great 
+faith!\b
 \x03
-You've already come to play with Sanae and Kanako, right?\b
+You've already come to play with Sanae and 
+Kanako, right?\b
 So why not play with me?

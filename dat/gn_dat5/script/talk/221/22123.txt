@@ -3,4 +3,5 @@ Suwako
 Aauu... Definitely strong.\b
 \x03
 Well, what a fun battle! I'm satisfied.\b
-For coming to play with me, I'll give you this.
+For coming to play with me, I'll give you 
+this.

@@ -1,14 +1,19 @@
 Kosuzu
 114_00
-I've also been researching the Puppets by checking old documents,\b
+I've also been researching the Puppets 
+by checking old documents,\b
 \x05
 but I haven't seen anything like them...\b
-As a result, I haven't really been able to find anything.\b
+As a result, I haven't really been able to 
+find anything.\b
 \x04
-But, there was one book that had something in it about Puppets!\b
+But, there was one book that had something 
+in it about Puppets!\b
 \x00
-It must be somewhat new as it just arrived recently.\b
-It was called "Part One", so logically, there must be more.\b
+It must be somewhat new as it just 
+arrived recently.\b
+It was called "Part One", so logically, 
+there must be more.\b
 \x01
 An unprecedented Puppet outbreak...\b
 Books written about them...\b
@@ -16,8 +21,10 @@ and, they're new...\b
 \x04
 That can't all just be a coincidence.\b
 \x05
-...I just don't know the source or the author.\b
-From what I understand, this could be some sort of youma book...\b
+...I just don't know the source or the 
+author.\b
+From what I understand, 
+this could be some sort of youma book...\b
 \o???
 \s
 Hmm...Don't joke about that.

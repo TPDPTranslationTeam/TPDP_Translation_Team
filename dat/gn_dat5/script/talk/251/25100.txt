@@ -6,7 +6,9 @@ Aren't you flesh and blood!?\b
 It is that human from before.\b
 \x01
 You musn't get lost here now, okay?
-Continuing on this path will surely lead you to insanity.\b
+Continuing on this path will surely lead you
+to insanity.\b
 \x00
 Before that happens, just sleep.
-I'll be sure to get rid of that nightmare for you.
+I'll be sure to get rid of that nightmare 
+for you.

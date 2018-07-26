@@ -1,4 +1,5 @@
 Kosuzu
 114_03
 I see!\b
-So, you say this person can collect these youma books!
+So, you say this person can collect these 
+youma books!

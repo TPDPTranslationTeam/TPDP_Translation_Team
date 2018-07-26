@@ -3,4 +3,5 @@ Seiran
 Aaah, there's some bad things on Earth too.\b
 \x03
 Me? I'm a moon rabbit.\b
-Wanna kill some time and have a battle with me?
+Wanna kill some time and have a battle with 
+me?

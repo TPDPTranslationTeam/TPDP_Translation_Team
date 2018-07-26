@@ -1,5 +1,6 @@
 
 
 How mad of you to climb this tower again.\b
-\cWell, I have no choice considering you're here.\b
+\cWell, I have no choice considering you're 
+here.\b
 I'll play with you.

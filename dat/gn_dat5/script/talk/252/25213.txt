@@ -2,6 +2,8 @@ Toyohime
 78_00
 Oh, what business does a human have here?\b
 \cI'm not really sure how you ended up here.\b
-However, this is not a good place for you to be in.\b
+However, this is not a good place for you to
+be in.\b
 \x01
-It is in your best interest if you leave right now.
+It is in your best interest if you leave 
+right now.

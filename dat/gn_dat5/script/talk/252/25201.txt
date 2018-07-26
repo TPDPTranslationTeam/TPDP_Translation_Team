@@ -1,5 +1,7 @@
 Doremy
 127_02
-Exploring while in a dream is nice and all, but don't overdo it.\b
+Exploring while in a dream is nice and all, 
+but don't overdo it.\b
 \x03
-If you want to go back again, I won't mind. I'll continue to monitor you!
+If you want to go back again, I won't mind. 
+I'll continue to monitor you!

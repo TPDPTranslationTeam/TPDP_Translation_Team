@@ -1,10 +1,14 @@
 Shinmyoumaru
 122
-That easy, huh? Did you need something from me?\b
+That easy, huh? Did you need something from
+me?\b
 \x02
 ...You're looking for something?\b
 \x00
-Well, now that you mention it, something fell into the well behind the shrine.\b
-It would be a good idea to look there, I think.\b
+Well, now that you mention it, something 
+fell into the well behind the shrine.\b
+It would be a good idea to look there, I 
+think.\b
 \x03
-Let's have one more Puppet Battle! Here we go!
+Let's have one more Puppet Battle! 
+Here we go!

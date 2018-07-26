@@ -6,5 +6,6 @@ If you're gonna be loud, get out!\b
 \s122_02
 Oka-y\b
 \x00
-If I make too much noise, Reimu will get mad, so I'll try again later.\b
+If I make too much noise, Reimu will get 
+mad, so I'll try again later.\b
 I won't lose next time!

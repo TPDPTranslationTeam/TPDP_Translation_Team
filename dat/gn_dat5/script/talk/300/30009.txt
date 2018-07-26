@@ -1,8 +1,10 @@
 Kosuzu
 114
 Youma books?\b
-It's a book written by youkai using characters humans can't read.\b
+It's a book written by youkai using 
+characters humans can't read.\b
 \x03
-I can read it, so if you find one, please bring it here!\b
+I can read it, so if you find one, 
+please bring it here!\b
 \x04
 Oh, or do you want me to read one now?

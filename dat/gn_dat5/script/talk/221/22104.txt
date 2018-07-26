@@ -3,6 +3,7 @@ Kasen
 Oh, have you found everything?\b
 \x03
 Thank you so much!
-They're all pretty important, so you really helped me out!\b
+They're all pretty important, so you really 
+helped me out!\b
 \x00
 Ah, yes. As thanks, please accept this.

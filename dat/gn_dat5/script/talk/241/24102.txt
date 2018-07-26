@@ -1,9 +1,12 @@
 Eiki
 75_02
-I knew I'd see this again when the spirits stopped crossing over.\b
-Continuing along this course will cause something horrible to happen later.\b
+I knew I'd see this again when the spirits 
+stopped crossing over.\b
+Continuing along this course will cause 
+something horrible to happen later.\b
 \x01
-In that case, I'll really fire you, you know?\b
+In that case, I'll really fire you, 
+you know?\b
 \oKomachi
 \j74_02
 I'm sorry! I'm sorry!

@@ -2,4 +2,5 @@ Kosuzu
 114_02
 Oh, really...\b
 \x00
-Well, it's not like I'm forcing you, so if you change your mind, please come again!
+Well, it's not like I'm forcing you, so 
+if you change your mind, please come again!

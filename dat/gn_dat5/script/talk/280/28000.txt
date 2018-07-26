@@ -1,10 +1,13 @@
 Tenshi
 089_00
-Puppets appeared, and now, a shrine maiden and some earthling too?\b
+Puppets appeared, and now, a shrine maiden 
+and some earthling too?\b
 \x01
-\cInterrogating me about the source of Puppets too, huh?
+\cInterrogating me about the source of Puppets
+too, huh?\b
 \x03
 \cOkay.
-Luckily, my father is out at the moment, so...\b
+Luckily, my father is out at the moment, 
+so...\b
 \x00
 \cI'll tell you if you defeat me! 

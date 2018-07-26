@@ -2,6 +2,8 @@ Kosuzu
 114
 ...\p, right?\b
 Could you search for these youma books?\b
-\cYou said you want more information about the Puppets. How about it?\b
+\cYou said you want more information about the
+Puppets. How about it?\b
 \x04
-If you bring them here to me, I'll decipher them all for you!
+If you bring them here to me, 
+I'll decipher them all for you!

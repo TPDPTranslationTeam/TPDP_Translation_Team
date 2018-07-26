@@ -1,6 +1,8 @@
 Shinmyoumaru
 122_02
 Hey!\b
-Usually when you visit someone, you knock on the door, not swing it open!\b
+Usually when you visit someone, you knock 
+on the door, not swing it open!\b
 \x01
-I'll punish you for barging in with a Puppet Battle!
+I'll punish you for barging in with a 
+Puppet Battle!

@@ -2,7 +2,9 @@ Doremy
 127
 That is so.\b
 \x02
-Going down the path of insanity is what a foolish person would do.\b
+Going down the path of insanity is what a 
+foolish person would do.\b
 \x03
 You should leave while you can.
-This is all a dream; don't make a big deal out of it.
+This is all a dream; don't make a big deal 
+out of it.

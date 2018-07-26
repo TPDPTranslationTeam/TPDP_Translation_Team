@@ -2,7 +2,8 @@ Doremy
 127_00
 Oh, it's you.\b
 You're confused, aren't you?
-Seems like you can't tell if it's a dream or a reality.
+Seems like you can't tell if it's a dream 
+or a reality.\b
 \c...I see. You want to see what awaits ahead?\b
 \x01
 \cThen, let me keep your dream for a while.\b

@@ -2,4 +2,5 @@ Eiki
 75_02
 ...And? Why is there a living human here?\b
 \x01
-Are you the one that instigated Komachi into that Puppet Battle a while ago?
+Are you the one that instigated Komachi 
+into that Puppet Battle a while ago?

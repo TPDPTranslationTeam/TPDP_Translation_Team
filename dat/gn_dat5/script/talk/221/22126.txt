@@ -1,5 +1,7 @@
 Kana
 16
-You can't afford it, but since you use Puppets, it should be alright if you win a battle.\b
+You can't afford it, but since you use 
+Puppets, it should be alright if you win a 
+battle.\b
 \x03
 Can you win, I wonder?

@@ -2,11 +2,13 @@ Hecatia
 131_00
 One of my henchman is in here.\b
 \x01
-She hasn't come out yet and is still probably playing with her Puppets.\b
+She hasn't come out yet and is still 
+probably playing with her Puppets.\b
 \x00
 \cYou're good with Puppets, right?\b
 Can you go get her?\b
 \x03
 Don't worry.\b
-This may be Hell, but she is just a fairy. Nothing like an oni.\b
+This may be Hell, but she is just a fairy. 
+Nothing like an oni.\b
 \cWell then, I'll leave you to it.

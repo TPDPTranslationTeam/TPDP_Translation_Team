@@ -2,4 +2,5 @@ Kana
 16
 Who are you?\b
 \x04
-Do you want this? Hm... I don't know what it is, so I'll give it to you.
+Do you want this? Hm... I don't know what 
+it is, so I'll give it to you.

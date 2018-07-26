@@ -1,7 +1,9 @@
 Yorihime
 77_00
 It's you. The so called Earthling intruder.\b
-\cLooking at you, you don't seem to have anything special about you.\b
+\cLooking at you, you don't seem to have 
+anything special about you.\b
 \x01
-\cIn any case, to come here with your filth is inexecusable.\b
+\cIn any case, to come here with your filth is
+inexecusable.\b
 I'll make you leave post-haste!

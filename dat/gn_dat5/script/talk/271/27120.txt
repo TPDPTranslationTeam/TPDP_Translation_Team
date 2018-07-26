@@ -4,14 +4,17 @@ Great job.\b
 \x00
 You've brought Clownpiece back safe and sound.\b
 \x03
-I must say though, I find these Puppets very interesting.\b
+I must say though, I find these Puppets 
+very interesting.\b
 \oHecatia
 \s131_00
-Yeah, me too.\bLooks fun, doesn't it?\b
+Yeah, me too.\b Looks fun, doesn't it?\b
 \oJunko
 \s130_02
 Hecatia,\b
-you scolded Clownpiece so much for playing with Puppets and now you think it "Looks fun"?\b
+you scolded Clownpiece so much for playing 
+with Puppets and now you think it 
+"Looks fun"?\b
 \x00
 Well, it's not like we are starting now.\b
 \x03

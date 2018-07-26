@@ -1,6 +1,9 @@
 Letty
 46_02
-This is the result I get despite how I've waited.\b
-Waiting so much has even left my body dull, it seems.\b
+This is the result I get despite how I've 
+waited.\b
+Waiting so much has even left my body dull, 
+it seems.\b
 \x01
-What? Can you not say I'm fattening up for winter?
+What? Can you not say I'm fattening up for 
+winter?

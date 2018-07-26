@@ -1,5 +1,7 @@
 Tenshi
 089_01
 Hey, why are you being so serious?\b
-\cWhat? You already know where the Puppets came from?\b
-Why didn't you tell me before I challenged you?!
+\cWhat? You already know where the Puppets 
+came from?\b
+Why didn't you tell me before I challenged 
+you?!

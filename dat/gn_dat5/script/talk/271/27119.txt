@@ -5,12 +5,15 @@ I just wanted to play with Puppets!\b
 \x00
 ...By the way, about those fairies,
 they're not done playing with you.\b
-\cYou should play with them again if you have some time to spare.\b
-I'll lend you my torch's light if you're not satisfied with their strength.\b
+\cYou should play with them again if you have 
+some time to spare.\b
+I'll lend you my torch's light if you're not
+satisfied with their strength.\b
 \c...Hm? What about me?\b
 \oHecatia
 \s131_01
 ......\b
 \oClownpiece
 \s129_02
-...I-I think I'm done with Puppets for a while.
+...I-I think I'm done with Puppets for a 
+while.
