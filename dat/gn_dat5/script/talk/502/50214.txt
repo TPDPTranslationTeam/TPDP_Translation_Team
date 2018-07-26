@@ -1,4 +1,6 @@
 
 
-Puppet battles are too hard, I don't know how they work.\b
-Throwing myself at my enemies is good enough.
+Puppet battles are too hard, 
+I don't know how they work.\b
+Throwing myself 
+at my enemies is good enough.

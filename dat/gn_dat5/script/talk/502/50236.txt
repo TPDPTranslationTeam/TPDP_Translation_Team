@@ -1,4 +1,6 @@
 
 
-There's black tea and chocolate cake for today's snack.\b
-Ah, you're a guest... would it really be alright share any with you..?
+There's black tea and 
+chocolate cake for today's snack.\b
+Ah, you're a guest... would it 
+really be alright share any with you..?
