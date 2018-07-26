@@ -9,5 +9,5 @@ It's in a dream world and...\b
 \x02
 Well... It's useless information for you.\b
 \x00
-Oh, if you want to heal your puppets, you 
+Oh, if you want to heal your Puppets, you 
 can use the bed.

@@ -1,13 +1,13 @@
 Akyuu
 76
-Inside there's a girl named Kosuzu Motoori.\b
+Inside, there's a girl named Kosuzu Motoori.\b
 Please go and visit her.\b
 \cFrom time to time, many mysterious books end
 up in here, so maybe the information you
 seek is here.\b
 \x01
-Puppets have only begun appearing around here
-very recently.\b
+Puppets have only begun appearing around
+here very recently.\b
 However, they could still be of some
 use to you.\b
 \x00 

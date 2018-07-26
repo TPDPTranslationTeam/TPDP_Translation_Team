@@ -2,5 +2,6 @@ Akyuu
 76_03
 Hee hee. So you're interested after all?\b
 \x00
-The place is nearby here, so please follow me.\b
+The place is nearby here, so please
+follow me.\b
 Yes, this way. 

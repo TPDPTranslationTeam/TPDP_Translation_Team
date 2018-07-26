@@ -1,6 +1,6 @@
 Medicine
 72
-You... also have puppets.\b
+You... also have Puppets.\b
 \x04
 Hmm...\b
 \x00

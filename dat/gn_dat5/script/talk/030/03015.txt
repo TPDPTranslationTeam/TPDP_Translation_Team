@@ -2,4 +2,4 @@
 
 We've witnessed dangerous youkai wandering
 up ahead.\b
-You should go somewhere else.\b
+You should go somewhere else.

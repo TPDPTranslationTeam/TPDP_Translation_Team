@@ -10,7 +10,7 @@ Did you say there's information about the Puppets written in that youma book?\b
 If that's the case, I might know something too.\b
 \oKosuzu
 \s114_04
-R-Really?!
+R-Really?!\b
 \o???
 \j957
 Don't get too excited.\b

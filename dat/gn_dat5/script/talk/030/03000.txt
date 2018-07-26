@@ -10,7 +10,7 @@ Yes! I am the leader, Rumia!\b
 ...I don't look like a leader at all, you
 say?\b
 \x05
-Arghh... Now you're just being irritating!
+Arghh... Now you're just being irritating!\b
 \x01
 Anyway, I'm the leader and this is a
-leader-level duel!\b
+leader-level duel!

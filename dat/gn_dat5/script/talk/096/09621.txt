@@ -8,6 +8,5 @@ dream.\b
 Be careful. This is no ordinary dream.\b
 \x03
 If you get injured here, you may be harmed 
-in real life,\b
-or you could die. They're both equally 
-likely.
+in real life,\b or you could die. They're both
+equally likely.

@@ -1,19 +1,18 @@
 Sanae
 85_05
-It started during this spring 
-if I remember correctly.\b
+It started during this spring if I remember
+correctly.\b
 They suddenly appeared out of nowhere, and
 nobody understands why they did, either.\b
 \cTheir population grows so fast that
 I alone cannot suppress them anymore.\b
 \x01
 I've been enhancing the barrier to prevent
-this incident from leaking
-into the Outside World...\b
+this incident from leaking into the
+Outside World...\b
 \x05
-But the fact \p got
-lost here means that
-the barrier is far from perfect.\b
+But the fact \p got lost here means
+that the barrier is far from perfect.\b
 \x01
-And \p can't possibly return
-if the barrier stays at this power level.
+And \p can't possibly return if the
+barrier stays at this power level.

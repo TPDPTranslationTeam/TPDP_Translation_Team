@@ -1,8 +1,8 @@
 Tojiko
 110
 Why are you here?\b
-Are you not someone here to get my and Futo's
-favor?\b
+Are you not someone here to get my and
+Futo's favor?\b
 \x02
 Well then, it's probably best for you not
 to voice your opinions.\b
