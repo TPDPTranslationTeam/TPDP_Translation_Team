@@ -1,5 +1,7 @@
 
 
-The little sister's doll is destroyed... What to do?\b
-... Hey I want you to fix this doll!
-The tools are laying around somewhere, so find the right ones please.
+The little sister's doll is destroyed... 
+What to do?\b
+... Hey, I want you to fix this doll!\b
+The tools are lying around somewhere, so 
+find the right ones please.

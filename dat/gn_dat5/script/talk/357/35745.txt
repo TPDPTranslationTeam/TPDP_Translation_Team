@@ -1,5 +1,6 @@
 
 
 The Sewing Memo was already written.\b
-Let's see how to use these tools. Scissors, Thread, Needle, Cloth, and Cotton are needed.\b
+Let's see how to use these tools: 
+Scissors, Thread, Needle, Cloth, and Cotton are needed.\b
 \cThe sewing method was also written as well.

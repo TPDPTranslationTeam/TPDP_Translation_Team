@@ -1,6 +1,9 @@
 
 
-T-Thank you!  \b...Hey, something isn't right!\b
-You were supposed to gather the equipment and sew it up but you didn't do that!\b
-You're trying to mock me huh!\b
-Fine, you go present this doll to the little sister!
+T-thank you!\b
+...Hey, something isn't right!\b
+You were supposed to gather the equipment 
+and sew it up but you didn't do that!\b
+You're trying to mock me, huh?!\b
+Fine, you go present this doll to the 
+little sister!

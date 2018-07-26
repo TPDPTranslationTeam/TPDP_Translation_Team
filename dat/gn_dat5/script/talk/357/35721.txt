@@ -1,4 +1,5 @@
 
 
-The path the blue one speaks of is the correct path.
+The path the blue one speaks of is the 
+correct path.\b
 She is an honest person after all.

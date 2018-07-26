@@ -1,5 +1,7 @@
 
 
-T-Thank you! \b ... Oi, this isn't right!\b
-You're trying to mock me aren't you!\b
-Fine, you go and give this doll to the little sister!
+T-thank you!\b 
+...Oi, this isn't right!\b
+You're trying to mock me, aren't you?!\b
+Fine, you go and give this doll to the 
+little sister!

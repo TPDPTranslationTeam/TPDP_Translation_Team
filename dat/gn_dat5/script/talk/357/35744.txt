@@ -1,5 +1,7 @@
 
 
-That's right, I can rely on the Head Maid.
-Even though I'm supposed to do this from the start, I have no idea what I'm even doing.
-Fix it Head Maid~.
+That's right, I can rely on the Head Maid.\b
+Even though I'm supposed to be doing this 
+from the start, I have no idea what I'm 
+even doing.\b
+Fix it, Head Maid~.
