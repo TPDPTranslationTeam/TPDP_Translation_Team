@@ -3,4 +3,4 @@ Wriggle
 Now it's my turn!\b
 You starting to feel worn out?\b
 \x03
-I'm gonna take you down easy!
+I'm gonna take you down easily!

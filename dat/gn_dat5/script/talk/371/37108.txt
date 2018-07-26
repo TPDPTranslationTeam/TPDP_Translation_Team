@@ -1,8 +1,9 @@
 Mystia
 61_00
-You're still doing good it seems.\b
+You're still doing well, it seems.\b
 \x03
 That's pleasant news!\b
-However, the next battle will be your final test.\b
+However, the next battle will be your 
+final test.\b
 \x00
 Go on, Rumia is waiting for you!

@@ -1,6 +1,8 @@
 Wriggle
 60_03
-Ahaha, the taking you down thing was a joke.\b
+Ahaha, the taking you down thing was a 
+joke.\b
 This is a test after all!\b
 \x01
-Since we're done, how about heading over to Mystia?
+Since we're done, how about heading over 
+to Mystia?

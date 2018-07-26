@@ -1,11 +1,15 @@
 Rumia
 37_05
-...Though it pains me to do this, I have to give you a pass.\b
+...Though it pains me to do this, I have 
+to give you a pass.\b
 \x03
 Rejoice!\b
-You've been selected to be a member of the Puppet Liberation Front!\b
+You've been selected to be a member of the 
+Puppet Liberation Front!\b
 \x00
 Aren't you so happy?\b
-Since you're our comrade now, you should assist us at once!\b
+Since you're our comrade now, you should 
+assist us at once!\b
 \x01
-Come on, you can get the full story at the hideout!
+Come on; you can get the full story at the 
+hideout!

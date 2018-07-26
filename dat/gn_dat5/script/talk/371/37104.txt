@@ -1,6 +1,7 @@
 Daiyousei
 38_02
-Oh, boo... Didn't have a chance of winning at all.\b
-At least give me a little bit of a chance.\b
+Oh, boo... Didn't have a chance of winning 
+at all.\b
+At least give me a little bit of a chance!\b
 \x01
-Come on, the next one is Wriggle!
+Come on, the next up is Wriggle!

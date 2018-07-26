@@ -1,4 +1,5 @@
 Daiyousei
 38_03
 Next up is me!\b
-If you're not serious, you won't be able to win so easily!
+If you're not serious, you won't be able 
+to win so easily!

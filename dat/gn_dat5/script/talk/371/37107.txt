@@ -1,6 +1,7 @@
 Mystia
 61_00
-Don't you have a tired face.\b
-Fufu, and that's why I'm not gonna let you back out.\b
+Don't you have a tired face!\b
+Fufu, and that's why I'm not gonna let you 
+back out.\b
 \x03
-Now battle with me!
+Now, battle with me!

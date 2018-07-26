@@ -2,5 +2,6 @@ Rumia
 37_00
 Looks like you've finally come here.\b
 \x03
-In that case, allow me to give you the final test!\b
+In that case, allow me to give you the 
+final test!\b
 Don't you dare disappoint us!

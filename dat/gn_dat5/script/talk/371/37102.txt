@@ -2,5 +2,6 @@ Cirno
 39_04
 ...\b
 \x01
-Well then, you can continue on with the test!\b
+Well then, you can continue on with the 
+test!\b
 Your next opponent is Daiyousei.
