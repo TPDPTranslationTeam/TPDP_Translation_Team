@@ -1,4 +1,4 @@
 
 
-ドン！\b
-\c何かがぶつかる音がした・・・。
+*Boom!*\b
+\cSomething made a crashing sound...
