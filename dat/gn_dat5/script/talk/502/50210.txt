@@ -1,4 +1,5 @@
 
 
-If this Puppet can make scarlet mist, it would be really useful for hide and seek!\b
+If this Puppet can make scarlet mist, it 
+would be really useful for hide and seek!\b
 Is that making it too hard?
