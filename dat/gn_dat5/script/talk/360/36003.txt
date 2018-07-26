@@ -1,6 +1,7 @@
-レミリア
+Remilia
 44
-あらまたきたのね。\b
-そういえばフランがあなたと遊ぶんだってなにか準備してたみたいよ。\b
+You came again.\b
+Flan was preparing something to play with 
+you.\b
 \x03
-まぁ気が向いたら相手してあげてちょうだい。
+Play with her if you want to.
