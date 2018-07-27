@@ -1,9 +1,5 @@
 
 
-//この桶 味があっていいでしょ？気に入ってるの！
-This bucket looks quite scrumptious, doesn't it? I love it!
-//どっちの味かって？･･･うふふ。
+This bucket looks quite scrumptious, doesn't
+it? I love it!
 What do I mean by "scrumptious"? ...Uhuhu.
-
-//This person is a wood bucket eating youkai.
-//I'm counting on proofreaders' job

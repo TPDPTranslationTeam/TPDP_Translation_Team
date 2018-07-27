@@ -1,6 +1,7 @@
 
 
 You're the human from outside, right?\b
-Don't mess with the youkai; they're dangerous.\b
+Don't mess with the youkai; they're
+dangerous.\b
 \cWhat if they mess with you?\b
 ...Good luck.

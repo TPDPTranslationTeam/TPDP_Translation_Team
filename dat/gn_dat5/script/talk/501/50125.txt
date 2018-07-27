@@ -1,5 +1,7 @@
 
 
-Did you prepare any confectioneries for your Puppets before you set out?\b
+Did you prepare any confectioneries for your
+Puppets before you set out?\b
 Puppets get tired too.\b
-\cYou should have some before you go on a long trip.
+\cYou should have some before you go on a
+long trip.

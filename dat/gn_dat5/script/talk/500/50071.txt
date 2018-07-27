@@ -1,4 +1,6 @@
 
 
-You use accessories by giving them to your Puppets.\b
-You can't use them on yourself, so be careful!
+You use accessories by giving them to your
+Puppets.\b
+You can't use them on yourself, so be
+careful!

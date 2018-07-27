@@ -1,5 +1,7 @@
 
 
-The Puppet Liberation Front had taken over the hideout.\b
+The Puppet Liberation Front had taken over
+the hideout.\b
 What did they want with it?\b
-\cThey wanted the optical camouflage? I wonder what they intend to use it for. 
+\cThey wanted the optical camouflage?
+I wonder what they intend to use it for. 

@@ -1,5 +1,6 @@
 
 
 "Boutique"
-Unfortunately, we are on a special holiday now.
+Unfortunately, we are on a special holiday
+now.\b
 We look forward to your next visit.

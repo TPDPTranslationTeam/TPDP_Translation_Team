@@ -1,7 +1,9 @@
 
 
 Useful Tips:\b
-\cYou can use Seal Threads from in-battle item menu.\b
+\cYou can use Seal Threads from in-battle
+item menu.\b
 \cYou can use it to seal wild Puppets 
 and if you defeat it, you can catch it.\b
-Watch out, it does not work against already owned Puppets!
+Watch out, it does not work against already
+owned Puppets!

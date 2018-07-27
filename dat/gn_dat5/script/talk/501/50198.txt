@@ -1,4 +1,5 @@
 
 
-...Ah, I saw you in the newspaper. I don't have any Puppets.\b
+...Ah, I saw you in the newspaper. I don't
+have any Puppets.\b
 I'm only interested in danmaku.

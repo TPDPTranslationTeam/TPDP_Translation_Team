@@ -1,5 +1,7 @@
 
 
-The book shop's shopkeeper often read us stories!
-Stories of how to protect ourselves from youkai!\b
+The book shop's shopkeeper often read us
+stories!\b
+Stories of how to protect ourselves from
+youkai!\b
 \c...That tanuki from the story was pathetic.

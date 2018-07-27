@@ -1,5 +1,7 @@
 
 
 Hey, can you hear me?\b
-//\c...Um? Ah, this is called a cellular phone.\b
-I think two cups and a piece of string works better.
+\c...Um? Ah, this is called a cellular
+phone.\b
+I think two cups and a piece of string works
+better.

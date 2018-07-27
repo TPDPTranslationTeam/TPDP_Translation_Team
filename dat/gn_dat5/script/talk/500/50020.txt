@@ -1,5 +1,7 @@
 
 
 Useful Tips:\b
-\cYou can stack 2 poison effects into heavy poison.\b
-Heavy poison will deplete HP faster than regular poison!
+\cYou can stack 2 poison effects into heavy
+poison.\b
+Heavy poison will deplete HP faster than
+regular poison!

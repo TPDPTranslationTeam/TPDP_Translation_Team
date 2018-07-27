@@ -1,8 +1,7 @@
 
 
-//本日のオススメ！
 Today's Recommendation:
-//『封印の糸』\b
 "Seal Threads"\b
-//\c持ってる分だけ人形捕まえ放題！
-You can't catch your Puppets without some of these, so I recommend you buy about... 255 of them?
+You can't catch your Puppets without some of
+these, so I recommend you buy about...
+255 of them?

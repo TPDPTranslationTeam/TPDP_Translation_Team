@@ -2,4 +2,5 @@
 
 "Kirisame's General Goods"\b
 We have everything!\b
-Disclaimer: "everything" is limited to what is in our store's inventory.
+Disclaimer: "everything" is limited to what
+is in our store's inventory.

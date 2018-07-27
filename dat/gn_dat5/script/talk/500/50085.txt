@@ -2,4 +2,5 @@
 
 Oh! You're the rumored human!
 You're like a legend!\b
-I'll defeat you and then I too will become a legend!
+I'll defeat you and then I too will become a
+legend!

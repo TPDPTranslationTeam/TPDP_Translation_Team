@@ -1,4 +1,5 @@
 
 
 I've come this far chasing a Puppet...\b
-\cThere must be a rest area around here. I guess I gotta heal there and head back.
+\cThere must be a rest area around here.
+I guess I gotta heal there and head back.

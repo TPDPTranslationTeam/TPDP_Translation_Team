@@ -1,6 +1,9 @@
 
 
 Useful Tips:\b
-\cYour puppets can learn Skills with PP gained from battles.\b
-You can do so from the Puppet Enhancing screen.\b
-Watch out, your Puppets can't use a Skill unless you teach it to them first!
+\cYour puppets can learn Skills with PP
+gained from battles.\b
+You can do so from the Puppet Enhancing
+screen.\b
+Watch out, your Puppets can't use a Skill
+unless you teach it to them first!

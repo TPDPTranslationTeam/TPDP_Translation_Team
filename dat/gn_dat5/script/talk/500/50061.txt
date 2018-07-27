@@ -1,5 +1,7 @@
 
 
-...Hm, I haven't seen you around. You have Puppets?\b
+...Hm, I haven't seen you around. You have
+Puppets?\b
 \cUse the rest area frequently.\b
-Even if your puppets have HP, you can't use their skills without SP.
+Even if your puppets have HP, you can't use
+their skills without SP.

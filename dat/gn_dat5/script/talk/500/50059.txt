@@ -1,4 +1,6 @@
 
 
-This place attracts a lot of chatty people. It's a good place to gather information.\b
-\c...Well, these are all just rumors. I can't guarantee their credibility.
+This place attracts a lot of chatty people.
+It's a good place to gather information.\b
+\c...Well, these are all just rumors. I can't
+guarantee their credibility.

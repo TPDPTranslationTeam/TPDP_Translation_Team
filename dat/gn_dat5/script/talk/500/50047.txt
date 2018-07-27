@@ -2,4 +2,5 @@
 
 ...so hungry...\b
 \c...That offering...\b
-...!? Hey! I-It's not like I was thinking of eating it!
+...!? Hey! I-It's not like I was thinking of
+eating it!

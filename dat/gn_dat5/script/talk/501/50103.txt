@@ -1,4 +1,6 @@
 Keine
 62
-We changed the contents of our lessons because Puppet-related troubles are increasing.\b
+We changed the contents of our lessons
+because Puppet-related troubles are
+increasing.\b
 You should learn about Puppets here too.

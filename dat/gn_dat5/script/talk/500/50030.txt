@@ -1,4 +1,6 @@
 
 
 Oh? Your Puppets look tired.\b
-\cThere's still a bit more till you reach the Human Village. You should take a break at this resting area.
+\cThere's still a bit more till you reach
+the Human Village. You should take a break
+at this resting area.

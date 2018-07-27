@@ -1,4 +1,6 @@
 
 
-Don't let the shopkeeper of that shop tell you any trivia.\b
-\cIf he starts, you should find an excuse to get out or he'll never stop talking.
+Don't let the shopkeeper of that shop tell
+you any trivia.\b
+\cIf he starts, you should find an excuse to
+get out or he'll never stop talking.

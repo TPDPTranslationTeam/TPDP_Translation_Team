@@ -1,5 +1,8 @@
 
 
-Our bazaar is not only our source of income, but also an event to show off our inventions.\b
+Our bazaar is not only our source of income,
+but also an event to show off our
+inventions.\b
 \c...Not many people understand us though.\b
-I think an Automatic Shirikodama Extractor is a good idea...
+I think an Automatic Shirikodama Extractor
+is a good idea...

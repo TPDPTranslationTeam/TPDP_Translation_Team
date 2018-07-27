@@ -1,4 +1,5 @@
 
 
 Nitori tends to represent us kappa.\b
-\cBut she seems to be caught up in some troubles and not managing things...
+\cBut she seems to be caught up in some
+troubles and not managing things...

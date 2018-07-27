@@ -1,6 +1,9 @@
 
 
 Useful Tips:\b
-\cYou can allocate the PP your Puppets have gained in battle to their stats.\b
-\cStats increases according to the Puppet's level and how much PP you allocated.\b
-Try it if you feel your adventure is getting tough!
+\cYou can allocate the PP your Puppets have
+gained in battle to their stats.\b
+\cStats increases according to the Puppet's
+level and how much PP you allocated.\b
+Try it if you feel your adventure is getting
+tough!

@@ -1,4 +1,6 @@
 
 
-You should buy strings to catch Puppets. The more, the better.\b
-\cYou do not wanna be out of strings when you see a Puppet you want!
+You should buy strings to catch Puppets.
+The more, the better.\b
+\cYou do not wanna be out of strings when
+you see a Puppet you want!

@@ -1,5 +1,7 @@
 
 
 Useful Tips:\b
-\cEach Puppet has a Mark that enhances their abilities.\b
-Each kind of mark enhances different stats. Pay close attention to it!
+\cEach Puppet has a Mark that enhances their
+abilities.\b
+Each kind of mark enhances different stats.
+Pay close attention to it!
