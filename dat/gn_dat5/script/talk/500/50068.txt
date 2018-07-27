@@ -1,5 +1,9 @@
 
 
-バトルを有効に進めるのは変化スキルも大事だよね。
-相手の命中を下げたり 自分の集弾力を上げたり！\b
-\cただ殴りあうだけが人形バトルじゃないね！
+Not only are attacking skills important,
+status skills are too to gain advantage in
+battle;\b for example, lowering enemy Accuracy
+or raising your Focus Attack.\b
+\cMindlessly throwing out attacks hoping the
+opponent faints first is not the proper way
+to do Puppet battles!

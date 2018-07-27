@@ -1,4 +1,4 @@
 
 
-見ぃひん顔やね。種族はなんや？\b
-・・・人間？なんや 死にたがりか。
+Who are you? What's your race?\b
+...A Human? Oh, you must have a death wish.

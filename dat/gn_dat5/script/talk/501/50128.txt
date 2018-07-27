@@ -1,6 +1,6 @@
 
 
-人形異変を解決しに行くのかい？\b
-昔は冒険をしたかったけど 稼業を継がないといけなくてなぁ・・・。\b
-\cこれから君には多くの物語が待ち受けてるだろう。\b
-さぁ いってらっしゃい！
+You're solving the Puppet Incident?\b
+I wanted to go on an adventure, but I'm the only successor to my father's business...\b
+\cThere are a lot of unwritten stories out there, and it's up to you to write the first page.\b
+Take care!

@@ -1,4 +1,4 @@
 
 
-装飾品は 人形に持たせて使わせるんだ。\b
-自分で 使うことはできないから 気をつけろよ！
+You use accessories by giving them to your Puppets.\b
+You can't use them on yourself, so be careful!

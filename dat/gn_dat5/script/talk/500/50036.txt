@@ -1,4 +1,4 @@
 
 
-人形の回復を待っているの。\b
-\c人形は道具じゃないんだから 疲れてると思ったらすぐ休ませてあげてね。
+I'm waiting for my Puppets to heal up.\b
+\cRemember, Puppets are not tools. Let them rest if they look tired.

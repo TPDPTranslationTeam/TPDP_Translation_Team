@@ -1,5 +1,5 @@
 
 
-『役立ち情報！』\b
-\c毒状態の人形がもう一度毒を受けると 猛毒になります。\b
-猛毒状態は普通の毒よりもＨＰが早く減ります！
+Useful Tips:\b
+\cYou can stack 2 poison effects into heavy poison.\b
+Heavy poison will deplete HP faster than regular poison!

@@ -1,6 +1,6 @@
 
 
-外から来た人間だっけ？\b
-妖怪にはちょっかいかけちゃ駄目だよ 危ないからね。\b
-\cちょっかいかけられたら？\b
-・・・頑張れ。
+You're the human from outside, right?\b
+Don't mess with the youkai; they're dangerous.\b
+\cWhat if they mess with you?\b
+...Good luck.
