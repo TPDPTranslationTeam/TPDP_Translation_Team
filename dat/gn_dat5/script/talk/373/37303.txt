@@ -1,7 +1,10 @@
 Medicine
 72_04
-...Next we will search for the Inverted Castle!
+...Next we will search for the Inverted
+Castle!
 \oCirno
 \j39_03
 Ah! Then I know about it!\b
-It's floating near Youkai Mountain. Should be able to get there from the mountain, I think.
+It's floating near Youkai Mountain. Should
+be able to get there from the mountain, I
+think.

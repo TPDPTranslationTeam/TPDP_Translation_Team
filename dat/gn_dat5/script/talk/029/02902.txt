@@ -1,8 +1,8 @@
 Cirno
 39_02
 Guuh...\b
-I've never heard of a creature that could be
-even stronger than the strongest!\b
+I've never heard of a creature that could
+be even stronger than the strongest!\b
 \x01
 ...Now, you should be celebrating over the
 biggest victory ever,\b

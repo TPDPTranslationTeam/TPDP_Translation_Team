@@ -1,8 +1,10 @@
 Aya
 73_04
-Ayaya, wasn't sure who it was, but it was you, \p.\b
+Ayaya, I wasn't sure who it was, but it was
+you, \p.\b
 Sightseeing at Youkai Mountain again?\b
 \x02
 Ooh, looks like you're not doing that.\b
 \x00
-I guess you're interested in that floating Shining Needle Castle...
+I guess you're interested in that floating
+Shining Needle Castle...

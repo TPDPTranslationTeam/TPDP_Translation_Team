@@ -1,6 +1,7 @@
 Medicine
 72_00
 If that's what you say.\b
-While I won't accept you, as a comrade you must lend up help.\b
+While I won't accept you, as a comrade you
+must lend us your help.\b
 \x01
 Understand? You must come with us!!

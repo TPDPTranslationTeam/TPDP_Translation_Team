@@ -2,12 +2,13 @@ Medicine
 72_01
 She was the one who took over the Front!?\b
 She ran away; that's not fair.\b
-\b
+
 \s72_04
 ......\b
 \x06
 Thank you.\b
-I say my thanks, though perhaps not quite satisfactorily.\b
+I say my thanks, though perhaps not quite
+satisfactorily.\b
 \b
 \x07
 By the way, take this.\b

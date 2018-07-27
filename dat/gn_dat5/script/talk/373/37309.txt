@@ -2,4 +2,5 @@ Rumia
 37_05
 Could she be hidden inside a shadow?\b
 \x04
-Aah, but Medicine is in the field of suzuran.
+Aah, but Medicine is in the field of
+suzuran.

@@ -2,5 +2,6 @@ Sunny
 69_04
 Oh, \p.\b
 \x02
-I got caught before the hide-and-seek began.
-I thought they wouldn't catch me here.
+I got caught before the hide-and-seek even
+began. I thought they wouldn't catch me
+here.

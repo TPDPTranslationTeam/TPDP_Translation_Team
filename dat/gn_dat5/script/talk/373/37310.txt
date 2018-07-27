@@ -2,4 +2,5 @@ Sunny Milk
 69
 Looks like you were able to find Medicine.\b
 \x03
-Heh heh, it's all thanks to me being the subtitute leader!
+Heh heh, it's all thanks to me being the
+subtitute leader!

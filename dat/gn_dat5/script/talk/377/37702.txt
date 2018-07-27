@@ -3,4 +3,4 @@ Medicine
 Ouch...\b
 \x05
 How rude!\b
-She didn't apologize to me for crushing me!
+She didn't apologize for crushing me!

@@ -3,13 +3,16 @@ Medicine
 Aah! You're finally here!
 You're late!\b
 \x04
-Geez, what's up with this place!\b
-This place is so backwards, and trying to go back makes no sense.\b
+Geez, what's up with this place?\b
+This place is so backwards, trying to turn
+back only leads us straight ahead!\b
 \x02
 Thanks to that everyone got lost...\b
 \s72_05
-I-I'm not lost at all!?\b
-Everyone just decided to go wherever they pleased!\b
+I-I'm not lost at all!\b
+Everyone just decided to go wherever they
+pleased!\b
 \x08
-Since it couldn't be helped, we just gotta progress on our own.\b
-You better preserve through this as well!
+Since it couldn't be helped, we've just
+gotta progress on our own.\b
+You better persevere through this as well!

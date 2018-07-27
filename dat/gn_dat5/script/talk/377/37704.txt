@@ -1,11 +1,13 @@
 Medicine
 72_01
-I decided to lead the Liberation Front again.\b
+I decided to lead the Liberation Front
+again.\b
 \x04
 Don't misunderstand us!\b
 We're just playing around.\b
 \x06
-I just don't want them taken over nor disbandend.\b
+I just don't want them taken over nor
+disbanded.\b
 \s72_00
 Watch us, \p!\b
 I'll make it too!\b

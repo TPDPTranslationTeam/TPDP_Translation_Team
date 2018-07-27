@@ -5,7 +5,7 @@ Looks like you're finally here.\b
 \x00
 Oh, you didn't think I knew?\b
 I can see everything in this world.\b
-Anyway, what is your purpose for being here?\b
+Anyway, what is your reason for coming here?\b
 \x04
 ...The Puppet Incident?\b
 \x05

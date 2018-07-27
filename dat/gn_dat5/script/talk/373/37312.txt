@@ -2,4 +2,5 @@ Star Sapphire
 71
 We're standing by to protect the hideout.\b
 \x03
-We're gonna play while also protecting this place too!
+We're gonna play while also protecting this
+place too!

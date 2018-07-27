@@ -1,10 +1,12 @@
 Medicine
 72_05
 You disgust me!\b
-I will never recognize you as a comrade, never!\b
+I will never recognize you as a comrade,
+never!\b
 \s72_06
 ...Huh?\b
-The Liberation Front has been taken over? What does that mean?\b
+The Liberation Front has been taken over?
+What does that mean?\b
 \o???
 \s
 Aah! We found our leader!

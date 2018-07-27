@@ -2,10 +2,13 @@ Aya
 73_03
 So, I was right then.\b
 \x01
-Rumor says the Neo Puppet Liberation Front has their stronghold at the Shining Needle Castle.\b
+Rumor has it that the Neo Puppet Liberation
+Front has their stronghold at the Shining
+Needle Castle.\b
 Of course you can't ignore that, \p.\b
 \s942_00
 In that case, let me take you there!\b
-This is a special service for you since you can't fly.\b
+This is a special service for you
+since you can't fly.\b
 \x03
 Well then, please hold on!

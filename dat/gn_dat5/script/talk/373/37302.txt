@@ -3,26 +3,34 @@ Rumia
 We found you, Medicine.\b
 We've been searching for you everywhere!\b
 \x01
-Please listen! Someone has taken over the Liberation Front!\b
+Please listen! Someone has taken over the
+Liberation Front!\b
 \oMedicine
 \j72_06
-Didn't you hear me say that I don't know the meaning of this!\b
+Didn't you hear me say that I don't know
+what you mean by that?\b
 Who did this?\b
 \oCirno
 \j39_02
 We dunno.\b
 \x01
-But we heard this.
-The taken-over Liberation Front is running wild at this gigantic inverted castle.\b
+But we heard this. The taken-over Liberation
+Front is running wild at this gigantic
+inverted castle.\b
 \x02
-Just so you know, we didn't do anything at all!\b
+Just so you know, we didn't do anything at
+all!\b
 \oMedicine
 \j72_01
-...Some person just decided to do whatever they wanted, huh.\b
+...Some person just decided to do whatever
+they wanted, huh.\b
 Fine then, I'll take on that challenge!\b
 \x08
-The Puppet Liberation Front shall resume operation!\b
-This punk thief is gonna get what they deserve when I'm through beating the crap outta them!\b
+The Puppet Liberation Front shall resume
+operation!\b
+This punk thief is gonna get what they
+deserve when I'm through beating the crap
+outta them!\b
 \oRumia
 \j37_03
 Ooooh! That's our leader!\b
