@@ -4,16 +4,21 @@ Huhu, I was waiting for you.\b
 Looks like you've read all of the diary.\b
 \x03
 How was it?\b
-You should've noticed some differences with your own story.\b
+You should've noticed some differences with
+your own story.\b
 \x02
 ...Looks like you couldn't get it.\b
 \x01
-Would you believe me if I say there's another version of you in a different timeline?\b
-\cThere's another you, living in a timeline separate from this one.
-So, who punished the amanojaku?\b
+Would you believe me if I say there's
+another version of you in a different
+timeline?\b
+\cThere's another you, living in a timeline
+separate from this one.
+\cSo, who punished the amanojaku?\b
 Did the lunar fox see impurity?\b
 \x00
-...Is the "you" of the diary that's here really you?\b
+...Is the "you" of the diary that's here
+really you?\b
 \x03
 This diary is just one of the possibilities.\b
 \x00

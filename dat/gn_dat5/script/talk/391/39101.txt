@@ -1,11 +1,14 @@
 Reimu
 1_08
-You really want to solve it on your own, huh.\b
+You really want to solve it on your own,
+huh.\b
 \x05
 ...So be it.
 I won't say I can't understand you at all.\b
 \x00
 Now go.\b
-You leave here and you will reach where you want to go.\b
+Leave here and you will reach where you want
+to go.\b
 \x05
-But as I said before, take all resposibility once you get there.
+But as I said before, take all
+responsibility once you get there.

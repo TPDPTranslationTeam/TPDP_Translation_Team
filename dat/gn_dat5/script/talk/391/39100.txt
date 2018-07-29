@@ -1,24 +1,29 @@
 Reimu
 1_02
-Huh... How many times have I met you like this?\b
-I'm seeing you everywhere I go.\b
+Huh... How many times have I met you like
+this?\b I'm seeing you everywhere I go.\b
 \x05
-The incident isn't over, you know.\b
+The incident isn't over, you know?\b
 We must cut it down at the source.\b
 \x02
-You've noticed from traveling about, haven't you?\b
-Each kind of Puppet doesn't move widely.\b
+You've noticed from traveling about, haven't
+you?\b Each kind of Puppet tends to stay in
+one area.\b
 \x05
 They're supposed to have small habitats.\b
-If they're born in Makai and came here, they shouldn't spread so much.\b
+If they're born in Makai and came here, they
+shouldn't spread so much.\b
 \x10
-But they all appeared everywhere at the same time.\b
-Not only Gensokyo, but in the Netherworld and in Heaven.\b
+But they all appeared everywhere at the same
+time.\b Not only Gensokyo, but in the
+Netherworld and in Heaven.\b
 \x05
-...Did the Puppets really started moving on their own?\b
-I can only think that someone started this for their own amusement.\b
-\s1_09
-I was about to cover up your consequences but to no surprise I met you.\b
+...Did the Puppets really started moving on
+their own?\b I can only think that someone
+started this for their own amusement.\b
+\x09
+I was about to cover up your consequences,
+but to no surprise, I met you.\b
 \x07
 I won't give up on this.\b
 Solving incidents is MY job.

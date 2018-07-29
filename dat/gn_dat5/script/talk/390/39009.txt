@@ -2,4 +2,5 @@ Kosuzu
 114
 Welcome, \p!\b
 \x03
-Do you want to read the final volume you brought before?
+Do you want to read the final volume you
+brought before?

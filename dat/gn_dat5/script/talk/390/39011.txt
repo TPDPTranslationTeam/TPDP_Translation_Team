@@ -1,6 +1,7 @@
 Yukari
 55_03
-You're here, so that means you're done thinking about the possibility.\b
+You're here, so that means you're done
+thinking about the possibility.\b
 \x01
 Here's another question for you.\b
 \cWhat ending do you desire for this world?

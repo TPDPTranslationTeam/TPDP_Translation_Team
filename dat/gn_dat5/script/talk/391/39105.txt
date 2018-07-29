@@ -2,10 +2,11 @@ Elly
 023_03
 What did you bring here?\b
 \x00
-Me? I'm the guardian here, Elly. \b
-\cAnd you...\b
+Me? I'm the guardian here, Elly.\b
+\cAnd you are...\b
 \x03
-You're an intruder, right?\b
+...An intruder, right?\b
 \x01
-It's been a long time since the last time we've had a visitor.
-Let's try our best in this fight!
+It's been a long time since the last time
+we've had a visitor. Let's try our best in
+this fight!

@@ -2,4 +2,5 @@ Elly
 023
 Master should come back more often...\b
 \x02
-It's sad to guard a mansion without the master...
+It's sad to guard a mansion without the
+master...
