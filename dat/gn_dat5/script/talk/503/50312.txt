@@ -1,4 +1,6 @@
 
 
-Recently, Makai has been flooded with Puppets.
-I have a feeling that this is all 'her' fault.
+Recently, Makai has been flooded with 
+Puppets.\b
+I have a feeling that this is all 'her' 
+fault.

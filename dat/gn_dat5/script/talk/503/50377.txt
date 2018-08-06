@@ -1,4 +1,6 @@
 
 
-We have melon and strawberry flavor. We also have "Blue" flavor.\b
-What exactly is "Blue", you ask? Well... it's umm... it's blue, I guess.
+We have melon and strawberry flavors. We 
+also have "Blue" flavor.\b
+What exactly is "Blue", you ask? Well... 
+it's umm... it's blue, I guess.

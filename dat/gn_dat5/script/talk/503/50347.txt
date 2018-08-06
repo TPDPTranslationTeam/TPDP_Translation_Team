@@ -1,3 +1,7 @@
 
 
-I'm gathering material for my article on foot. Some people write with abilities like thoughtography, but I think doing things on foot is crucial.
+I'm gathering material for my article by 
+foot.\b 
+Some people write with abilities like 
+thoughtography, but I think doing things by 
+foot is crucial.

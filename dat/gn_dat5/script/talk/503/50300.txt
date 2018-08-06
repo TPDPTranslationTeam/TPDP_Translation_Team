@@ -1,4 +1,6 @@
 
 
-Rooms have been split in two for males and females.
-Disclaimer: We are not responsible for any trouble caused here.
+Rooms have been split in two for males and 
+females.\b
+Disclaimer: We are not responsible for any 
+trouble caused here.

@@ -1,4 +1,6 @@
 
 
-The mansion you see over there is Hakugyokurou,
-the residence of Yuyuko Saigyouji, manager of the Netherworld.
+The mansion you see over there is 
+Hakugyokurou,\b
+the residence of Yuyuko Saigyouji, manager 
+of the Netherworld.
