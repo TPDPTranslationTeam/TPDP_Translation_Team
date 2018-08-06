@@ -5,7 +5,7 @@ Though I hath been called... \b
 \x01
 Gah! Thou art the miscreant who stole the
 object of importance from our Crown
-Princess!\b
+Prince!\b
 \x05
 'Tis unfortunate, but the lord's strategy
 will fail, for I hath come.\b
