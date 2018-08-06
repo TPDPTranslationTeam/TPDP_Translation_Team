@@ -1,3 +1,4 @@
 
 
-According to the manual, "Whenever you find a Puppeteer, you must attack them..."
+According to the manual, "Whenever you find 
+a Puppeteer, you must attack them..."

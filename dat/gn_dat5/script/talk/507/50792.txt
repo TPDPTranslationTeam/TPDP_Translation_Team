@@ -1,4 +1,5 @@
 
 
-My Mystia Puppet sings me a lullaby during the night!\b
+My Mystia Puppet sings me a lullaby during 
+the night!\b
 Do you wanna hear it?
