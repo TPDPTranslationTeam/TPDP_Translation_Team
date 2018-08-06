@@ -1,13 +1,16 @@
 Yukari
 55_03
-I've been waiting.\b
-How have you been? Are you enjoying Gensokyo?\b
+I've been waiting.\b How have you been? Are
+you enjoying Gensokyo?\b
 \x00
-That's rare for someone like you to come from the Outside World.\b
+That's rare for someone like you to come
+from the Outside World.\b
 \x01
-But maybe you're feeling like something just isn't right, right?\b
+But maybe you're feeling like something just
+isn't right, right?\b
 \x00
 Well, I have good news for you.\b
 \x03
-If you battle with me and win, I'll add some more color to your Gensokyo.\b
+If you battle with me and win, I'll add some
+more color to your Gensokyo.\b
 \p, are you ready?

@@ -2,13 +2,19 @@ Patchouli
 42
 Oh \p, you came again.\b
 \x03
-It's good timing; your Puppets grew stronger than before.\b
+It's good timing; your Puppets grew stronger
+than before.\b
 \x00
-\cDo you remember that I said I was researching methods to enhance their potential?\b
+\cDo you remember that I said I was
+researching methods to enhance their
+potential?\b
 \x05
 ...Looks like you didn't.\b
 \x00
-Alright, first thing's first, I finally established the methods.\b
-I call them "Reincarnation" and "Inheritance."\b
+Alright, first thing's first, I finally
+established the methods.\b
+I call them "Reincarnation" and
+"Inheritance."\b
 \x05
-They're complicated...  Are you still interested in them?
+They're complicated...  Are you still
+interested in them?

@@ -1,7 +1,10 @@
 Medicine
 72_04
 You've come again?
-You never get tired of this, huh, \p?\b
+You never get tired of this, huh,
+\p?\b
 \x08
-Since you're here, take my challenge!
-I'll make you realize the power of the new and improved Puppet Liberation Front's leader!
+Since you're here, take my challenge!\b
+I'll make you realize the power of the new
+and improved Puppet Liberation Front's
+leader!

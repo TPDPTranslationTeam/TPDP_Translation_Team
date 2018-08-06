@@ -2,4 +2,5 @@ Reimu
 1_02
 ...Guess I couldn't win that one.\b
 \x05
-Gotta find a way to completely destroy you next time.
+Gotta find a way to completely destroy you
+next time.

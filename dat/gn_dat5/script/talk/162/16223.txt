@@ -1,6 +1,8 @@
 Parsee
 92
-It's the human who talked to me so many times.
-Is this place really that interesting?\b
+It's the human who talked to me so many
+times. Is this place really that
+interesting?\b
 \x03
-You might get eaten if you don't take things seriously.
+You might get eaten if you don't take things
+seriously.

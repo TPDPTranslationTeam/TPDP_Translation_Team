@@ -4,13 +4,17 @@ Reimu
 The Puppets won't go away, you say?\b
 \x00
 Well, that's ok, isn't it?\b
-People are beginning to accept the existence of these Puppets.\b
+People are beginning to accept the existence
+of these Puppets.\b
 \x05
-If nothing I do is gonna stop the Puppets from appearing, I won't go any further.\b
+If nothing I do is gonna stop the Puppets
+from appearing, I won't go any further.\b
 \x03
 That's how Gensokyo works.\b
-If you accept it, that becomes the part of the norm.\b
+If you accept it, that becomes the part of
+the norm.\b
 \x00
-...Well then, nothing to be pessimistic about.\b
-If nobody's upset over it, I won't say anything.\b
-You might be able to get home soon anyway.
+...Well then, nothing to be pessimistic
+about.\b If nobody's upset over it, I won't
+say anything.\b You might be able to get home
+soon anyway.

@@ -2,4 +2,5 @@ Ichirin
 100_02
 Today's no good, huh?\b
 \x00
-There's nothing I can do. If you can't win, you just need to keep trying until you do!
+There's nothing I can do. If you can't win,
+you just need to keep trying until you do!

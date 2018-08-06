@@ -1,6 +1,7 @@
 Suika
 68_03
-Ah, such great weather! I slept too much though.\b
+Ah, such great weather! I slept too much
+though.\b
 \x00
-I just woke up but wont you have a battle with me?\b
-Well, are you ready?
+I just woke up but wont you have a battle
+with me?\b Well, are you ready?

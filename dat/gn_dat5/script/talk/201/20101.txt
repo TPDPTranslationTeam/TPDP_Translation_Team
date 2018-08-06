@@ -2,5 +2,6 @@ Chen
 047_01
 You're as strong as I heard.\b
 \x00
-However, did you challenge my masters Ran and Yukari?\b
+However, did you challenge my masters Ran
+and Yukari?\b
 You can go there now, as Yukari promised.

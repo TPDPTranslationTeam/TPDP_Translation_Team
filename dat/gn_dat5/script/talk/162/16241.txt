@@ -1,6 +1,7 @@
 Alice
 31_01
-Hmm...She was pulling the strings of the incident, huh?\b
-So that means the dolls come from Makai.\b
+Hmm...She was pulling the strings of the
+incident, huh?\b So that means the dolls come
+from Makai.\b
 \x00
 If so, that would explain why they can move.

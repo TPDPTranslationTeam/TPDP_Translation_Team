@@ -1,4 +1,7 @@
 Patchouli
 
-If you pick two Puppets for the source, three stats are randomly chosen from them, and two random stats if you pick one.\b
-\cIf the sources have high ranks, reincarnated Puppets' ranks can also become higher.
+If you pick two Puppets for the source,
+three stats are randomly chosen from them,
+and two random stats if you pick one.\b
+\cIf the sources have high ranks, reincarnated
+Puppets' ranks can also become higher.

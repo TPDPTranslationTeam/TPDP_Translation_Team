@@ -1,6 +1,8 @@
 Nitori
 83
-Oh. Aren't you \p? You seem to be doing well.\b
-How about it? Would you like another match with me?\b
+Oh. Aren't you \p? You seem to be
+doing well.\b How about it? Would you like
+another match with me?\b
 \x03
-I'll show you the technology of the kappa as often as you'd like!
+I'll show you the technology of the kappa as
+often as you'd like!

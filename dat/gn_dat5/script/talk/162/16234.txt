@@ -2,4 +2,5 @@
 102_01
 Was a disciple of Bishamonten insufficient?\b
 \x00
-Well then, it's about time Nazrin returns. Shall we go say a word of thanks?
+Well then, it's about time Nazrin returns.
+Shall we go say a word of thanks?

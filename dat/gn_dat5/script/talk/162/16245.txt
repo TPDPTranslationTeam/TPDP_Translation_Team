@@ -1,5 +1,6 @@
 Alice
 31_02
-In hindsight, it wasn't good to go easy on you, \p.\b
+In hindsight, it wasn't good to go easy on
+you, \p.\b
 \x00
 But it was great to battle you properly.

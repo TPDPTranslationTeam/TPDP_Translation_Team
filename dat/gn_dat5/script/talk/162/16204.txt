@@ -1,6 +1,7 @@
 Marisa
 2
-Hey, if it isn't \p! I was just waitin' here and polishin' up.\b
+Hey, if it isn't \p! I was just
+waitin' here and polishin' up.\b
 \x08
 I ain't gonna lose so easily this time.
 I'm gonna unleash all of my firepower!

@@ -3,4 +3,5 @@ Nazrin
 Ahh... I can't find it.
 Where did master lose it?\b
 \x01
-When I find it, I'm gonna have to scold her again.
+When I find it, I'm gonna have to scold her
+again.

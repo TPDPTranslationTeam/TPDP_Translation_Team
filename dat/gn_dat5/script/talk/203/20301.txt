@@ -2,8 +2,12 @@ Yukari
 55_00
 Do you know what this place is, I wonder?\b
 \x03
-Fufu, I haven't taught you anything, so you probably don't understand.\b
+Fufu, I haven't taught you anything, so you
+probably don't understand.\b
 \x01
-Can you tell me of any other place where you can connect to different dimensions and battle with other people?\b
+Can you tell me of any other place where you
+can connect to different dimensions and
+battle with other people?\b
 \x00
-If you're looking for something new and stimulating, why not give it a try?
+If you're looking for something new and
+stimulating, why not give it a try?
