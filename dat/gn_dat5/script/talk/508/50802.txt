@@ -1,4 +1,6 @@
 
 
-In these times, we use items in danmaku play.\b
-Whoever controls the item, controls the match!
+In these times, we use items in danmaku 
+play.\b
+Whoever controls the item controls the 
+match!
