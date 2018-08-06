@@ -1,6 +1,7 @@
 
 
-If your Puppet breaks something in the
-corridor, please don't just leave it a mess.\b
-The Chief Maid really 
-hates it when those aren't cleaned up.
+If your Puppet breaks something in the 
+corridor, please don't just leave it as a 
+mess.\b
+The Chief Maid really hates it when those 
+aren't cleaned up.

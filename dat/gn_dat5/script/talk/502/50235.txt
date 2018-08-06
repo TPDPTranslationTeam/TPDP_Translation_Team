@@ -1,6 +1,6 @@
 
 
-Are you an intruder? 
-Be careful if you're playing around here.\b
-Also, don't tell anyone that I saw you. 
+Are you an intruder? Be careful if you're 
+playing around here.\b
+Also, don't tell anyone that I saw you.\b
 I don't want to get scolded.

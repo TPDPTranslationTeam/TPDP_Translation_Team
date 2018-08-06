@@ -1,5 +1,7 @@
 
 
 Have you heard of Yamame?\b
-She's quite popular down here. Talk to her if you find her.\b
-\cShe's kinda bloodthirsty though, so she might challenge you a battle.
+She's quite popular down here. Talk to her 
+if you find her.\b
+\cShe's kinda bloodthirsty though, so she 
+might challenge you to a battle.

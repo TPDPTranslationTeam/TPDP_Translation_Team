@@ -1,4 +1,5 @@
 
 
-Three fairies lived in that giant tree once.
-I remember them well, because they lived more like humans than youkai.
+Three fairies lived in that giant tree once.\b
+I remember them well, because they lived 
+more like humans than youkai.

@@ -1,4 +1,6 @@
 
 
-Apparently there's a Puppet tournament being held!\b
-Do you want to join it? What will you do in it?
+Apparently, there's a Puppet tournament 
+being held!\b
+Do you want to join it? What will you do 
+in it?

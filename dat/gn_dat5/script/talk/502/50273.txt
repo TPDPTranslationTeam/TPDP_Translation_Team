@@ -1,4 +1,6 @@
 
 
-You can see that Puppet battles even happen underground!\b
-...Well, it looks like people there are battling their own Puppets quite often.
+You can see that Puppet battles even happen 
+underground!\b
+...Well, it looks like people there are 
+battling their own Puppets quite often.

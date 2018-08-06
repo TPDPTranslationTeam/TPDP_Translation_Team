@@ -1,5 +1,6 @@
 
 
               - Trainer Tips! -             
-Sometimes, there's things lying around that you can't see.\b
+Sometimes, there's things lying around that 
+you can't see.\b
 Why not look in suspicious places?

@@ -1,3 +1,5 @@
 
 
-Alice lives in the house over there. She invites any injured people she finds to stay at her house so she can help them.
+Alice lives in the house over there.\b
+She invites any injured people she finds to 
+stay at her house so she can help them.

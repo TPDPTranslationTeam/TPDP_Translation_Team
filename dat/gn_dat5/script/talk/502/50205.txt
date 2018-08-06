@@ -1,5 +1,5 @@
 
 
-Ah, you there! 
-You were the one in the Bunbunmaru!
+Ah, you there!\b
+You were the one in the Bunbunmaru!\b
 Please let me interview you this time.

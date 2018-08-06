@@ -1,6 +1,6 @@
 
 
 Hello, human! I am definitely one 
-of your fellow humans, really! Tail?\b
-What are you talking about? 
+of your fellow humans, really!\b
+Tail? What are you talking about?\b
 I don't see a tail; there's no tail here!

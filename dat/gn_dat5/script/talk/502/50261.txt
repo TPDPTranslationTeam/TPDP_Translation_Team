@@ -1,4 +1,6 @@
 
 
-Have you heard? A Puppet battle tournament is going on.\b
-I don't have a Puppet, so I'm just enjoying betting on who will win.
+Have you heard? A Puppet battle tournament 
+is going on.\b
+I don't have a Puppet, so I'm just enjoying 
+betting on who will win.

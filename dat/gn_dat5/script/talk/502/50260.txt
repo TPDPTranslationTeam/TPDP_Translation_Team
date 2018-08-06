@@ -1,3 +1,5 @@
 
 
-The sake's always good. Want some? Even a stranger, species or not, will be a friend if you drink some.
+The sake's always good. Want some?\b
+Even a stranger, different species or not, 
+will become a friend if you drink some.

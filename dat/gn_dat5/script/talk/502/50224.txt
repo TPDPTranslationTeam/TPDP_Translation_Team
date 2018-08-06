@@ -1,6 +1,7 @@
 
 
-Even though the Chief Maid is a professional
-at solving incidents, she doesn't  
-seem to be too interested in this one.\b
+Even though the Chief Maid is a 
+professional at solving incidents,\b
+she doesn't seem to be too interested in 
+this one.\b
 I wonder why?
