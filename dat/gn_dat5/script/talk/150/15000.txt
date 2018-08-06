@@ -1,7 +1,9 @@
 Mai
 33_04
-Sigh... What's the point of training if she let's you through so easily?\b
+Sigh... What's the point of training if
+she let's you through so easily?\b
 \x01
-Yuki, why do you have to make things harder for me?\b
+Yuki, why do you have to make things harder
+for me?\b
 \x00
 I'll go all out; I won't give up easily!

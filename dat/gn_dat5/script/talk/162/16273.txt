@@ -1,7 +1,9 @@
 Aya
 73_02
-Well, no matter how many times I challenge you, I can't win! How frustrating!\b
+Well, no matter how many times I challenge
+you, I can't win! How frustrating!\b
 \x00
-Next time, can I watch you so I can learn more about your strength?\b
+Next time, can I watch you so I can learn
+more about your strength?\b
 \x03
 I won't write anything negative!

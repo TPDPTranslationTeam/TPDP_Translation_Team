@@ -2,4 +2,5 @@ Alice
 31
 Good answer.\b
 \x03
-Feel the power of someone who's practiced puppetry before the incident!
+Feel the power of someone who's practiced
+puppetry before the incident!

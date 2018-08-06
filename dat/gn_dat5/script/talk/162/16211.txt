@@ -4,4 +4,6 @@ I'm looking for Cirno right now.\b
 \x01
 ...Am I looking for her to do a prank??\b
 \x03
-Don't give me that angry look! Until doing pranks become boring, we don't care how mad you people get!
+Don't give me that angry look! Until doing
+pranks become boring, we don't care how mad
+you people get!

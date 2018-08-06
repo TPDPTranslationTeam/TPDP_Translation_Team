@@ -1,8 +1,14 @@
 Patchouli
 
-First of all, you must know that individual stat ranks influence the stats of Puppets, right?\b
-\cYou can reset the Puppet's level, PPs, and stat ranks with Reincarnation.\b
-\cAnd with Inheritance, you can impart stat ranks from Succession Sources to the reincarnating Puppet.\b
+First of all, you must know that individual
+stat ranks influence the stats of Puppets,
+right?\b
+\cYou can reset the Puppet's level, PPs, and
+stat ranks with Reincarnation.\b
+\cAnd with Inheritance, you can impart stat
+ranks from Succession Sources to the
+reincarnating Puppet.\b
 I'll explain in order.\b
 \cDo you have Magical Fragments?
-You'll need one in order to reincarnate a Puppet.
+You'll need one in order to reincarnate a
+Puppet.

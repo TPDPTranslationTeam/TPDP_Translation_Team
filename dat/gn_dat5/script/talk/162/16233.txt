@@ -1,5 +1,6 @@
 Shou
 102
-Oh, you've come again. You don't have any business with Hijiri today?\b
+Oh, you've come again. You don't have any
+business with Hijiri today?\b
 \x03
 Hm, well, let's have a match then.

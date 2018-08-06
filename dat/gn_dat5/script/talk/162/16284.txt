@@ -2,4 +2,5 @@ Satori
 94
 I thought so.\b
 \x01
-Well then, let's recreate the memory of fear once more, shall we?
+Well then, let's recreate the memory of fear
+once more, shall we?

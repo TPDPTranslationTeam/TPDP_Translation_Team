@@ -1,8 +1,12 @@
 Patchouli
 
-The other thing I should tell you is... about items.\b
-You can change the stats of reincarnated Puppets using Emblems and by holding certain items...\b
+The other thing I should tell you is...
+about items.\b
+You can change the stats of reincarnated
+Puppets using Emblems and by holding certain
+items...\b
 \c... I'm tired of talking.\b
 Research it yourself now.\b
 \cYou should try everything.
-Failure is the mother of success, as they say.
+Failure is the mother of success, as they
+say.

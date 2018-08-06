@@ -4,11 +4,14 @@ Welcome, \p.
 It seems you went to the demonic realm.\b
 \x01
 I was watching it all.\b
-Afterall, it won't do to get rid of all the Puppets.\b
+Afterall, it won't do to get rid of all the
+Puppets.\b
 \x03
-Gensokyo seems to be welcoming the dolls. They should pretty commonplace at this rate.\b
+Gensokyo seems to be welcoming the dolls.
+They should pretty commonplace at this rate.\b
 \x00
 Is that okay?\b
 \x03
-Fufu, all kinds of things have always become accepted here.\b
+Fufu, all kinds of things have always become
+accepted here.\b
 It's unfortunate, but that's Gensokyo.

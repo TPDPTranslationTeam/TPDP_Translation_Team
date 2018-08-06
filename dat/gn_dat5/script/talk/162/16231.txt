@@ -1,4 +1,5 @@
 Byakuren
 103_03
 How was it?\b
-Was the road I pointed out the one you were looking for?\b
+\cWas the road I pointed out the one you were
+looking for?\b

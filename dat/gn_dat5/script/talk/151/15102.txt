@@ -1,7 +1,10 @@
 Reimu
 1_05
 I found you laying in front of the shrine.\b
-Leaving you out there would bother the worshippers, so I had no choice but to bring you inside.\b
-Sanae
+Leaving you out there would bother the
+worshippers, so I had no choice but to bring
+you inside.\b
+\oSanae
 \s85_06
-She's rude, but she actually took good care of you.
+She's rude, but she actually took good care
+of you.

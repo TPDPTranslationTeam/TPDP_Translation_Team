@@ -2,4 +2,5 @@ Rin
 95_02
 Wow, so strong!\b
 \x01
-Of course, if you collapse, I'll have to carry you back.
+Of course, if you collapse, I'll have to
+carry you back.

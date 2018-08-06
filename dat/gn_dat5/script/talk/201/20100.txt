@@ -3,4 +3,5 @@ Chen
 Oh, you came again?
 You have time to spare, don't you?\b
 \x03
-Since you returned here after all, let's play.
+Since you returned here after all, let's
+play.

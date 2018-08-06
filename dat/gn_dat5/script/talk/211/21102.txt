@@ -1,8 +1,10 @@
 Lyrica
 49_00
-You were probably just scared by the big crash of a plate breaking, huh?\b
+You were probably just scared by the big
+crash of a plate breaking, huh?\b
 \x03
 It's no use trying to hide it.\b
-You came to play with us, so let's make more loud, exciting sounds!\b
+You came to play with us, so let's make more
+loud, exciting sounds!\b
 \x00
 Hey hey! Let's start a fun concert!

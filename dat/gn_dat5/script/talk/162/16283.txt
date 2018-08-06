@@ -2,8 +2,11 @@ Yukari
 55_01
 Where was I watching you from?\b
 \x00
-You realize you've been carrying around a special something since you entered Gensokyo, right?\b
+You realize you've been carrying around a
+special something since you entered
+Gensokyo, right?\b
 \x03
-Fufu, I wasn't just watching, I also helped out.\b
+Fufu, I wasn't just watching, I also helped
+out.\b
 \x00
 So please forgive me, okay?

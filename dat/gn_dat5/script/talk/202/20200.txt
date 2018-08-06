@@ -2,5 +2,6 @@ Ran
 54
 Did Miss Yukari show you the way, I wonder?\b
 \x03
-Unfortunately, I can't let you pass that easily.\b
-It's an order. I may not like it, but I must battle you.
+Unfortunately, I can't let you pass that
+easily.\b It's an order. I may not like it,
+but I must battle you.

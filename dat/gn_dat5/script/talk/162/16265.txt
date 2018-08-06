@@ -1,5 +1,7 @@
 Akyuu
 76
-Apparently, there's some kind of event being held outside the village.\b
+Apparently, there's some kind of event being
+held outside the village.\b
 \x03
-Will you be participating in it as well, \p?
+Will you be participating in it as well,
+\p?

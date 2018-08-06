@@ -1,6 +1,9 @@
 Sara
 29_04
 You came again? What an incorrigible person.\b
-I wonder how many times I have to explain to you that this place isn't for humans before you understand.\b
+I wonder how many times I have to explain to
+you that this place isn't for humans before
+you understand.\b
 \x00
-No matter how many times you come back, I'll stop you.
+No matter how many times you come back, I'll
+stop you.

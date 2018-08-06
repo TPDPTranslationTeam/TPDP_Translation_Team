@@ -1,6 +1,8 @@
 Yukari
 55_03
-As expected, bringing you here was the right thing to do.\b
+As expected, bringing you here was the right
+thing to do.\b
 \x00
 Well then, it's time to color your world.\b
-Come with me to the gateway outside the house.
+Come with me to the gateway outside the
+house.

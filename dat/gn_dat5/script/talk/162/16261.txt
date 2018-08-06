@@ -2,4 +2,5 @@ Yoshika
 108
 I was revived to protect the mausoleum!\b
 \x03
-But now, I have no orders, so I've got a lot of free time!
+But now, I have no orders, so I've got a lot
+of free time!

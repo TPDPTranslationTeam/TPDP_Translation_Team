@@ -2,4 +2,5 @@ Lyrica
 49_03
 It was quite fun playing together.\b
 \x01
-It would be even more fun if every day was like this!
+It would be even more fun if every day was
+like this!

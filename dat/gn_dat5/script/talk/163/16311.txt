@@ -2,5 +2,7 @@ Patchouli
 42_04
 ... I forgot to tell you one thing.\b
 \x00
-You can Reincarnate and Inherit from my Puppet over there.\b
-If you want the explanation again, ask me any time.
+You can Reincarnate and Inherit from my
+Puppet over there.\b
+If you want the explanation again, ask me
+any time.

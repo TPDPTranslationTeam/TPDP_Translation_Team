@@ -1,10 +1,14 @@
 Reimu
 1_05
 ...So.\b
-Those demon sisters are responsible for the spread of these Puppets, huh?
+Those demon sisters are responsible for the
+spread of these Puppets, huh?\b
 \x00
 But you already exterminated them, right?\b
-If that's the case, I wonder if that's good enough.\b
-\cThe Puppets are beginning to decrease, but as long as you aren't messing with them, they should be okay.\b
+If that's the case, I wonder if that's good
+enough.\b
+\cThe Puppets are beginning to decrease, but
+as long as you aren't messing with them,
+they should be okay.\b
 \x03
 I'll personally exterminate you if they do.

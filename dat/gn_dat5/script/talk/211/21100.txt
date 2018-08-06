@@ -2,7 +2,8 @@ Merlin
 50_00
 Did I surprise you? Hey, did I surprise you?\b
 \x03
-It's really been a while since somebody's come here.\b
-I'm sooo happy! Let's play some more!\b
+It's really been a while since somebody's
+come here.\b
+\cI'm sooo happy! Let's play some more!\b
 \x00
 Are you ready?

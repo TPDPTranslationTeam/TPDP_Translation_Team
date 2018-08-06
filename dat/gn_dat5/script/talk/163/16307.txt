@@ -2,6 +2,8 @@ Patchouli
 
 Now, this is how Reincarnation is done.
 Did you get it?\b
-Please notice the following when you reincarnate your Puppets:\b
+Please notice the following when you
+reincarnate your Puppets:\b
 \cthe Puppet's PP returns to 0,\b
-\cand the Individual Rank is determined randomly.
+\cand the Individual Rank is determined
+randomly.

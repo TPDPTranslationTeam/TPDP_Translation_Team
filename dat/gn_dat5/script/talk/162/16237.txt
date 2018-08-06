@@ -2,4 +2,5 @@ Sanae
 85_02
 Ha... Of course \p is strong.\b
 \x08
-I'll have to keep being diligent. This is embarrassing as the Moriya shrine maiden.
+I'll have to keep being diligent. This is
+embarrassing as the Moriya shrine maiden.

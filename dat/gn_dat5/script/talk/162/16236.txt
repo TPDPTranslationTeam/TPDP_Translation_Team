@@ -3,4 +3,5 @@ Sanae
 Welcome, \p!\b
 \x07
 Will you battle me again?\b
-This is a real fight, so I'm not gonna go easy on you!
+This is a real fight, so I'm not gonna go
+easy on you!

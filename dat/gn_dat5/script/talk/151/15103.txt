@@ -3,7 +3,8 @@ Reimu
 \|Ahem!\b\|
 \x05
 I heard the circumstances from Yukari.\b
-The creator of Makai made Puppets for fun and they started moving on their own.\b
+The creator of Makai made Puppets for fun
+and they started moving on their own.\b
 What a troublesome story, huh?\b
 \x00
 But you punished her.\b
@@ -13,7 +14,8 @@ Great job.\b
 \j85_03
 Good for you, \p!\b
 \x00
-We haven't yet noticed the Puppets' numbers decreasing, but someday they will.\b
+We haven't yet noticed the Puppets'
+numbers decreasing, but someday, they will.\b
 \x06
 You should be able to return home soon!
 Great job!\b
@@ -21,7 +23,8 @@ Great job!\b
 \j2_03
 Ha! You're not going home anytime soon.\b
 \x00
-You're staying here for a little longer, right?\b
+You're staying here for a little longer,
+right?\b
 \x07
 Then I gotta train more to beat you!\b
 \oReimu

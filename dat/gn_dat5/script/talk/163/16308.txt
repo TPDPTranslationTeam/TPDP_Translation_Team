@@ -1,5 +1,8 @@
 Patchouli
 
 Next is Inheritance.\b
-\cAs I said before, reincarnating without Inheritance determines stat ranks randomly.\b
-\cYou can impart stat ranks from Succession Sources to the reincarnating Puppet with Inheritance.
+\cAs I said before, reincarnating without
+Inheritance determines stat ranks randomly.\b
+\cYou can impart stat ranks from Succession
+Sources to the reincarnating Puppet with
+Inheritance.

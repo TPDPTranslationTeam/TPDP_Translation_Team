@@ -1,9 +1,11 @@
 Gengetsu
 27
 Oh, are you still here?\b
-Mugetsu
+\oMugetsu
 \s26
-It takes a peculiar human to come hang around Makai again.\b
-Gengetsu
+It takes a peculiar human to come hang
+around Makai again.\b
+\oGengetsu
 \s27
-The incident was already resolved, wasn't it?
+The incident was already resolved, wasn't
+it?

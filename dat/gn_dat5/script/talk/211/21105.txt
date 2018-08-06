@@ -1,8 +1,11 @@
 Lunasa
 51_00
-I wonder if making the chair float is a little too boring.\b
+I wonder if making the chair float is a
+little too boring.\b
 \x01
-After a long time, noise can be heard from this mansion, but the reaction is disappointing.\b
-Nothing is as dull as a joyless sound.\b
+After a long time, noise can be heard from
+this mansion, but the reaction is
+disappointing.\b Nothing is as dull as a
+joyless sound.\b
 \x00
 I need to get rid of these painful noises.

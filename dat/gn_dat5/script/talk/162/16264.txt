@@ -1,5 +1,7 @@
 Keine
 62
-Are you partaking in the tournament festivities?\b
+Are you partaking in the tournament
+festivities?\b
 \x01
-I'll be participating as a representative of the school.
+I'll be participating as a representative of
+the school.

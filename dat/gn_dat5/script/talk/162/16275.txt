@@ -1,5 +1,7 @@
 Youmu
 52_02
-The cherry blossoms blooming is great and all, but cleaning up the petals is tough.\b
+The cherry blossoms blooming is great and
+all, but cleaning up the petals is tough.\b
 \x04
-It would be nice if they disappeared when they fell.
+It would be nice if they disappeared when
+they fell.

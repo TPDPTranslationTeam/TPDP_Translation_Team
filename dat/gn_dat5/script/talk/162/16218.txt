@@ -1,6 +1,8 @@
 Sakuya
 43_02
 You have a lot of free time unlike me.
-You certainly are brave to interrupt my work.\b
+You certainly are brave to interrupt my
+work.\b
 \x01
-I'll battle you. Just be sure to go home when you're satisfied.
+I'll battle you. Just be sure to go home
+when you're satisfied.
