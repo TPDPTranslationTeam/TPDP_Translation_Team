@@ -1,6 +1,6 @@
-ユキ
+Yuki
 032_05
-か 勝ったわっ！\b
+I won! I WON!\b
 \x03
-マイ 私 侵入者に勝ったわ！
-やっと私の努力が報われる日が来たのよぉ！
+Mai? Are you watching? I beat the intruder!\b
+THIS IS THE DAY OF REDEMPTION!

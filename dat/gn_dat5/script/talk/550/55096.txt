@@ -1,5 +1,5 @@
-パチュリー
+Patchouli
 42_04
-順風満帆のようね。\b
+Seems like you're on full sail.\b
 \x00
-でも それもそこまで。あなたの弱点はもう分かったわ。
+But that's it for now. Now, I know your weak point.

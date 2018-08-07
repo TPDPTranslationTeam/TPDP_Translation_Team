@@ -1,4 +1,4 @@
-エレン
+Ellen
 014
-このお人形さんって魔法で動いてるのかな～？\b
-違うのかな～？
+Are these Puppets moving with magic?\b
+Or is it something else?

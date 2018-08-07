@@ -1,4 +1,4 @@
-ミミちゃん&る～こと
+Ruukoto
 020_01
-ターゲット ロックオン。\b
-任務開始 お掃除始めます！
+Target locked.\b
+Starting mission, commencing cleaning!

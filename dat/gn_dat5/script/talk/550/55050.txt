@@ -1,5 +1,5 @@
-オレンジ
+Orange
 021
-私の名前はオレンジ！\b
+My name is Orange!\b
 \x03
-ちゃんと名前覚えておいてね。
+Please remember my name!

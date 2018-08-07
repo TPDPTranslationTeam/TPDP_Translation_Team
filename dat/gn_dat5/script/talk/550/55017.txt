@@ -1,5 +1,5 @@
-キクリ
+Kikuri
 008_00
-あなたも銅像にしてあげましょうか？\b
+Mind if I turn you into a statue?\b
 \x03
-楽しいんですよ 結構。
+It's nicer than you would think.

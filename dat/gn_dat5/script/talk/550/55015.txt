@@ -1,6 +1,6 @@
-キクリ
+Kikuri
 008_03
-はぁい 人間さん。\b
+Oh, hi human!\b
 \x01
-あら そんな豆鉄砲食らった顔しなくてもいいのに。\b
-像が動いてるだけじゃないの。
+Don't give me that sour look,\b
+I'm just a moving statue.

@@ -1,6 +1,6 @@
-ユキ
+Yuki
 032_02
-な なんで勝てないのよ～。\b
-また特訓しなきゃいけないじゃない。\b
+Why? Why couldn't I win!?\b
+I need to go back to training a lot!\b
 \x06
-・・・何よ 私に勝ったって何も出ないわよ。
+...Hey, beating me won't get you anything.

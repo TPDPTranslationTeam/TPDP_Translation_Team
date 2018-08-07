@@ -1,5 +1,5 @@
-ルーミア
+Rumia
 037
-次の相手は\pなのかー？\b
+Is \p my opponent?\b
 \x03
-今日は人形解放戦線じゃなくて 人形遣いとして勝負よ！
+This time, I'm fighting you as a Puppeteer that's not part of the Puppet Liberation Front.
