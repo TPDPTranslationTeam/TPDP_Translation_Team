@@ -1,5 +1,6 @@
 Elis
 005
-Hi, I'm Elis, the cutest girl around. Are you the next challenger?\b
+Hi, I'm Elis, the cutest girl around. Are
+you the next challenger?\b
 \x03
 Here I come!

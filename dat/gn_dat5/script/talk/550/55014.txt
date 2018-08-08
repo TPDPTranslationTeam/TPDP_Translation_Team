@@ -1,4 +1,6 @@
 Mima
 007_04
-You're not strong enough to win against my full power.\b
-I guess you still have a lot more training to do.
+You're not strong enough to win against my
+full power.\b
+I guess you still have a lot more training
+to do.

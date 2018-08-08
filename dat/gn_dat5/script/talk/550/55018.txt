@@ -1,6 +1,8 @@
 Konngara
 009
-You're \p from the stories I've heard.\b
+You're \p from the stories I've
+heard.\b
 I am Konngara.\b
 \x01
-Show me your might just like the stories say! En garde!
+Show me your might just like the stories
+say! En garde!

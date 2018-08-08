@@ -1,5 +1,6 @@
 Yumemi
 019_01
-I didn't want to battle a weak Puppeteer like you.\b
+I didn't want to battle a weak Puppeteer
+like you.\b
 \x00
 Come back again when you become stronger.

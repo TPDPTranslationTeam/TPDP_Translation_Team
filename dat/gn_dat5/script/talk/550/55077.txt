@@ -1,4 +1,5 @@
 Yumeko
 035_03
 Ah, I finally won.\b
-I wish I could have won little a bit earlier.
+I wish I could have won little a bit
+earlier.

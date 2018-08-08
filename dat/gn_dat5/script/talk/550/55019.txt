@@ -2,4 +2,5 @@ Konngara
 009
 I see, the stories were not exaggerated.\b
 \x03
-Oh, excuse me. I shouldn't have doubted the tales of your exploits.
+Oh, excuse me. I shouldn't have doubted the
+tales of your exploits.

@@ -1,5 +1,6 @@
 Daiyousei
 038_01
-Don't underestimate the full strength of a fairy!\b
+Don't underestimate the full strength of a
+fairy!\b
 \x00
 I will defeat \p this time!

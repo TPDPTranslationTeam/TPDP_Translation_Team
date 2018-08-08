@@ -1,5 +1,6 @@
 Chiyuri
 018
-My master told me gather sample data, so I joined this...\b
+My master told me gather sample data, so I
+joined this...\b
 \x03
 Yeah, you should be good enough.

@@ -1,4 +1,5 @@
 Koakuma
 041
-I'll win the tournament and I'll rise to the top.\b
+I'll win the tournament and I'll rise to the
+top.\b
 Don't impede me!

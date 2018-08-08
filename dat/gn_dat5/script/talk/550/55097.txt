@@ -1,4 +1,5 @@
 Patchouli
 42_05
-Experience beats thousands of years of knowledge.\b
+Experience beats thousands of years of
+knowledge.\b
 I think I should go out sometimes.

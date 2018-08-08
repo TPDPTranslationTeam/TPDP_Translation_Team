@@ -1,6 +1,7 @@
 Rika
 010
 I'm Rika!\b
-I'll blow you up with these Puppet-like tanks!\b
+I'll blow you up with these Puppet-like
+tanks!\b
 \x01
 I'm going!!

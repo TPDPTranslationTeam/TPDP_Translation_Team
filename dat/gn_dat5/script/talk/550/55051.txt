@@ -1,4 +1,5 @@
 Kurumi
 022_01
 I won't let you through here!\b
-Even if there's nothing to defend, it's the gatekeeper's nature!
+Even if there's nothing to defend, it's the
+gatekeeper's nature!

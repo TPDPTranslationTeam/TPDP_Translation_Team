@@ -3,6 +3,7 @@ Shingyoku
 We are Shingyoku.\b
 \x03
 Seems like you're our opponent.
-Can you stand against us, the master of duality?\b
+Can you stand against us, the master of
+duality?\b
 \x01
 Behold our power as perfect as a sphere!

@@ -3,4 +3,5 @@ Gengetsu
 Huhu, it was fun even though I lost.
 You're as strong as before.\b
 \x00
-I will have a revenge match with you sometime soon, so until then, don't die.
+I will have a revenge match with you
+sometime soon, so until then, don't die.

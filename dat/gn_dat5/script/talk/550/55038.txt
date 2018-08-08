@@ -1,4 +1,5 @@
 Rikako
 017_01
-You wouldn't make a good specimen for my research.\b
+You wouldn't make a good specimen for my
+research.\b
 You're a bit too weak.

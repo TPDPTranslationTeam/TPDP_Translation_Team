@@ -1,10 +1,12 @@
 Shinki
 036_03
 You're surprised, aren't you?\b
-I joined the tournament because I was bored.\b
+I joined the tournament because I was
+bored.\b
 \x00
 Puppets outside are cute too.\b
-I have never seen more happy scenery than in the world full of Puppets' cuteness.\b
+I have never seen more happy scenery than in
+the world full of Puppets' cuteness.\b
 \x03
 Now, human.\b
 Let me show you my cutie pie Puppets!

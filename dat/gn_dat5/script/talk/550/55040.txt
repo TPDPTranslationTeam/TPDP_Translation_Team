@@ -1,4 +1,5 @@
 Chiyuri
 018_02
 Damn, I lost...\b
-I don't wanna get scolded; I gotta run from here.
+I don't wanna get scolded; I gotta run from
+here.

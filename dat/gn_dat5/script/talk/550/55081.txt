@@ -2,4 +2,6 @@ Rumia
 037
 Is \p my opponent?\b
 \x03
-This time, I'm fighting you as a Puppeteer that's not part of the Puppet Liberation Front.
+This time, I'm fighting you as a Puppeteer
+that's not part of the Puppet Liberation
+Front.

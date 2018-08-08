@@ -2,4 +2,5 @@ Yumeko
 035
 You will exit the stage here.\b
 \x01
-Because, you will be beaten by me, right here, right now!
+Because, you will be beaten by me, right
+here, right now!

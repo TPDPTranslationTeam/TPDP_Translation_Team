@@ -1,4 +1,5 @@
 Yumeko
 035_02
-...Loyalty must be the best source of strength.\b
+...Loyalty must be the best source of
+strength.\b
 I'm still not loyal enough.

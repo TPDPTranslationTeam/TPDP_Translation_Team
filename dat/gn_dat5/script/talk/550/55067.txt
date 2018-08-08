@@ -2,4 +2,5 @@ Louise
 030_02
 You're strong...\b
 \x03
-That's what I expect from the Puppeteer who beat Lady Shinki.
+That's what I expect from the Puppeteer who
+beat Lady Shinki.

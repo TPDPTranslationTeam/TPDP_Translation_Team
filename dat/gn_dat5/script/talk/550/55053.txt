@@ -1,3 +1,4 @@
 Kurumi
 022_03
-There are many scary Youkai ahead, so go home while you can.
+There are many scary Youkai ahead, so go
+home while you can.

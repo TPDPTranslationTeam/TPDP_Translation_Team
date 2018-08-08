@@ -2,4 +2,5 @@ Mai
 033
 Oh, I didn't expect to see you here.\b
 \x01
-I lost at Makai, but I will show my true strength this time!
+I lost at Makai, but I will show my true
+strength this time!

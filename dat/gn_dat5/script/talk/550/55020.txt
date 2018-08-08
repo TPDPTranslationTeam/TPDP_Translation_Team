@@ -1,4 +1,5 @@
 Konngara
 009_02
 Hm, that's all.\b
-\cSeems like that newspaper's "Human with Youkai-like Strength!" headline was a hoax.
+\cSeems like that newspaper's "Human with
+Youkai-like Strength!" headline was a hoax.

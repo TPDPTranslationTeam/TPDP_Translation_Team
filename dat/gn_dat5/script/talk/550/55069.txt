@@ -1,7 +1,10 @@
 Yuki
 032_03
-Huhuhu, I thought I saw a familiar face in here.\b
-Your face is telling me you're thinking "this will be an easy match."\b
+Huhuhu, I thought I saw a familiar face in
+here.\b
+Your face is telling me you're thinking
+"this will be an easy match."\b
 \x01
-Too bad! I have been doing a lot of training to beat you!\b
+Too bad! I have been doing a lot of training
+to beat you!\b
 I won't let ANY intruders through anymore!

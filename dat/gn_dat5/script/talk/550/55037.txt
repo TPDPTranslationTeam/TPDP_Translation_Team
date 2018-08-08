@@ -1,4 +1,5 @@
 Rikako
 017_03
-Failure is the mother of success, as they say.\b
+Failure is the mother of success, as they
+say.\b
 I think I can improve a little bit more.
