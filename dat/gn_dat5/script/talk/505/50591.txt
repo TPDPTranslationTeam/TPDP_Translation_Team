@@ -1,4 +1,5 @@
 
 
-There's little difference between good and bad luck.\b
-Hopefully it'll be something good next time!
+There's little difference between good and
+bad luck.\b Hopefully, it'll be something good
+next time!
