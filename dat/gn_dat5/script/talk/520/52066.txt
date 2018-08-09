@@ -1,7 +1,9 @@
 Ran
 54_03
-Congratulations on your winning streak of \t!\b
-You showed that you are an excellent Puppeteer.\b
+Congratulations on your winning streak of
+\t!\b
+You showed that you are an excellent
+Puppeteer.\b
 \x00
-The Exhibition is still going on,
-so please return when you want to challenge it again.
+The Exhibition is still going on, so please
+return when you want to challenge it again.

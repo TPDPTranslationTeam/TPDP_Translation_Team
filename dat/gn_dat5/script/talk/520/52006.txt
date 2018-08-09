@@ -1,12 +1,18 @@
 Chen
 47_00
-In the Puppet Exhibition, you will test your skills as a Puppeteer!
-Try to win as many battles as you can.\b
-\cYou can't use more than one of the same Puppet if the styles are the same.
-Same thing with held items, so more than one of the same item isn't allowed.\b
-You can't use items yourself during the tournament, either.\b
-\cPuppets will have their levels decreased to 50 if greater than that.
-Lower-leveled puppets will keep their levels, though.\b
+In the Puppet Exhibition, you will test your
+skills as a Puppeteer! Try to win as many
+battles as you can.\b
+\cYou can't use more than one of the same
+Puppet if the styles are the same.\b
+Same thing with held items, so more than one
+of the same item isn't allowed.\b
+You can't use items yourself during the
+tournament, either.\b
+\cPuppets will have their levels decreased to
+50 if greater than that. Lower-leveled
+puppets will keep their levels, though.\b
 \x03
 \cIf you do really well, I'll give out gifts!
-We're preparing them as we speak, so please join soon!
+We're preparing them as we speak, so please
+join soon!

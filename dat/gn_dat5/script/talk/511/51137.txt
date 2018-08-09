@@ -1,4 +1,5 @@
 
 
-\pたちは お菓子を食べて元気になった！\b
-\c美味しかったでしょ！
+\p and \p's Puppets got
+better after eating sweets!\b
+\cIt must've been delicious!

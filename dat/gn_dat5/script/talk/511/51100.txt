@@ -1,5 +1,6 @@
-蛮奇
+Sekibanki
 117
-人間がこんなところで迷子？\b
+Humans are getting lost here?\b
 \x03
-駄目だよ 私みたいな妖怪に気をつけないと！
+That's no good. They should be more careful
+of youkai like me!

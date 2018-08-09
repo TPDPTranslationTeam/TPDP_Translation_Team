@@ -1,3 +1,4 @@
 Ran
 54_01
-Well, if you want to participate, please talk to the receptionist.
+Well, if you want to participate, please
+talk to the receptionist.

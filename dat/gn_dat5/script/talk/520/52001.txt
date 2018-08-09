@@ -1,5 +1,6 @@
 Ran
 54_00
 Welcome.\b
-\cThe entry fee for participating in the tournament is 500 yen.
-You'll have to save the record as well. Would you like to join?
+\cThe entry fee for participating in the
+tournament is 500 yen. You'll have to save
+the record as well. Would you like to join?

@@ -1,5 +1,7 @@
 
 
 Amazing job!\b
-You've achieved a winning streak of \t after your hard work!\b
-\cHere's the special prize for winning \t times in a row!
+You've achieved a winning streak of \t
+after all of your hard work!\b
+\cHere's the special prize for winning \t
+times in a row!

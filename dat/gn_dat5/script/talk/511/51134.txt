@@ -1,5 +1,6 @@
 
 
-\pたちは元気になった・・・？\b
-\cイヒヒ・・・
-ごちそうさまです・・・
+\p and \p's Puppets
+became healthy..?\b
+\cEhehe...
+Thanks for drinking it...
