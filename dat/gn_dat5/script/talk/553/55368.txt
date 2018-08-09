@@ -5,7 +5,8 @@ That's unfortunate, Mary.\b
 \oMaribel
 \j57
 Don't be so pessimistic, Renko.
-It was so great to see and battle \p.\b
+It was so great to see and battle 
+\p.\b
 \x03
 ...Also, it was really, really fun!\b
 \oRenko

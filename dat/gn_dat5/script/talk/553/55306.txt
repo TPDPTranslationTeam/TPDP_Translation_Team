@@ -1,4 +1,6 @@
 Shinmyoumaru
 122_01
-Looks like you're thinking "bigger is better!"
-Let me show you the true power of the small ones!
+Looks like you're thinking 
+"bigger is better!"\b
+Let me show you the true power of the 
+small ones!

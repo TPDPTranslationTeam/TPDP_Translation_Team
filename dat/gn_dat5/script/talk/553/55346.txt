@@ -1,6 +1,9 @@
 Akyuu
 76
-I'm sure you'd never expect this figure to be battling.\b
+I'm sure you'd never expect this figure to 
+be battling.\b
 \x01
 I shall chronicle this.\b
-The history you overcame, the present you have made, the future you will walk!
+The history you overcame, 
+the present you have made, 
+the future you will walk!

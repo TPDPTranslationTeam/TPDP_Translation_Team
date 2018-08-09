@@ -2,4 +2,5 @@ Ringo
 126
 There are so many tasty things on Earth.\b
 \x03
-Well, after I eat my fill, I'll leave some for you.
+Well, after I eat my fill, 
+I'll leave some for you.

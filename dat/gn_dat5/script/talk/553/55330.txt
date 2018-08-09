@@ -3,6 +3,8 @@ Hecatia
 Oh, long time no see.
 This is my first time doing Puppet play.\b
 \x00
-As I have nothing against you, "This is the place where we'll cross paths."\b
+As I have nothing against you, 
+"This is the place where we'll cross paths."\b
 \x03
-It is for that simple reason that I will make you admit defeat. 
+It is for that simple reason that I will 
+make you admit defeat. 

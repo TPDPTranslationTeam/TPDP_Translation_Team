@@ -1,6 +1,8 @@
 Seija
 121_01
 ...Aaagh, gross.
-Heh, don't worry; I'm not up to no good this time.\b
+Heh, don't worry; I'm not up to no good this
+time.\b
 \x04
-...Winning fair and square in a place like this? It just hurts my pride.
+...Winning fair and square in a place like 
+this? It just hurts my pride.

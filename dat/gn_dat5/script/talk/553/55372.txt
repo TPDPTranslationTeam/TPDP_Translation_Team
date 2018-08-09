@@ -1,6 +1,9 @@
 Reimu
 1_03
 Finally. I've won to you, \p.
-...Since when did I felt this satisfied after winning a fight?\b
+...Since when did I felt this satisfied 
+after winning a fight?\b
 \x00
-See you, \p. Come again to the shrine once in a while and have some tea with me.
+See you, \p. Come again to the 
+shrine once in a while and have some tea 
+with me.

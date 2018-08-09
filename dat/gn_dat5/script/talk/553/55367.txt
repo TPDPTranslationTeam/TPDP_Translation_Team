@@ -4,11 +4,13 @@ Did I see you somewhere?
 Or was it just my imagination?\b
 \oMaribel
 \j57_03
-...You came here because you were attracted by fantasies, right?\b
+...You came here because you were attracted 
+by fantasies, right?\b
 \x00
 So were we.
 We don't know if this is a dream or not.\b
-I think that's why we feel familiar around you.\b
+I think that's why we feel familiar around 
+you.\b
 \oRenko
 \j56
 Why are we here?
@@ -20,7 +22,8 @@ You were called here, right?\b
 \j57
 Our purpose is now clear.\b
 \x01
-Our victory will be proven by winning against you.\b
+Our victory will be proven by winning 
+against you.\b
 We can prove our existence in here!\b
 \x00
 ...Let's begin, Renko!\b

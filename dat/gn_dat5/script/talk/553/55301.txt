@@ -3,4 +3,5 @@ Benben
 Oh no, the music has stopped...\b
 \x01
 Hey, we're not just about obeying masters!\b
-If you don't watch out, someday you might be usurped from below.
+If you don't watch out, 
+someday you might be usurped from below.

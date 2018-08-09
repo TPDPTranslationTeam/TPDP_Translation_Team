@@ -1,6 +1,7 @@
 Hectia
 131_01
-Even if you defeat me, the second and third mes will...\b
+Even if you defeat me, 
+the second and third mes will...\b
 \x03
 Hehehe, just kidding.\b
 Let's play again in a different world. 

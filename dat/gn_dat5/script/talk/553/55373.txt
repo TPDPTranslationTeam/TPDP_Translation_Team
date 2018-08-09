@@ -2,7 +2,8 @@ Marisa
 2
 Hey, \p! Looks like you're next!\b
 \x07
-I've had such a hard time with you for so long, \p.
+I've had such a hard time with you for so 
+long, \p.
 I figured I'd get my chance to win soon.\b
 \x08
 I'll show you my full firepower!

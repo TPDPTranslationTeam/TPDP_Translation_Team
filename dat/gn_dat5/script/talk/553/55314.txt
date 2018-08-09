@@ -1,5 +1,8 @@
 Seiran
 125_03
-『This is Seiran. The first target has been purified.\b
+『This is Seiran. The first target has been 
+purified.\b
 \x02
-Hello? Do you read me? Hello? Does anyone copy?』
+Hello? Do you read me? 
+Hello? 
+Does anyone copy?』

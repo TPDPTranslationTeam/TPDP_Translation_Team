@@ -1,4 +1,5 @@
 Ringo
 126_03
-It's easy to be in a place where mistakes can be forgiven.\b
+It's easy to be in a place where mistakes 
+can be forgiven.\b
 Oops, keep my words and my loss a secret.

@@ -3,4 +3,5 @@ Yorihime
 Ah... My Puppets...\b
 \x01
 ... I-I will admit your strength.
-Don't get too full of yourself just because you beat me.
+Don't get too full of yourself just because 
+you beat me.

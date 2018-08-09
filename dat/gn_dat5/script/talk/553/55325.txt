@@ -1,6 +1,7 @@
 Clownpiece
 129_02
 Hahaha.
-Heh, you're, um, just as formidable as usual I see!\b
+Heh, you're, um, just as formidable as usual
+I see!\b
 \x03
 Well then, I must be departing now!

@@ -1,7 +1,10 @@
 Junko
 130
-It's been a while. This is the second time we've met together. It was fun before.\b
+It's been a while. This is the second time 
+we've met together. It was fun before.\b
 Now, how about we get started already!\b
 \x01
-Look carefully at those pure thoughts of victory!\b
-Then witness closely this most pristine strength!
+Look carefully at those pure thoughts of 
+victory!\b
+Then witness closely this most pristine 
+strength!

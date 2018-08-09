@@ -1,5 +1,7 @@
 Benben
 119_01
-Let's begin the improvised live concert by us tools and Puppets!\b
+Let's begin the improvised live concert by 
+us tools and Puppets!\b
 \x03
-I can't ensure you will still be able to stand against us!
+I can't ensure you will still be able to 
+stand against us!

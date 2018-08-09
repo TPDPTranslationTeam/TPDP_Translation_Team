@@ -1,6 +1,7 @@
 Kosuzu
 114
 I-I won! I beat \p!\b
-I wonder if it's okay for me to express this.\b
+I wonder if it's okay for me to express 
+this.\b
 \x03
 ... Hehe, I'm so overjoyed!

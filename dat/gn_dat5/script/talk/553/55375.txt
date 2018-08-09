@@ -3,7 +3,8 @@ Marisa
 Ha... Hahah! I finally won to \p!\b
 \x07ÅB
 That was close.
-I'm good at pulling off my best when it's needed.
+I'm good at pulling off my best when it's 
+needed.\b
 Let's play again sometime!\b
 \x03
 I'm always ready for a rematch.

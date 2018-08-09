@@ -3,6 +3,7 @@ Clownpiece
 Y-You are....\b
 \x00
 N-No, I'm not getting intimidated at all!\b
-My Ultimate Madness Power! You're gonna have a taste of it once more!\b
+My Ultimate Madness Power! 
+You're gonna have a taste of it once more!\b
 \x01
 IT'S LUNATIC TIME!

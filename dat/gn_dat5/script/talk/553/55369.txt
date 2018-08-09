@@ -2,7 +2,8 @@ Renko
 56_03
 You're unfortunate.\b
 \x00
-...Could we prove something by winning against you?\b
+...Could we prove something by winning 
+against you?\b
 \oMaribel
 \j57
 ...I don't know.

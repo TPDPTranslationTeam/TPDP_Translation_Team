@@ -3,5 +3,7 @@ Reimu
 ...I still can't win.
 Ah, you're really tough, \p.\b
 \x03
-As I said before, I don't like to keep losing. Let's play again sometime.
-Come to the shrine once in a while and have some tea.
+As I said before, I don't like to keep 
+losing. Let's play again sometime.\b
+Come to the shrine once in a while 
+and have some tea.

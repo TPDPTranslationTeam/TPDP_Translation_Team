@@ -1,6 +1,7 @@
 Raiko
 123
-Uh-huhô? I'm feeling some good beats from you!\b
+Uh-huhô? I'm feeling some good beats from 
+you!\b
 Yeah, let's have a jam session right now!\b
 \x03
 Now, humans, youkai, and Puppets!

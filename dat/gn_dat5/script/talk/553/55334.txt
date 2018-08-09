@@ -1,5 +1,6 @@
 Kasen
 106_05
-Sheesh, the lack of discipline among these humans and youkai is a spectacle.\b
+Sheesh, the lack of discipline among these 
+humans and youkai is a spectacle.\b
 \x01
 Sit down. I'll start by giving you a sermon!
