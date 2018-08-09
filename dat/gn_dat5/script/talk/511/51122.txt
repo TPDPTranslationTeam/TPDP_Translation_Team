@@ -2,5 +2,4 @@ Hatate
 105_02
 I've been defeated...\b
 \x01
-But a biased newspaper wouldn't say anything
-about that.
+But a biased newspaper wouldn't even report a detail like that.
