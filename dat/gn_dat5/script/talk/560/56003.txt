@@ -1,15 +1,25 @@
 
 
-On the way to that mountain, the Puppet Liberation Front returned. I beat them up and got a boat.\b
-Then it was back to climbing the mountain. Thanks to the boat, I could ignore the stairs.\b
-\cThe Hakurei Shrine Maiden found me again. The only thing that I learned is that Salvo is disgusting.\b
-I got this weird map with eyes all over it in a destroyed village.\b
-\cSince there was nothing else to be learned about the incident, I'll just move on.
-I hate retracing my steps, but I might have to do that.\b
+On the way to that mountain, the Puppet
+Liberation Front returned. I beat them up
+and got a boat.\b
+\cThen it was back to climbing the mountain.
+Thanks to the boat, I could ignore the stairs.\b
+\cThe Hakurei Shrine Maiden found me again.
+The only thing that I learned is that Salvo
+is disgusting.\b
+\cI got this weird map with eyes all over it
+in a destroyed village.\b
+\cSince there was nothing else to be learned
+about the incident, I'll just move on.\b
+\cI hate retracing my steps, but I might have
+to do that.\b
 \oKosuzu
 \s114_01
 The Puppet Liberation Front...?\b
 \x00
-This has to have been written quite recently, then.\b
+This has to have been written quite recently
+then.\b
 \x05
-But why would they bother using all of these books to write only this in...?
+But why would they bother using all of these
+books to write only this in...?

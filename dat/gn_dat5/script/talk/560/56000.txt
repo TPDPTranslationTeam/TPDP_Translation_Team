@@ -2,11 +2,17 @@
 
 Apparently I've entered Gensokyo somehow.\b
 \cI also can't go home. That's just great.
-Not until I resolve this "Puppet" incident, that is.\b
-\cI've been told to go over to the Human Village. Seems like that's the only way to begin.\b
+Not until I resolve this "Puppet" incident,
+that is.\b
+\cI've been told to go over to the Human
+Village. Seems like that's the only way to
+begin.\b
 \oKosuzu
 \s114_01
 This seems to be someone's diary.\b
-Seeing how a similar event's mentioned in it, I think it could be related to the Puppet incident.\b
+Seeing how a similar event's mentioned in
+it, I think it could be related to the
+Puppet incident.\b
 \x05
-Even then, how does entering Gensokyo like they did work?
+Even then, how does entering Gensokyo like
+they did work?

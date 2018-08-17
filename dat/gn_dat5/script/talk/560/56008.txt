@@ -1,11 +1,18 @@
 
 
-When I woke up, I was at the Hakurei Shrine again.\b
-I was knocked out for what seemed like forever, but the Shrine Maiden looked after me.\b
-\cThe Puppets actually seem to be disappearing... I resolved the incident!
-The barrier hasn't re-opened yet, but I'll be able to return soon.\b
-\cThat's great, but... the Puppets kinda grew on me through this whole thing.\b
-Maybe I should play with them a bit more... I don't want them to be lonely, too.\b
+When I woke up, I was at the Hakurei Shrine
+again.\b
+\cI was knocked out for what seemed like
+forever, but the Shrine Maiden looked after
+me.\b
+\cThe Puppets actually seem to be
+disappearing... I resolved the incident!\b
+\cThe barrier hasn't re-opened yet, but I'll
+be able to return soon.\b
+\cThat's great and all, but... the Puppets
+kinda grew on me through this whole thing.\b
+\cMaybe I should play with them a bit more...
+I don't want them to be lonely too.\b
 \oKosuzu
 \s114_05
 Seems like the story is about to end.
