@@ -1,5 +1,6 @@
-さとり
+Satori
 94_01
-本当の敵は自分だ なんて思ってはいけませんよ。\b
+Don't think that you are your own enemy.\b
 \x00
-最後まで本当に味方なのは 自分だけなんですから。
+You are the one true ally that would never
+betray yourself.

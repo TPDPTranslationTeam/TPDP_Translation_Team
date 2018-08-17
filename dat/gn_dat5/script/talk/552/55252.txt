@@ -1,9 +1,11 @@
-白蓮
+Byakuren
 103
-お久しぶりです。
-旅を進める上で 考えはまとまりましたか？\b
+Long time, no see. Did you sum up your
+opinion about your adventure?\b
 \x03
-・・・ふふっ それは人形で語ろうって顔ですね。\b
+...Its seems like you will show it through
+your Puppets.\b
 \x01
-相も変わらず人は美しい。誠に聡明で 日進月歩である！\b
-いざ 南無三っ！
+Humans are beautiful, as usual. How
+knowledgeable and progressive you are! Now,
+Namusan!

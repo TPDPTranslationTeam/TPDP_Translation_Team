@@ -1,6 +1,8 @@
-ぬえ
+Nue
 104
-次に誰が来るのか怖いかい？誰がどの人形使うか分からなくて怖いかい？\b
-でももうそんな正体不明に怯えなくていいよ。\b
+Are you scared who will come next, or what
+Puppet they will use?\b
+But you don't need to be scared of the
+unknown anymore.\b
 \x03
-\cお前はここで終わりだからな！
+\cBecause It's over for you right now!

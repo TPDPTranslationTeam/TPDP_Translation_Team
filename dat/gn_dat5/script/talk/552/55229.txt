@@ -1,8 +1,8 @@
-燐
+Rin
 95
-ははは 冗談だよ。\b
+Haha, I'm kidding.\b
 \x01
-でも残念だねぇ。
-あんたならあたいの良いコレクションに・・・\b
+But how unfortunate. You could've made an
+excellent addition to my collection...\b
 \x03
-あはは 冗談だってば。
+Ahaha, just kidding.

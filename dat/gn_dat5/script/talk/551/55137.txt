@@ -1,6 +1,6 @@
-紫
+Yukari
 55_02
-・・・流石に疲れていたようですね。\b
+... No wonder. You were tired.\b
 \x01
-戻りなさい \p。
-今のあなたを この先に行かせることはできないわ。
+Go back and rest for now, \p.
+I can't let you continue on like this.

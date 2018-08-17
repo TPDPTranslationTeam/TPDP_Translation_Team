@@ -1,4 +1,4 @@
-レミリア
+Remilia
 044_03
-か 勝った。\pに勝ったわ！\b
-やっと私の運命通りになったのね！
+I-I won! I beat \p!\b
+Finally, the destiny I foresaw came true!

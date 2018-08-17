@@ -1,6 +1,11 @@
-天子
+Tenshi
 89_01
-ただの仲良しこよしじゃ 使う者も仕える者も二流。\b
+Being friends with your Puppets will make
+them second-rate.\b
 \x03
-でも \pの人形を見る限り杞人憂天だったようね。
-良い退屈しのぎだったわ。
+But as far as I see, that doesn't really
+apply to you.\b
+Just like that old Chinese story about a man
+worrying over the sky, perhaps I too was
+worried over nothing.\b
+That was good for killing time.

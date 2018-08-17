@@ -1,6 +1,7 @@
-映姫
+Eiki
 75_02
-向こう見ずな自分の脆さを 理解しましたか。\b
+Now you understand your weakness, which
+stems from your recklessness.\b
 \x00
-あなたは人であるのです。
-人として 人らしく生きなさい。
+You are a human. Therefore, you must behave
+like a human.

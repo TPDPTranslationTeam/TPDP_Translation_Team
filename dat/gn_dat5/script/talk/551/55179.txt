@@ -1,6 +1,6 @@
-小町
+Komachi
 74_02
-おっと ここで終わりかい？\b
+Oops... Did I end it too early?\b
 \x00
-それなら酒でも呑もうじゃないか。
-いいさ 今日はオフだし。
+Oh well, let's continue drinking sake. It's
+fine, it's my day off today.

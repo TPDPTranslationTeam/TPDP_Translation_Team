@@ -1,8 +1,9 @@
-映姫
+Eiki
 75_01
-・・・\p ですね。異変での活躍は聞いているわ。\b
+... You're \p, right? I heard you
+solved the Puppet incident.\b
 \x02
-外の人間がなんて無茶をするのです。\b
-きっと負ける相手が居ないから 止まれないのでしょう。\b
+You're too reckless for an outside human.\b
+You couldn't stop because you couldn't lose.\b
 \x01
-ならば 今ここで 私が断罪してあげましょう！
+Now, I will judge you here!

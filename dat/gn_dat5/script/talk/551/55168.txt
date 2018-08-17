@@ -1,6 +1,9 @@
-メディスン
+Medicine
 72
-\pと戦うのも 何度目かしらね。\b
-今日は解放戦線の為ではなく 一人の人形遣いとして戦うわっ。\b
+How many times have I battled you,
+\p?\b
+Today, I challenge you not in the name of
+the Puppet Liberation Front, but as a fellow
+Puppeteer.\b
 \x08
-\p！本気でかかってきなさい！
+\p! Show me what you've got!

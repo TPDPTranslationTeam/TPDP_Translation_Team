@@ -1,5 +1,6 @@
-鈴仙
+Reisen
 064
-誰かと思ったら\pさん！\b
+Oh, it's you, \p!\b
 \x01
-前は敗北してしまいましたが 地上の兎は一度負けたって もう一度跳べるんですよ！
+I may have lost to you before, but I'll show
+you that this Earth rabbit can jump again!

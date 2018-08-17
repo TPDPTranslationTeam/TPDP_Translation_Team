@@ -1,5 +1,6 @@
-ˆß‹è
+Iku
 88_03
-‚³‚Ÿ ‚¨–ß‚è‚­‚¾‚³‚¢B\b
+Now go back.\b
 \x01
-—´‹{‚Ìg‚¢‚Ì’‰‚Í –³‹‚·‚é‚à‚Ì‚Å‚Í‚ ‚è‚Ü‚¹‚ñ‚æB
+You should not ignore the advice of the
+emissary of the Dragon Palace.

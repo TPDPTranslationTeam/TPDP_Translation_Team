@@ -1,5 +1,7 @@
-パルスィ
+Parsee
 92
-あぁ 妬ましい。あなたに怨みなんかないわ。\b
 \x03
-だから あなたを倒す理由なんて嫉妬だけで十分なの。
+Ah, I'm so jealous.\b
+\x03
+It's nothing personal. I just need to beat
+you out of envy.

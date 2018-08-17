@@ -1,6 +1,6 @@
 Akyuu
 76
 Okay...\b
-\c\pPlease come to me again if you
-change your mind.\b
+\cPlease come to me again if you
+change your mind, \p.\b
 I'll do whatever I can to help you.

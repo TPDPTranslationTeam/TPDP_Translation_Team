@@ -1,8 +1,10 @@
-空
+Utsuho
 96_01
-あなた どっかで見たような・・・？\b
-・・・。\b
+Have I seen you before...?\b
+... ...\b
 \x03
-うん 覚えてないわ！\b
+Yeah, I don't remember you!\b
 \x00
-\cさぁ 幽霊も妖精も覚えてないあなたも 私と一緒にフュージョンしましょ？
+\cNow phantoms, fairies, you, the person who I
+don't remember, everyone, won't you fuse with
+me?

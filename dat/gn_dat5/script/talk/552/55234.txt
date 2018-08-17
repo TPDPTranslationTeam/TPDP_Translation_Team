@@ -1,5 +1,6 @@
-こいし
+Koishi
 97
-あなたは勝っても負けても私の事は覚えてないの。\b
+Win or lose, you won't remember me.\b
 \x01
-だから いつまでも忘れられない戦いを遺伝子まで刻み込んであげるわ！
+So I'll engrave this unforgettable match
+forever in your genes!

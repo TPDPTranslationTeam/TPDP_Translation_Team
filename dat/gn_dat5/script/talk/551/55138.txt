@@ -1,6 +1,6 @@
-萃香
+Suika
 068_03
-おっと人間かい？\b
+Oh, a human?\b
 \x00
-言っておくけど私は容赦しないよ。
-鬼は嘘が嫌いなんだ。
+Just to let you know, I won't give you any
+mercy. Oni never lie.

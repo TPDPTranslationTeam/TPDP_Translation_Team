@@ -1,5 +1,5 @@
-メルラン
+Merlin
 050_03
-あなたが次のお客さんね！\b
+You'll be my next audience!\b
 \x00
-さー私の演奏を聴いてハッピーになりましょ！
+Let's have fun together with my performance!

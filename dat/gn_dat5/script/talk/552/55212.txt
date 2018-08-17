@@ -1,6 +1,7 @@
-天子
+Tenshi
 89
-勝負はいつだって運否天賦。
-運だって操れるくらいじゃないとね。\b
+Battles are always a matter of luck. You
+must become strong in order to control your
+luck.\b
 \x03
-精進するといいわよ。
+You need to train more.

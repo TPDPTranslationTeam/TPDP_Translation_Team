@@ -1,6 +1,6 @@
-リグル
+Wriggle
 060
-次は\pね。\b
+You're next, \p.\b
 \x01
-今回こそ私が勝つわ！\b
-いつも負けてばっかじゃつまらないもの！
+I will win this time!\b
+It's not fun to keep losing every time!

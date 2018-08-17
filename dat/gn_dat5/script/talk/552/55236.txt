@@ -1,5 +1,5 @@
-こいし
+Koishi
 97
-もしもーし 私メリーさん。\b
+Hello? My name's Mary... and right now...\b
 \x03
-今あなたに勝っちゃったの。
+I'VE WON AGAINST YOU!

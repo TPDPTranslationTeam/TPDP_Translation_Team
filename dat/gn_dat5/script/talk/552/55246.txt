@@ -1,5 +1,7 @@
-ムラサ
+Murasa
 101
-宜候！負けっぱなしは船長として納得いきませんね！\b
+Anchors aweigh! I can't consent to losing as
+a captain!\b
 \x01
-さぁ 大船のつもりでいるその船を 沈めてあげましょう！
+Now I'll sink your pride, just as if you
+were aboard a great ship!

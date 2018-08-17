@@ -1,5 +1,7 @@
-藍
+Ran
 54
-ん？運営が参加しないと思ったかい？\b
+What? Did you think the Tournament Organizer
+wouldn't join in?\b
 \x03
-残念ね そんな軽薄な考えは負けの原因となるよ！
+Too bad! Flippant thoughts like that will
+lead to your loss!

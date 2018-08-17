@@ -1,8 +1,10 @@
-レミリア
+Remilia
 044_02
-・・・。\b
+......\b
 \x01
-うん 流石\pね。
-運命に抗うその力 私の見込んだ通り。\b
+Fine! I recognize you as the winner,
+\p. You have some power to resist
+destiny, I see.\b
 \x04
-さ もう少しよ。頑張りなさいね。
+There's only a little more to go. Do your
+best.

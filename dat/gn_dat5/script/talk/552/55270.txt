@@ -1,7 +1,8 @@
-屠自古
+Tojiko
 110_02
-やれやれ またお前とやることになるとはね。\b
+Oh, seems like I'm battling with you again.\b
 \x00
-太子様もご覧になっているであろう。\b
+Our Crown Prince must be watching us.\b
 \x01
-せっかくだから本気でやってやんよ！
+Since you've came this far, I'll go all out
+on you! Get a load of this!

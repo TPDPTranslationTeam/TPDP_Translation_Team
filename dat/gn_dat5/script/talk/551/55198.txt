@@ -1,8 +1,10 @@
-早苗
+Sanae
 85
-\pさんではないですか！やっぱり参加されていたんですね！\b
+Oh, it's you! I knew you'd be here!\b
 \x06
-今日こそは負けませんからね！では 始めましょうか！\b
+I won't lose this time! Let's battle!\b
 \x07
-・・・ゴホン。よくここまで来ましたね！\b
-次の相手は奇跡の人形遣いこと この東風谷早苗がお相手致しましょう！
+... A-Ahem excuse me. Um- So, you're finally
+here!\b
+Your next opponent is me, Sanae Kochiya, the
+Miraculous Puppeteer!

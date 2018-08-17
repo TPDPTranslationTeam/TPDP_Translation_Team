@@ -1,13 +1,19 @@
-紫
+Yukari
 55_03
-ここまで来たのね \p。舞闘会はどうかしら？\b
+Finally, you've come this far, \p.
+How's the tournament?\b
 \x00
-目的に囚われず 誰が為にと強いられることも無い。\b
-純粋に 人形と触れ合い 人形と楽しみ 人形と共に闘う。\b
+No one's actions are dictated by intention,
+nor are they forced to be by someone.\b
+Communing, laughing, and battling with
+Puppets together without any kind of
+fetters.\b
 \x03
-この幻想のような光景 \pは楽しんでくれたかしら。\b
+Did you come to enjoy the scenery, that
+is so much like a fantasy?\b
 \x00
-・・・ふふっ そうね。
-ここで 多くの言葉は無用でしたわ。\b
+... mmm. Yes.
+There's no point in exchanging words here.\b
 \x01
-始めましょう 美しく 残酷で 幻想的な闘いを！
+Let us begin the beautiful, cruel, and
+fantastical battle!

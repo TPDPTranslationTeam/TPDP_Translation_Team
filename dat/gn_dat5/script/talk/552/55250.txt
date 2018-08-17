@@ -1,4 +1,5 @@
-星
+Shou
 102_05
-あ あれ 私の宝塔知りませんか？\b
-これではまた怒られてしまいます・・・！
+Uh, have you seen my pagoda?\b
+If I can't find it, I'll get scolded
+again...!

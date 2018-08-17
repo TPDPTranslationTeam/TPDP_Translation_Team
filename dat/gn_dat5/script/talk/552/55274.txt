@@ -1,6 +1,10 @@
-布都
+Futo
 111_02
-な なんと・・・これ程までに腕をあげておったとは。\b
+Agh... I had not predicted thee to condition
+thine Puppets to such levels greater than
+our first encounter.\b
 \x05
-うむ 此度のお主の冒険は これ以上に無いぐらい経験となったようだな。\b
-そのまま精進するがいいっ！
+Thine adventure hast been a good experience,
+far surpassing anything mine eyes hath ever
+beheld.\b
+Continue thy training for our next meeting!

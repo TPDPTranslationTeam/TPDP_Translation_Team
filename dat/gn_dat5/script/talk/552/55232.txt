@@ -1,6 +1,6 @@
-空
+Utsuho
 96_02
-あれー？出力足りなかったのかなぁ。\b
+Oh? Was my energy output not enough?\b
 \x03
-うーん まぁいっか。
-じゃーねー 覚えてないあなた！
+Well, whatever. Bye, person I don't
+remember!

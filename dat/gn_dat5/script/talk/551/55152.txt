@@ -1,5 +1,7 @@
-てゐ
+Tewi
 063
-まずこの幸せになる壺を買います。\b
+First, buy this pot. This pot will grant you
+eternal happiness.\b
 \x02
-・・・お金がない？話にならないね。
+... Not enough money? This conversation is
+going nowhere.

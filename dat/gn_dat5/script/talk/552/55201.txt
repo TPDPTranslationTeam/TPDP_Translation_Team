@@ -1,6 +1,8 @@
-神奈子
+Kanako
 86_01
-我は山の神 八坂神奈子であるぞ！\b
+Behold, Kanako Yasaka, the goddess of the
+mountain!\b
 \x00
-・・・って\pか。\b
-信仰集めるために参加してるのさ。邪魔するなら容赦ないよ。
+... Oh, it's \p.\b
+I entered this to gather more faith. If you
+plan to interfere, I'll show you no mercy.

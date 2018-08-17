@@ -1,5 +1,6 @@
-アリス
+Alice
 031_01
-人形バトルはブレインよ。\b
+Puppet battling is all about brains.\b
 \x00
-本家人形使いの戦略 たっぷりと味わいなさい。
+Taste the strategy of the OG puppeteer if
+you dare.

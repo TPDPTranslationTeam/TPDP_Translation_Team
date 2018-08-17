@@ -1,8 +1,10 @@
-にとり
+Nitori
 83_03
-やぁ\p。君も祭りで浮かれたカモ相手に商売かい？\b
+Hey \p, you saw this tournament as
+a business opportunity too, right?\b
 \x02
-・・・なんだ 違うのか。\b
+... Oh, no?\b
 \x00
-まぁ何にせよ儲けるにはここで勝たないとね。\b
-ぎったんぎたんにしてやろう！
+Either way, I must win this to make more
+money.\b
+Come on, I'll break you down!

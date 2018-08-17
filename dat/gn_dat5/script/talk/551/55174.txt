@@ -1,6 +1,7 @@
-文
+Aya
 73
-毎度お馴染み射命丸です！\b
+This is your Shameimaru's!
 \x03
-突然ですがここで号外！
-『\p まさかの敗退！破ったのは清く正しい記者！』
+Breaking news:\b
+"\p's unexected loss by the Pure and Honest
+Reporter!"

@@ -1,5 +1,6 @@
-妖夢
+Youmu
 052_04
-次の修行相手はあなたね！\b
+You're next for my training!\b
 \x01
-私が鍛えたこの人形 負ける事なんてあんまり無い！
+The opponents that cannot be fainted by my
+Puppet, trained by me... are next to none!

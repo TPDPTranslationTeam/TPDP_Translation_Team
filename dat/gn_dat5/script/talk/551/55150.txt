@@ -1,8 +1,8 @@
-てゐ
+Tewi
 063
-あら いつぞやの人間ね。
-あなたに良い話があるんだけど？\b
+Hey, I've seen you somewhere before.
+I've got something juicy to tell you.\b
 \x04
-何かって？\b
+Wanna know what it is?\b
 \x03
-負けてくれたら教えてあげるわ。
+I'll tell you if you lose.

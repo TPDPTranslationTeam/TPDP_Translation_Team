@@ -1,4 +1,6 @@
-慧音
+Keine
 062
-やぁ\p。一度 君とは戦ってみたかったんだ。\b
-お手柔らかに頼むぞ。
+Oh hello, \p. I've always wanted
+to battle you.\b
+\s062_04
+Please, go easy on me.

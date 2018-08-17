@@ -1,5 +1,7 @@
-ナズーリン
+Nazrin
 98
-ネズミだと思って甘く見ない事だね。\b
+Don't take me lightly because I'm a mouse.\b
 \x01
-窮鼠猫噛むではない 窮鼠は猫をも倒すことが出来るのさ！
+"A cornered mouse bites the cat", as they
+say, but not only that, they can even beat
+the cat!
