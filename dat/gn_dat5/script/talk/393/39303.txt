@@ -1,9 +1,9 @@
-幻月
+Gengetsu
 27_00
-さ 早速戦いましょ。\b
-そのために来たんでしょ？\b
-\o幻月
+Hey, let's battle.\b
+That's what you came for, right?\b
+\oGengetsu
 \s965_00
-私たちの力をたっぷりと味わわせてあげるわ。\b
-\o夢月
-存分に楽しみなさい！
+Taste our power as much as you want.\b
+\oMugetsu
+Have fun!

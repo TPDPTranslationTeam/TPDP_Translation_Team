@@ -1,9 +1,11 @@
-夢月
+Mugetsu
 26_01
-結局は気づかれてしまったみたいね。\b
+It seems that in the end, you still caught
+us.\b
 \x00
-でも 姉さんは嬉しそう。\b
-\o幻月
+But Gengetsu looks so happy.\b
+\oGengetsu
 \j27_03
-あったり前よ！\b
-この異変だって 私たちが手を出さなければ 起きなかったんだもの。
+Of course!\b
+The incident never would have happened if we
+didn't start it.

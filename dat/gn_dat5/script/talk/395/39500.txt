@@ -1,8 +1,8 @@
-ドレミー
+Doremy
 127_00
-あら また来たのね。\b
-\c迷夢は覚めましたか？\b
-それともまだ迷ってるのかな。\b
+Oh, you're back.\b
+\cDid you escape from your labyrinth of
+confusion,\b or have you still lost your way?\b
 \x03
-\cいずれにせよ ここに来たということは
-預かりものを返さないといけませんね。
+\cIn any case, since you're here, I will
+return what I kept for you.

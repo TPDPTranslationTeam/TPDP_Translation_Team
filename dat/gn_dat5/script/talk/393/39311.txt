@@ -1,10 +1,12 @@
-夢月
+Mugetsu
 26_00
-そもそも 魔界の魔力が途切れた時点で
-いずれ人形は力を失うことが 決まっているもの。\b
-\o幻月
+The Puppets were eventually supposed to lose
+their power anyway since they no longer hold
+Makai's magic.\b
+\oGengetsu
 \j27_00
-すぐに とはいかないけどね。\b
+It may take a while though.\b
 \x03
-人形が力を失うまで 幻想を楽しめばいいんじゃないかしら？\b
-何事も楽しまなきゃ損なのよ。
+Enjoy your fantasy, until the Puppets lose
+their power.\b
+Enjoy it all while you still can.
