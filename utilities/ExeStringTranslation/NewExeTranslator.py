@@ -47,7 +47,7 @@ illegalFirstChars = [i for i in range(0xF0, 0xFF)]
 illegalFirstChars.append(0x80)
 illegalFirstChars.append(0xA0)
 
-validOpcodes = [ 0x68, 0xBE, 0xBF ] # 0x68 = push, 0xBE = mov esi, 0xBF = mov edi,
+validOpcodes = [ 0x68, 0xBE, 0xBF, 0xB8 ] # 0x68 = push, 0xBE = mov esi, 0xBF = mov edi,
 
 ###############################################
 # Name: extractMachine()

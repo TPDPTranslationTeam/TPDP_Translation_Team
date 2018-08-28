@@ -3476,7 +3476,7 @@ Offset,,English,Tested ingame?
 4448912,パッド%d ボタン%d,Pad   %d Button%d,
 4448932,キャンセルする場合は[Esc]を押してください。,Press [Esc] to cancel any changes.,
 4449164,？？？,???,
-4449172,%s 種類,%s-type,
+4449172,%s 種類,%s Caught,
 4449180,ＣＯＳＴ:    %6s,,Similar to numbers below. If this isn't fullwidth it is broken as all hell. ~Dabomstew 2018-08-25
 4449200,東方キャラでは 誰が好き？,What's your favorite Touhou character?,
 4449232,人形を選択してください。Xで人形/装飾品を切り替えます。,Select a Puppet. (X to toggle),
