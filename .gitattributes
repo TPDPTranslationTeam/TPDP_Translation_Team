@@ -1,1 +1,2 @@
-* eol=crlf
+*.txt eol=crlf
+*.csv eol=crlf
