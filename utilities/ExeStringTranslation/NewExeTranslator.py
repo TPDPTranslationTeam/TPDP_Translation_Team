@@ -138,6 +138,7 @@ def insertMachine(exeBin):
             #if there is something in the translation table
             if (len(tableEng[index]) > 0):
                 # direct mode?
+                tableEng[index] = tableEng[index].replace("<BLANK>", "")
                 if debugOffsets:
                     tableEng[index] = "[DIRECT]%05X" % (tableAddr[index] & 0xFFFFF) if tableEng[index].startswith("[DIRECT]") else "%05X" % (tableAddr[index] & 0xFFFFF)
                 if tableEng[index].startswith("[DIRECT]"):
