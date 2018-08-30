@@ -48,6 +48,7 @@ illegalFirstChars.append(0x80)
 illegalFirstChars.append(0xA0)
 
 validOpcodes = [ 0x68, 0xBE, 0xBF, 0xB8 ] # 0x68 = push, 0xBE = mov esi, 0xBF = mov edi,
+debugOffsets = False
 
 ###############################################
 # Name: extractMachine()
@@ -137,6 +138,8 @@ def insertMachine(exeBin):
             #if there is something in the translation table
             if (len(tableEng[index]) > 0):
                 # direct mode?
+                if debugOffsets:
+                    tableEng[index] = "[DIRECT]%05X" % (tableAddr[index] & 0xFFFFF) if tableEng[index].startswith("[DIRECT]") else "%05X" % (tableAddr[index] & 0xFFFFF)
                 if tableEng[index].startswith("[DIRECT]"):
                     tableEng[index] = tableEng[index][8:]
                     # write the new string directly over the old one
