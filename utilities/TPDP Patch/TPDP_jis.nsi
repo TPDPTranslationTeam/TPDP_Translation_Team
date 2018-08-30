@@ -16,11 +16,11 @@
 !define GameName "TPDP Shard of Dreams"
 !define JPGameName "Gensou Ningyou Enbu Yume no Kakera"
 !define GameVersion "1.103"
-!define PatcherName "${GameName} Interface Translation R2"
+!define PatcherName "${GameName} Translation R1"
 ;Name of the application (appears in the title bar)
 Name "${PatcherName}"
 ;Name of the patcher
-OutFile "YNK_Interface_Patch_R2.exe"
+OutFile "YNK_Translation_Patch_R1.exe"
 
 ;-----------------------------------------------------------------------------
 ;Configurations
