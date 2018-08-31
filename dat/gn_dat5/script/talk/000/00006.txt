@@ -1,4 +1,5 @@
 
 
 *\tを使って しばらくの間 野良人形と出会いにくくなった！
-Use \t to attract Wild Puppets temporarily!
+Used \t to repel Wild Puppets
+temporarily!
