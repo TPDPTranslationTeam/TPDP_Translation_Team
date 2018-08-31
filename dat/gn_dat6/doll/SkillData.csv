@@ -726,7 +726,7 @@
 725,Guard Swap,0,Switches the user's changes to FoDef and SpDef with the foe's.
 726,Guard Split,0,Averages the user's FoDef and SpDef with the foe's.
 727,Pretense,0,Changes the user's type to the type of the first Skill they know.
-728,Doppleganger,0,Changes the user's type to the foe's type.
+728,Doppelganger,0,Changes the user's type to the foe's type.
 729,Imagination,0,Switches the user's FoAtk and FoDef.
 730,Honest Man's Lie,0,Moves the user's status ailment to the foe.
 731,Possession,0,Changes the user's Ability to the foe's Ability.
