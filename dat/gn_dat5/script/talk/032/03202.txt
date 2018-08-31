@@ -9,6 +9,5 @@ It's do or die in this place.\b
 \x02
 In any case, don't get in my way.\b
 I don't care about what you do otherwise.\b
-
 \x00
 ...Bye.
