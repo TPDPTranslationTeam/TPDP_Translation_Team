@@ -1,5 +1,6 @@
 Flan's Diary
 
 Big Sis' cake went missing.
-Five days ago, she saved it and suddenly it went missing.\b
+Five days ago, she saved it and suddenly it
+went missing.\b
 I bet I'll get a reward if I find the culprit!

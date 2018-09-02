@@ -4,4 +4,7 @@ Oh, you were able to come back?\b
 \x02
 Ah, you want a reward?\b
 \x05
-Yes, well, you were Flan's opponent, but that means I was also helping you, so the most I am willing to give is my moderate respect.
+Yes, well, you were Flan's opponent, but
+that means I was also helping you,\b so the
+most I am willing to give is my moderate
+respect.

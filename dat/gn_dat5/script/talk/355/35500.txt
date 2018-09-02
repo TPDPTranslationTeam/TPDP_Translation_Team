@@ -4,8 +4,8 @@ You came, you came! \b
 You came back, and I'm so happy! \b
 \cThe game I prepared was fun, right? \b
 \x03
-Everyone helped and were in such high spirits. \b
-There's no way it wasn't fun! \b
+Everyone helped and were in such high
+spirits.\b There's no way it wasn't fun!\b
 \x05
 Well then, shall we continue? \b
 \x07

@@ -1,6 +1,8 @@
 Remilia
 44
 Oh, you've come again.\b
-By the way, it seems Flan was wanting to play with you again. \b
+By the way, it seems Flan was wanting to
+play with you again. \b
 \x03
-So, go ahead and be her opponent if you'd like.
+So, go ahead and be her opponent if you'd
+like.

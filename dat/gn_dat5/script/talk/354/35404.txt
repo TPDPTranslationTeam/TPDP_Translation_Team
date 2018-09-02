@@ -1,5 +1,6 @@
 Flan's Diary
 
 Today, I ate a super delicious cake!
-It was left in the kitchen, so it was my piece, right?\b
+It was left in the kitchen, so it was my
+piece, right?\b
 ...Was it okay that I ate all of it?

@@ -1,7 +1,8 @@
 Remilia
 44_05
 You finally came! \b
-Hey, Flan, this human here will be satisfactory, right?
+Hey, Flan, this human here will be
+satisfactory, right?
 \oFlandre
 \s45
 Ehh, big sis!\b

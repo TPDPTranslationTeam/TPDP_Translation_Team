@@ -2,6 +2,7 @@ Flandre
 45_03
 I lost agaaain!\b
 \x00
-If it's just playing with dolls, I won't hurt you, \p.\b
-\cI will definitely be here,
-so come play again!
+If it's just playing with dolls, I won't
+hurt you, \p.\b
+\cI will definitely be here, so come play
+again!

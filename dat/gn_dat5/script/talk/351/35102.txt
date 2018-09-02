@@ -2,4 +2,5 @@ Koakuma
 41
 You came to be her opponent, right?\b
 \x03
-I do pity you...It's not safe for a human being.
+I do pity you...It's not safe for a human
+being.

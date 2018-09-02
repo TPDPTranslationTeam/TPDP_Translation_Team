@@ -1,5 +1,5 @@
 Flan's Diary
 
-Today, everyone in the mansion promised to play with me!
-Only one person came.\b
+Today, everyone in the mansion promised to
+play with me! Only one person came.\b
 ...Everyone else is a liar.

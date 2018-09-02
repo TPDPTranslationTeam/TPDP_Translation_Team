@@ -2,4 +2,5 @@ Patchouli
 42
 They asked you to be the sister's opponent? \b
 \x03
-You're always causing more trouble than it's worth for yourself.
+You're always causing more trouble than it's
+worth for yourself.

@@ -1,13 +1,17 @@
 Remilia
 44
 Ha...just like Flan said,
-that child has grown to have an interest in you as a Puppet user.\b
+that child has grown to have an interest in
+you as a Puppet user.\b
 \x03
-Therefore, would you mind being Flan's opponent?\b
+Therefore, would you mind being Flan's 
+opponent?\b
 \x05
-Yes, yes, I know, the basement had been locked.\b
-I will unlock it for you.\b
+Yes, yes, I know, the basement had been
+locked.\b I will unlock it for you.\b
 \x00
 First, allow me to say this:\b
 \x03
-Being that child's opponent will be very difficult, but if it's you, \p, I think you'll be alright.\b..probably.
+Being that child's opponent will be very
+difficult, but if it's you, \p, I
+think you'll be alright.\b..probably.
