@@ -7,7 +7,7 @@ Marisa is already gone too...\b
 haven't been yet.\b You might discover
 something new!\b
 \x06
-Of course, don't forget to visit Moriya
-Shrine!\b
+Of course, don't forget to visit the
+Moriya Shrine!\b
 \x03
 Well, I better get going!

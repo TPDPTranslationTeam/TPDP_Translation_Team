@@ -3,5 +3,5 @@ Suika
 Ah, such great weather! I slept too much
 though.\b
 \x00
-I just woke up but wont you have a battle
+I just woke up, but won't you have a battle
 with me?\b Well, are you ready?

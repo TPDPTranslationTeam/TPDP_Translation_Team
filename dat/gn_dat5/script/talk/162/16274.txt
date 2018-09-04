@@ -1,7 +1,7 @@
 Yukari
 55
 Welcome, \p.
-It seems you went to the demonic realm.\b
+It seems you went to Makai.\b
 \x01
 I was watching it all.\b
 Afterall, it won't do to get rid of all the
