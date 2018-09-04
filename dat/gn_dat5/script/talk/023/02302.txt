@@ -1,7 +1,7 @@
 Sanae
 85_03
 You can use these to "seal" a wild Puppet.
-It'll join you afteryou defeat it if it
+It'll join you after you defeat it if it
 is "sealed"!\b
 \x00
 Let me read the manual for you.\b

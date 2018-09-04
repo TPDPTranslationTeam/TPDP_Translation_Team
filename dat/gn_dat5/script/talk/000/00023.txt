@@ -1,27 +1,21 @@
 Hina
 82_04
-
 A human? It's quite rare to see your kind
 hanging around here.\b
 Did you lose your way?\b
 \x03
-
 So you're \p,\b
 who is traveling all over Gensokyo\b
 to find clues about the Puppet Incident.\b
 \x
-
 Well then,\b
 I can break the seals of Puppets for you.\b
 \x02
-
 They will no longer be with you once you
 break their seals.\b
 \x00
-
 If you really wish to break them,
 you can come to me.\b
-
 \x01
 However, just because I can,
 doesn't mean I'm glad to do so.
