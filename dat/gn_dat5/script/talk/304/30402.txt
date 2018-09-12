@@ -5,6 +5,6 @@ lose this badly. \b
 \x00
 You showed me your power, so there's nothing
 that can be done. \b
-I'll hand over the youma book.
+I'll hand over the youma book.\b
 \x03
 ...I didn't say I wouldn't hand it over.

@@ -2,18 +2,17 @@ Rinnosuke
 58_03
 I've got it!\b
 I'll give you this latest model bicycle!\b
-Surely it'll be helpful on your adventure.\b
+Surely, it'll be helpful on your adventure.\b
 \x04
 ... Well, I'd also like you to run an errand
 for me too.\b
 \x00
-In the forest up ahead there's a girl named
+In the forest up ahead, there's a girl named
 Alice who wants a package delivered.\b
 \x06
-It did take some time to get the right
-repairs done on the bike,\b
-but you should be able to get there in no
-time.\b
+It will take some time to get the right
+repairs done on the bike,\b but they should be
+finished by the time you get back.\b
 \x00
 Also...\b
 \x03

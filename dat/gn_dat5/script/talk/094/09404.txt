@@ -7,9 +7,8 @@ Then, to make matters worse, they went off
 to the Tengu Village to cause trouble.\b
 \x02
 Hrm, well, I'm gonna have to ask for your 
-help with this,\b 
-but do you mind getting my optical 
-camouflage back?\b
+help with this,\b but do you mind getting my
+optical camouflage back?\b
 \cIt's a big problem that my kappa tech is 
 being used for mischief in the Tengu 
 Village.\b

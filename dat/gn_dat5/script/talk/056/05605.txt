@@ -5,4 +5,4 @@ creativity.\b
 \x05
 I can come up with a better name.\b
 \x00
-How about..?
+How 'bout it?

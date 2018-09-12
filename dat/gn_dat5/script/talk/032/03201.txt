@@ -8,7 +8,7 @@ Yeah.\b
 You're going outside the village. Didn't
 Sanae tell you that the outside is
 dangerous?\b
-\c ...Seriously, are you going to take on
+\c...Seriously, are you going to take on
 the Puppet incident?\b
 \c
 \x05
@@ -17,4 +17,4 @@ Solving incidents isn't an amateur job.\b
 Don't get in my way.\b
 \x07
 If you do, I'll fight you.\b
-Go ahead. I'm gonna beat you up.\b
+Go ahead. I'm gonna beat you up.

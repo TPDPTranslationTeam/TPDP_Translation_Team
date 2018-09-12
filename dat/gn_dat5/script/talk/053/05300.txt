@@ -9,4 +9,4 @@ So you're suspecting me, aren't you?\b
 \x01
 Sadly, that formula is different from mine.\b
 Even if it was mine, I don't have any
-obligation to tell you.\b
+obligation to tell you.

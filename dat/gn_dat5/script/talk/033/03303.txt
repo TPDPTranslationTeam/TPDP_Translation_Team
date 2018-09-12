@@ -3,4 +3,4 @@ Rinnosuke
 Alice's residence is on the west side of the
 forest.\b
 Before you go, do you have everything in
-order?\b
+order?

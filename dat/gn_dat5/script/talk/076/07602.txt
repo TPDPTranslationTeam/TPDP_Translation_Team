@@ -6,7 +6,7 @@ didn't expect you to get THIS strong.\b
 \x00
 By the way, where are you going now?\b
 \x05
-Scarlet Devil Mansion?\b\b
+Scarlet Devil Mansion?\b
 I see, Alice told you to go there...\b
 \x07
 Well, I'd better get going too.\b

@@ -18,4 +18,5 @@ Such a source can be here or there.\b
 from a world outside of Gensokyo... yes.\b
 \x00
 That is as much as I will tell you.\b
-Everything else is left up to you.\b Mr. Master of the Outsider World.
+Everything else is left up to you,\b Mr.
+Master of the Outsider World.

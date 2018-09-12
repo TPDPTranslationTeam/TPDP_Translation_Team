@@ -6,7 +6,7 @@ I need you to search for the Peach Hairpin,
 the Dog Flute, the Monkey Seat, and the 
 Hochodo Book.\b
 \x02
-èAs for the locations... I'm not sure.
+As for the locations... I'm not sure.
 They are scattered around Gensokyo.\b
 \x00
 It's probably a lot of trouble to find them,

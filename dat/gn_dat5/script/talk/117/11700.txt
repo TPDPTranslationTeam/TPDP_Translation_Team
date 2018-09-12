@@ -1,6 +1,6 @@
 Reimu
 001
-You're finally here.
+You're finally here.\b
 \x02
 You took so long, I got tired of waiting.\b
 \x07

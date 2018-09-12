@@ -20,4 +20,4 @@ You must be really tired after coming all
 the way out here, right?\b
 \x03
 Since you'll be heading back on the same
-road, you should rest here for a little bit.\b
+road, you should rest here for a little bit.

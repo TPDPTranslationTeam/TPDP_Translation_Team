@@ -1,6 +1,6 @@
 
 
 I got a Puppet earlier this year and it's
-making farming easy!
+making farming easy!\b
 \c...but it's not going that well, it keeps
 damaging the crops.

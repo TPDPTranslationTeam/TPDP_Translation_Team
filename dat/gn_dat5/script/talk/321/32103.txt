@@ -5,7 +5,7 @@ here...\b
 \oLuna Child
 \s70_04
 W-Wait Star!
-They'll see you!
+They'll see you!\b
 \oSunny Milk
 \j69_04
 They can see you too though Luna...\b
@@ -22,8 +22,8 @@ Eh? Return the thing we stole?\b
 No way! We worked really hard to get that!\b
 \oSunny Milk
 \s69_01
-Maybe if you hadn't have come you wouldn't
+Maybe if you hadn't have come, you wouldn't
 be able to see us right now!\b
-It was fun so don't get in our way!\b
+It was fun, so don't get in our way!\b
 \x03
 We're gonna make you pay for this!

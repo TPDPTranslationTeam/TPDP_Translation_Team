@@ -1,5 +1,6 @@
 Remilia
 44
 \d.
-That's a great name, don't you think?\b
-\cReading your fate, you'll probably say...
+It's an okay name, but it could be better,
+don't you think?\b
+\cReading your fate, it's name should be...

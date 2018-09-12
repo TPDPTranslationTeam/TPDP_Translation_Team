@@ -7,4 +7,4 @@ lesson?\b
 Your greed says so.\b
 \s944
 Well, is this youma book your purpose for
-coming here, I wonder?\b
+coming here, I wonder?

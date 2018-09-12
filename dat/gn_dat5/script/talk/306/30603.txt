@@ -9,6 +9,6 @@ journey.\b
 When you head west from the human village,
 eventually you'll come upon the Forest of 
 Magic.\b
-In front of that, is Kourndou.\b
+In front of that, is Kourindou.\b
 \x03
 Please be careful on your travels.

@@ -1,7 +1,8 @@
 Medicine
 072_03
-Oh? I wonder where that 
-spirit you once had went?\b
+Oh? I wonder where that spirit you once had
+went?\b
 \oReimu
 \j001_08
-Oh jeez! All of these fairies are so annoying!
+Oh jeez! All of these fairies are so
+annoying!

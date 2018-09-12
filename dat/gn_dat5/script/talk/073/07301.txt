@@ -4,7 +4,7 @@ Well then, I'll go tell Master
 about your arrival.\b
 \x01
 Now Tewi, will you properly 
-show this human around?
+show this human around?\b
 \oTewi
 \j63
 Fiiine. I got it.

@@ -34,7 +34,8 @@ happening over there.\b
 While we're at it, let's take this with us!\b
 \x03
 The optical camouflage we have makes us 
-unbeatable, so the tengu are no match for us!\b
+unbeatable, so the tengu are no match for
+us!\b
 \oSunny Milk
 \j69_02
 ...Yeah, it's no surprise that we could 

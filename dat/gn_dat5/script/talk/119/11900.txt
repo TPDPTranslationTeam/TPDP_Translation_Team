@@ -11,4 +11,5 @@ They hate being treated like tools.\b
 \x02
 I understand the those painful feelings.\b
 \x05
-That's why I must liberate these Puppets from humans!!
+That's why I must liberate these Puppets
+from humans!!
