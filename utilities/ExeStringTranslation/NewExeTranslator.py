@@ -177,7 +177,11 @@ def insertMachine(exeBin):
                             log.write("ERR: unknown opcode before pointer %02X (offset = %X / %X)" % (opcode, seekAddr-1, seekAddr-1-0x400+0x401000))
                         else:
                             exeBin[seekAddr:seekAddr+4] = makePointer(newAddr + EN_OFFSET)
-                    log.write("Performed the write successfully\n")
+                        if opcode == 0xB8 and exeBin[seekAddr-3] == 0x6A and exeBin[seekAddr-2] == len(tableJpn[index].encode('shift-jis')):
+                            # string length push found
+                            log.write("WARN: string length push found for pointer at %02X" % (seekAddr-1))
+                            exeBin[seekAddr-2] = len(outStr)
+                    log.write("Performed the write successfully (pointers %s)\n" % (",".join("%X" % offset for offset in searchResults)))
                     #update the write count
                     writeCount += 1
                 #missing translation
