@@ -8,6 +8,5 @@ Um... I'm sorry for causing trouble.\b
 Apparently I was rampant.\b
 I'm going back to the Bamboo Forest now.\b
 \x03
-If you have anything else 
-for me, come by anytime.\b
-I want to have a rematch with you.
+If you have anything else for me, come by
+anytime.\b I want to have a rematch with you.

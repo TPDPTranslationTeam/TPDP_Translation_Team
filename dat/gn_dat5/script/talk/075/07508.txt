@@ -2,12 +2,11 @@ Eirin
 65
 You are...\b
 Oh, you are about to go on a journey.\b
-You're going to the 
-Scarlet Devil Mansion, right?\b
+You're going to the Scarlet Devil Mansion,
+right?\b
 \x03
-I'll tell a rabbit to guide 
-you through the forest.\b
-She'll be waiting outside 
-if you need directions.\b
+I'll tell a rabbit to guide you through the
+forest.\b She'll be waiting outside if you
+need directions.\b
 \x00
 Take care.
