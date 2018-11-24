@@ -3,6 +3,6 @@ Shou
 I heard the story from Hijiri.\b
 She asked me to test your skill.\b
 \x01
-I, an avatar of 
-Bishamonten, will challenge you.\b
-Bring it on, let's battle fair and square.
+I, an avatar of Bishamonten, will challenge
+you.\b Bring it on, let's battle fair and
+square.

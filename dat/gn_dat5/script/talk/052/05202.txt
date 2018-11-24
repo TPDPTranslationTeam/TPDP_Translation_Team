@@ -1,6 +1,6 @@
 Meiling
 40_02
-O-Oh, a vistor.\b
+O-Oh, a visitor.\b
 What a relief.\b
 \x00
 Ahem.\b

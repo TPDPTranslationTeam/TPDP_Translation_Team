@@ -2,7 +2,8 @@ Junko
 130_03
 Great job.\b
 \x00
-You've brought Clownpiece back safe and sound.\b
+You've brought Clownpiece back safe and
+sound.\b
 \x03
 I must say though, I find these Puppets 
 very interesting.\b

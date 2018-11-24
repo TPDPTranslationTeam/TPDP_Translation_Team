@@ -1,6 +1,6 @@
 Akyuu
 76_04
-I see; the Liberation Front was taken over.\b
+I see, the Liberation Front was taken over.\b
 \x00
 I heard they're quitting pranks. I was
 relieved.\b

@@ -6,6 +6,6 @@ I love Puppets too!\b
 You would've had to defeat all the fairies 
 in the tower to get here, so you must be 
 really strong then!\b
-\03
+\x03
 Kyahaha! Play with me then!\b
 Cry and crumble beneath my strength!

@@ -3,7 +3,7 @@ Kurumi
 Nice to meet you. I'm Kurumi, the
 gatekeeper.\b
 \x00
-I'm sorry, I can't let through here.\b
+I'm sorry, I can't you let through here.\b
 \x01
 If you do try to go through anyway, no mercy
 for you!

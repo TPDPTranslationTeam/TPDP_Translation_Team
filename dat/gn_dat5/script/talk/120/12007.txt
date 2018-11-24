@@ -1,13 +1,14 @@
 Akyuu
 076
-So the Puppet 
-Liberation Front has been disbanded.\b
+So the Puppet Liberation Front has been
+disbanded.\b
 \x01
-However for Yuuka to be involved in this...\b
+However, for Yuuka to be involved in this...\b
 \x04
 Huh? A world other than Gensokyo?\b
 \x01
-There's that world the 
-buddhist monk was sealed in before...\b
+There's that world the buddhist monk was
+sealed in before...\b
 \x02
-I don't really know the details unfortunately...
+I don't really know the details
+unfortunately...

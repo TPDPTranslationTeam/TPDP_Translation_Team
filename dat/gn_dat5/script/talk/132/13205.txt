@@ -2,7 +2,7 @@ Murasa
 101_01
 I didn't expect you to be this strong.\b
 \x00
-What? Why am I, 
-a captain, in a temple like this?\b
+What? Why am I, a captain, in a temple like
+this?\b
 \x03
 ...Well, it's a long story.

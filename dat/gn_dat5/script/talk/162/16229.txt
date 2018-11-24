@@ -1,9 +1,9 @@
 Yuuka
 25
 Oh, it hasn't been that long now, has it?
-Perhaps you knew I would return here?
+Perhaps you knew I would return here?\b
 \x05
-As expected of the all-seeing Master.
+As expected of the all-seeing Master.\b
 \x03
 Hey, wanna have a battle?
 You're free, aren't you?

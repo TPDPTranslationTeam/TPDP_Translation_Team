@@ -3,7 +3,7 @@ Seiga
 Oh, splendid. Quite the amazing Puppeteer,
 aren't you. \b
 \x01
-Are you the new desciple? \b
+Are you the new disciple? \b
 If so, it was meaningless to stop you.\b
 \x03
 Please do as you like.ô

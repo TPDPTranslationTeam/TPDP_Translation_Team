@@ -3,7 +3,7 @@ Yumeko
 So a human finally managed to arrive here...\b
 I'm honestly surprised.\b
 \x01
-Puppet?\b
+Puppets?\b
 You have something important to speak with
 me about?\b
 You don't have any kind of obligations,

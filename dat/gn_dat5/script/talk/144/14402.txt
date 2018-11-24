@@ -1,5 +1,5 @@
 Mai
 33_04
-Where are you going?
+Where are you going?\b
 \x02
 Eh? What do you mean you didn't see me?

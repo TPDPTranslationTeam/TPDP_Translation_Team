@@ -4,6 +4,6 @@ This is a scroll I came across before.\b
 I feel some kind of mysterious power 
 from it. Maybe you can read it.\b
 \x01
-Well, that's all I have to say\b
+Well, that's all I have to say.\b
 \x03
 Kindly, see yourself out.

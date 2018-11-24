@@ -1,6 +1,6 @@
 Elly
 023_02
-I couldn't help it; I couldn't help it!\b
+I couldn't help it, I couldn't help it!\b
 I'm not used to Puppet battles!\b
 \x01
 I won't lose next time!

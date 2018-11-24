@@ -1,11 +1,11 @@
 Remilia
 44_03
-Huhu, that was an exciting battle.\b
+Huhu, now, it's time for the main event.\b
 \x00
-You and your Puppets are fine now.\b
-You should stop by more often.\b
+You and your Puppets are fine now, so I'm
+gonna keep you around for just a bit longer.\b
 \x04
-It's always fun to battle you.\b
+It seems like it'll be fun to battle you.\b
 \x05
-Anyway, feel free to stick around if you
-want... or don't.
+Whether or not you want to, you will be my
+opponent.

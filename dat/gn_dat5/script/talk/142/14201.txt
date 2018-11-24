@@ -1,6 +1,6 @@
 Sara
 29_02
-Why is always like this?\b
+Why is it always like this?\b
 \x01
 Don't look at me with those pitying eyes!\b
 Come on, just go through already.

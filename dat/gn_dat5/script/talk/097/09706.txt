@@ -1,6 +1,6 @@
 
 
-Old-looking leaflets are falling.\b
+An old-looking leaflet is on the ground.\b
 \c       Ancient Relics 'Fantasy Ruins'\b
              Opening today at 10\b
 \c"For those who visit the ruins, I'll give 

@@ -6,4 +6,4 @@ Huh?\b
 My lady is flower-viewing.\b
 \x01
 I didn't want any unwanted guests to
-interupt while she enjoys herself.
+interrupt while she enjoys herself.

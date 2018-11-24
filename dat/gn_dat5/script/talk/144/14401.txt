@@ -4,7 +4,7 @@ Mai
 What, do you think I'm weak or something?\b
 \x04
 A human shouldn't use that much power.
-Did I go too easy on them?
+Did I go too easy on them?\b
 \x01
 ...Hey, you won already so stop looking at
 me and leave!

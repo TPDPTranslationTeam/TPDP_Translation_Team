@@ -4,7 +4,7 @@ Oh, good morning!\b
 \x01
 Don't mumble! Speak loudly and clearly; 
 otherwise, no one's gonna wanna talk to you!\b
-Giving a proper greeting 
-is the foundation to a proper friendship!\b
+Giving a proper greeting is the foundation
+to a proper friendship!\b
 \x00
-I'll fix that boring attitude of your's!
+I'll fix that boring attitude of yours!

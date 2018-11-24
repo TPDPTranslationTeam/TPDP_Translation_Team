@@ -1,7 +1,7 @@
 Reimu
 001_04
-Huh. \p, you look have some time to
-spare.\b
+Huh, \p, you look like you have
+nothing better to do.\b
 \x00
 Though it might not be a good time, how
 about a quick match?\b

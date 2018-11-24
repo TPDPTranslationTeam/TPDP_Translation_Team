@@ -1,6 +1,6 @@
 Nue
 104
-Usually I wouldn't show up 
-before a human, but this is a special case.\b
+Usually, I wouldn't show up before a human,
+but this is a special case.\b
 \x03
 Fear the unknown!!
