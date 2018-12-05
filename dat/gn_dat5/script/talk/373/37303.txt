@@ -1,7 +1,7 @@
 Medicine
 72_04
 ...Next we will search for the Inverted
-Castle!
+Castle!\b
 \oCirno
 \j39_03
 Ah! Then I know about it!\b

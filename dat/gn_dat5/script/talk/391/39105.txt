@@ -1,6 +1,6 @@
 Elly
 023_03
-What did you bring here?\b
+What brings you here?\b
 \x00
 Me? I'm the guardian here, Elly.\b
 \cAnd you are...\b

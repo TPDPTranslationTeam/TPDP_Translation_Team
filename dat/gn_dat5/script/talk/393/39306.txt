@@ -3,4 +3,5 @@ Mugetsu
 ...Say goodbye to the boring reality.\b
 \oGengetsu
 \j27_00
-And remain eternally in a never-ending dream.
+And remain eternally in a never-ending
+dream.
